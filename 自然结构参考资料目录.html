@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="color-scheme" content="light"><title>自然结构参考资料 · 绘画用</title><link rel="stylesheet" href="绘画参考资源/目录样式.css"><link rel="stylesheet" href="绘画参考资源/地图筛选.css"></head>
+<body data-module="nature">
+<button type="button" class="toc-btn" id="tocBtn" title="展开目录索引" aria-controls="toc" aria-expanded="false">目录索引</button>
+<a class="skip-link" href="#referenceContent">跳到资料内容</a>
+<button type="button" id="tocOverlay" class="toc-overlay" aria-label="关闭目录" hidden></button>
+<nav class="toc" id="toc" aria-label="绘画资料目录"><div class="toc-head"><b>目录索引</b><button type="button" id="tocClose">收起 ‹</button></div><div id="tocBody"></div></nav>
+<main class="wrap" id="main"><header><div class="breadcrumb" id="breadcrumb"></div><h1 id="pageTitle">自然结构参考资料</h1><p class="sub" id="headerMeta"></p></header>
+<div class="toolbar"><div class="search-row"><input id="q" type="search" aria-label="搜索绘画参考资料" placeholder="搜索题材、地区或年代…" autocomplete="off"><button type="button" id="clearFilters" disabled>清空筛选</button></div>
+<div class="tool-actions"><div class="view-buttons" role="group" aria-label="浏览方式"><span class="flabel">视图</span><button type="button" data-view="detail" aria-pressed="true">详细</button><button type="button" data-view="compact" aria-pressed="false">简洁</button></div><button type="button" id="favoritesOnly" aria-pressed="false">★ 仅看收藏 <span id="favoriteCount">0</span></button><button type="button" id="exportFavorites" disabled>导出收藏</button></div>
+<div class="filter-mode-tabs" role="group" aria-label="筛选入口"><button type="button" data-filter-mode="map" aria-pressed="true" aria-controls="mapPanel">地图筛选</button><button type="button" data-filter-mode="text" aria-pressed="false" aria-controls="moreFilters">文字筛选</button><span class="mode-hint">两种方式各自记住条件</span></div>
+<details class="more-filters" id="moreFilters"><summary>筛选：资料／分类／地区／年代／例图 <span id="activeFilterCount"></span></summary><div class="facet-grid"><label>资料<select id="readingLevel" aria-label="选择专题或单件资料"><option value="topics">中文专题考据</option><option value="examples">实物与来源</option><option value="all">全部资料</option></select></label><label id="moduleFilterLabel">模块<select id="moduleFilter" aria-label="按模块筛选"></select></label><label>分类<select id="categoryFilter" aria-label="按子类筛选"></select></label><label>例图<select id="imageFilter" aria-label="按例图筛选"><option value="all">全部</option><option value="yes">有例图</option><option value="no">无例图</option></select></label><label data-organization>地区<select id="regionFilter" aria-label="按大区筛选"></select></label><label data-organization>国家／地区<select id="countryFilter" aria-label="按国家或历史地区筛选"></select></label><label data-organization>时代<select id="eraFilter" aria-label="按时代筛选"></select></label><label data-organization>年代顺序<select id="dateOrder" aria-label="选择年代顺序"><option value="asc">从早到晚</option><option value="desc">从晚到早</option></select></label></div></details>
+<p class="filter-summary" id="filterSummary"></p><div class="result-row" id="resultCount" role="status" aria-live="polite" aria-atomic="true"></div><p class="user-status" id="userStatus" role="status" aria-live="polite"></p></div>
+<div class="map-panel" id="mapPanel" aria-label="地图与年代筛选"></div>
+<noscript><p class="startup-error">请在浏览器中启用 JavaScript，以使用搜索、目录和收藏。<a href="服装参考资料目录.html">现有服装资料目录</a></p></noscript>
+<p class="startup-error" id="startupError" hidden>资料脚本未加载。移动页面时，请将「绘画参考资源」文件夹一起保留。</p>
+<div id="modules"></div><div id="referenceContent" tabindex="-1"><h2 class="section-title" id="listHeading">参考资料</h2><div id="list"></div><div class="empty" id="empty" hidden><b>没有找到匹配资料</b><button type="button" id="emptyReset">清空筛选</button></div></div>
+<footer><a href="绘画参考资料首页.html">总首页</a> · <a href="服装参考资料目录.html">服装资料目录</a></footer></main>
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-labelledby="lbCap" aria-hidden="true">
+  <button type="button" class="lb-x" id="lbX" aria-label="关闭大图" title="关闭（Esc）">&times;</button>
+  <div class="lb-frame">
+    <img id="lbImg" alt="" referrerpolicy="no-referrer">
+    <div class="lb-cap" id="lbCap"></div>
+    <div class="lb-nav"><button type="button" id="lbPrev" aria-label="上一张图片">← 上一张</button><span id="lbIndex"></span><button type="button" id="lbNext" aria-label="下一张图片">下一张 →</button></div><p class="lb-hint">方向键切换 · 手机左右滑动 · Esc 关闭</p>
+    <div class="lb-status" id="lbStatus" role="status" aria-live="polite"></div>
+    <div class="lb-actions"><a id="lbOriginal" target="_blank" rel="noopener noreferrer">打开原图 ↗</a><a id="lbSource" target="_blank" rel="noopener noreferrer">查看资料来源 ↗</a></div>
+  </div>
+</div>
+<script src="绘画参考资源/资料数据.js" onerror="document.getElementById('startupError').hidden=false"></script><script src="绘画参考资源/扩充资料.js" onerror="document.getElementById('startupError').hidden=false"></script><script src="绘画参考资源/专题考据.js" onerror="document.getElementById('startupError').hidden=false"></script><script src="绘画参考资源/地区年代数据.js" onerror="document.getElementById('startupError').hidden=false"></script><script src="绘画参考资源/地区年代.js" onerror="document.getElementById('startupError').hidden=false"></script><script src="绘画参考资源/世界地图数据.js"></script><script src="绘画参考资源/世界地图区域.js"></script><script src="绘画参考资源/地图筛选规则.js"></script><script src="绘画参考资源/地图资料适配.js"></script><script src="绘画参考资源/地图筛选.js"></script><script src="绘画参考资源/目录交互.js" onerror="document.getElementById('startupError').hidden=false"></script>
+</body></html>
