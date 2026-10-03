@@ -16762,5 +16762,1815 @@
       ],
       "examples": []
     }
+  },
+  {
+    "id": "topic-west4-no-1905-rooms",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "1900—1905年挪威中产住宅：接待、家务与佣人空间",
+    "region": "挪威",
+    "period": "1900—1905年；奥斯陆中产住家",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+    "content": "以文化史博物馆的住宅研究比较接待区、私生活区和佣人房的分工，并观察旧式房间组织怎样与新装修理想并存。",
+    "use": "先区分客人能进入的房间和家务路线，再选家具；佣人房不要按主人卧室配置。",
+    "caution": "家庭成员为博物馆虚构，陈设结合研究和原建筑构件；不是实际住户逐件复原。",
+    "find": "1900—1905年挪威中产住宅：接待、家务与佣人空间 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "挪威",
+      "era": "1900—1905年；奥斯陆中产住家",
+      "start": 1900,
+      "end": 1905,
+      "dateLabel": "1900—1905年；奥斯陆中产住家",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "家庭成员为博物馆虚构，陈设结合研究和原建筑构件；不是实际住户逐件复原。",
+        "范围为奥斯陆特定中产住家类型，不代表全挪威或农村。"
+      ],
+      "evidence": [
+        {
+          "url": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+          "locator": "Leiligheten、Stua、Spisestua、Kjøkkenet、Pikeværelset；明确虚构住户与一般来源研究。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-no_1905-2.jpg",
+        "full": "绘画参考资源/例图/west4-no_1905-2.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMKJk5?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+        "caption": "1905年研究陈设的日常客厅：煤油灯、桌椅与墙面织物；现代复原照。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 845,
+        "height": 1200
+      },
+      {
+        "src": "绘画参考资源/例图/west4-no_1905-3.jpg",
+        "full": "绘画参考资源/例图/west4-no_1905-3.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMLK2z?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+        "caption": "同一研究陈设的餐厅，观察餐桌、沿墙椅和餐边柜；现代复原照。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1200,
+        "height": 766
+      },
+      {
+        "src": "绘画参考资源/例图/west4-no_1905-4.jpg",
+        "full": "绘画参考资源/例图/west4-no_1905-4.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMLK7S?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+        "caption": "复原厨房的烧木柴炉和独立煤油炉；家具及装修分期核对。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1200,
+        "height": 797
+      },
+      {
+        "src": "绘画参考资源/例图/west4-no_1905-5.jpg",
+        "full": "绘画参考资源/例图/west4-no_1905-5.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMLK7T?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+        "caption": "1905年研究陈设的佣人房：床、洗漱架与小桌；现代复原照。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 940,
+        "height": 1200
+      }
+    ],
+    "topic": {
+      "scope": "以文化史博物馆的住宅研究比较接待区、私生活区和佣人房的分工，并观察旧式房间组织怎样与新装修理想并存。",
+      "common": [
+        {
+          "title": "朝街房间用于接待",
+          "text": "两间起居室朝街，卧室、厨房和佣人房朝院，中间以走廊分开。",
+          "refs": [
+            "no_1905"
+          ]
+        },
+        {
+          "title": "客厅承担多种任务",
+          "text": "阅读、钢琴、缝纫和会客同室；更富裕家庭才可能分出更多专用客厅。",
+          "refs": [
+            "no_1905"
+          ]
+        },
+        {
+          "title": "新旧并存",
+          "text": "较浅色装修和新炉具进入旧房间，照明仍用煤油灯；不等于整屋已经电气化。",
+          "refs": [
+            "no_1905"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "接待与日常客厅",
+          "feature": "家庭活动和客人交往兼用。",
+          "refs": [
+            "no_1905"
+          ]
+        },
+        {
+          "name": "餐厅",
+          "feature": "桌椅、餐边柜和备餐桌组织进餐与接待。",
+          "refs": [
+            "no_1905"
+          ]
+        },
+        {
+          "name": "厨房及佣人小室",
+          "feature": "佣人房从厨房进入，面积与家具较少。",
+          "refs": [
+            "no_1905"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "住房改革理想改变色彩与陈设，但既有格局、收入和家务分工限制全面改造。",
+          "refs": [
+            "no_1905"
+          ]
+        }
+      ],
+      "limits": [
+        "家庭成员为博物馆虚构，陈设结合研究和原建筑构件；不是实际住户逐件复原。",
+        "范围为奥斯陆特定中产住家类型，不代表全挪威或农村。"
+      ],
+      "drawing": "先区分客人能进入的房间和家务路线，再选家具；佣人房不要按主人卧室配置。",
+      "sources": [
+        {
+          "id": "no_1905",
+          "title": "挪威文化史博物馆 · 1905年家居研究",
+          "url": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+          "locator": "Leiligheten、Stua、Spisestua、Kjøkkenet、Pikeværelset；明确虚构住户与一般来源研究。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-no-working-home",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "约1950年奥斯陆工人家庭：日夜兼用家具与正式好房间",
+    "region": "挪威",
+    "period": "约1950年；20世纪中叶",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home",
+    "content": "整理馆方明确指出的工人家庭常见居住习惯：起居室夜间睡眠，另保留较少使用的正式房间；Gunda Eriksen家是有记录的例证。",
+    "use": "分别画白天起居和夜间铺床；正式餐厅可保留较早的二手家具。",
+    "caution": "实际住户住在奥斯陆另一处；这里用相同大小户型复原，不能误标为Wessels gate原住家。",
+    "find": "约1950年奥斯陆工人家庭：日夜兼用家具与正式好房间 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "挪威",
+      "era": "约1950年；20世纪中叶",
+      "start": 1945,
+      "end": 1955,
+      "dateLabel": "约1950年；20世纪中叶",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "实际住户住在奥斯陆另一处；这里用相同大小户型复原，不能误标为Wessels gate原住家。",
+        "这是馆方指出的类型特征与确证例子，不代表所有工人家庭。"
+      ],
+      "evidence": [
+        {
+          "url": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home",
+          "locator": "A Working Class Home；1957年征集、完整拍照；日夜转换与best room为典型习惯。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-no_1950-0.webp",
+        "full": "绘画参考资源/例图/west4-no_1950-0.webp",
+        "original": "https://ems.dimu.org/image/032wb126kqkD?dimension=1000x1000",
+        "source": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home",
+        "caption": "Gunda Eriksen餐厅的博物馆复原照；实际家居约1950年，家具1924年二手购入。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1000,
+        "height": 813
+      }
+    ],
+    "topic": {
+      "scope": "整理馆方明确指出的工人家庭常见居住习惯：起居室夜间睡眠，另保留较少使用的正式房间；Gunda Eriksen家是有记录的例证。",
+      "common": [
+        {
+          "title": "起居与睡眠兼用",
+          "text": "日间起居室夜间改为卧室，床与沙发功能相连。",
+          "refs": [
+            "no_1950"
+          ]
+        },
+        {
+          "title": "好房间留待正式场合",
+          "text": "餐厅较少使用，家庭并不把所有房间平均用于每日活动。",
+          "refs": [
+            "no_1950"
+          ]
+        },
+        {
+          "title": "旧家具继续使用",
+          "text": "正式餐厅家具1924年购入时已是二手；1950年室内不能只画当年新款。",
+          "refs": [
+            "no_1950"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "日常兼用家具",
+          "feature": "铁床配床垫和绣花靠垫，可作为日间坐卧处。",
+          "refs": [
+            "no_1950"
+          ]
+        },
+        {
+          "name": "较正式的餐厅套件",
+          "feature": "橡木新文艺复兴式家具承担体面接待。",
+          "refs": [
+            "no_1950"
+          ]
+        },
+        {
+          "name": "两室一厨的功能安排",
+          "feature": "房间数量有限，用途随场合和时段改变。",
+          "refs": [
+            "no_1950"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "有限住房与正式接待习惯共同形成日夜转换及保留好房间的安排；此解释结合馆方所述类型。",
+          "refs": [
+            "no_1950"
+          ]
+        }
+      ],
+      "limits": [
+        "实际住户住在奥斯陆另一处；这里用相同大小户型复原，不能误标为Wessels gate原住家。",
+        "这是馆方指出的类型特征与确证例子，不代表所有工人家庭。"
+      ],
+      "drawing": "分别画白天起居和夜间铺床；正式餐厅可保留较早的二手家具。",
+      "sources": [
+        {
+          "id": "no_1950",
+          "title": "挪威文化史博物馆 · 清洁女工的家",
+          "url": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home",
+          "locator": "A Working Class Home；1957年征集、完整拍照；日夜转换与best room为典型习惯。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-dk-modern-street",
+    "module": "architecture",
+    "category": "houses",
+    "name": "1900—1927年丹麦城市街区：店铺、电话与交通服务",
+    "region": "丹麦",
+    "period": "1900—1927年；1927街区重点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+    "content": "按馆方对丹麦城市现代化的说明整理街面设施和营业职能，比较零售、交通服务及通信设施怎样出现在同一街区。",
+    "use": "先决定人物要买东西、修车还是打电话，再安排营业空间和街面标识。",
+    "caution": "照片为Den Gamle By现代复原及演示，并非1927年现场摄影。",
+    "find": "1900—1927年丹麦城市街区：店铺、电话与交通服务 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "丹麦",
+      "era": "1900—1927年；1927街区重点",
+      "start": 1900,
+      "end": 1927,
+      "dateLabel": "1900—1927年；1927街区重点",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "照片为Den Gamle By现代复原及演示，并非1927年现场摄影。",
+        "这是丹麦城市街区的类型入口；设施出现时间需按具体城市再核对。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+          "locator": "1920年代人行道、照明、电话、山墙广告；店铺、Telephone exchange及Car Dealership。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-dk_1927-6.jpg",
+        "full": "绘画参考资源/例图/west4-dk_1927-6.jpg",
+        "original": "https://www.dengamleby.dk/media/i2kfypdb/2021-isenkr%C3%A6mmer-s%C3%A6tter-vare-ud-udenfor-butika.jpg?width=2070&height=1380&v=1d94603f5745b70",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+        "caption": "复原1927街区的五金店门面和现代演示者，观察外陈列与入口关系。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 2070,
+        "height": 1380
+      },
+      {
+        "src": "绘画参考资源/例图/west4-dk_1927-8.jpg",
+        "full": "绘画参考资源/例图/west4-dk_1927-8.jpg",
+        "original": "https://www.dengamleby.dk/media/frldghft/ford-forhandeler-i-den-gamle-by.jpg?width=830&height=506&v=1d95e479c0e1d80",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+        "caption": "汽车经销展示空间的现代演示照；车辆、服务人员与车库开口关系。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      },
+      {
+        "src": "绘画参考资源/例图/west4-dk_1927-9.jpg",
+        "full": "绘画参考资源/例图/west4-dk_1927-9.jpg",
+        "original": "https://www.dengamleby.dk/media/cgwotki1/cykel-v%C3%A6rksted-i-den-gamle-by.jpg?width=830&height=506&v=1d95e479c1cea90",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+        "caption": "复原街区自行车作坊，观察墙面存放和工作台；器物年代按具体记录另查。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      }
+    ],
+    "topic": {
+      "scope": "按馆方对丹麦城市现代化的说明整理街面设施和营业职能，比较零售、交通服务及通信设施怎样出现在同一街区。",
+      "common": [
+        {
+          "title": "街面设施更显眼",
+          "text": "铺设人行道、路灯、公共电话和山墙彩色广告构成1920年代街道特征。",
+          "refs": [
+            "dk_1927"
+          ]
+        },
+        {
+          "title": "店铺按需求分型",
+          "text": "五金、书籍、肥皂与时装有不同陈列和顾客任务。",
+          "refs": [
+            "dk_1927"
+          ]
+        },
+        {
+          "title": "交通另需营业空间",
+          "text": "汽车经销和自行车修理是不同职能，不要都画成普通柜台。",
+          "refs": [
+            "dk_1927"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "零售店铺",
+          "feature": "面向顾客的橱窗、门面与柜台。",
+          "refs": [
+            "dk_1927"
+          ]
+        },
+        {
+          "name": "汽车与自行车服务",
+          "feature": "展示销售和维修操作的空间有别。",
+          "refs": [
+            "dk_1927"
+          ]
+        },
+        {
+          "name": "电话设施",
+          "feature": "电话交换处和公共电话支持城市通信。",
+          "refs": [
+            "dk_1927"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "馆方以消费、通信和交通并列说明城市现代生活；专题据此按建筑职能组织参考。",
+          "refs": [
+            "dk_1927"
+          ]
+        }
+      ],
+      "limits": [
+        "照片为Den Gamle By现代复原及演示，并非1927年现场摄影。",
+        "这是丹麦城市街区的类型入口；设施出现时间需按具体城市再核对。"
+      ],
+      "drawing": "先决定人物要买东西、修车还是打电话，再安排营业空间和街面标识。",
+      "sources": [
+        {
+          "id": "dk_1927",
+          "title": "Den Gamle By · 1927年城市街区",
+          "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+          "locator": "1920年代人行道、照明、电话、山墙广告；店铺、Telephone exchange及Car Dealership。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-us-general-store",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "1873—1934年美国大烟山杂货店：销售、储藏与社区职能",
+    "region": "美国",
+    "period": "1873—1934年；田纳西与北卡罗来纳山区",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/grsm/learn/historyculture/stores.htm",
+    "content": "以NPS社区研究整理山区杂货店的普遍空间和用途，既看商品存放，也看交易、邮务、信用与居民交往。",
+    "use": "画柜台、沿墙货架和地面桶箱时留出交谈与购买的位置；按年份选择邮务和支付场景。",
+    "caution": "范围是大烟山社区，不是全美国商店的统一平面。",
+    "find": "1873—1934年美国大烟山杂货店：销售、储藏与社区职能 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1873—1934年；田纳西与北卡罗来纳山区",
+      "start": 1873,
+      "end": 1934,
+      "dateLabel": "1873—1934年；田纳西与北卡罗来纳山区",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "范围是大烟山社区，不是全美国商店的统一平面。",
+        "1918年照片是Gatlinburg实例；不能把每一件陈列商品都当成所有商店标配。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/grsm/learn/historyculture/stores.htm",
+          "locator": "典型木结构、陈列方式、磨坊、信用、1896邮递及公司商店；1918年照片图注。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nps.gov/grsm/learn/historyculture/stores.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-us_store-7.webp",
+        "full": "绘画参考资源/例图/west4-us_store-7.webp",
+        "original": "https://www.nps.gov/grsm/learn/historyculture/images/inside-general-store-gatlinburg-small2.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+        "source": "https://www.nps.gov/grsm/learn/historyculture/stores.htm",
+        "caption": "田纳西Gatlinburg杂货店内景，约1918年；NPS档案照片，观察柜台、货架及吊挂商品。",
+        "provider": "National Park Service Photo Archives",
+        "credit": "National Park Service Photo Archives",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 685,
+        "height": 754
+      }
+    ],
+    "topic": {
+      "scope": "以NPS社区研究整理山区杂货店的普遍空间和用途，既看商品存放，也看交易、邮务、信用与居民交往。",
+      "common": [
+        {
+          "title": "营业与储藏分区",
+          "text": "典型木屋有一间主要营业室和储货间，有限空间被充分利用。",
+          "refs": [
+            "us_store"
+          ]
+        },
+        {
+          "title": "陈列多层展开",
+          "text": "商品沿墙、在柜台上和桶箱中存放，部分从顶上吊挂。",
+          "refs": [
+            "us_store"
+          ]
+        },
+        {
+          "title": "承担多种社区服务",
+          "text": "杂货店是供货、信用及社交中心，常兼邮局，与磨坊等设施联系。",
+          "refs": [
+            "us_store"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "乡村独立商店",
+          "feature": "日用品、散装食品与少量奢侈品并售。",
+          "refs": [
+            "us_store"
+          ]
+        },
+        {
+          "name": "兼邮务与交易的商店",
+          "feature": "邮购、赊账、现金和以物易物可并存。",
+          "refs": [
+            "us_store"
+          ]
+        },
+        {
+          "name": "公司商店",
+          "feature": "伐木等工业雇主商店改变农村交易关系。",
+          "refs": [
+            "us_store"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "远离城镇的交通成本使地方商店便利；邮递和工业雇佣又改变供货及支付方式。",
+          "refs": [
+            "us_store"
+          ]
+        }
+      ],
+      "limits": [
+        "范围是大烟山社区，不是全美国商店的统一平面。",
+        "1918年照片是Gatlinburg实例；不能把每一件陈列商品都当成所有商店标配。"
+      ],
+      "drawing": "画柜台、沿墙货架和地面桶箱时留出交谈与购买的位置；按年份选择邮务和支付场景。",
+      "sources": [
+        {
+          "id": "us_store",
+          "title": "NPS · 大烟山杂货店研究",
+          "url": "https://www.nps.gov/grsm/learn/historyculture/stores.htm",
+          "locator": "典型木结构、陈列方式、磨坊、信用、1896邮递及公司商店；1918年照片图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-us-schoolrooms",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "1872—1941年美国乡村单间学校：混龄课堂与社区兼用",
+    "region": "美国",
+    "period": "1872—1941年；跨地区类型比较",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm",
+    "content": "比较内布拉斯加Freeman、犹他Fruita与特拉华Iron Hill研究，区分课堂组织、取暖采光、家具和社区活动的共同需求及地方变化。",
+    "use": "先定学校、年代和活动，再安排窗、炉、课桌与教师；集会场景另核对课桌是否可移动。",
+    "caution": "三个州的类型比较不能拼成一座标准学校；Iron Hill研究须保留当时种族隔离背景。",
+    "find": "1872—1941年美国乡村单间学校：混龄课堂与社区兼用 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1872—1941年；跨地区类型比较",
+      "start": 1872,
+      "end": 1941,
+      "dateLabel": "1872—1941年；跨地区类型比较",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "三个州的类型比较不能拼成一座标准学校；Iron Hill研究须保留当时种族隔离背景。",
+        "Fruita现陈设复原1930年代；Freeman现课桌不是原校原件；广告图不是某校实景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm",
+          "locator": "1872建造；教室、课桌和朗诵席；课桌非原件。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.nps.gov/care/learn/historyculture/fruitaschoolhouse.htm",
+          "locator": "1896建造、屋顶及墙面改造；社区兼用、1930年代复原。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.nps.gov/articles/iron-hill-school-an-african-american-one-room-school-teaching-with-historic-places.htm",
+          "locator": "Reading 2建筑设计；Reading 3口述史；Document 1为1919年家具广告。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-us_school-4.jpg",
+        "full": "绘画参考资源/例图/west4-us_school-4.jpg",
+        "original": "https://www.nps.gov/articles/000/images/3_1_10.jpg?maxwidth=650&autorotate=false",
+        "source": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm",
+        "caption": "Freeman学校1913年班级合影的机构展示照片，观察人数和外观；非课堂内景。",
+        "provider": "National Park Service",
+        "credit": "National Park Service",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 650,
+        "height": 488
+      },
+      {
+        "src": "绘画参考资源/例图/west4-us_school2-5.jpg",
+        "full": "绘画参考资源/例图/west4-us_school2-5.jpg",
+        "original": "https://www.nps.gov/care/learn/historyculture/images/27-11-2-1935-Fruita-grade-school_1_2.jpg?maxwidth=650&autorotate=false",
+        "source": "https://www.nps.gov/care/learn/historyculture/fruitaschoolhouse.htm",
+        "caption": "Fruita学校学生与成人，1935年历史照片；人物与地方校舍配套参考。",
+        "provider": "National Park Service",
+        "credit": "National Park Service",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 650,
+        "height": 441
+      },
+      {
+        "src": "绘画参考资源/例图/west4-us_school2-7.webp",
+        "full": "绘画参考资源/例图/west4-us_school2-7.webp",
+        "original": "https://www.nps.gov/care/learn/historyculture/images/inside-school.JPG?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+        "source": "https://www.nps.gov/care/learn/historyculture/fruitaschoolhouse.htm",
+        "caption": "Fruita单间教室现状，复原1930年代：课桌、黑板与炉具；非当年摄影。",
+        "provider": "National Park Service／Chris Roundtree",
+        "credit": "National Park Service／Chris Roundtree",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1300,
+        "height": 867
+      },
+      {
+        "src": "绘画参考资源/例图/west4-us_school3-11.jpg",
+        "full": "绘画参考资源/例图/west4-us_school3-11.jpg",
+        "original": "https://www.nps.gov/articles/images/58img2bh.jpg?maxwidth=1300&autorotate=false",
+        "source": "https://www.nps.gov/articles/iron-hill-school-an-african-american-one-room-school-teaching-with-historic-places.htm",
+        "caption": "1919年《American School Board Journal》学校家具广告，比较不同座椅课桌；历史印刷原图。",
+        "provider": "National Park Service／The American School Board Journal",
+        "credit": "National Park Service／The American School Board Journal",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 579,
+        "height": 870
+      }
+    ],
+    "topic": {
+      "scope": "比较内布拉斯加Freeman、犹他Fruita与特拉华Iron Hill研究，区分课堂组织、取暖采光、家具和社区活动的共同需求及地方变化。",
+      "common": [
+        {
+          "title": "一个教室教多个年级",
+          "text": "单间学校按年龄和课程组织多组学生；教师分组授课而非所有人同时做同一课。",
+          "refs": [
+            "us_school",
+            "us_school2",
+            "us_school3"
+          ]
+        },
+        {
+          "title": "采光取暖与储藏影响布置",
+          "text": "炉具、窗户、外衣和书本位置限制课桌布置；1920年代设计还强调侧向采光。",
+          "refs": [
+            "us_school",
+            "us_school3"
+          ]
+        },
+        {
+          "title": "可兼社区活动",
+          "text": "Fruita课桌可移动以腾出集会空间；不能据此认为所有课桌都未固定。",
+          "refs": [
+            "us_school2",
+            "us_school3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "19世纪简朴乡村校舍",
+          "feature": "木屋或砖屋，课桌可为当地手工制造。",
+          "refs": [
+            "us_school",
+            "us_school2"
+          ]
+        },
+        {
+          "name": "1920年代改良校舍",
+          "feature": "设计关注采光、可调家具和社区用途；地区有种族隔离背景。",
+          "refs": [
+            "us_school3"
+          ]
+        },
+        {
+          "name": "按年代改造的旧校舍",
+          "feature": "Fruita1912/13换屋顶、1935抹灰，原貌与后期不同。",
+          "refs": [
+            "us_school2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "小社区规模、教育需求与资源差异促成单间教学；设计改革逐渐改变设施。",
+          "refs": [
+            "us_school2",
+            "us_school3"
+          ]
+        }
+      ],
+      "limits": [
+        "三个州的类型比较不能拼成一座标准学校；Iron Hill研究须保留当时种族隔离背景。",
+        "Fruita现陈设复原1930年代；Freeman现课桌不是原校原件；广告图不是某校实景。"
+      ],
+      "drawing": "先定学校、年代和活动，再安排窗、炉、课桌与教师；集会场景另核对课桌是否可移动。",
+      "sources": [
+        {
+          "id": "us_school",
+          "title": "NPS · Freeman学校研究",
+          "url": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm",
+          "locator": "1872建造；教室、课桌和朗诵席；课桌非原件。"
+        },
+        {
+          "id": "us_school2",
+          "title": "NPS · Fruita学校",
+          "url": "https://www.nps.gov/care/learn/historyculture/fruitaschoolhouse.htm",
+          "locator": "1896建造、屋顶及墙面改造；社区兼用、1930年代复原。"
+        },
+        {
+          "id": "us_school3",
+          "title": "NPS · Iron Hill学校与进步时代校舍",
+          "url": "https://www.nps.gov/articles/iron-hill-school-an-african-american-one-room-school-teaching-with-historic-places.htm",
+          "locator": "Reading 2建筑设计；Reading 3口述史；Document 1为1919年家具广告。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-es-bourgeois-rooms",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "1833—1868年西班牙上层住宅：接待、进餐与私生活分区",
+    "region": "西班牙",
+    "period": "1833—1868年；伊莎贝拉二世时期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.cultura.gob.es/mromanticismo/gl/dam/jcr%3A93e90b25-62d3-4ded-bdc2-413a2e0cfb1c/cuadernillo-itinerario-baja.pdf",
+    "content": "以浪漫主义博物馆导览对上层家庭生活的说明整理房间职能；现代展厅用于观察陈设例证，不能当成一户原宅的完整原状。",
+    "use": "先决定会客、音乐或晚餐场景，再选房间；连通门洞、家具与人物活动留在同一视线关系中。",
+    "caution": "资产阶层和贵族不能混为同一群体；这篇不代表西班牙平民家居。",
+    "find": "1833—1868年西班牙上层住宅：接待、进餐与私生活分区 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙",
+      "era": "1833—1868年；伊莎贝拉二世时期",
+      "start": 1833,
+      "end": 1868,
+      "dateLabel": "1833—1868年；伊莎贝拉二世时期",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "资产阶层和贵族不能混为同一群体；这篇不代表西班牙平民家居。",
+        "展厅2002—2009年重新组织，陈列含不同来源与年代的物品；不是历史测绘。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.cultura.gob.es/mromanticismo/gl/dam/jcr%3A93e90b25-62d3-4ded-bdc2-413a2e0cfb1c/cuadernillo-itinerario-baja.pdf",
+          "locator": "印刷页8—10、20／PDF第10—12、22页：Antecámara、Antesalón、Salón de Baile、Comedor。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.cultura.gob.es/actualidad/2021/12/211221-redescubre-romanticismo.html",
+          "locator": "馆方说明：上层资产阶层家庭、1833—1868年。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.cultura.gob.es/va/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romanticismo.html",
+          "locator": "现代展厅2002—2009整理；餐厅、Gabinete、Fumoir原图。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.cultura.gob.es/mromanticismo/gl/dam/jcr%3A93e90b25-62d3-4ded-bdc2-413a2e0cfb1c/cuadernillo-itinerario-baja.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-es_rooms-17.jpg",
+        "full": "绘画参考资源/例图/west4-es_rooms-17.jpg",
+        "original": "https://www.cultura.gob.es/.imaging/mte/mcd-theme/contenido-csld-1c/dam/mcd/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romaticismo/3-comedor/jcr:content/3-comedor.jpg",
+        "source": "https://www.cultura.gob.es/va/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romanticismo.html",
+        "caption": "浪漫主义博物馆餐厅的现代陈列照片，比较餐桌、餐具与周边家具；非一户19世纪原宅原状。",
+        "provider": "西班牙文化部／Museo Nacional del Romanticismo",
+        "credit": "西班牙文化部／Museo Nacional del Romanticismo",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 2462,
+        "height": 1056
+      },
+      {
+        "src": "绘画参考资源/例图/west4-es_rooms-19.jpg",
+        "full": "绘画参考资源/例图/west4-es_rooms-19.jpg",
+        "original": "https://www.cultura.gob.es/.imaging/mte/mcd-theme/contenido-csld-1c/dam/mcd/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romaticismo/3-gabinete/jcr:content/3-gabinete.jpg",
+        "source": "https://www.cultura.gob.es/va/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romanticismo.html",
+        "caption": "博物馆Gabinete小起居间的现代陈列，观察门洞、座具和装饰的关系。",
+        "provider": "西班牙文化部／Museo Nacional del Romanticismo",
+        "credit": "西班牙文化部／Museo Nacional del Romanticismo",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 2462,
+        "height": 1056
+      },
+      {
+        "src": "绘画参考资源/例图/west4-es_rooms-22.jpg",
+        "full": "绘画参考资源/例图/west4-es_rooms-22.jpg",
+        "original": "https://www.cultura.gob.es/.imaging/mte/mcd-theme/contenido-csld-1c/dam/mcd/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romaticismo/3-fumoir/jcr:content/3-fumoir.jpg",
+        "source": "https://www.cultura.gob.es/va/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romanticismo.html",
+        "caption": "博物馆Fumoir吸烟室局部现代照片；用于观察小型社交空间陈设。",
+        "provider": "西班牙文化部／Museo Nacional del Romanticismo",
+        "credit": "西班牙文化部／Museo Nacional del Romanticismo",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 2462,
+        "height": 1056
+      }
+    ],
+    "topic": {
+      "scope": "以浪漫主义博物馆导览对上层家庭生活的说明整理房间职能；现代展厅用于观察陈设例证，不能当成一户原宅的完整原状。",
+      "common": [
+        {
+          "title": "接待区强调身份",
+          "text": "前厅传达家庭地位，华丽接待房间成排相通，不一定用独立走廊隔开。",
+          "refs": [
+            "es_guide"
+          ]
+        },
+        {
+          "title": "大客厅承担社交",
+          "text": "舞会厅、音乐和交谈联系紧密，镜子、吊灯与座具共同组织接待空间。",
+          "refs": [
+            "es_guide"
+          ]
+        },
+        {
+          "title": "餐厅与饭后活动分开",
+          "text": "餐厅偏重晚餐和家庭聚会；其他餐食及饭后停留可使用小厅或起居间。",
+          "refs": [
+            "es_guide"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "前厅及接待厅",
+          "feature": "来客进入、身份展示与会客。",
+          "refs": [
+            "es_guide"
+          ]
+        },
+        {
+          "name": "舞会和音乐空间",
+          "feature": "面积、座椅、乐器与装饰为社交服务。",
+          "refs": [
+            "es_guide"
+          ]
+        },
+        {
+          "name": "餐厅和小起居间",
+          "feature": "正式进餐与较小规模停留分工。",
+          "refs": [
+            "es_guide"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "上层家庭的社交、体面展示和家庭聚会使不同房间形成分工；馆方明确限定为当时高阶资产阶层生活。",
+          "refs": [
+            "es_house",
+            "es_guide"
+          ]
+        }
+      ],
+      "limits": [
+        "资产阶层和贵族不能混为同一群体；这篇不代表西班牙平民家居。",
+        "展厅2002—2009年重新组织，陈列含不同来源与年代的物品；不是历史测绘。"
+      ],
+      "drawing": "先决定会客、音乐或晚餐场景，再选房间；连通门洞、家具与人物活动留在同一视线关系中。",
+      "sources": [
+        {
+          "id": "es_guide",
+          "title": "浪漫主义博物馆 · 参观与家居研究导览",
+          "url": "https://www.cultura.gob.es/mromanticismo/gl/dam/jcr%3A93e90b25-62d3-4ded-bdc2-413a2e0cfb1c/cuadernillo-itinerario-baja.pdf",
+          "locator": "印刷页8—10、20／PDF第10—12、22页：Antecámara、Antesalón、Salón de Baile、Comedor。"
+        },
+        {
+          "id": "es_house",
+          "title": "西班牙文化部 · 浪漫主义家庭生活",
+          "url": "https://www.cultura.gob.es/actualidad/2021/12/211221-redescubre-romanticismo.html",
+          "locator": "馆方说明：上层资产阶层家庭、1833—1868年。"
+        },
+        {
+          "id": "es_rooms",
+          "title": "西班牙文化部 · 博物馆建筑与陈设",
+          "url": "https://www.cultura.gob.es/va/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romanticismo.html",
+          "locator": "现代展厅2002—2009整理；餐厅、Gabinete、Fumoir原图。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-dk-household-goods",
+    "module": "objects",
+    "category": "vessels",
+    "name": "19世纪末—1927年丹麦日用品：搪瓷、陶瓷与五金店供货",
+    "region": "丹麦",
+    "period": "19世纪末—1927年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+    "content": "按馆方五金店史比较家庭器皿、工具和玩具的用途分型，研究工业生产怎样改变城市家庭能购买的物品组合。",
+    "use": "先选家庭购买场景还是工具采购，再画材料和陈列；同一商店售卖不等于同一家全部拥有。",
+    "caution": "柜台来自Borris、1908年制作；1927为展示时点，迁入博物馆为2006年。",
+    "find": "19世纪末—1927年丹麦日用品：搪瓷、陶瓷与五金店供货 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "丹麦",
+      "era": "19世纪末—1927年",
+      "start": 1880,
+      "end": 1927,
+      "dateLabel": "19世纪末—1927年",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "柜台来自Borris、1908年制作；1927为展示时点，迁入博物馆为2006年。",
+        "照片商品含多种颜色和陈列时期；不能全部当成Madam Blå蓝搪瓷系列。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+          "locator": "The history of Ironmongers、Enamelled Kitchenware；1908柜台、1927展示、2006迁入。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-dk_shop-6.jpg",
+        "full": "绘画参考资源/例图/west4-dk_shop-6.jpg",
+        "original": "https://www.dengamleby.dk/media/0mpfrnwn/isenkr%C3%A6mmeren-i-den-gamle-by.jpg?width=2070&height=1380&v=1d94166082125c0",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+        "caption": "1927时点的五金店现代复原陈列及演示者；柜台1908年制作。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 2070,
+        "height": 1380
+      },
+      {
+        "src": "绘画参考资源/例图/west4-dk_shop-7.jpg",
+        "full": "绘画参考资源/例图/west4-dk_shop-7.jpg",
+        "original": "https://www.dengamleby.dk/media/ldtjsyqm/isenkr%C3%A6mmer-kopper.jpg?width=830&height=506&v=1d941835fdc3ad0",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+        "caption": "馆内搪瓷杯和盆的现代照片，观察器口、把手及不同颜色；不据此断言全为同一系列。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      },
+      {
+        "src": "绘画参考资源/例图/west4-dk_shop-9.jpg",
+        "full": "绘画参考资源/例图/west4-dk_shop-9.jpg",
+        "original": "https://www.dengamleby.dk/media/tzbgfdoz/isenkr%C3%A6mmer-skeer.jpg?width=830&height=506&v=1d942239bf53fd0",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+        "caption": "五金店陈列的刷具与小工具现代细节照；观察成束存放和柜台物件尺度。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      }
+    ],
+    "topic": {
+      "scope": "按馆方五金店史比较家庭器皿、工具和玩具的用途分型，研究工业生产怎样改变城市家庭能购买的物品组合。",
+      "common": [
+        {
+          "title": "供货跨多种用途",
+          "text": "五金店同时销售职业工具、紧固件、家庭器皿和玩具。",
+          "refs": [
+            "dk_shop"
+          ]
+        },
+        {
+          "title": "厨房材料发生变化",
+          "text": "19世纪末出现的搪瓷器皿与煤气炉相伴，不能只画传统铜锅。",
+          "refs": [
+            "dk_shop"
+          ]
+        },
+        {
+          "title": "家庭购买与工业商品相连",
+          "text": "瓷器、玻璃和厨房用品进入城市新住家，玩具也模拟新技术产品。",
+          "refs": [
+            "dk_shop"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "搪瓷厨房器皿",
+          "feature": "杯、盆和咖啡壶等；具体系列和年代另核对。",
+          "refs": [
+            "dk_shop"
+          ]
+        },
+        {
+          "name": "陶瓷及玻璃家用品",
+          "feature": "与搪瓷并售，材料反光和器口不同。",
+          "refs": [
+            "dk_shop"
+          ]
+        },
+        {
+          "name": "职业用五金及玩具",
+          "feature": "钉、螺丝和工具服务建造；玩具是另一个商品类别。",
+          "refs": [
+            "dk_shop"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "工业批量生产扩大供货种类，使五金店连接工匠需求与城市家庭消费。",
+          "refs": [
+            "dk_shop"
+          ]
+        }
+      ],
+      "limits": [
+        "柜台来自Borris、1908年制作；1927为展示时点，迁入博物馆为2006年。",
+        "照片商品含多种颜色和陈列时期；不能全部当成Madam Blå蓝搪瓷系列。"
+      ],
+      "drawing": "先选家庭购买场景还是工具采购，再画材料和陈列；同一商店售卖不等于同一家全部拥有。",
+      "sources": [
+        {
+          "id": "dk_shop",
+          "title": "Den Gamle By · 五金店与搪瓷用品研究",
+          "url": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+          "locator": "The history of Ironmongers、Enamelled Kitchenware；1908柜台、1927展示、2006迁入。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-no-postwar-household",
+    "module": "objects",
+    "category": "vessels",
+    "name": "约1965年挪威家庭用具：厨房更新、保温壶与缝纫机",
+    "region": "挪威",
+    "period": "1960—1965年；奥斯陆家庭用具",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+    "content": "以博物馆按多种史料构成的家庭研究比较厨房、家务工作区及客厅的器具用途；这是可能的家庭组合，不是实际一户原样。",
+    "use": "按活动选择器具：早餐、缝纫与晚间休闲分开；保留旧房空间和分期更新的痕迹。",
+    "caution": "Dahl家庭为虚构，依据含广告、室内文献、照片和访谈；不能当成每户的购置时间表。",
+    "find": "约1965年挪威家庭用具：厨房更新、保温壶与缝纫机 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "挪威",
+      "era": "1960—1965年；奥斯陆家庭用具",
+      "start": 1960,
+      "end": 1965,
+      "dateLabel": "1960—1965年；奥斯陆家庭用具",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "Dahl家庭为虚构，依据含广告、室内文献、照片和访谈；不能当成每户的购置时间表。",
+        "新厨房或电视不保证全套设施齐备；展览住宅仍无私人浴室。"
+      ],
+      "evidence": [
+        {
+          "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+          "locator": "Kjøkken、TV-kanna、Barneværelse og mors arbeidsplass、Kildetilfang；明确虚构家庭。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-no_1965-4.jpg",
+        "full": "绘画参考资源/例图/west4-no_1965-4.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMMzpi?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+        "caption": "1965年研究厨房的早餐桌、洗槽与柜体；博物馆复原照片。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1200,
+        "height": 853
+      },
+      {
+        "src": "绘画参考资源/例图/west4-no_1965-2.jpg",
+        "full": "绘画参考资源/例图/west4-no_1965-2.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMMzpg?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+        "caption": "研究陈设的绿色缝纫机及手工织物，现代照片；用于观察桌面工作区。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1200,
+        "height": 886
+      }
+    ],
+    "topic": {
+      "scope": "以博物馆按多种史料构成的家庭研究比较厨房、家务工作区及客厅的器具用途；这是可能的家庭组合，不是实际一户原样。",
+      "common": [
+        {
+          "title": "厨房更新有先后",
+          "text": "展览模型中先买汽车，再更新厨房；炉位保留，但柜、洗槽和冰箱改变操作条件。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "title": "同物跨房间使用",
+          "text": "保温壶白天在厨房、晚间可移到客厅，不需为每种场景发明新器具。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "title": "家务可与儿童空间共用",
+          "text": "缝纫工作角在儿童房内，家务器具与睡眠家具并置。",
+          "refs": [
+            "no_1965"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "厨房固定设备",
+          "feature": "炉、洗槽、柜和冰箱构成工作组合。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "name": "可移动日用品",
+          "feature": "保温壶、杯碟随家庭活动移动。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "name": "缝纫和收纳用具",
+          "feature": "缝纫机、针线盒及架子组成小工作区。",
+          "refs": [
+            "no_1965"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "按阶段购买和改造使新设备留在旧建筑里；家务与休闲也改变用具位置。",
+          "refs": [
+            "no_1965"
+          ]
+        }
+      ],
+      "limits": [
+        "Dahl家庭为虚构，依据含广告、室内文献、照片和访谈；不能当成每户的购置时间表。",
+        "新厨房或电视不保证全套设施齐备；展览住宅仍无私人浴室。"
+      ],
+      "drawing": "按活动选择器具：早餐、缝纫与晚间休闲分开；保留旧房空间和分期更新的痕迹。",
+      "sources": [
+        {
+          "id": "no_1965",
+          "title": "挪威文化史博物馆 · 1965年家庭器具研究",
+          "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+          "locator": "Kjøkken、TV-kanna、Barneværelse og mors arbeidsplass、Kildetilfang；明确虚构家庭。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-us-wash-tools",
+    "module": "objects",
+    "category": "tools",
+    "name": "1840年代美国洗衣器具：木桶、搓板与两种熨斗",
+    "region": "美国",
+    "period": "1840年代；Fort Scott重点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/fosc/learn/education/laundress3.htm",
+    "content": "按NPS器具说明与操作文献比较洗衣、漂洗、晾晒和熨平需要的成套工具；器物必须与其加工阶段一起参考。",
+    "use": "分别画搓洗和熨衣；注意桶台高度、持布处及实心熨斗的隔热布。",
+    "caution": "范围为Fort Scott教学研究；不把1840年代木面搓板直接替换成后期金属板。",
+    "find": "1840年代美国洗衣器具：木桶、搓板与两种熨斗 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1840年代；Fort Scott重点",
+      "start": 1840,
+      "end": 1849,
+      "dateLabel": "1840年代；Fort Scott重点",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "范围为Fort Scott教学研究；不把1840年代木面搓板直接替换成后期金属板。",
+        "配图为现代人员示范；这篇是绘画用途的历史说明，不是操作教程。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/fosc/learn/education/laundress3.htm",
+          "locator": "A Laundress’ Tools：桶、boiler、dolly、木搓板、实心及box iron。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.nps.gov/fosc/learn/education/laundress6.htm",
+          "locator": "Soak, Scrub, Repeat、Straightening it Out；隔热布、熨布及配图。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nps.gov/fosc/learn/education/laundress3.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-us_wash_methods-4.jpg",
+        "full": "绘画参考资源/例图/west4-us_wash_methods-4.jpg",
+        "original": "https://www.nps.gov/fosc/learn/education/images/Laundress-washing-Clothes.jpg?maxwidth=650&autorotate=false",
+        "source": "https://www.nps.gov/fosc/learn/education/laundress6.htm",
+        "caption": "Fort Scott现代洗衣示范：桶、搓板、衣物及桶台的接触关系。",
+        "provider": "National Park Service",
+        "credit": "National Park Service",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 285,
+        "height": 380
+      },
+      {
+        "src": "绘画参考资源/例图/west4-us_wash_methods-6.jpg",
+        "full": "绘画参考资源/例图/west4-us_wash_methods-6.jpg",
+        "original": "https://www.nps.gov/fosc/learn/education/images/Laundress-Ironing-Clothes.jpg?maxwidth=650&autorotate=false",
+        "source": "https://www.nps.gov/fosc/learn/education/laundress6.htm",
+        "caption": "Fort Scott现代熨衣示范：实心熨斗、隔热握布与熨衣面；非1840年代摄影。",
+        "provider": "National Park Service",
+        "credit": "National Park Service",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 286,
+        "height": 381
+      }
+    ],
+    "topic": {
+      "scope": "按NPS器具说明与操作文献比较洗衣、漂洗、晾晒和熨平需要的成套工具；器物必须与其加工阶段一起参考。",
+      "common": [
+        {
+          "title": "湿作业使用不同容器",
+          "text": "木板圆桶用于浸泡和搓洗，铁或铜大锅用于煮衣物；桶常置于台上。",
+          "refs": [
+            "us_wash_tools"
+          ]
+        },
+        {
+          "title": "搓板和搅衣棒不同",
+          "text": "1840年代Fort Scott搓板为粗木表面，搅衣棒用于搅动或取衣。",
+          "refs": [
+            "us_wash_tools"
+          ]
+        },
+        {
+          "title": "熨斗按加热方式分型",
+          "text": "实心铸铁熨斗外加热；空心箱式熨斗可装炭，不能画成同一种内部结构。",
+          "refs": [
+            "us_wash_tools"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "洗涤与漂洗器具",
+          "feature": "木桶、板与棒的任务有别。",
+          "refs": [
+            "us_wash_tools"
+          ]
+        },
+        {
+          "name": "晾晒设备",
+          "feature": "绳、夹和取衣容器连接洗涤与干燥。",
+          "refs": [
+            "us_wash_tools"
+          ]
+        },
+        {
+          "name": "熨平工具",
+          "feature": "木板、熨布、支架及不同熨斗配合。",
+          "refs": [
+            "us_wash_tools",
+            "us_wash_methods"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "分阶段清洗与加热方式决定器具形态；动作必须与对应工具吻合。",
+          "refs": [
+            "us_wash_tools",
+            "us_wash_methods"
+          ]
+        }
+      ],
+      "limits": [
+        "范围为Fort Scott教学研究；不把1840年代木面搓板直接替换成后期金属板。",
+        "配图为现代人员示范；这篇是绘画用途的历史说明，不是操作教程。"
+      ],
+      "drawing": "分别画搓洗和熨衣；注意桶台高度、持布处及实心熨斗的隔热布。",
+      "sources": [
+        {
+          "id": "us_wash_tools",
+          "title": "NPS · 洗衣器具类型",
+          "url": "https://www.nps.gov/fosc/learn/education/laundress3.htm",
+          "locator": "A Laundress’ Tools：桶、boiler、dolly、木搓板、实心及box iron。"
+        },
+        {
+          "id": "us_wash_methods",
+          "title": "NPS · 洗衣工序研究",
+          "url": "https://www.nps.gov/fosc/learn/education/laundress6.htm",
+          "locator": "Soak, Scrub, Repeat、Straightening it Out；隔热布、熨布及配图。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-us-laundress-work",
+    "module": "people",
+    "category": "work",
+    "name": "1802—1883年美国军营洗衣职业：劳动、计酬与居住",
+    "region": "美国",
+    "period": "1802—1883年；堪萨斯军营重点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/articles/000/the-army-laundress.htm",
+    "content": "比较Fort Scott与Fort Larned关于洗衣女工的职业史，区分雇佣身份、体力劳动和家庭居住条件；不同军营和年份的人数规定不混用。",
+    "use": "画群体劳动时给每人明确任务；同时留出提水、湿衣转移和晾晒路线。",
+    "caution": "1802—1883为制度研究时段；Fort Scott、Fort Larned并非全时期同一人数配置。",
+    "find": "1802—1883年美国军营洗衣职业：劳动、计酬与居住 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1802—1883年；堪萨斯军营重点",
+      "start": 1802,
+      "end": 1883,
+      "dateLabel": "1802—1883年；堪萨斯军营重点",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "1802—1883为制度研究时段；Fort Scott、Fort Larned并非全时期同一人数配置。",
+        "仅存资料有档案与他人记述的偏差；现代示范动作和服饰不能自动作为全部历史人员标准。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nps.gov/articles/000/the-army-laundress.htm",
+          "locator": "Terms of Service、A Hard Day’s Work、Soap Suds Row及1883结束；1868比例另列。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.nps.gov/fosc/learn/education/laundress5.htm",
+          "locator": "Establishing a Role、Laundry Fees；Fort Scott地方比例和史料限制。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nps.gov/articles/000/the-army-laundress.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-us_laundry-4.png",
+        "full": "绘画参考资源/例图/west4-us_laundry-4.png",
+        "original": "https://www.nps.gov/articles/000/images/laundry-demo_nps.png?maxwidth=650&autorotate=false",
+        "source": "https://www.nps.gov/articles/000/the-army-laundress.htm",
+        "caption": "Fort Larned现代洗衣讲解示范，帐篷与桶展示工作环境；非19世纪现场。",
+        "provider": "National Park Service",
+        "credit": "National Park Service",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 650,
+        "height": 488
+      },
+      {
+        "src": "绘画参考资源/例图/west4-us_laundry2-4.jpg",
+        "full": "绘画参考资源/例图/west4-us_laundry2-4.jpg",
+        "original": "https://www.nps.gov/fosc/learn/education/images/IMG_6349cropped.jpg?maxwidth=650&autorotate=false",
+        "source": "https://www.nps.gov/fosc/learn/education/laundress5.htm",
+        "caption": "Fort Scott教育活动洗衣示范，2014年；只观察桶、搓板和持布关系。",
+        "provider": "National Park Service Staff Photo",
+        "credit": "National Park Service Staff Photo",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 650,
+        "height": 674
+      }
+    ],
+    "topic": {
+      "scope": "比较Fort Scott与Fort Larned关于洗衣女工的职业史，区分雇佣身份、体力劳动和家庭居住条件；不同军营和年份的人数规定不混用。",
+      "common": [
+        {
+          "title": "准备本身就是劳动",
+          "text": "提水、搬柴和加热先于搓洗，湿衣物还需拧干与晾晒。",
+          "refs": [
+            "us_laundry"
+          ]
+        },
+        {
+          "title": "按服务对象计酬",
+          "text": "洗衣费由军营管理机构规定，可从士兵工资扣取；人数比例随军营和年份不同。",
+          "refs": [
+            "us_laundry",
+            "us_laundry2"
+          ]
+        },
+        {
+          "title": "居住与工作紧邻",
+          "text": "洗衣区住所可能是帐篷、木屋或土坯房，家庭生活与工作共用有限空间。",
+          "refs": [
+            "us_laundry"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "军营认可的洗衣服务",
+          "feature": "正式身份与士兵、军官妻子的身份不同。",
+          "refs": [
+            "us_laundry"
+          ]
+        },
+        {
+          "name": "湿衣负重与多段清洗",
+          "feature": "洗、漂、拧、晒对应不同动作。",
+          "refs": [
+            "us_laundry"
+          ]
+        },
+        {
+          "name": "兼做其他服务",
+          "feature": "部分人还做烹调、缝补、护理等。",
+          "refs": [
+            "us_laundry2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "驻军需要持续衣物服务，制度同时规定费用、补给及工作身份；1883年官方补给终止。",
+          "refs": [
+            "us_laundry"
+          ]
+        }
+      ],
+      "limits": [
+        "1802—1883为制度研究时段；Fort Scott、Fort Larned并非全时期同一人数配置。",
+        "仅存资料有档案与他人记述的偏差；现代示范动作和服饰不能自动作为全部历史人员标准。"
+      ],
+      "drawing": "画群体劳动时给每人明确任务；同时留出提水、湿衣转移和晾晒路线。",
+      "sources": [
+        {
+          "id": "us_laundry",
+          "title": "NPS · Army Laundress职业史",
+          "url": "https://www.nps.gov/articles/000/the-army-laundress.htm",
+          "locator": "Terms of Service、A Hard Day’s Work、Soap Suds Row及1883结束；1868比例另列。"
+        },
+        {
+          "id": "us_laundry2",
+          "title": "NPS · Fort Scott洗衣职业背景",
+          "url": "https://www.nps.gov/fosc/learn/education/laundress5.htm",
+          "locator": "Establishing a Role、Laundry Fees；Fort Scott地方比例和史料限制。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-no-youth-culture",
+    "module": "people",
+    "category": "interaction",
+    "name": "1960年代挪威家庭休闲：电视、录音与青少年自己的房间",
+    "region": "挪威",
+    "period": "1960年代；家庭与青少年文化",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+    "content": "整理博物馆的青少年文化研究，比较全家看电视与年轻人在自己的房间听音乐、交友的场景；现代陈设用作史料支持的类型例证。",
+    "use": "区分家人共同观看和朋友小范围活动；以视线、坐具与音乐设备组织群像。",
+    "caution": "研究家庭为虚构模型，并非真实少年日记或房间原样。",
+    "find": "1960年代挪威家庭休闲：电视、录音与青少年自己的房间 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "挪威",
+      "era": "1960年代；家庭与青少年文化",
+      "start": 1960,
+      "end": 1969,
+      "dateLabel": "1960年代；家庭与青少年文化",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "研究家庭为虚构模型，并非真实少年日记或房间原样。",
+        "设备拥有量、喜好与家庭态度各异；不把图中唱片和乐器画成全国标配。"
+      ],
+      "evidence": [
+        {
+          "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+          "locator": "Stua、Gutterommet、En ny ungdomskultur på 1960-tallet、Kildetilfang。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-no_1965-5.jpg",
+        "full": "绘画参考资源/例图/west4-no_1965-5.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMMzpk?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+        "caption": "1965年研究家庭客厅的坐具与壁柜，现代复原照；用于安排家庭活动位置。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1200,
+        "height": 814
+      },
+      {
+        "src": "绘画参考资源/例图/west4-no_1965-6.jpg",
+        "full": "绘画参考资源/例图/west4-no_1965-6.jpg",
+        "original": "https://ems.dimu.org/image/0136JwZMMzpp?dimension=1200x1200",
+        "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+        "caption": "青少年房间研究陈设：吉他、唱机、海报和坐卧家具；现代复原照。",
+        "provider": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "credit": "Norsk Folkemuseum／Anne-Lise Reinsfelt",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 1200,
+        "height": 797
+      }
+    ],
+    "topic": {
+      "scope": "整理博物馆的青少年文化研究，比较全家看电视与年轻人在自己的房间听音乐、交友的场景；现代陈设用作史料支持的类型例证。",
+      "common": [
+        {
+          "title": "电视改变客厅组织",
+          "text": "电视进入家庭，家具围绕日常观看与家人交往重新安排。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "title": "年轻人形成自己的文化",
+          "text": "音乐、发式、服装及交往场所有别于成人生活；不是所有人同一趣味。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "title": "卧室也能接待朋友",
+          "text": "床收起后成为起居空间，音响与乐器支撑年轻人的活动。",
+          "refs": [
+            "no_1965"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "家庭共同休闲",
+          "feature": "客厅电视、坐具与饮用器具相配。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "name": "青少年音乐场景",
+          "feature": "录音机、唱片、吉他和海报形成活动线索。",
+          "refs": [
+            "no_1965"
+          ]
+        },
+        {
+          "name": "日夜转换的私人房间",
+          "feature": "沙发床与收起的寝具支持日间交往。",
+          "refs": [
+            "no_1965"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "馆方将战后青少年文化视为独立生活阶段；住房与消费条件提供新的活动空间。",
+          "refs": [
+            "no_1965"
+          ]
+        }
+      ],
+      "limits": [
+        "研究家庭为虚构模型，并非真实少年日记或房间原样。",
+        "设备拥有量、喜好与家庭态度各异；不把图中唱片和乐器画成全国标配。"
+      ],
+      "drawing": "区分家人共同观看和朋友小范围活动；以视线、坐具与音乐设备组织群像。",
+      "sources": [
+        {
+          "id": "no_1965",
+          "title": "挪威文化史博物馆 · 青少年与家庭生活研究",
+          "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+          "locator": "Stua、Gutterommet、En ny ungdomskultur på 1960-tallet、Kildetilfang。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west4-dk-1974-lifestyles",
+    "module": "people",
+    "category": "interaction",
+    "name": "1950—1974年丹麦生活类型：家庭、集体合居与日常消费",
+    "region": "丹麦",
+    "period": "1950—1974年；1974展示时点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/",
+    "content": "按馆方类型介绍比较核心家庭、集体合居、退休夫妻及年轻人生活；这是不同生活方式并存的专题入口，不将其中一种当成全部丹麦人。",
+    "use": "先定家庭类型与活动，再选婚照、唱片、书或购物物件；让道具服务具体人物场景。",
+    "caution": "这是1974时点展览的生活类型梳理；具体家庭内部规则需另查个案。",
+    "find": "1950—1974年丹麦生活类型：家庭、集体合居与日常消费 西方生活续编20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "丹麦",
+      "era": "1950—1974年；1974展示时点",
+      "start": 1950,
+      "end": 1974,
+      "dateLabel": "1950—1974年；1974展示时点",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "这是1974时点展览的生活类型梳理；具体家庭内部规则需另查个案。",
+        "婚照和书籍只是展览陈设，不能据此推断所有住户的婚姻、政治态度或行为。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/",
+          "locator": "核心家庭、commune、退休夫妻及学生；多数延续旧习；商店、radio、咖啡馆。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west4-dk_1974-9.jpg",
+        "full": "绘画参考资源/例图/west4-dk_1974-9.jpg",
+        "original": "https://www.dengamleby.dk/media/tzwogesa/kernefamilien_0den-gamle-by.jpg?width=830&height=506&v=1d94861ea577cd0",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/",
+        "caption": "1974核心家庭展陈中的婚照与柜面，现代机构照片；非1974年住家现场照。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      },
+      {
+        "src": "绘画参考资源/例图/west4-dk_1974-10.jpg",
+        "full": "绘画参考资源/例图/west4-dk_1974-10.jpg",
+        "original": "https://www.dengamleby.dk/media/mdmfllau/citater-fra-mao-kollektivet-den-gamle-by.jpg?width=830&height=506&v=1d94861ea441be0",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/",
+        "caption": "集体合居展陈中的书籍局部现代照片；物件只作为该展陈线索。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      },
+      {
+        "src": "绘画参考资源/例图/west4-dk_1974-12.jpg",
+        "full": "绘画参考资源/例图/west4-dk_1974-12.jpg",
+        "original": "https://www.dengamleby.dk/media/biifnj0g/min-marked-i-den-gamle-by-gammel-dansk.jpg?width=830&height=506&v=1d946d2a01864d0",
+        "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/",
+        "caption": "1974小型商店的现代演示场景：店员、顾客与柜台；非当年摄影。",
+        "provider": "Den Gamle By",
+        "credit": "Den Gamle By",
+        "license": "图像作者、权利及再使用条件依机构原页。",
+        "related": false,
+        "width": 830,
+        "height": 506
+      }
+    ],
+    "topic": {
+      "scope": "按馆方类型介绍比较核心家庭、集体合居、退休夫妻及年轻人生活；这是不同生活方式并存的专题入口，不将其中一种当成全部丹麦人。",
+      "common": [
+        {
+          "title": "家庭类型并存",
+          "text": "1974街区同时展示核心家庭、退休夫妻、集体合居及年轻住户。",
+          "refs": [
+            "dk_1974"
+          ]
+        },
+        {
+          "title": "变化没有覆盖所有人",
+          "text": "妇女运动和新居住方式受到关注，但馆方明确多数生活仍延续旧习。",
+          "refs": [
+            "dk_1974"
+          ]
+        },
+        {
+          "title": "消费是日常活动的一部分",
+          "text": "肉店、小型商店、唱片及咖啡馆支持购买、休闲和交往。",
+          "refs": [
+            "dk_1974"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "核心家庭与夫妻住家",
+          "feature": "家庭结构和代际生活分别核对。",
+          "refs": [
+            "dk_1974"
+          ]
+        },
+        {
+          "name": "集体合居与年轻人",
+          "feature": "当时变化的一部分，不是全国唯一模式。",
+          "refs": [
+            "dk_1974"
+          ]
+        },
+        {
+          "name": "商店与休闲场所",
+          "feature": "日常采购和听音乐等活动另有空间。",
+          "refs": [
+            "dk_1974"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "馆方把福利社会、妇女运动及新居住方式并列展示，本文据此比较生活场景。",
+          "refs": [
+            "dk_1974"
+          ]
+        }
+      ],
+      "limits": [
+        "这是1974时点展览的生活类型梳理；具体家庭内部规则需另查个案。",
+        "婚照和书籍只是展览陈设，不能据此推断所有住户的婚姻、政治态度或行为。"
+      ],
+      "drawing": "先定家庭类型与活动，再选婚照、唱片、书或购物物件；让道具服务具体人物场景。",
+      "sources": [
+        {
+          "id": "dk_1974",
+          "title": "Den Gamle By · 1974生活类型",
+          "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1950-1974-welfare-and-broad-mindedness/",
+          "locator": "核心家庭、commune、退休夫妻及学生；多数延续旧习；商店、radio、咖啡馆。"
+        }
+      ],
+      "examples": []
+    }
   }
 ];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月3日";})();

@@ -7235,5 +7235,193 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/"
+  },
+  "topic-west4-no-1905-rooms": {
+    "region": "欧洲",
+    "country": "挪威",
+    "era": "1900—1905年；奥斯陆中产住家",
+    "start": 1900,
+    "end": 1905,
+    "dateLabel": "1900—1905年；奥斯陆中产住家",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "家庭成员为博物馆虚构，陈设结合研究和原建筑构件；不是实际住户逐件复原。",
+      "范围为奥斯陆特定中产住家类型，不代表全挪威或农村。"
+    ],
+    "evidence": [
+      {
+        "url": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905",
+        "locator": "Leiligheten、Stua、Spisestua、Kjøkkenet、Pikeværelset；明确虚构住户与一般来源研究。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://norskfolkemuseum.no/ein-norsk-heim-i-ei-ny-tid-1905"
+  },
+  "topic-west4-no-working-home": {
+    "region": "欧洲",
+    "country": "挪威",
+    "era": "约1950年；20世纪中叶",
+    "start": 1945,
+    "end": 1955,
+    "dateLabel": "约1950年；20世纪中叶",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "实际住户住在奥斯陆另一处；这里用相同大小户型复原，不能误标为Wessels gate原住家。",
+      "这是馆方指出的类型特征与确证例子，不代表所有工人家庭。"
+    ],
+    "evidence": [
+      {
+        "url": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home",
+        "locator": "A Working Class Home；1957年征集、完整拍照；日夜转换与best room为典型习惯。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://norskfolkemuseum.no/en/the-cleaning-ladys-home"
+  },
+  "topic-west4-dk-modern-street": {
+    "region": "欧洲",
+    "country": "丹麦",
+    "era": "1900—1927年；1927街区重点",
+    "start": 1900,
+    "end": 1927,
+    "dateLabel": "1900—1927年；1927街区重点",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "照片为Den Gamle By现代复原及演示，并非1927年现场摄影。",
+      "这是丹麦城市街区的类型入口；设施出现时间需按具体城市再核对。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/",
+        "locator": "1920年代人行道、照明、电话、山墙广告；店铺、Telephone exchange及Car Dealership。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.dengamleby.dk/en/plan-your-visit/time-travel-through-danish-history/1900-1927-the-modern-era/"
+  },
+  "topic-west4-us-general-store": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "1873—1934年；田纳西与北卡罗来纳山区",
+    "start": 1873,
+    "end": 1934,
+    "dateLabel": "1873—1934年；田纳西与北卡罗来纳山区",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "范围是大烟山社区，不是全美国商店的统一平面。",
+      "1918年照片是Gatlinburg实例；不能把每一件陈列商品都当成所有商店标配。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nps.gov/grsm/learn/historyculture/stores.htm",
+        "locator": "典型木结构、陈列方式、磨坊、信用、1896邮递及公司商店；1918年照片图注。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.nps.gov/grsm/learn/historyculture/stores.htm"
+  },
+  "topic-west4-us-schoolrooms": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "1872—1941年；跨地区类型比较",
+    "start": 1872,
+    "end": 1941,
+    "dateLabel": "1872—1941年；跨地区类型比较",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "三个州的类型比较不能拼成一座标准学校；Iron Hill研究须保留当时种族隔离背景。",
+      "Fruita现陈设复原1930年代；Freeman现课桌不是原校原件；广告图不是某校实景。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm",
+        "locator": "1872建造；教室、课桌和朗诵席；课桌非原件。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.nps.gov/care/learn/historyculture/fruitaschoolhouse.htm",
+        "locator": "1896建造、屋顶及墙面改造；社区兼用、1930年代复原。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.nps.gov/articles/iron-hill-school-an-african-american-one-room-school-teaching-with-historic-places.htm",
+        "locator": "Reading 2建筑设计；Reading 3口述史；Document 1为1919年家具广告。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.nps.gov/articles/000/an-1872-one-room-schoolhouse-reveals-secrets-at-homestead-national-historical-park.htm"
+  },
+  "topic-west4-es-bourgeois-rooms": {
+    "region": "欧洲",
+    "country": "西班牙",
+    "era": "1833—1868年；伊莎贝拉二世时期",
+    "start": 1833,
+    "end": 1868,
+    "dateLabel": "1833—1868年；伊莎贝拉二世时期",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "资产阶层和贵族不能混为同一群体；这篇不代表西班牙平民家居。",
+      "展厅2002—2009年重新组织，陈列含不同来源与年代的物品；不是历史测绘。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.cultura.gob.es/mromanticismo/gl/dam/jcr%3A93e90b25-62d3-4ded-bdc2-413a2e0cfb1c/cuadernillo-itinerario-baja.pdf",
+        "locator": "印刷页8—10、20／PDF第10—12、22页：Antecámara、Antesalón、Salón de Baile、Comedor。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.cultura.gob.es/actualidad/2021/12/211221-redescubre-romanticismo.html",
+        "locator": "馆方说明：上层资产阶层家庭、1833—1868年。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.cultura.gob.es/va/cultura/areas/museos/mc/arquitectura-museos/gestion-directa/3-museo-nacional-romanticismo.html",
+        "locator": "现代展厅2002—2009整理；餐厅、Gabinete、Fumoir原图。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.cultura.gob.es/mromanticismo/gl/dam/jcr%3A93e90b25-62d3-4ded-bdc2-413a2e0cfb1c/cuadernillo-itinerario-baja.pdf"
+  },
+  "topic-west4-dk-household-goods": {
+    "region": "欧洲",
+    "country": "丹麦",
+    "era": "19世纪末—1927年",
+    "start": 1880,
+    "end": 1927,
+    "dateLabel": "19世纪末—1927年",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "柜台来自Borris、1908年制作；1927为展示时点，迁入博物馆为2006年。",
+      "照片商品含多种颜色和陈列时期；不能全部当成Madam Blå蓝搪瓷系列。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/",
+        "locator": "The history of Ironmongers、Enamelled Kitchenware；1908柜台、1927展示、2006迁入。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.dengamleby.dk/en/plan-your-visit/explore-the-town/historical-shops/the-ironmonger-sp-jepsen/"
+  },
+  "topic-west4-no-postwar-household": {
+    "region": "欧洲",
+    "country": "挪威",
+    "era": "1960—1965年；奥斯陆家庭用具",
+    "start": 1960,
+    "end": 1965,
+    "dateLabel": "1960—1965年；奥斯陆家庭用具",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "Dahl家庭为虚构，依据含广告、室内文献、照片和访谈；不能当成每户的购置时间表。",
+      "新厨房或电视不保证全套设施齐备；展览住宅仍无私人浴室。"
+    ],
+    "evidence": [
+      {
+        "url": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965",
+        "locator": "Kjøkken、TV-kanna、Barneværelse og mors arbeidsplass、Kildetilfang；明确虚构家庭。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965"
   }
 };
