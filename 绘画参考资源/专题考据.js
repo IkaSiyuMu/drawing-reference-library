@@ -14849,5 +14849,1918 @@
       ],
       "source": "https://histoire-image.org/etudes/carnaval-ses-rejouissances"
     }
+  },
+  {
+    "id": "topic-west3-nl-workers",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "1860—1970年荷兰工薪住宅：小房间、壁床与供水卫生",
+    "region": "荷兰",
+    "period": "1860—1970年；分期比较",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen",
+    "content": "比较Tilburg、赞河地区和Damwoude的工薪住家，关注睡眠、做饭与供水如何挤进小空间；三个地区的住房条件并不同时变化。",
+    "use": "先定地区与年份，再安排壁床、灶台、水桶和通行空间；1950年代厨房不要拼进1860年房间。",
+    "caution": "这是荷兰三个地方的对照，不能代表全国家庭或一条同步的进步时间线。",
+    "find": "1860—1970年荷兰工薪住宅：小房间、壁床与供水卫生 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "荷兰",
+      "era": "1860—1970年；分期比较",
+      "start": 1860,
+      "end": 1970,
+      "dateLabel": "1860—1970年；分期比较",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "这是荷兰三个地方的对照，不能代表全国家庭或一条同步的进步时间线。",
+        "赞河小屋是1976年博物馆重建，其他照片也是馆内现状。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen",
+          "locator": "四间Tilburg房屋：1860、1910、1950年代、1970年代；1958迁建。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.openluchtmuseum.nl/nl/locaties/arbeiderswoning",
+          "locator": "约1900年Honig出租屋；壁床、门厅厨房、单坡顶；1976重建。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.openluchtmuseum.nl/nl/landarbeiderswoning",
+          "locator": "约1947年：七人、电与收音机、无自来水；建筑1860、1997迁建。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-nl-workers-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-nl-workers-0.jpg",
+        "source": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen",
+        "caption": "Tilburg连排工人住宅的博物馆现状；建筑1860年，内装分期展示至1970年代。",
+        "provider": "Nederlands Openluchtmuseum",
+        "credit": "Nederlands Openluchtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.openluchtmuseum.nl/image/2020/3/6/arbeiderswoningen_tilburg.jpg%28mediaclass-large.5aa0036a2763f9799eba66cbff070b88842f7bff%29.jpg",
+        "width": 1772,
+        "height": 1182
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-nl-workers-1.jpg",
+        "full": "绘画参考资源/例图/topic-west3-nl-workers-1.jpg",
+        "source": "https://www.openluchtmuseum.nl/nl/locaties/arbeiderswoning",
+        "caption": "赞河住宅群的博物馆现状；约1900年工人小屋于1976年重建，与较大住宅并置。",
+        "provider": "Nederlands Openluchtmuseum",
+        "credit": "Nederlands Openluchtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.openluchtmuseum.nl/image/2020/8/19/arbeiderswoning_zaanstreek.jpg%28mediaclass-large.5aa0036a2763f9799eba66cbff070b88842f7bff%29.jpg",
+        "width": 1920,
+        "height": 1282
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-nl-workers-2.jpg",
+        "full": "绘画参考资源/例图/topic-west3-nl-workers-2.jpg",
+        "source": "https://www.openluchtmuseum.nl/nl/landarbeiderswoning",
+        "caption": "Damwoude乡村劳动住宅现状；建筑1860年，展示约1947年住家条件，非当年摄影。",
+        "provider": "Nederlands Openluchtmuseum",
+        "credit": "Nederlands Openluchtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.openluchtmuseum.nl/image/2020/8/19/landarbeiderswoning_damwoude.jpg%28mediaclass-large.5aa0036a2763f9799eba66cbff070b88842f7bff%29.jpg",
+        "width": 1920,
+        "height": 1282
+      }
+    ],
+    "topic": {
+      "scope": "比较Tilburg、赞河地区和Damwoude的工薪住家，关注睡眠、做饭与供水如何挤进小空间；三个地区的住房条件并不同时变化。",
+      "common": [
+        {
+          "title": "小空间兼用",
+          "text": "赞河约1900年的出租屋把壁床与柜子放进小起居室，门厅兼厨房；Damwoude约1947年的多人家庭同样受空间约束。",
+          "refs": [
+            "nl_small",
+            "nl_rural"
+          ]
+        },
+        {
+          "title": "有电不等于有自来水",
+          "text": "Damwoude案例已有电和收音机，仍要从泵处提水；不能把一种现代设施出现画成整套设施已齐备。",
+          "refs": [
+            "nl_rural"
+          ]
+        },
+        {
+          "title": "卫生与厨房逐步改变",
+          "text": "Tilburg连排房分别展示1860、约1910、1950年代与1970年代生活；后期厨房台面和护理条件有所改善。",
+          "refs": [
+            "nl_workers"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "约1900年的紧凑出租屋",
+          "feature": "壁床、柜子、小厨房和单坡屋顶组合。",
+          "refs": [
+            "nl_small"
+          ]
+        },
+        {
+          "name": "1947年的乡村劳动家庭",
+          "feature": "多人居住，供水仍依赖室外泵。",
+          "refs": [
+            "nl_rural"
+          ]
+        },
+        {
+          "name": "1950—1970年代的改良内装",
+          "feature": "现代厨房与护理条件分阶段出现。",
+          "refs": [
+            "nl_workers"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "收入、家庭人数及地方基础设施共同影响住房；馆方用不同年代的房间展示卫生变化。",
+          "refs": [
+            "nl_small",
+            "nl_workers",
+            "nl_rural"
+          ]
+        }
+      ],
+      "limits": [
+        "这是荷兰三个地方的对照，不能代表全国家庭或一条同步的进步时间线。",
+        "赞河小屋是1976年博物馆重建，其他照片也是馆内现状。"
+      ],
+      "drawing": "先定地区与年份，再安排壁床、灶台、水桶和通行空间；1950年代厨房不要拼进1860年房间。",
+      "sources": [
+        {
+          "id": "nl_workers",
+          "title": "荷兰露天博物馆 · Workers’ houses",
+          "url": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen",
+          "locator": "四间Tilburg房屋：1860、1910、1950年代、1970年代；1958迁建。"
+        },
+        {
+          "id": "nl_small",
+          "title": "荷兰露天博物馆 · 赞河工人住宅",
+          "url": "https://www.openluchtmuseum.nl/nl/locaties/arbeiderswoning",
+          "locator": "约1900年Honig出租屋；壁床、门厅厨房、单坡顶；1976重建。"
+        },
+        {
+          "id": "nl_rural",
+          "title": "荷兰露天博物馆 · Damwoude住宅",
+          "url": "https://www.openluchtmuseum.nl/nl/landarbeiderswoning",
+          "locator": "约1947年：七人、电与收音机、无自来水；建筑1860、1997迁建。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-se-apartment",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "1940—1960年代瑞典现代住宅：厨房兼用、收纳与独立浴室",
+    "region": "瑞典",
+    "period": "1940—1960年代",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+    "content": "以战后住房改革和1947年HSB两室一厨户型为依据，整理现代住宅怎样分配家务、睡眠、接待与卫生空间；展览家庭是虚构的教学组合。",
+    "use": "分别画厨房日常活动和客厅接待；保留收纳、门口与睡眠折叠家具之间的关系。",
+    "caution": "讨论瑞典战后住宅改革及典型户型，不代表每家在同一年都搬入新房。",
+    "find": "1940—1960年代瑞典现代住宅：厨房兼用、收纳与独立浴室 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞典",
+      "era": "1940—1960年代",
+      "start": 1940,
+      "end": 1969,
+      "dateLabel": "1940—1960年代",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "讨论瑞典战后住宅改革及典型户型，不代表每家在同一年都搬入新房。",
+        "展览依据Katrineholm 1947年户型，家具从不同地方收集；不是某户原状。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+          "locator": "Hemma hos familjen Johansson 1947；Köket、Vardagsrummet、Sovrummet；明确虚构家庭。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+          "locator": "Bo i Folkhemmet；现代住宅、家庭研究、门厅和浴室。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-apartment-0.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-apartment-0.webp",
+        "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "caption": "1947年户型的博物馆复原厨房：灶台、餐桌和厨房沙发同室。",
+        "provider": "Nordiska museet",
+        "credit": "Nordiska museet",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2023/09/folkhemslagenheten-kok.webp",
+        "width": 1920,
+        "height": 1282
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-apartment-1.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-apartment-1.webp",
+        "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "caption": "同一复原公寓的客厅，含沙发、餐桌和阳台门；照片有节日陈设。",
+        "provider": "Nordiska museet",
+        "credit": "Nordiska museet",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2023/09/folkhemslagenheten-vardagsrum-jul-2048x1365.webp",
+        "width": 2048,
+        "height": 1365
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-apartment-2.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-apartment-2.webp",
+        "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "caption": "复原公寓浴室的镜柜与瓷砖细节；1940年代生活研究的陈设组合，非真实家庭旧照。",
+        "provider": "Nordiska museet",
+        "credit": "Nordiska museet",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2023/09/folkhemslagenheten-badrum.webp",
+        "width": 1920,
+        "height": 1282
+      }
+    ],
+    "topic": {
+      "scope": "以战后住房改革和1947年HSB两室一厨户型为依据，整理现代住宅怎样分配家务、睡眠、接待与卫生空间；展览家庭是虚构的教学组合。",
+      "common": [
+        {
+          "title": "收纳按任务分开",
+          "text": "门厅设布草柜，另有清洁柜和衣柜；不同用途的柜子帮助组织小住宅。",
+          "refs": [
+            "se_welfare"
+          ]
+        },
+        {
+          "title": "厨房兼做多项活动",
+          "text": "展览厨房承担做饭、功课、写信与手工，厨房沙发还可供睡眠。",
+          "refs": [
+            "se_home"
+          ]
+        },
+        {
+          "title": "浴室改变家务路径",
+          "text": "室内厕所、浴缸与热水减少去院内厕所及烧洗浴水的需要。",
+          "refs": [
+            "se_home"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "两室一厨家庭公寓",
+          "feature": "厨房、卧室、客厅及浴室分工，但使用仍可能兼用。",
+          "refs": [
+            "se_home"
+          ]
+        },
+        {
+          "name": "较体面的接待客厅",
+          "feature": "新购沙发和餐室家具，与沿用旧家具的厨房并存。",
+          "refs": [
+            "se_home"
+          ]
+        },
+        {
+          "name": "住宅配套改革",
+          "feature": "共用洗衣房、热水和垃圾通道属于现代住房目标。",
+          "refs": [
+            "se_welfare"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "提高卫生和居住标准、减少家务耗时，是住房改革和家庭研究的方向。",
+          "refs": [
+            "se_welfare"
+          ]
+        }
+      ],
+      "limits": [
+        "讨论瑞典战后住宅改革及典型户型，不代表每家在同一年都搬入新房。",
+        "展览依据Katrineholm 1947年户型，家具从不同地方收集；不是某户原状。"
+      ],
+      "drawing": "分别画厨房日常活动和客厅接待；保留收纳、门口与睡眠折叠家具之间的关系。",
+      "sources": [
+        {
+          "id": "se_home",
+          "title": "Nordiska museet · Folkhemslägenheten",
+          "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+          "locator": "Hemma hos familjen Johansson 1947；Köket、Vardagsrummet、Sovrummet；明确虚构家庭。"
+        },
+        {
+          "id": "se_welfare",
+          "title": "Nordiska museet · Folkhemmet",
+          "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+          "locator": "Bo i Folkhemmet；现代住宅、家庭研究、门厅和浴室。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-ch-farmhouse",
+    "module": "architecture",
+    "category": "houses",
+    "name": "18—19世纪瑞士乡村建筑：屋顶材料、取暖与储藏分工",
+    "region": "瑞士",
+    "period": "1750—1899年；建筑类型研究",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/",
+    "content": "以Ballenberg的跨地区建筑研究为主，比较乡村住宅、农舍与储藏建筑的材料和职能；1800年沃州农舍作为确年例证。",
+    "use": "先定来源地区、屋顶材料和房间用途，再画炉子、烟路、窗板及农场储藏建筑。",
+    "caution": "研究时段为晚18—19世纪；综述含更早建筑传统，具体建筑应再核对建造及改造年代。",
+    "find": "18—19世纪瑞士乡村建筑：屋顶材料、取暖与储藏分工 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞士",
+      "era": "1750—1899年；建筑类型研究",
+      "start": 1750,
+      "end": 1899,
+      "dateLabel": "1750—1899年；建筑类型研究",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "研究时段为晚18—19世纪；综述含更早建筑传统，具体建筑应再核对建造及改造年代。",
+        "博物馆建筑经迁建和复原，照片不是原址当年的生活记录。"
+      ],
+      "evidence": [
+        {
+          "url": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/",
+          "locator": "Holz, Stein und Kalk；屋顶、Wohnen und Wärme、Verwertung und Lagerung；跨地区综述。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://ballenberg.ch/de/531/",
+          "locator": "沃州Villars-Bramard：1800/1801建造、传统房间组织、未装修上层。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-farmhouse-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-farmhouse-0.jpg",
+        "source": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/",
+        "caption": "Ballenberg保存建筑的茅草屋顶细节，现代机构照片；单张照片不证明全国统一坡度。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/58c8d501-5a7b-4dae-ab5d-c8595f447a3d_2018-05-06_sami_Rundg.Biodiversitaet_0957.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1065
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-farmhouse-1.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-farmhouse-1.jpg",
+        "source": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/",
+        "caption": "博物馆开放火塘厨房现状；用于观察炉边与烟路，原页未标具体房屋及年代。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/33ec968c-c5ed-4a13-8125-32d213df6a55_2017-06-27-bezu-feuerstelle-bank.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1067
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-farmhouse-2.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-farmhouse-2.jpg",
+        "source": "https://ballenberg.ch/de/531/",
+        "caption": "沃州Villars-Bramard农舍的馆内现状；建造于1800/1801年，作为富裕农舍例证。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/e9870528-190c-4067-a3e4-85da49a30a37_2020-10-13_dabi_Garten_Kutsche.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1067
+      }
+    ],
+    "topic": {
+      "scope": "以Ballenberg的跨地区建筑研究为主，比较乡村住宅、农舍与储藏建筑的材料和职能；1800年沃州农舍作为确年例证。",
+      "common": [
+        {
+          "title": "屋顶材料影响坡度",
+          "text": "茅草屋顶较陡利于排水，压石木瓦可用缓坡；19世纪瓦顶更广泛取代其他覆盖。",
+          "refs": [
+            "ch_buildings"
+          ]
+        },
+        {
+          "title": "热与烟走不同路线",
+          "text": "生活室常由居中瓷砖炉取暖，烟厨房往往向屋顶敞开；窗板也帮助隔热。",
+          "refs": [
+            "ch_buildings"
+          ]
+        },
+        {
+          "title": "储藏建筑按产品分工",
+          "text": "地窖、谷仓、果干炉和奶酪仓分别服务不同食品及保存方式。",
+          "refs": [
+            "ch_buildings"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "住宅与农舍",
+          "feature": "居住、厨房与农业空间组合，地区和收入有差别。",
+          "refs": [
+            "ch_buildings"
+          ]
+        },
+        {
+          "name": "约1800年富裕农舍",
+          "feature": "沃州例证用较体面的立面表达新地位，上层却有未装修区域。",
+          "refs": [
+            "ch_farm"
+          ]
+        },
+        {
+          "name": "专用储藏建筑",
+          "feature": "谷物、果干与乳酪分别需要相应建筑。",
+          "refs": [
+            "ch_buildings"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "材料、气候与农业产品决定空间需求；立面体面程度不能直接证明全屋房间都已完工。",
+          "refs": [
+            "ch_buildings",
+            "ch_farm"
+          ]
+        }
+      ],
+      "limits": [
+        "研究时段为晚18—19世纪；综述含更早建筑传统，具体建筑应再核对建造及改造年代。",
+        "博物馆建筑经迁建和复原，照片不是原址当年的生活记录。"
+      ],
+      "drawing": "先定来源地区、屋顶材料和房间用途，再画炉子、烟路、窗板及农场储藏建筑。",
+      "sources": [
+        {
+          "id": "ch_buildings",
+          "title": "Ballenberg · 建筑与房屋研究",
+          "url": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/",
+          "locator": "Holz, Stein und Kalk；屋顶、Wohnen und Wärme、Verwertung und Lagerung；跨地区综述。"
+        },
+        {
+          "id": "ch_farm",
+          "title": "Ballenberg · 沃州农舍",
+          "url": "https://ballenberg.ch/de/531/",
+          "locator": "沃州Villars-Bramard：1800/1801建造、传统房间组织、未装修上层。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-ie-hearth-furniture",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "1850—1950年爱尔兰乡村家具：炉边座具、兼用床与展示柜",
+    "region": "爱尔兰",
+    "period": "1850—1950年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf",
+    "content": "以国家博物馆的乡村生活与家具研究比较炉边起居、睡眠和储藏器具；地方材料、房屋尺度和收入影响组合。",
+    "use": "先画火塘与墙边家具，留出走动位置；再选椅、长椅床和碗柜的地方类型。",
+    "caution": "专题是乡村家具的类型比较，不能将博物馆整套陈设当作每个农户的必备配置。",
+    "find": "1850—1950年爱尔兰乡村家具：炉边座具、兼用床与展示柜 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "爱尔兰",
+      "era": "1850—1950年",
+      "start": 1850,
+      "end": 1950,
+      "dateLabel": "1850—1950年",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "专题是乡村家具的类型比较，不能将博物馆整套陈设当作每个农户的必备配置。",
+        "炉边历史照片的具体人名、地点和拍摄年在所引图注中未明确，不补猜。"
+      ],
+      "evidence": [
+        {
+          "url": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf",
+          "locator": "印刷页34—35／PDF第19页：Activities in the Home；炉边生活与家具。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://source.museum.ie/en-IE/Collections-Research/Art-and-Industry-Collections/Art-Industry-Collections-List/Furniture/Irish-County-Furniture-FAQs",
+          "locator": "床、座具、储藏与地方家具问答。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://source.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Irish-Country-Furniture",
+          "locator": "重建厨房；dresser、hearth furniture与类型展示。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-ie-hearth-furniture-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ie-hearth-furniture-0.jpg",
+        "source": "https://source.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Irish-Country-Furniture",
+        "caption": "国家博物馆乡村家具陈列的现代照片；不同地区类型的组合，非一户旧宅原状。",
+        "provider": "National Museum of Ireland",
+        "credit": "National Museum of Ireland",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://source.museum.ie/getmedia/5ef950e9-7bcd-48d5-8481-16958d9e0c58/20101214_Furniture_cb_09.jpg?w=1000&h=667&ext=.jpg&width=640",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "绘画参考资源/例图/west3-ie_guide-p19-img1.jpg",
+        "full": "绘画参考资源/例图/west3-ie_guide-p19-img1.jpg",
+        "source": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf",
+        "caption": "馆方导览PDF第19页的炉边家庭历史照片：观察人、火塘及沿墙座具；具体拍摄年和地点未明确。",
+        "provider": "National Museum of Ireland",
+        "credit": "National Museum of Ireland",
+        "license": "从机构发布文献提取的原始图像；原图权利及再使用条件依原文，不另行授予许可。",
+        "related": false,
+        "original": "绘画参考资源/例图/west3-ie_guide-p19-img1.jpg",
+        "width": 1034,
+        "height": 786
+      }
+    ],
+    "topic": {
+      "scope": "以国家博物馆的乡村生活与家具研究比较炉边起居、睡眠和储藏器具；地方材料、房屋尺度和收入影响组合。",
+      "common": [
+        {
+          "title": "炉边组织日常生活",
+          "text": "做饭、进餐、来访及讲故事围绕火塘；家具常利用墙边空间。",
+          "refs": [
+            "ie_guide"
+          ]
+        },
+        {
+          "title": "家具可兼用",
+          "text": "高背长椅床白天坐、夜晚展开；炉旁外凸空间也可安置暖床。",
+          "refs": [
+            "ie_faq"
+          ]
+        },
+        {
+          "title": "柜子兼储藏与展示",
+          "text": "碗柜陈列陶器，也储放食物和器具，体现家庭财力；不等于所有家庭拥有同样数量。",
+          "refs": [
+            "ie_furniture"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "座具与兼用床",
+          "feature": "凳、绳编椅、草编座具和长椅床各有结构。",
+          "refs": [
+            "ie_faq"
+          ]
+        },
+        {
+          "name": "粮食与布草储藏",
+          "feature": "粮食箱、食物柜和箱柜按内容分工。",
+          "refs": [
+            "ie_faq"
+          ]
+        },
+        {
+          "name": "较体面的陈列柜",
+          "feature": "展示陶瓷、玻璃与家庭财富。",
+          "refs": [
+            "ie_furniture"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "有限地面空间促成沿墙与多用途家具；19世纪后半叶家具更普遍，家庭财力仍有差别。",
+          "refs": [
+            "ie_guide",
+            "ie_faq"
+          ]
+        }
+      ],
+      "limits": [
+        "专题是乡村家具的类型比较，不能将博物馆整套陈设当作每个农户的必备配置。",
+        "炉边历史照片的具体人名、地点和拍摄年在所引图注中未明确，不补猜。"
+      ],
+      "drawing": "先画火塘与墙边家具，留出走动位置；再选椅、长椅床和碗柜的地方类型。",
+      "sources": [
+        {
+          "id": "ie_guide",
+          "title": "爱尔兰国家博物馆 · Country Life导览",
+          "url": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf",
+          "locator": "印刷页34—35／PDF第19页：Activities in the Home；炉边生活与家具。"
+        },
+        {
+          "id": "ie_faq",
+          "title": "爱尔兰国家博物馆 · 乡村家具研究",
+          "url": "https://source.museum.ie/en-IE/Collections-Research/Art-and-Industry-Collections/Art-Industry-Collections-List/Furniture/Irish-County-Furniture-FAQs",
+          "locator": "床、座具、储藏与地方家具问答。"
+        },
+        {
+          "id": "ie_furniture",
+          "title": "爱尔兰国家博物馆 · Irish Country Furniture",
+          "url": "https://source.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Irish-Country-Furniture",
+          "locator": "重建厨房；dresser、hearth furniture与类型展示。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-at-tableware",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1758—1918年维也纳宫廷餐器：瓷器、鎏金银器与成套餐桌",
+    "region": "奥地利",
+    "period": "1758—1918年；宫廷餐桌",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+    "content": "比较维也纳帝室使用的瓷器、银鎏金餐器和桌上装饰；这些是宫廷消费与礼仪用具，不能当成一般市民的日用品。",
+    "use": "先选确年的套组和宴席类型，再画汤盆、盘、杯与装饰；鎏金银器按反光材质处理。",
+    "caution": "对象是维也纳帝室，不能代表奥地利普通家庭或所有贵族。",
+    "find": "1758—1918年维也纳宫廷餐器：瓷器、鎏金银器与成套餐桌 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "奥地利",
+      "era": "1758—1918年；宫廷餐桌",
+      "start": 1758,
+      "end": 1918,
+      "dateLabel": "1758—1918年；宫廷餐桌",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "对象是维也纳帝室，不能代表奥地利普通家庭或所有贵族。",
+        "不同套组的制作、转入与增配年有别，配图不能拼成同年标准配置。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+          "locator": "绿带瓷器1758；Grand Vermeil、1816转入与后续增配；Hofsilber- und Tafelkammer。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.habsburger.net/de/kapitel/die-oeffentliche-tafel-ein-augenschmaus-fuer-die-menge",
+          "locator": "公开席面、服务等级和1838年米兰桌上装饰。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.habsburger.net/de/medien/hoftafel-der-grossen-antecamera-der-wiener-hofburg",
+          "locator": "Martin van Meytens及工作室，维也纳1760/63，婚礼组画局部。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-tableware-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-tableware-0.jpg",
+        "source": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+        "caption": "绿带瓷器套组的汤盆；1758年赠送的外交餐器，馆藏现状摄影。",
+        "provider": "Schönbrunn Group／Bundesmobilienverwaltung",
+        "credit": "Schönbrunn Group／Bundesmobilienverwaltung",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/WdH_BMobV_014249.jpg?itok=JGjxsCsy&timestamp=1647432115",
+        "width": 640,
+        "height": 427
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-tableware-1.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-tableware-1.jpg",
+        "source": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+        "caption": "Grand Vermeil套组汤盆：银鎏金；1816转入维也纳，具体器物制作年需查原记录。",
+        "provider": "Schönbrunn Group／Bundesmobilienverwaltung",
+        "credit": "Schönbrunn Group／Bundesmobilienverwaltung",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/WdH_BMobV_014261.jpg?itok=jSCXtS16&timestamp=1647432376",
+        "width": 629,
+        "height": 585
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-tableware-2.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-tableware-2.jpg",
+        "source": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+        "caption": "Martin van Meytens及工作室《霍夫堡大前厅宫廷宴席》，1760/63年，婚礼组画局部；历史绘画，非摄影。",
+        "provider": "Schönbrunn Group／Bundesmobilienverwaltung",
+        "credit": "Schönbrunn Group／Bundesmobilienverwaltung",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/WdH_MD%20040076_Detail%203_CM20.jpg?itok=vaZLapFV&timestamp=1647432516",
+        "width": 640,
+        "height": 437
+      }
+    ],
+    "topic": {
+      "scope": "比较维也纳帝室使用的瓷器、银鎏金餐器和桌上装饰；这些是宫廷消费与礼仪用具，不能当成一般市民的日用品。",
+      "common": [
+        {
+          "title": "器物成套使用",
+          "text": "餐器、甜点器和桌上装饰共同组成服务体系，银器与瓷器并存。",
+          "refs": [
+            "at_table"
+          ]
+        },
+        {
+          "title": "表面材质需分辨",
+          "text": "Grand Vermeil是银鎏金，并非整件纯金；陶瓷彩绘和金饰又有不同视觉效果。",
+          "refs": [
+            "at_table"
+          ]
+        },
+        {
+          "title": "套组跨年补充",
+          "text": "Grand Vermeil于1816年转入维也纳，之后扩充；不能把今天的整套数量套回起初。",
+          "refs": [
+            "at_table"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "外交赠送瓷器",
+          "feature": "1758年塞夫勒绿带餐具送给玛丽亚·特蕾莎。",
+          "refs": [
+            "at_table"
+          ]
+        },
+        {
+          "name": "高级银鎏金餐具",
+          "feature": "用于高等级宫廷餐桌，后续有增配。",
+          "refs": [
+            "at_table"
+          ]
+        },
+        {
+          "name": "桌上陈列与正式服务",
+          "feature": "器物布置同时强调展示和用餐服务。",
+          "refs": [
+            "at_public"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "昂贵材质、外交礼物与正式席面服务使餐具同时承担使用和身份表达。",
+          "refs": [
+            "at_table",
+            "at_public"
+          ]
+        }
+      ],
+      "limits": [
+        "对象是维也纳帝室，不能代表奥地利普通家庭或所有贵族。",
+        "不同套组的制作、转入与增配年有别，配图不能拼成同年标准配置。"
+      ],
+      "drawing": "先选确年的套组和宴席类型，再画汤盆、盘、杯与装饰；鎏金银器按反光材质处理。",
+      "sources": [
+        {
+          "id": "at_table",
+          "title": "Schönbrunn Group · Kaiserliche Tafelschätze",
+          "url": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+          "locator": "绿带瓷器1758；Grand Vermeil、1816转入与后续增配；Hofsilber- und Tafelkammer。"
+        },
+        {
+          "id": "at_public",
+          "title": "Schönbrunn Group · Die Öffentliche Tafel",
+          "url": "https://www.habsburger.net/de/kapitel/die-oeffentliche-tafel-ein-augenschmaus-fuer-die-menge",
+          "locator": "公开席面、服务等级和1838年米兰桌上装饰。"
+        },
+        {
+          "id": "at_table_media",
+          "title": "Schönbrunn Group · 霍夫堡宫廷宴席画",
+          "url": "https://www.habsburger.net/de/medien/hoftafel-der-grossen-antecamera-der-wiener-hofburg",
+          "locator": "Martin van Meytens及工作室，维也纳1760/63，婚礼组画局部。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-se-kitchen-tools",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1940—1960年代瑞典家用厨房：食材收纳、灶具与冷藏分工",
+    "region": "瑞典",
+    "period": "1940—1960年代；厨房器具",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+    "content": "关注瑞典现代住宅里的成组厨房器具，比较固定柜架、灶具与冷藏设备怎样支持备餐；与住宅专题分开核对器具位置及用途。",
+    "use": "画厨房先安排柜架、灶台和食材的取放路径，再放锅、杯盘和储粮容器。",
+    "caution": "讨论现代住宅中的器具组合，不表示瑞典所有家庭同年拥有这些设备。",
+    "find": "1940—1960年代瑞典家用厨房：食材收纳、灶具与冷藏分工 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞典",
+      "era": "1940—1960年代；厨房器具",
+      "start": 1940,
+      "end": 1969,
+      "dateLabel": "1940—1960年代；厨房器具",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "讨论现代住宅中的器具组合，不表示瑞典所有家庭同年拥有这些设备。",
+        "1947年公寓是现代博物馆复原；1950年代厨房图是档案摆姿摄影，二者分开读。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+          "locator": "厨房说明与开柜、Redahylla、灶台配图；1947户型复原。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+          "locator": "1950年代厨房图片；家庭研究所测量操作距离。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-kitchen-tools-0.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-kitchen-tools-0.webp",
+        "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "caption": "1947户型复原的开柜和Redahylla干货架；现代照片，观察格架和杯具。",
+        "provider": "Nordiska museet",
+        "credit": "Nordiska museet",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2023/10/folkhemslagenheten-koksskap-1080x1620-1.webp",
+        "width": 1080,
+        "height": 1620
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-kitchen-tools-1.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-kitchen-tools-1.webp",
+        "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "caption": "复原公寓的灶台与锅具；与同年代厨房柜格一起看，非实际旧家庭现场。",
+        "provider": "Nordiska museet",
+        "credit": "Nordiska museet",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2023/09/folkhemslagenheten-spis-scaled.webp",
+        "width": 1709,
+        "height": 2560
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-kitchen-tools-2.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-kitchen-tools-2.webp",
+        "source": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+        "caption": "1950年代厨房档案照片，人物为摆姿；观察冰箱、冷冻格和柜体。",
+        "provider": "Nordiska museet · 档案",
+        "credit": "Nordiska museet · 档案",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2024/07/kok-1950-tal-nordiska-museet-scaled-e1720000106335.webp",
+        "width": 1902,
+        "height": 2461
+      }
+    ],
+    "topic": {
+      "scope": "关注瑞典现代住宅里的成组厨房器具，比较固定柜架、灶具与冷藏设备怎样支持备餐；与住宅专题分开核对器具位置及用途。",
+      "common": [
+        {
+          "title": "食材按柜格分存",
+          "text": "1947年户型复原内有杯具柜和分存谷物、面粉等的架格；这是一种厨房组织实例。",
+          "refs": [
+            "se_home"
+          ]
+        },
+        {
+          "title": "炉灶与冷藏任务有别",
+          "text": "灶台加热食物，冷藏设备储放食品；1950年代档案图可观察早期冰箱与冷冻格。",
+          "refs": [
+            "se_welfare"
+          ]
+        },
+        {
+          "title": "现代厨房仍有手工家务",
+          "text": "做饭、保存食品和烘烤仍占据厨房工作，不是装上电器就不再劳动。",
+          "refs": [
+            "se_home"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "干货与餐具收纳",
+          "feature": "干粮小格、上柜和杯盘分别归位。",
+          "refs": [
+            "se_home"
+          ]
+        },
+        {
+          "name": "烹饪灶具",
+          "feature": "锅与灶台形成操作区。",
+          "refs": [
+            "se_home"
+          ]
+        },
+        {
+          "name": "冷藏与小冷冻格",
+          "feature": "1950年代厨房档案照中的食品储藏设备。",
+          "refs": [
+            "se_welfare"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "家庭研究关注操作距离及家务效率；设备和柜格因此应作为工作组合看。",
+          "refs": [
+            "se_welfare"
+          ]
+        }
+      ],
+      "limits": [
+        "讨论现代住宅中的器具组合，不表示瑞典所有家庭同年拥有这些设备。",
+        "1947年公寓是现代博物馆复原；1950年代厨房图是档案摆姿摄影，二者分开读。"
+      ],
+      "drawing": "画厨房先安排柜架、灶台和食材的取放路径，再放锅、杯盘和储粮容器。",
+      "sources": [
+        {
+          "id": "se_home",
+          "title": "Nordiska museet · 1947年家庭厨房",
+          "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+          "locator": "厨房说明与开柜、Redahylla、灶台配图；1947户型复原。"
+        },
+        {
+          "id": "se_welfare",
+          "title": "Nordiska museet · 现代家务研究",
+          "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+          "locator": "1950年代厨房图片；家庭研究所测量操作距离。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-ch-dairy-tools",
+    "module": "objects",
+    "category": "tools",
+    "name": "1780—1980年瑞士山区乳酪作坊：铜锅、切凝器、模具与熟成仓",
+    "region": "瑞士",
+    "period": "1780—1980年；传统乳酪作坊",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://ballenberg.ch/de/kaesen/",
+    "content": "以伯尔尼山区的传统制酪工艺与建筑为范围，按加工环节整理铜锅、切凝工具、布、模具及熟成仓的配合。现代馆内演示用于解释流程。",
+    "use": "把火塘、悬锅、布和木模画成连续操作关系，熟成仓另外安排。",
+    "caution": "这是伯尔尼山区传统体系，不是瑞士所有地区、家庭或现代工厂的统一设备。",
+    "find": "1780—1980年瑞士山区乳酪作坊：铜锅、切凝器、模具与熟成仓 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞士",
+      "era": "1780—1980年；传统乳酪作坊",
+      "start": 1780,
+      "end": 1980,
+      "dateLabel": "1780—1980年；传统乳酪作坊",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "这是伯尔尼山区传统体系，不是瑞士所有地区、家庭或现代工厂的统一设备。",
+        "1780年作坊用至1981年被替代；现代示范的人员衣着不能直接搬到18世纪。"
+      ],
+      "evidence": [
+        {
+          "url": "https://ballenberg.ch/de/kaesen/",
+          "locator": "切凝、再加热、布取出、木模、盐浴及养护。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://ballenberg.ch/de/1361/",
+          "locator": "1780年Kandersteg作坊；1981年新楼替代；吊锅、乳品室与盐浴。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://ballenberg.ch/de/352/",
+          "locator": "1785年Wasen奶酪仓；18世纪专业生产与后续养护。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://ballenberg.ch/de/kaesen/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-dairy-tools-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-dairy-tools-0.jpg",
+        "source": "https://ballenberg.ch/de/kaesen/",
+        "caption": "Ballenberg传统制酪的现代示范，观察铜锅与取凝动作；非历史现场。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/5b5d779a-ab8d-429a-9799-f2a740f351d0_2019-09-10_sami_kaesen_1.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1065
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-dairy-tools-1.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-dairy-tools-1.jpg",
+        "source": "https://ballenberg.ch/de/1361/",
+        "caption": "Kandersteg乳酪作坊的博物馆外观；建筑1780年，展示加工建筑与周边通行空间。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/c4fa713c-a63b-4949-949a-f719a15ea8fc_2018-09-27_mime_KEY_Familie_8528.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1067
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-dairy-tools-2.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-dairy-tools-2.jpg",
+        "source": "https://ballenberg.ch/de/352/",
+        "caption": "Wasen奶酪仓的馆内现状，建筑1785年；观察专门储藏建筑。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/1af303ce-de88-4083-9235-80ceadddedd8_2009-09-03_FLM_K%C3%A4sespeicher-352.jpg?auto=format,compress&w=1600",
+        "width": 1600,
+        "height": 1200
+      }
+    ],
+    "topic": {
+      "scope": "以伯尔尼山区的传统制酪工艺与建筑为范围，按加工环节整理铜锅、切凝工具、布、模具及熟成仓的配合。现代馆内演示用于解释流程。",
+      "common": [
+        {
+          "title": "加工按环节换工具",
+          "text": "乳汁凝结后切碎，奶酪粒再加热；布用于取出，木制模具用于成形。",
+          "refs": [
+            "ch_cheese"
+          ]
+        },
+        {
+          "title": "火塘与铜锅成工作中心",
+          "text": "Kandersteg作坊的大锅悬在可转动吊架上，旁设乳品、盐浴和工具空间。",
+          "refs": [
+            "ch_dairy"
+          ]
+        },
+        {
+          "title": "熟成也需要专门空间",
+          "text": "Wasen类型仓库用于保存和养护奶酪，不能把全部过程压缩成灶边一只锅。",
+          "refs": [
+            "ch_storage"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "加热和切凝器具",
+          "feature": "铜锅及切凝工具用于加工阶段。",
+          "refs": [
+            "ch_cheese"
+          ]
+        },
+        {
+          "name": "取凝与成形器具",
+          "feature": "布和木模把奶酪粒从锅中转入模具。",
+          "refs": [
+            "ch_cheese"
+          ]
+        },
+        {
+          "name": "盐浴与熟成设施",
+          "feature": "盐浴、仓架和翻转养护支持后续熟成。",
+          "refs": [
+            "ch_cheese",
+            "ch_storage"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "制作、养护和销售的分工使农场需要不同器具及专用仓库。",
+          "refs": [
+            "ch_cheese",
+            "ch_storage"
+          ]
+        }
+      ],
+      "limits": [
+        "这是伯尔尼山区传统体系，不是瑞士所有地区、家庭或现代工厂的统一设备。",
+        "1780年作坊用至1981年被替代；现代示范的人员衣着不能直接搬到18世纪。"
+      ],
+      "drawing": "把火塘、悬锅、布和木模画成连续操作关系，熟成仓另外安排。",
+      "sources": [
+        {
+          "id": "ch_cheese",
+          "title": "Ballenberg · Käsen",
+          "url": "https://ballenberg.ch/de/kaesen/",
+          "locator": "切凝、再加热、布取出、木模、盐浴及养护。"
+        },
+        {
+          "id": "ch_dairy",
+          "title": "Ballenberg · Alpkäserei Kandersteg",
+          "url": "https://ballenberg.ch/de/1361/",
+          "locator": "1780年Kandersteg作坊；1981年新楼替代；吊锅、乳品室与盐浴。"
+        },
+        {
+          "id": "ch_storage",
+          "title": "Ballenberg · Käsespeicher Wasen",
+          "url": "https://ballenberg.ch/de/352/",
+          "locator": "1785年Wasen奶酪仓；18世纪专业生产与后续养护。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-at-kitchen-service",
+    "module": "people",
+    "category": "work",
+    "name": "1848—1916年维也纳宫廷餐饮职业：厨房分工、运送与上菜",
+    "region": "奥地利",
+    "period": "1848—1916年；弗朗茨·约瑟夫时期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet",
+    "content": "把帝室餐饮看作采购、烹调、运送及席面服务体系，比较厨房人员、搬运者和侍从的任务。",
+    "use": "每个人先指定一项任务，再安排灶边、搬运通道和客人餐桌；画侍从时核对岗位与场合。",
+    "caution": "维也纳宫廷后勤不能当作普通旅店或平民厨房的默认人员配置。",
+    "find": "1848—1916年维也纳宫廷餐饮职业：厨房分工、运送与上菜 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "奥地利",
+      "era": "1848—1916年；弗朗茨·约瑟夫时期",
+      "start": 1848,
+      "end": 1916,
+      "dateLabel": "1848—1916年；弗朗茨·约瑟夫时期",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "维也纳宫廷后勤不能当作普通旅店或平民厨房的默认人员配置。",
+        "1898年绘画是当时出版的艺术记录，不能测量真实劳动速度、人数或全部器具。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet",
+          "locator": "厨房部门、职员供餐、家庭聚餐；Theo Zasche和Artur Halmi，1898年系列。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+          "locator": "Flink und geräuschlos；席面分配、进场与服务流程。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-kitchen-service-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-kitchen-service-0.jpg",
+        "source": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet",
+        "caption": "Theo Zasche《宫廷厨房》，1898年；历史绘画，可看群体分工，非摄影。",
+        "provider": "Theo Zasche／Die Welt der Habsburger",
+        "credit": "Theo Zasche／Die Welt der Habsburger",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/theo_zasche_in_der_hofkueche_zeichnung_1898_original.jpg?itok=KxkteKNE&timestamp=1332428385",
+        "width": 746,
+        "height": 585
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-kitchen-service-1.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-kitchen-service-1.jpg",
+        "source": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet",
+        "caption": "Artur Halmi《Ischl食物运送》，1898年；与厨房和席面服务分开参考。",
+        "provider": "Artur Halmi／Die Welt der Habsburger",
+        "credit": "Artur Halmi／Die Welt der Habsburger",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/artur_halmi_speisenbefoerderung_in_ischl_zeichnung_1898_original_0.jpg?itok=mMIVJ10P&timestamp=1332428385",
+        "width": 780,
+        "height": 467
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-kitchen-service-2.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-kitchen-service-2.jpg",
+        "source": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet",
+        "caption": "Theo Zasche《正式宴席上菜侍从》，1898年；任务明确的群像历史绘画。",
+        "provider": "Theo Zasche／Die Welt der Habsburger",
+        "credit": "Theo Zasche／Die Welt der Habsburger",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/theo_zasche_galadiner_-_auftragende_lakaien_zeichnung_1898_original.jpg?itok=IMNr8cLA&timestamp=1332428385",
+        "width": 403,
+        "height": 585
+      }
+    ],
+    "topic": {
+      "scope": "把帝室餐饮看作采购、烹调、运送及席面服务体系，比较厨房人员、搬运者和侍从的任务。",
+      "common": [
+        {
+          "title": "厨房按工作分科",
+          "text": "肉食、冷菜和面食分工，采购储藏、糖果饮料和酒窖另有部门。",
+          "refs": [
+            "at_kitchen"
+          ]
+        },
+        {
+          "title": "运送是独立场景",
+          "text": "1898年Ischl运食图像与上菜侍从图提供不同任务的动作参照。",
+          "refs": [
+            "at_kitchen"
+          ]
+        },
+        {
+          "title": "用餐对象有差别",
+          "text": "日常人员供餐、帝室家庭聚餐和正式宴席不能合成一个场景。",
+          "refs": [
+            "at_kitchen",
+            "at_table"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "厨房制作",
+          "feature": "灶边加工和准备食物。",
+          "refs": [
+            "at_kitchen"
+          ]
+        },
+        {
+          "name": "运送与分发",
+          "feature": "把食物从制作地点送往使用地点。",
+          "refs": [
+            "at_kitchen"
+          ]
+        },
+        {
+          "name": "席面服务",
+          "feature": "正式场合由相应侍从按流程上菜。",
+          "refs": [
+            "at_table"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "大量人员供餐与正式宴席要求采购、制作、运送和席面服务互相衔接。",
+          "refs": [
+            "at_kitchen",
+            "at_table"
+          ]
+        }
+      ],
+      "limits": [
+        "维也纳宫廷后勤不能当作普通旅店或平民厨房的默认人员配置。",
+        "1898年绘画是当时出版的艺术记录，不能测量真实劳动速度、人数或全部器具。"
+      ],
+      "drawing": "每个人先指定一项任务，再安排灶边、搬运通道和客人餐桌；画侍从时核对岗位与场合。",
+      "sources": [
+        {
+          "id": "at_kitchen",
+          "title": "Schönbrunn Group · Die Hofküche",
+          "url": "https://www.habsburger.net/de/kapitel/die-hofkueche-wenn-der-kaiser-zu-tisch-bittet",
+          "locator": "厨房部门、职员供餐、家庭聚餐；Theo Zasche和Artur Halmi，1898年系列。"
+        },
+        {
+          "id": "at_table",
+          "title": "Schönbrunn Group · 宫廷宴席服务",
+          "url": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+          "locator": "Flink und geräuschlos；席面分配、进场与服务流程。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-at-linen-service",
+    "module": "people",
+    "category": "work",
+    "name": "1809—1918年维也纳宫廷布草职业：桌布、餐巾与清洗保管",
+    "region": "奥地利",
+    "period": "1809—1918年；宫廷布草服务",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.habsburger.net/de/kapitel/die-hofwaeschekammer",
+    "content": "整理帝室厨房和餐桌用布的分类，以及洗涤、熨烫、储藏和领用的职责，补充宴席背后的家务职业。",
+    "use": "分别画脏布处理、熨叠和整齐入库；餐桌上的桌布是后勤工作的结果。",
+    "caution": "对象为帝室布草服务，不能套用普通家庭的岗位规模。",
+    "find": "1809—1918年维也纳宫廷布草职业：桌布、餐巾与清洗保管 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "奥地利",
+      "era": "1809—1918年；宫廷布草服务",
+      "start": 1809,
+      "end": 1918,
+      "dateLabel": "1809—1918年；宫廷布草服务",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "对象为帝室布草服务，不能套用普通家庭的岗位规模。",
+        "1898年图是历史绘画；1902年的地址不能倒填为这张图的确切房间。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.habsburger.net/de/kapitel/die-hofwaeschekammer",
+          "locator": "1809独立服务；两类用布；1902布草室迁入；1898年Theo Zasche图。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.habsburger.net/de/kapitel/die-hofwaeschekammer"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-at-linen-service-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-at-linen-service-0.jpg",
+        "source": "https://www.habsburger.net/de/kapitel/die-hofwaeschekammer",
+        "caption": "Theo Zasche《宫廷布草室》，1898年；历史绘画中的工作与存放关系。",
+        "provider": "Theo Zasche／Die Welt der Habsburger",
+        "credit": "Theo Zasche／Die Welt der Habsburger",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.habsburger.net/files/styles/large/public/originale/theo_zasche_in_der_hofwaeschekammer_zeichnung_1898_original_0.jpg?itok=apCy-vhu&timestamp=1332428347",
+        "width": 780,
+        "height": 543
+      }
+    ],
+    "topic": {
+      "scope": "整理帝室厨房和餐桌用布的分类，以及洗涤、熨烫、储藏和领用的职责，补充宴席背后的家务职业。",
+      "common": [
+        {
+          "title": "布草按任务分类",
+          "text": "桌布和餐巾属一组，备餐台布及包裹餐具、食品的布属于另一组。",
+          "refs": [
+            "at_linen"
+          ]
+        },
+        {
+          "title": "清洁与保管形成链条",
+          "text": "独立服务自1809年起处理洗涤、熨烫、储存及新购。",
+          "refs": [
+            "at_linen"
+          ]
+        },
+        {
+          "title": "洗衣地点与保管房有别",
+          "text": "洗衣房在多瑙运河边；布草室自1902年设于霍夫堡Reichskanzleitrakt底层。",
+          "refs": [
+            "at_linen"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "桌上用布",
+          "feature": "餐巾和桌布服务用餐者及正式布置。",
+          "refs": [
+            "at_linen"
+          ]
+        },
+        {
+          "name": "包裹与备餐用布",
+          "feature": "服务于餐具、食品和备餐位置。",
+          "refs": [
+            "at_linen"
+          ]
+        },
+        {
+          "name": "洗净、熨好与入库",
+          "feature": "布草从清洁处理转入保管领用。",
+          "refs": [
+            "at_linen"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "宫廷既重视桌面的体面，也需要大批布草反复周转，因而设独立后勤服务。",
+          "refs": [
+            "at_linen"
+          ]
+        }
+      ],
+      "limits": [
+        "对象为帝室布草服务，不能套用普通家庭的岗位规模。",
+        "1898年图是历史绘画；1902年的地址不能倒填为这张图的确切房间。"
+      ],
+      "drawing": "分别画脏布处理、熨叠和整齐入库；餐桌上的桌布是后勤工作的结果。",
+      "sources": [
+        {
+          "id": "at_linen",
+          "title": "Schönbrunn Group · Die Hofwäschekammer",
+          "url": "https://www.habsburger.net/de/kapitel/die-hofwaeschekammer",
+          "locator": "1809独立服务；两类用布；1902布草室迁入；1898年Theo Zasche图。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-ch-blacksmith",
+    "module": "people",
+    "category": "work",
+    "name": "1850—1900年瑞士乡村铁匠：锻打、钉类分工与机械作坊",
+    "region": "瑞士",
+    "period": "1850—1900年；附后续改装对照",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://ballenberg.ch/de/schmieden/",
+    "content": "结合乡村锻工研究与Bümpliz作坊，比较手工钉制造、修理和机械作业的任务；建筑年代与机器后续加入时间分开核对。",
+    "use": "先画火塘、铁砧、持钳手和落锤方向，再安排机械区；机械设备按具体年代另证。",
+    "caution": "1850—1900是建筑建造窗口，不保证现陈列电机和所有机器同年安装。",
+    "find": "1850—1900年瑞士乡村铁匠：锻打、钉类分工与机械作坊 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞士",
+      "era": "1850—1900年；附后续改装对照",
+      "start": 1850,
+      "end": 1900,
+      "dateLabel": "1850—1900年；附后续改装对照",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "1850—1900是建筑建造窗口，不保证现陈列电机和所有机器同年安装。",
+        "现代示范照片只用于工序和工具接触关系，衣着不能反推为历史工作服。"
+      ],
+      "evidence": [
+        {
+          "url": "https://ballenberg.ch/de/schmieden/",
+          "locator": "钉的加热、转动、截断与孔板；从通用锻工到专门工种。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://ballenberg.ch/de/1052/",
+          "locator": "1850—1900建造；传动、电机、部分陈设来自Interlaken；居住工作分区。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://ballenberg.ch/de/schmieden/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-blacksmith-0.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-blacksmith-0.jpg",
+        "source": "https://ballenberg.ch/de/schmieden/",
+        "caption": "Ballenberg铁匠的现代示范，观察夹持与锻打接触关系，非19世纪现场。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/413744b4-335a-4219-8bc2-93110bfed9f5_2019-09-09_sami_schmieden_3_16x9.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-blacksmith-1.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-blacksmith-1.jpg",
+        "source": "https://ballenberg.ch/de/1052/",
+        "caption": "Bümpliz铁匠铺外观现状；建筑建造于1850—1900年，观察大门、外楼梯与上层居住空间。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/8cfbfb3f-606b-49ec-a19f-9221c722da44_2019-09-09_sami_schmieden_0026.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1065
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-ch-blacksmith-2.jpg",
+        "full": "绘画参考资源/例图/topic-west3-ch-blacksmith-2.jpg",
+        "source": "https://ballenberg.ch/de/1052/",
+        "caption": "Bümpliz作坊悬挂铁件与器具的现状；观察存放方式，具体制作年代另查原记录。",
+        "provider": "Ballenberg Freilichtmuseum",
+        "credit": "Ballenberg Freilichtmuseum",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://images.prismic.io/ballenberg/d031323c-548f-488f-9d59-07b9f0a0e331_2019-09-09_sami_schmieden_6684.jpg?auto=compress,format&w=1600",
+        "width": 1600,
+        "height": 1068
+      }
+    ],
+    "topic": {
+      "scope": "结合乡村锻工研究与Bümpliz作坊，比较手工钉制造、修理和机械作业的任务；建筑年代与机器后续加入时间分开核对。",
+      "common": [
+        {
+          "title": "锻打有重复动作",
+          "text": "铁料在火中加热后反复锻打与转动，截成长度，再用带孔板锻出钉头。",
+          "refs": [
+            "ch_forge"
+          ]
+        },
+        {
+          "title": "产品改变工作要求",
+          "text": "马蹄、木作、屋瓦等用途需要不同钉类；一般铁匠逐步出现专门分工。",
+          "refs": [
+            "ch_forge"
+          ]
+        },
+        {
+          "title": "手工与机器可共存",
+          "text": "Bümpliz1850—1900年间所建作坊后来含钻、磨、切螺纹机及传动皮带，现代陈列还含电机。",
+          "refs": [
+            "ch_forge_house"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "手工锻钉",
+          "feature": "加热、锻尖、截断与做钉头分阶段。",
+          "refs": [
+            "ch_forge"
+          ]
+        },
+        {
+          "name": "修理及专门锻工",
+          "feature": "通用铁匠、蹄铁及刀具等工作有别。",
+          "refs": [
+            "ch_forge"
+          ]
+        },
+        {
+          "name": "增配机器的作坊",
+          "feature": "机加工区与火塘并置，不等于每个村庄都如此。",
+          "refs": [
+            "ch_forge_house"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "建筑及农具需求推动产品分型；机械化又扩展修理和加工任务。",
+          "refs": [
+            "ch_forge",
+            "ch_forge_house"
+          ]
+        }
+      ],
+      "limits": [
+        "1850—1900是建筑建造窗口，不保证现陈列电机和所有机器同年安装。",
+        "现代示范照片只用于工序和工具接触关系，衣着不能反推为历史工作服。"
+      ],
+      "drawing": "先画火塘、铁砧、持钳手和落锤方向，再安排机械区；机械设备按具体年代另证。",
+      "sources": [
+        {
+          "id": "ch_forge",
+          "title": "Ballenberg · Schmieden",
+          "url": "https://ballenberg.ch/de/schmieden/",
+          "locator": "钉的加热、转动、截断与孔板；从通用锻工到专门工种。"
+        },
+        {
+          "id": "ch_forge_house",
+          "title": "Ballenberg · Bümpliz铁匠铺",
+          "url": "https://ballenberg.ch/de/1052/",
+          "locator": "1850—1900建造；传动、电机、部分陈设来自Interlaken；居住工作分区。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-se-midsummer",
+    "module": "people",
+    "category": "interaction",
+    "name": "19—20世纪瑞典仲夏习俗：花饰节柱、围舞与年代变化",
+    "region": "瑞典",
+    "period": "1800—1999年；仲夏庆典",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/midsommarfirande-och-traditioner/",
+    "content": "以Nordiska museet的习俗研究为依据，整理仲夏节柱、围舞及采花习俗，区分19世纪形式与20世纪歌舞传播。",
+    "use": "先定年份，再选节柱形态及围舞动作；让人围绕同一中心，采花另作小场景。",
+    "caution": "范围是瑞典；丹麦、挪威的篝火传统不能直接混入同一地方场景。",
+    "find": "19—20世纪瑞典仲夏习俗：花饰节柱、围舞与年代变化 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞典",
+      "era": "1800—1999年；仲夏庆典",
+      "start": 1800,
+      "end": 1999,
+      "dateLabel": "1800—1999年；仲夏庆典",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "范围是瑞典；丹麦、挪威的篝火传统不能直接混入同一地方场景。",
+        "两张机构档案照片的所引网页未给出拍摄年份，仅作20世纪形象参照，精确年份应查档案号。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/midsommarfirande-och-traditioner/",
+          "locator": "19世纪形式、1920年代歌舞；节柱、采花及习俗意义；照片NMA.0104958、NMA.0030079。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nordiskamuseet.se/utforska/livet-i-norden/midsommarfirande-och-traditioner/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-midsummer-0.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-midsummer-0.webp",
+        "source": "https://www.nordiskamuseet.se/utforska/livet-i-norden/midsommarfirande-och-traditioner/",
+        "caption": "机构档案中的成人与儿童围绕花饰节柱跳舞，NMA.0030079；所引页面未列具体拍摄年。",
+        "provider": "Nordiska museet · 档案",
+        "credit": "Nordiska museet · 档案",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2024/05/dans-midsommarstang-NMA.0030079-nordiska-museet-e1750326126460.webp",
+        "width": 1920,
+        "height": 1462
+      },
+      {
+        "src": "绘画参考资源/例图/topic-west3-se-midsummer-1.webp",
+        "full": "绘画参考资源/例图/topic-west3-se-midsummer-1.webp",
+        "source": "https://www.nordiskamuseet.se/utforska/livet-i-norden/midsommarfirande-och-traditioner/",
+        "caption": "戴花环者采花的机构档案照片，NMA.0104958；所引页面未列具体拍摄年。",
+        "provider": "Nordiska museet · 档案",
+        "credit": "Nordiska museet · 档案",
+        "license": "图像权利及再使用条件依机构原页；保留来源、作者与图注。",
+        "related": false,
+        "original": "https://www.nordiskamuseet.se/wp-content/uploads/2024/05/midsommar-plocka-blommor-NMA.0104958-nordiska-museet-e1750321343827.webp",
+        "width": 1920,
+        "height": 1923
+      }
+    ],
+    "topic": {
+      "scope": "以Nordiska museet的习俗研究为依据，整理仲夏节柱、围舞及采花习俗，区分19世纪形式与20世纪歌舞传播。",
+      "common": [
+        {
+          "title": "节柱形态有变化",
+          "text": "较早花饰杆与带横杆、花环的十字形不应画成从来一样；十字形在19世纪上层环境发展。",
+          "refs": [
+            "se_midsummer"
+          ]
+        },
+        {
+          "title": "歌舞也有年代",
+          "text": "今日形式约从19世纪中期发展，带歌的舞蹈在1920年代更流行。",
+          "refs": [
+            "se_midsummer"
+          ]
+        },
+        {
+          "title": "习俗联系现实愿望",
+          "text": "采花占卜等关联婚配、收成和健康的愿望，不能画成有史料证明的超自然事件。",
+          "refs": [
+            "se_midsummer"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "围柱群舞",
+          "feature": "先核对节柱形态和表演年代。",
+          "refs": [
+            "se_midsummer"
+          ]
+        },
+        {
+          "name": "采花与花环",
+          "feature": "作为庆典物件及相关习俗；个人行为并非人人必做。",
+          "refs": [
+            "se_midsummer"
+          ]
+        },
+        {
+          "name": "20世纪集体歌舞",
+          "feature": "带歌和游戏的群舞更适合对应年代。",
+          "refs": [
+            "se_midsummer"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "城市化、对乡村的记忆和歌曲出版推动当代庆典形式发展。",
+          "refs": [
+            "se_midsummer"
+          ]
+        }
+      ],
+      "limits": [
+        "范围是瑞典；丹麦、挪威的篝火传统不能直接混入同一地方场景。",
+        "两张机构档案照片的所引网页未给出拍摄年份，仅作20世纪形象参照，精确年份应查档案号。"
+      ],
+      "drawing": "先定年份，再选节柱形态及围舞动作；让人围绕同一中心，采花另作小场景。",
+      "sources": [
+        {
+          "id": "se_midsummer",
+          "title": "Nordiska museet · 仲夏习俗研究",
+          "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/midsommarfirande-och-traditioner/",
+          "locator": "19世纪形式、1920年代歌舞；节柱、采花及习俗意义；照片NMA.0104958、NMA.0030079。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-west3-se-lucia",
+    "module": "people",
+    "category": "interaction",
+    "name": "1764—1950年代瑞典露西亚习俗：庄园晨访、扮装与公开队列",
+    "region": "瑞典",
+    "period": "1764—1950年代；露西亚节",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nordiskamuseet.se/utforska/hogtider/lucia/",
+    "content": "比较西瑞典上层晨访、地方扮装和20世纪公开庆典；当代常见的整齐白衣队列是变化的结果，不能覆盖所有历史形式。",
+    "use": "1848年场景参考托盘、床边来访和观看关系；公开队列另按20世纪资料核对。",
+    "caution": "所引资料对Skansen首次活动的具体年有1892与1893差别，概括为1890年代并保留原注。",
+    "find": "1764—1950年代瑞典露西亚习俗：庄园晨访、扮装与公开队列 西方生活扩充20261003 西方生活",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞典",
+      "era": "1764—1950年代；露西亚节",
+      "start": 1764,
+      "end": 1959,
+      "dateLabel": "1764—1950年代；露西亚节",
+      "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+      "notes": [
+        "所引资料对Skansen首次活动的具体年有1892与1893差别，概括为1890年代并保留原注。",
+        "不把同一时期所有阶层都画成现代白衣队列；照片和绘画的任务不同。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nordiskamuseet.se/utforska/hogtider/lucia/",
+          "locator": "1764、19世纪扮装、1890年代Skansen、1950年代普及；时间线。",
+          "text": "核对共同特征、类型或实例年代。"
+        },
+        {
+          "url": "https://costume.mini.icom.museum/wp-content/uploads/sites/10/2018/12/Resare_ed_JP.pdf",
+          "locator": "Ann Resare：The Swedish Lucia and her Dress，PDF第1页Fig.1（1848），第2页Fig.2（图注1893）。",
+          "text": "核对共同特征、类型或实例年代。"
+        }
+      ],
+      "source": "https://www.nordiskamuseet.se/utforska/hogtider/lucia/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/west3-se_lucia_paper-p1-img0.jpg",
+        "full": "绘画参考资源/例图/west3-se_lucia_paper-p1-img0.jpg",
+        "source": "https://costume.mini.icom.museum/wp-content/uploads/sites/10/2018/12/Resare_ed_JP.pdf",
+        "caption": "Fritz von Dardel，1848年Koberg露西亚晨访；从ICOM文献Fig.1提取的历史绘画复制图，非自绘。",
+        "provider": "Fritz von Dardel／Ann Resare／ICOM Costume",
+        "credit": "Fritz von Dardel／Ann Resare／ICOM Costume",
+        "license": "从机构发布文献提取的原始图像；原图权利及再使用条件依原文，不另行授予许可。",
+        "related": false,
+        "original": "绘画参考资源/例图/west3-se_lucia_paper-p1-img0.jpg",
+        "width": 1468,
+        "height": 1086
+      },
+      {
+        "src": "绘画参考资源/例图/west3-se_lucia_paper-p2-img0.jpg",
+        "full": "绘画参考资源/例图/west3-se_lucia_paper-p2-img0.jpg",
+        "source": "https://costume.mini.icom.museum/wp-content/uploads/sites/10/2018/12/Resare_ed_JP.pdf",
+        "caption": "Skansen早期露西亚历史照片；ICOM Fig.2图注1893，Nordiska研究时间线写1892，保留年代差异。",
+        "provider": "Ann Resare／ICOM Costume／Skansen",
+        "credit": "Ann Resare／ICOM Costume／Skansen",
+        "license": "从机构发布文献提取的原始图像；原图权利及再使用条件依原文，不另行授予许可。",
+        "related": false,
+        "original": "绘画参考资源/例图/west3-se_lucia_paper-p2-img0.jpg",
+        "width": 782,
+        "height": 1020
+      }
+    ],
+    "topic": {
+      "scope": "比较西瑞典上层晨访、地方扮装和20世纪公开庆典；当代常见的整齐白衣队列是变化的结果，不能覆盖所有历史形式。",
+      "common": [
+        {
+          "title": "上层晨访是早期类型",
+          "text": "1764年的记录有白衣、翼饰及手持烛台；1848年Koberg图像可观察庄园晨访。",
+          "refs": [
+            "se_lucia",
+            "se_lucia_paper"
+          ]
+        },
+        {
+          "title": "乡村扮装较多样",
+          "text": "19世纪地方巡游有玩笑装扮，并不总是今天的庄严少女形象。",
+          "refs": [
+            "se_lucia"
+          ]
+        },
+        {
+          "title": "公开队列逐渐传播",
+          "text": "1890年代Skansen展示，之后报刊竞赛、学校和社会庆典推动传播；1950年代更普遍。",
+          "refs": [
+            "se_lucia"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "庄园晨访",
+          "feature": "晨间供食及近距离家庭互动。",
+          "refs": [
+            "se_lucia_paper"
+          ]
+        },
+        {
+          "name": "地方扮装巡游",
+          "feature": "角色与服饰可有玩笑性质，需按地方核对。",
+          "refs": [
+            "se_lucia"
+          ]
+        },
+        {
+          "name": "20世纪公开队列",
+          "feature": "灯冠、随行者与歌曲在传播中形成组合。",
+          "refs": [
+            "se_lucia"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "博物馆展示、报刊和社会组织使地方习俗进入更广泛公共环境。",
+          "refs": [
+            "se_lucia"
+          ]
+        }
+      ],
+      "limits": [
+        "所引资料对Skansen首次活动的具体年有1892与1893差别，概括为1890年代并保留原注。",
+        "不把同一时期所有阶层都画成现代白衣队列；照片和绘画的任务不同。"
+      ],
+      "drawing": "1848年场景参考托盘、床边来访和观看关系；公开队列另按20世纪资料核对。",
+      "sources": [
+        {
+          "id": "se_lucia",
+          "title": "Nordiska museet · Lucia",
+          "url": "https://www.nordiskamuseet.se/utforska/hogtider/lucia/",
+          "locator": "1764、19世纪扮装、1890年代Skansen、1950年代普及；时间线。"
+        },
+        {
+          "id": "se_lucia_paper",
+          "title": "ICOM Costume · 瑞典露西亚及服饰研究",
+          "url": "https://costume.mini.icom.museum/wp-content/uploads/sites/10/2018/12/Resare_ed_JP.pdf",
+          "locator": "Ann Resare：The Swedish Lucia and her Dress，PDF第1页Fig.1（1848），第2页Fig.2（图注1893）。"
+        }
+      ],
+      "examples": []
+    }
   }
-];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月2日";})();
+];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月3日";})();

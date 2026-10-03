@@ -7064,5 +7064,176 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://visitmuseum.gencat.cat/es/museo/museu-del-cantir-d-argentona/recorrido/formes-i-funcions-dels-atuells-d-aigua-les-morfologies"
+  },
+  "topic-west3-nl-workers": {
+    "region": "欧洲",
+    "country": "荷兰",
+    "era": "1860—1970年；分期比较",
+    "start": 1860,
+    "end": 1970,
+    "dateLabel": "1860—1970年；分期比较",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "这是荷兰三个地方的对照，不能代表全国家庭或一条同步的进步时间线。",
+      "赞河小屋是1976年博物馆重建，其他照片也是馆内现状。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen",
+        "locator": "四间Tilburg房屋：1860、1910、1950年代、1970年代；1958迁建。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.openluchtmuseum.nl/nl/locaties/arbeiderswoning",
+        "locator": "约1900年Honig出租屋；壁床、门厅厨房、单坡顶；1976重建。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.openluchtmuseum.nl/nl/landarbeiderswoning",
+        "locator": "约1947年：七人、电与收音机、无自来水；建筑1860、1997迁建。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.openluchtmuseum.nl/en/locaties/arbeiderswoningen"
+  },
+  "topic-west3-se-apartment": {
+    "region": "欧洲",
+    "country": "瑞典",
+    "era": "1940—1960年代",
+    "start": 1940,
+    "end": 1969,
+    "dateLabel": "1940—1960年代",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "讨论瑞典战后住宅改革及典型户型，不代表每家在同一年都搬入新房。",
+      "展览依据Katrineholm 1947年户型，家具从不同地方收集；不是某户原状。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "locator": "Hemma hos familjen Johansson 1947；Köket、Vardagsrummet、Sovrummet；明确虚构家庭。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+        "locator": "Bo i Folkhemmet；现代住宅、家庭研究、门厅和浴室。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/"
+  },
+  "topic-west3-ch-farmhouse": {
+    "region": "欧洲",
+    "country": "瑞士",
+    "era": "1750—1899年；建筑类型研究",
+    "start": 1750,
+    "end": 1899,
+    "dateLabel": "1750—1899年；建筑类型研究",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "研究时段为晚18—19世纪；综述含更早建筑传统，具体建筑应再核对建造及改造年代。",
+      "博物馆建筑经迁建和复原，照片不是原址当年的生活记录。"
+    ],
+    "evidence": [
+      {
+        "url": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/",
+        "locator": "Holz, Stein und Kalk；屋顶、Wohnen und Wärme、Verwertung und Lagerung；跨地区综述。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://ballenberg.ch/de/531/",
+        "locator": "沃州Villars-Bramard：1800/1801建造、传统房间组织、未装修上层。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://ballenberg.ch/de/museum-entdecken/architektur-und-gebaeude/"
+  },
+  "topic-west3-ie-hearth-furniture": {
+    "region": "欧洲",
+    "country": "爱尔兰",
+    "era": "1850—1950年",
+    "start": 1850,
+    "end": 1950,
+    "dateLabel": "1850—1950年",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "专题是乡村家具的类型比较，不能将博物馆整套陈设当作每个农户的必备配置。",
+      "炉边历史照片的具体人名、地点和拍摄年在所引图注中未明确，不补猜。"
+    ],
+    "evidence": [
+      {
+        "url": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf",
+        "locator": "印刷页34—35／PDF第19页：Activities in the Home；炉边生活与家具。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://source.museum.ie/en-IE/Collections-Research/Art-and-Industry-Collections/Art-Industry-Collections-List/Furniture/Irish-County-Furniture-FAQs",
+        "locator": "床、座具、储藏与地方家具问答。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://source.museum.ie/en-IE/Museums/Decorative-Arts-History/Exhibitions/Irish-Country-Furniture",
+        "locator": "重建厨房；dresser、hearth furniture与类型展示。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://source.museum.ie/getmedia/ec521e98-aa53-4ae7-af5c-bfa1b59e77cb/tp_guide_web_en.pdf"
+  },
+  "topic-west3-at-tableware": {
+    "region": "欧洲",
+    "country": "奥地利",
+    "era": "1758—1918年；宫廷餐桌",
+    "start": 1758,
+    "end": 1918,
+    "dateLabel": "1758—1918年；宫廷餐桌",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "对象是维也纳帝室，不能代表奥地利普通家庭或所有贵族。",
+      "不同套组的制作、转入与增配年有别，配图不能拼成同年标准配置。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze",
+        "locator": "绿带瓷器1758；Grand Vermeil、1816转入与后续增配；Hofsilber- und Tafelkammer。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.habsburger.net/de/kapitel/die-oeffentliche-tafel-ein-augenschmaus-fuer-die-menge",
+        "locator": "公开席面、服务等级和1838年米兰桌上装饰。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.habsburger.net/de/medien/hoftafel-der-grossen-antecamera-der-wiener-hofburg",
+        "locator": "Martin van Meytens及工作室，维也纳1760/63，婚礼组画局部。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.habsburger.net/de/ausstellungen/kaiserliche-tafelschaetze"
+  },
+  "topic-west3-se-kitchen-tools": {
+    "region": "欧洲",
+    "country": "瑞典",
+    "era": "1940—1960年代；厨房器具",
+    "start": 1940,
+    "end": 1969,
+    "dateLabel": "1940—1960年代；厨房器具",
+    "dateBasis": "专题选定的研究时段；配图、建筑建造及陈设的具体年代分别见图注。",
+    "notes": [
+      "讨论现代住宅中的器具组合，不表示瑞典所有家庭同年拥有这些设备。",
+      "1947年公寓是现代博物馆复原；1950年代厨房图是档案摆姿摄影，二者分开读。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/",
+        "locator": "厨房说明与开柜、Redahylla、灶台配图；1947户型复原。",
+        "text": "核对共同特征、类型或实例年代。"
+      },
+      {
+        "url": "https://www.nordiskamuseet.se/utforska/livet-i-norden/folkhemmet/",
+        "locator": "1950年代厨房图片；家庭研究所测量操作距离。",
+        "text": "核对共同特征、类型或实例年代。"
+      }
+    ],
+    "source": "https://www.nordiskamuseet.se/utstallningar/folkhemslagenheten/"
   }
 };
