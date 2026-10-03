@@ -21145,5 +21145,15618 @@
       ],
       "examples": []
     }
+  },
+  {
+    "id": "topic-world200-architecture-moroccan-ksar",
+    "module": "architecture",
+    "category": "houses",
+    "name": "摩洛哥南部土筑堡村：普通住宅与带塔大宅",
+    "region": "摩洛哥（前撒哈拉山谷）",
+    "period": "17世纪以来的现存土筑建筑例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/444/",
+    "content": "以多户聚居的ksar堡村为类型，借艾特本哈杜的完整住房组合比较住宅与公共防护。",
+    "use": "先画共同围墙、折转门和小巷，再区分简屋与带塔大宅；别给每栋房子都装同样城垛。",
+    "caution": "17世纪是现存最早建筑的谨慎界限，不是传统的起源年。",
+    "find": "摩洛哥南部土筑堡村：普通住宅与带塔大宅 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "摩洛哥（前撒哈拉山谷）",
+      "era": "17世纪以来的现存土筑建筑例证",
+      "start": 1601,
+      "end": null,
+      "dateLabel": "17世纪以来的现存土筑建筑例证",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "17世纪是现存最早建筑的谨慎界限，不是传统的起源年。",
+        "这里的ksar是多户堡村，不可与单一家族独占的城堡混为一类。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/444/",
+          "locator": "Brief synthesis：modest and small urban castles、not earlier than 17th、community areas；Criterion iv。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/444/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-444.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-444.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_444.jpg",
+        "source": "https://whc.unesco.org/en/list/444/",
+        "caption": "艾特本哈杜堡村官方配图；17世纪以来现存传统例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以多户聚居的ksar堡村为类型，借艾特本哈杜的完整住房组合比较住宅与公共防护。",
+      "common": [
+        {
+          "title": "共同围护",
+          "text": "密集住宅处于带角塔和折转入口的防护墙内，既有私宅也有公共活动空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "土木材料系统",
+          "text": "土、木和土砖纹饰构成地方建筑，墙面与屋顶需要持续养护。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "普通住宅型",
+          "feature": "较简朴住房排列在紧密巷道中，与社区防御和公共设施共享环境。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "带塔大宅型",
+          "feature": "部分住处形似小城堡，高角塔和上部土砖装饰表现财富与规模差别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "山谷商路带来交往，集体保护、地方材料与干旱气候共同形成紧凑的聚居方式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "17世纪是现存最早建筑的谨慎界限，不是传统的起源年。",
+        "这里的ksar是多户堡村，不可与单一家族独占的城堡混为一类。"
+      ],
+      "drawing": "先画共同围墙、折转门和小巷，再区分简屋与带塔大宅；别给每栋房子都装同样城垛。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "摩洛哥南部土筑堡村：普通住宅与带塔大宅：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/444/",
+          "locator": "Brief synthesis：modest and small urban castles、not earlier than 17th、community areas；Criterion iv。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-mozabite",
+    "module": "architecture",
+    "category": "houses",
+    "name": "姆扎卜伊巴德派聚落：堡村与棕榈园夏居",
+    "region": "阿尔及利亚（姆扎卜谷地）",
+    "period": "11—14世纪堡村建立；传统建造持续沿用",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/188/",
+    "content": "比较姆扎卜多个堡村中的定居与季节居住组织，关注共同体、家庭及水资源的配合。",
+    "use": "背景同时安排堡村、园地和水路，让季节生活与城市防护成为构图依据；住宅尺度保持简洁。",
+    "caution": "11—14世纪是五个堡村创建范围，不给每幢存世房屋统一断代。",
+    "find": "姆扎卜伊巴德派聚落：堡村与棕榈园夏居 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "阿尔及利亚（姆扎卜谷地）",
+      "era": "11—14世纪堡村建立；传统建造持续沿用",
+      "start": 1012,
+      "end": 1350,
+      "dateLabel": "11—14世纪堡村建立；传统建造持续沿用",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "11—14世纪是五个堡村创建范围，不给每幢存世房屋统一断代。",
+        "白墙尖塔的官方配图为公共宗教节点，不能推定全部住宅都有同样塔顶。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/188/",
+          "locator": "Brief synthesis：1012 and 1350、11th century；Criteria iii、v：ksar cemetery palm grove summer citadel。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/188/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-188.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-188.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_188.jpg",
+        "source": "https://whc.unesco.org/en/list/188/",
+        "caption": "姆扎卜堡村公共宗教建筑官方配图；聚落11—14世纪形成，具体墙体与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较姆扎卜多个堡村中的定居与季节居住组织，关注共同体、家庭及水资源的配合。",
+      "common": [
+        {
+          "title": "家庭与共同体并重",
+          "text": "建筑简洁实用，群居组织同时保持家庭结构，不以宫殿式大空间理解全部住宅。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "水与棕榈园相接",
+          "text": "取水、分水和棕榈园组成聚落系统，住房应与生产土地一同考察。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "堡村常居型",
+          "feature": "ksar防护聚落满足长期居住和社区组织，体现撤守和防御需要。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "园地夏居型",
+          "feature": "棕榈园及其夏季堡居构成另一部分生活空间，不能与密集常居街区混画。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "半沙漠条件需要有效共同管理水源，同时伊巴德派社会的平等原则影响聚落组织。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "11—14世纪是五个堡村创建范围，不给每幢存世房屋统一断代。",
+        "白墙尖塔的官方配图为公共宗教节点，不能推定全部住宅都有同样塔顶。"
+      ],
+      "drawing": "背景同时安排堡村、园地和水路，让季节生活与城市防护成为构图依据；住宅尺度保持简洁。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "姆扎卜伊巴德派聚落：堡村与棕榈园夏居：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/188/",
+          "locator": "Brief synthesis：1012 and 1350、11th century；Criteria iii、v：ksar cemetery palm grove summer citadel。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-ghadames",
+    "module": "architecture",
+    "category": "houses",
+    "name": "加达梅斯沙漠住宅：储藏层、家庭层与屋顶道路",
+    "region": "利比亚（加达梅斯绿洲）",
+    "period": "中世纪延续的土筑住宅传统；单宅始建年未细分",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/362/",
+    "content": "比较绿洲传统住宅的上下功能层，重点是屋顶通行和覆顶街道对日常生活的作用。",
+    "use": "剖面中把街巷、储存、居室和露台连起来；外景要表现光井与高女儿墙，别画成无遮阴宽路。",
+    "caution": "这是一种住宅层级对照，不是当地正式命名的两种房型。",
+    "find": "加达梅斯沙漠住宅：储藏层、家庭层与屋顶道路 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "利比亚（加达梅斯绿洲）",
+      "era": "中世纪延续的土筑住宅传统；单宅始建年未细分",
+      "start": null,
+      "end": null,
+      "dateLabel": "中世纪延续的土筑住宅传统；单宅始建年未细分",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "这是一种住宅层级对照，不是当地正式命名的两种房型。",
+        "现今旧城没有永久居民，但仍用于聚会；不要标为全天候常住现状。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/362/",
+          "locator": "Description：vertical division；Brief synthesis：medieval traditions；Authenticity：no resident dwells permanently。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/362/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-362.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-362.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_362.jpg",
+        "source": "https://whc.unesco.org/en/list/362/",
+        "caption": "加达梅斯巷道官方配图；展示传统遮蔽街道，拍摄日期未载，旧城现已非永久常住区。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较绿洲传统住宅的上下功能层，重点是屋顶通行和覆顶街道对日常生活的作用。",
+      "common": [
+        {
+          "title": "功能竖向划分",
+          "text": "地面层储存，上层家庭生活，屋顶露台与公共巷道各有社会用途。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "覆顶街巷降温",
+          "text": "房屋悬出、连续屋面与少量天光形成遮蔽网络，石基、土砖和棕榈木协同建造。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "下部储存及街道",
+          "feature": "供应储存、男子和儿童会面等活动多处于下部或覆顶公共空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "上部家庭及露台",
+          "feature": "家庭层和露台联系，传统上女性及儿童可经顶部空间活动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "强烈日晒和缺水要求紧密遮蔽布局，地方社会习惯又赋予上下路线不同的使用者。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是一种住宅层级对照，不是当地正式命名的两种房型。",
+        "现今旧城没有永久居民，但仍用于聚会；不要标为全天候常住现状。"
+      ],
+      "drawing": "剖面中把街巷、储存、居室和露台连起来；外景要表现光井与高女儿墙，别画成无遮阴宽路。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加达梅斯沙漠住宅：储藏层、家庭层与屋顶道路：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/362/",
+          "locator": "Description：vertical division；Brief synthesis：medieval traditions；Authenticity：no resident dwells permanently。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-takienta",
+    "module": "architecture",
+    "category": "houses",
+    "name": "巴塔马利巴土塔住宅：圆体、粮仓与屋面差别",
+    "region": "多哥、贝宁（库塔玛库）",
+    "period": "延续至今的地方建造传统；单宅始建年未细分",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1140/",
+    "content": "以takienta土塔家庭住房为类型，比较屋面与储粮部分，不把多哥和贝宁的全部住宅归为同样房式。",
+    "use": "先画相连圆体和高低屋面，粮仓与家居空间要区分；茅顶纹理服从体量，避免成排复制一个圆筒。",
+    "caution": "屋顶差别来自机构说明，不是按国家划分的固定样式。",
+    "find": "巴塔马利巴土塔住宅：圆体、粮仓与屋面差别 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "多哥、贝宁（库塔玛库）",
+      "era": "延续至今的地方建造传统；单宅始建年未细分",
+      "start": null,
+      "end": null,
+      "dateLabel": "延续至今的地方建造传统；单宅始建年未细分",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "屋顶差别来自机构说明，不是按国家划分的固定样式。",
+        "6世纪为贝宁部分地区占居史，不是照片住宅的建造年代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1140/",
+          "locator": "Brief synthesis：circular elliptical、family dwelling；UNESCO WHV document128607：two storeys、granaries、flat/conical roofs。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        },
+        {
+          "url": "https://whc.unesco.org/document/128607",
+          "locator": "正文第一段：两层、近球形粮仓、平顶与锥形草顶。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1140/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1140.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1140.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1140.jpg",
+        "source": "https://whc.unesco.org/en/list/1140/",
+        "caption": "库塔玛库土塔住宅官方配图；持续建造维护的传统例证，单宅建造期及照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以takienta土塔家庭住房为类型，比较屋面与储粮部分，不把多哥和贝宁的全部住宅归为同样房式。",
+      "common": [
+        {
+          "title": "圆与椭圆单元",
+          "text": "住房使用圆形或椭圆形体组织，既服务家庭生活，也具有精神象征。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "居住储粮组合",
+          "text": "多为两层，部分粮仓表现为圆柱基部之上的近球形体；住房联系耕地与仪式空间。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "平屋面变体",
+          "feature": "一些建筑使用平屋顶，体量与活动空间不能用茅草圆锥替代。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "锥形草顶变体",
+          "feature": "另一些采用圆锥草顶，与土墙圆体、储粮部件形成不同轮廓。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "农业社会依照地方资源建造，建筑的实用、技术与信仰含义相互联系，村落还包含泉水和圣地。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "屋顶差别来自机构说明，不是按国家划分的固定样式。",
+        "6世纪为贝宁部分地区占居史，不是照片住宅的建造年代。"
+      ],
+      "drawing": "先画相连圆体和高低屋面，粮仓与家居空间要区分；茅顶纹理服从体量，避免成排复制一个圆筒。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "巴塔马利巴土塔住宅：圆体、粮仓与屋面差别：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1140/",
+          "locator": "Brief synthesis：circular elliptical、family dwelling；UNESCO WHV document128607：two storeys、granaries、flat/conical roofs。"
+        },
+        {
+          "id": "s2",
+          "title": "UNESCO World Heritage Volunteers：The life at Koutammakou",
+          "url": "https://whc.unesco.org/document/128607",
+          "locator": "正文第一段：两层、近球形粮仓、平顶与锥形草顶。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-lamu-houses",
+    "module": "architecture",
+    "category": "houses",
+    "name": "拉穆斯瓦希里建筑：内街住房与海滨廊屋",
+    "region": "肯尼亚（拉穆岛）",
+    "period": "延续七百余年的聚落；现存各屋分期未逐项给出",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1055/",
+    "content": "以拉穆传统住房和海滨建筑为例，研究东非沿海建造中的材料、邻里和交往空间。",
+    "use": "从海面来时画连续廊面和港口，从巷内画入口与遮阴；室内瓷器展示须放在有据壁龛位置。",
+    "caution": "连续七百年说明聚落史，不能当每座现存房屋的年龄。",
+    "find": "拉穆斯瓦希里建筑：内街住房与海滨廊屋 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "肯尼亚（拉穆岛）",
+      "era": "延续七百余年的聚落；现存各屋分期未逐项给出",
+      "start": null,
+      "end": null,
+      "dateLabel": "延续七百余年的聚落；现存各屋分期未逐项给出",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "连续七百年说明聚落史，不能当每座现存房屋的年龄。",
+        "海滨阳台和内街壁龛不应强制装到所有东非沿海住房上。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1055/",
+          "locator": "Brief synthesis：700 years、coral lime mangrove poles、seafront arcades verandas、madaka zidaka。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1055/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1055.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1055.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1055.jpg",
+        "source": "https://whc.unesco.org/en/list/1055/",
+        "caption": "拉穆临海建筑群官方配图；斯瓦希里沿海住宅与廊屋保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以拉穆传统住房和海滨建筑为例，研究东非沿海建造中的材料、邻里和交往空间。",
+      "common": [
+        {
+          "title": "珊瑚石灰与木杆",
+          "text": "建筑传统使用珊瑚材料、石灰与红树林木杆，内部可见绘顶和大小壁龛。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "街巷与亲属簇群",
+          "text": "住房依窄曲街巷形成小区，同一街坊联系近亲支系而不只是几何排列。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "内街住房组",
+          "feature": "紧密街巷中的住房强调入口、室内和邻里联系，装饰细节与生活空间相连。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "海滨廊屋组",
+          "feature": "临海建筑的拱廊和开放阳台构成海上所见的统一街景，公共交往面较突出。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "海上贸易带来跨地域交流，地方建造技术与稳定的斯瓦希里社会关系共同维持建筑传统。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "连续七百年说明聚落史，不能当每座现存房屋的年龄。",
+        "海滨阳台和内街壁龛不应强制装到所有东非沿海住房上。"
+      ],
+      "drawing": "从海面来时画连续廊面和港口，从巷内画入口与遮阴；室内瓷器展示须放在有据壁龛位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "拉穆斯瓦希里建筑：内街住房与海滨廊屋：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1055/",
+          "locator": "Brief synthesis：700 years、coral lime mangrove poles、seafront arcades verandas、madaka zidaka。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-zanzibar",
+    "module": "architecture",
+    "category": "houses",
+    "name": "桑给巴尔住宅与店屋：院落大宅、平屋与窄面商铺",
+    "region": "坦桑尼亚（桑给巴尔石城）",
+    "period": "18—19世纪主要历史建筑",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/173/",
+    "content": "比较石城中不同居住与经营建筑，避免将富商庭院大宅当作全部斯瓦希里住房。",
+    "use": "先选富商宅、普通平屋或店屋，分别画入口、营业面与人物路线，避免所有门面都成大雕花双门。",
+    "caution": "18—19世纪是主要建筑范围，不代表城中每一结构。",
+    "find": "桑给巴尔住宅与店屋：院落大宅、平屋与窄面商铺 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "坦桑尼亚（桑给巴尔石城）",
+      "era": "18—19世纪主要历史建筑",
+      "start": 1701,
+      "end": 1900,
+      "dateLabel": "18—19世纪主要历史建筑",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "18—19世纪是主要建筑范围，不代表城中每一结构。",
+        "配图海滨大建筑只说明一个体量层级，不能单凭照片判定内部庭院。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/173/",
+          "locator": "Brief synthesis：coralline ragstone、two storey courtyard houses、ground floor Swahili houses、Indian shops；18th 19th。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/173/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-173.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-173.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_173.jpg",
+        "source": "https://whc.unesco.org/en/list/173/",
+        "caption": "桑给巴尔海滨历史建筑官方配图；18—19世纪城市建筑例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较石城中不同居住与经营建筑，避免将富商庭院大宅当作全部斯瓦希里住房。",
+      "common": [
+        {
+          "title": "沿海材料体系",
+          "text": "珊瑚毛石、红树林木与厚石灰砂浆用于建造，表面粉刷体现当地工艺。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "商贸与居住相接",
+          "text": "狭窄街道、海滨大宅和市场店屋连成生活网络，各类建筑入口与房间组织有别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "两层庭院大宅",
+          "feature": "狭长房间围露天庭院，经窄通道进入，外部常有雕刻双门，部分带宽阳台。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "平屋及窄面店屋",
+          "feature": "简朴单层斯瓦希里住房与围商业空间duka组织的印度商铺，不能照抄大宅格局。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "印度洋贸易促使非洲、阿拉伯、印度和欧洲传统相互融合，经营角色影响房屋类型及装饰投入。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "18—19世纪是主要建筑范围，不代表城中每一结构。",
+        "配图海滨大建筑只说明一个体量层级，不能单凭照片判定内部庭院。"
+      ],
+      "drawing": "先选富商宅、普通平屋或店屋，分别画入口、营业面与人物路线，避免所有门面都成大雕花双门。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "桑给巴尔住宅与店屋：院落大宅、平屋与窄面商铺：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/173/",
+          "locator": "Brief synthesis：coralline ragstone、two storey courtyard houses、ground floor Swahili houses、Indian shops；18th 19th。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-ethiopian-rock",
+    "module": "architecture",
+    "category": "houses",
+    "name": "埃塞俄比亚凿岩教堂：多列内殿与十字形独体",
+    "region": "埃塞俄比亚（拉利贝拉）",
+    "period": "12—13世纪教堂营建传统；具体遗存解释有差别",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/18/",
+    "content": "研究凿岩教堂这一类宗教建筑，比较岩块中凿出的空间，并将它与地上砌石教堂区分。",
+    "use": "先画岩面、下凿高度、狭沟和入口，再画柱与窗；不要让凿岩教堂像建在平地的普通石房。",
+    "caution": "12与13世纪分别见正文及简介，范围不缩成一个精确建成年。",
+    "find": "埃塞俄比亚凿岩教堂：多列内殿与十字形独体 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃塞俄比亚（拉利贝拉）",
+      "era": "12—13世纪教堂营建传统；具体遗存解释有差别",
+      "start": 1101,
+      "end": 1300,
+      "dateLabel": "12—13世纪教堂营建传统；具体遗存解释有差别",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "12与13世纪分别见正文及简介，范围不缩成一个精确建成年。",
+        "部分建筑可能原为王室住处，不把每个室内功能都断言为最初礼拜。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/18/",
+          "locator": "Description：13th-century；Brief synthesis：12th century、five aisles、cruciform、trenches、possible residences。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/18/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-18.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-18.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_18.jpg",
+        "source": "https://whc.unesco.org/en/list/18/",
+        "caption": "拉利贝拉凿岩教堂官方配图；12—13世纪传统例证，现代保护覆盖物需与历史主体区分。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究凿岩教堂这一类宗教建筑，比较岩块中凿出的空间，并将它与地上砌石教堂区分。",
+      "common": [
+        {
+          "title": "从岩体减去空间",
+          "text": "门窗、柱、楼层和屋顶由整块活岩雕凿而成，不是逐块砌筑后抹成岩色。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "通道与排水相接",
+          "text": "沟槽、仪式通道和排水系统联系多处教堂，部分还通向修行洞穴和墓室。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "多列大殿型",
+          "feature": "梅德哈内阿莱姆以五个纵向分区的内部空间提供大尺度礼拜例证。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "十字平面型",
+          "feature": "圣乔治教堂为十字形独体，与其他教堂隔开但仍由沟槽连接。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "远方朝圣受阻后营建新耶路撒冷的宗教意图，促使地形、礼拜和交通空间共同组织。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "12与13世纪分别见正文及简介，范围不缩成一个精确建成年。",
+        "部分建筑可能原为王室住处，不把每个室内功能都断言为最初礼拜。"
+      ],
+      "drawing": "先画岩面、下凿高度、狭沟和入口，再画柱与窗；不要让凿岩教堂像建在平地的普通石房。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "埃塞俄比亚凿岩教堂：多列内殿与十字形独体：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/18/",
+          "locator": "Description：13th-century；Brief synthesis：12th century、five aisles、cruciform、trenches、possible residences。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-baganda",
+    "module": "architecture",
+    "category": "houses",
+    "name": "布干达王宫墓域建筑：门屋、庭院与草顶主殿",
+    "region": "乌干达（布干达王国）",
+    "period": "传统自13世纪发展；卡苏比宫殿1882年、转墓1884年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1022/",
+    "content": "以卡苏比为保存与重建例证，研究布干达王宮墓域的空间类型，避免推广成所有乌干达住房。",
+    "use": "把进入路线、草顶下的尺度和门屋层级画清楚；复原火灾前后场景应分别查证，别混用建筑状态。",
+    "caution": "1882—1884只说明此例宫转墓阶段，传统本身更早。",
+    "find": "布干达王宫墓域建筑：门屋、庭院与草顶主殿 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "乌干达（布干达王国）",
+      "era": "传统自13世纪发展；卡苏比宫殿1882年、转墓1884年",
+      "start": 1882,
+      "end": 1884,
+      "dateLabel": "传统自13世纪发展；卡苏比宫殿1882年、转墓1884年",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "1882—1884只说明此例宫转墓阶段，传统本身更早。",
+        "2010年火灾后重建；未载日期旧配图不可标为重建后2026年现状。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1022/",
+          "locator": "Brief synthesis：gatehouse courtyard main building、13th century、1882 1884；Protection：recreation main tomb。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1022/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1022.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1022.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1022.jpg",
+        "source": "https://whc.unesco.org/en/list/1022/",
+        "caption": "卡苏比草顶建筑官方旧配图；拍摄年未载，不能据此认定为2010年火灾后的重建状态。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以卡苏比为保存与重建例证，研究布干达王宮墓域的空间类型，避免推广成所有乌干达住房。",
+      "common": [
+        {
+          "title": "植物材料构架",
+          "text": "木杆、草、芦苇及编织材料用于大型建筑，圆体与穹状草顶形成主殿轮廓。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "序列组织空间",
+          "text": "边界树木、门屋、庭院和墓殿构成渐进路线，空间承担精神和王权含义。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "入口门屋",
+          "feature": "控制进入墓域并联系外部与主庭院，不能替代圆形主殿。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "圆形墓殿",
+          "feature": "由王宫转为王墓所在的主要草顶建筑，尺度和礼仪地位明显高于门屋。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "王室祭仪维持与先王、精神世界的联系，建筑功能不能只按普通住房或天气遮蔽解释。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1882—1884只说明此例宫转墓阶段，传统本身更早。",
+        "2010年火灾后重建；未载日期旧配图不可标为重建后2026年现状。"
+      ],
+      "drawing": "把进入路线、草顶下的尺度和门屋层级画清楚；复原火灾前后场景应分别查证，别混用建筑状态。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "布干达王宫墓域建筑：门屋、庭院与草顶主殿：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1022/",
+          "locator": "Brief synthesis：gatehouse courtyard main building、13th century、1882 1884；Protection：recreation main tomb。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-ghana-forts",
+    "module": "architecture",
+    "category": "houses",
+    "name": "加纳海岸交易堡垒：角部炮台、内院与建筑规模",
+    "region": "加纳（克塔至贝因海岸）",
+    "period": "1482—1786年建立的交易堡垒系列",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/34/",
+    "content": "把沿岸多座交易据点作为同类建筑比较，区分大型城堡与较小堡垒及其改建阶段。",
+    "use": "明确岸线、角部防御与内院，再安排装卸、管理或被拘禁人员；避免把奴隶贸易场景画成休闲港景。",
+    "caution": "现存多个阶段叠加，不把1482年套给全部堡垒。",
+    "find": "加纳海岸交易堡垒：角部炮台、内院与建筑规模 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "加纳（克塔至贝因海岸）",
+      "era": "1482—1786年建立的交易堡垒系列",
+      "start": 1482,
+      "end": 1786,
+      "dateLabel": "1482—1786年建立的交易堡垒系列",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "现存多个阶段叠加，不把1482年套给全部堡垒。",
+        "遗址的后期炮台、用途改造与海蚀缺损不能倒推为最初格局。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/34/",
+          "locator": "Brief synthesis：1482-1786、three Castles 15 Forts、square rectangle four corners、gold slave trade。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/34/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-34.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-34.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_34.jpg",
+        "source": "https://whc.unesco.org/en/list/34/",
+        "caption": "加纳沿海堡垒遗存官方配图；1482—1786年系列之一，拍摄年与具体改建期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "把沿岸多座交易据点作为同类建筑比较，区分大型城堡与较小堡垒及其改建阶段。",
+      "common": [
+        {
+          "title": "方矩形基本组织",
+          "text": "常见方形或矩形外廓，角部由炮台、堡垒突出部或塔强化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "内院与多层楼组",
+          "text": "内部两三层建筑联系院落或封闭空间，可有塔楼；许多因使用者变化而改造。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "大型城堡组",
+          "feature": "规模较大的城堡容纳复杂交易、管理和控制空间，不能只画单一城门。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "沿岸堡垒组",
+          "feature": "较小据点布于海运路线，一部分保存为残墙遗迹；完整程度不能当原始规模。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "最初服务黄金交易，后来深度参与奴隶贸易，建筑的强制控制职能需要与港口经营一起理解。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "现存多个阶段叠加，不把1482年套给全部堡垒。",
+        "遗址的后期炮台、用途改造与海蚀缺损不能倒推为最初格局。"
+      ],
+      "drawing": "明确岸线、角部防御与内院，再安排装卸、管理或被拘禁人员；避免把奴隶贸易场景画成休闲港景。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加纳海岸交易堡垒：角部炮台、内院与建筑规模：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/34/",
+          "locator": "Brief synthesis：1482-1786、three Castles 15 Forts、square rectangle four corners、gold slave trade。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-agadez",
+    "module": "architecture",
+    "category": "houses",
+    "name": "阿伊尔土筑城市建筑：住宅街坊与王权宗教节点",
+    "region": "尼日尔（阿加德兹）",
+    "period": "15—16世纪城市建立，土筑传统延续至今",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1268/",
+    "content": "以阿加德兹说明阿伊尔地方土砖建造体系中住宅和公共建筑的区别，关注从旧营地到城市的组织。",
+    "use": "用不规则街坊包围政治宗教节点，按住家与公共建筑区分尺寸、门道和活动密度。",
+    "caution": "15—16世纪是建城阶段，不是照片所有住宅的建造年份。",
+    "find": "阿伊尔土筑城市建筑：住宅街坊与王权宗教节点 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "尼日尔（阿加德兹）",
+      "era": "15—16世纪城市建立，土筑传统延续至今",
+      "start": 1401,
+      "end": 1600,
+      "dateLabel": "15—16世纪城市建立，土筑传统延续至今",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "15—16世纪是建城阶段，不是照片所有住宅的建造年份。",
+        "宣礼塔的27米高度是特定公共建筑例证，不能应用于全部土屋。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1268/",
+          "locator": "Description、Brief synthesis：15th 16th、former encampments、11 quarters、housing palatial religious。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1268/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1268.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1268.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1268.jpg",
+        "source": "https://whc.unesco.org/en/list/1268/",
+        "caption": "阿加德兹土筑宗教节点官方配图；15—16世纪城市传统例证，具体维护期与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以阿加德兹说明阿伊尔地方土砖建造体系中住宅和公共建筑的区别，关注从旧营地到城市的组织。",
+      "common": [
+        {
+          "title": "土砖与地域装饰",
+          "text": "普通住房、宫殿及宗教建筑共享当地土砖技术和装饰传统，体量却有明确差别。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "街坊保留营地边界",
+          "text": "图案不规则的街区源于图阿雷格群体原先营地，不能画成殖民时期棋盘路网。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "住宅街坊组",
+          "feature": "密集住房承载日常、手工艺与邻里生活，维护状况并不一致。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "王权宗教组",
+          "feature": "苏丹宫殿与清真寺、宣礼塔形成政治信仰核心，远高于普通住宅的视觉尺度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "跨撒哈拉商旅交汇和苏丹制度支持城市形成，使不同族群定居与土筑技术保持连续。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "15—16世纪是建城阶段，不是照片所有住宅的建造年份。",
+        "宣礼塔的27米高度是特定公共建筑例证，不能应用于全部土屋。"
+      ],
+      "drawing": "用不规则街坊包围政治宗教节点，按住家与公共建筑区分尺寸、门道和活动密度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "阿伊尔土筑城市建筑：住宅街坊与王权宗教节点：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1268/",
+          "locator": "Description、Brief synthesis：15th 16th、former encampments、11 quarters、housing palatial religious。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-dogon",
+    "module": "architecture",
+    "category": "houses",
+    "name": "多贡地方建筑组合：家屋、粮仓与公共议事棚",
+    "region": "马里（班迪亚加拉地区）",
+    "period": "15世纪以来多贡聚落；各房屋年代未细分",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/516/",
+    "content": "研究多贡聚落中生活、储粮和公共议事建筑的组合，不将早期泰勒姆遗迹混入所有多贡村屋。",
+    "use": "先区分家屋、储粮和公共活动点，配上崖脚或平原环境；人物动作按建筑用途安排而非随意填空。",
+    "caution": "15世纪说明多贡避难聚落阶段，不能覆盖全部史前居住遗迹。",
+    "find": "多贡地方建筑组合：家屋、粮仓与公共议事棚 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "马里（班迪亚加拉地区）",
+      "era": "15世纪以来多贡聚落；各房屋年代未细分",
+      "start": 1401,
+      "end": null,
+      "dateLabel": "15世纪以来多贡聚落；各房屋年代未细分",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "15世纪说明多贡避难聚落阶段，不能覆盖全部史前居住遗迹。",
+        "未作室内或性别粮仓复原；仅凭封面不能推断隐蔽祭仪细节。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/516/",
+          "locator": "Brief synthesis：three regions、15th century refuge；Description：houses granaries sanctuaries Togu Na；document155137。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        },
+        {
+          "url": "https://whc.unesco.org/document/155137",
+          "locator": "正文management aims：houses、granaries、sanctuaries与toguna。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/516/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-516.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-516.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_516.jpg",
+        "source": "https://whc.unesco.org/en/list/516/",
+        "caption": "班迪亚加拉多贡粮仓等建筑官方配图；持续维护的传统遗存，具体始建和拍摄期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究多贡聚落中生活、储粮和公共议事建筑的组合，不将早期泰勒姆遗迹混入所有多贡村屋。",
+      "common": [
+        {
+          "title": "地形构成防护",
+          "text": "高原、崖壁及平原的聚落有不同环境关系，艰险地势曾提供避难条件。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "建筑随社会用途组合",
+          "text": "住宅、粮仓、圣所、祭坛与toguna议事场构成共同生活环境，不能只画孤立草房。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "家屋储粮组",
+          "feature": "住房和粮仓各有任务，保存图中的锥形草顶粮仓不应一概当作卧室。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "公共仪式议事组",
+          "feature": "议事棚、圣所和仪式空间服务共同活动，与家庭存粮区分使用者和场景。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "农业生活与祖先仪式影响建筑安排，村庄布局同时回应地方资源和历史防护需求。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "15世纪说明多贡避难聚落阶段，不能覆盖全部史前居住遗迹。",
+        "未作室内或性别粮仓复原；仅凭封面不能推断隐蔽祭仪细节。"
+      ],
+      "drawing": "先区分家屋、储粮和公共活动点，配上崖脚或平原环境；人物动作按建筑用途安排而非随意填空。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "多贡地方建筑组合：家屋、粮仓与公共议事棚：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/516/",
+          "locator": "Brief synthesis：three regions、15th century refuge；Description：houses granaries sanctuaries Togu Na；document155137。"
+        },
+        {
+          "id": "s2",
+          "title": "UNESCO：Cliff of Bandiagara研究资料",
+          "url": "https://whc.unesco.org/document/155137",
+          "locator": "正文management aims：houses、granaries、sanctuaries与toguna。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-mozambique",
+    "module": "architecture",
+    "category": "houses",
+    "name": "莫桑比克岛住房：石灰城与棕榈叶顶城区",
+    "region": "莫桑比克（莫桑比克岛）",
+    "period": "16世纪以来持续的地方与港口建造传统",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/599/",
+    "content": "比较印度洋港口中两种住房和城市组织，避免把殖民石屋当作岛上居民唯一住房。",
+    "use": "先决定北部石灰城还是南部叶顶街区，再选材料、屋顶和人物活动；港口历史不能抹去地方居住体系。",
+    "caution": "16世纪是持续建造传统的范围，不是每座房屋的精确年代。",
+    "find": "莫桑比克岛住房：石灰城与棕榈叶顶城区 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "莫桑比克（莫桑比克岛）",
+      "era": "16世纪以来持续的地方与港口建造传统",
+      "start": 1501,
+      "end": null,
+      "dateLabel": "16世纪以来持续的地方与港口建造传统",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "16世纪是持续建造传统的范围，不是每座房屋的精确年代。",
+        "官方封面是石灰城一侧公共建筑，不能拿它代表南部草顶房屋。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/599/",
+          "locator": "Description：since 16th；Brief synthesis：two types dwellings、stone lime north、macuti south。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/599/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-macuti.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-macuti.jpg",
+        "original": "https://www.unesco.org/sites/default/files/courier/photos/cou_02_19_mozambique_web.jpg",
+        "source": "https://www.unesco.org/en/articles/saving-urban-landscapes-island-mozambique",
+        "caption": "UNESCO 2019年文章所示Macuti居住街巷，呈现木杆墙体、屋面与生活使用；摄影与各住宅始建年代未注明。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "Peter Hess；© Peter Hess（照片左侧署名）",
+        "license": "图像版权归Peter Hess；机构文章未明确单张图像复用许可，公开使用须核对条件",
+        "related": false,
+        "width": 688,
+        "height": 358
+      }
+    ],
+    "topic": {
+      "scope": "比较印度洋港口中两种住房和城市组织，避免把殖民石屋当作岛上居民唯一住房。",
+      "common": [
+        {
+          "title": "材料形成视觉差异",
+          "text": "石与石灰建筑、棕榈叶屋顶建筑共存，沿用不同地方材料和技术。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "海运交流融入建造",
+          "text": "班图、斯瓦希里、阿拉伯、印度及欧洲等影响相互叠合，不能只贴单一民族风格标签。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "北部石灰城",
+          "feature": "石灰建筑包含行政、商业和住宅，体现斯瓦希里、阿拉伯及欧洲影响。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "南部macuti城区",
+          "feature": "棕榈叶顶房屋与传统非洲建造联系，住房形态和城市系统与北部有区别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "岛屿航运与跨洲贸易推动两套建造体系并存，不同经济和管理角色进入居住环境。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "16世纪是持续建造传统的范围，不是每座房屋的精确年代。",
+        "官方封面是石灰城一侧公共建筑，不能拿它代表南部草顶房屋。"
+      ],
+      "drawing": "先决定北部石灰城还是南部叶顶街区，再选材料、屋顶和人物活动；港口历史不能抹去地方居住体系。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "莫桑比克岛住房：石灰城与棕榈叶顶城区：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/599/",
+          "locator": "Description：since 16th；Brief synthesis：two types dwellings、stone lime north、macuti south。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO Courier：Saving urban landscapes: the Island of Mozambique",
+          "url": "https://www.unesco.org/en/articles/saving-urban-landscapes-island-mozambique",
+          "locator": "文章主图及图注；正文区分石灰石城与棕叶屋顶城；文章2019年发布不是摄影或施工年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-pueblo-adobe",
+    "module": "architecture",
+    "category": "houses",
+    "name": "里奥格兰德普韦布洛住房：梯状多层房块与共同空间",
+    "region": "美国（新墨西哥）",
+    "period": "13世纪末—14世纪初形成的聚落传统；现存持续维护",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/492/",
+    "content": "以陶斯为活态例证研究里奥格兰德流域普韦布洛的土坯多层聚居，避免重做岩棚崖居或基瓦室内。",
+    "use": "先画退台、连续房块和共用空地，再放出入活动；不用岩棚背景，也不把基瓦细节搬进每间住宅。",
+    "caution": "高度层级是绘画比较维度，不冒充机构的正式家屋类别。",
+    "find": "里奥格兰德普韦布洛住房：梯状多层房块与共同空间 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（新墨西哥）",
+      "era": "13世纪末—14世纪初形成的聚落传统；现存持续维护",
+      "start": 1201,
+      "end": 1400,
+      "dateLabel": "13世纪末—14世纪初形成的聚落传统；现存持续维护",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "高度层级是绘画比较维度，不冒充机构的正式家屋类别。",
+        "20世纪有限引入框架门窗；照片不能原样用于13世纪复原。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/492/",
+          "locator": "Brief synthesis：late13 early14、terraced tiers five storeys；Authenticity：replastering、20th doors windows。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/492/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-492.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-492.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_492.jpg",
+        "source": "https://whc.unesco.org/en/list/492/",
+        "caption": "陶斯多层土坯住房官方配图；持续居住维护的建筑传统例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以陶斯为活态例证研究里奥格兰德流域普韦布洛的土坯多层聚居，避免重做岩棚崖居或基瓦室内。",
+      "common": [
+        {
+          "title": "阶梯状土坯房块",
+          "text": "多层住房以退台层级叠置，北南两座大型建筑可达五层，形成密集的共同生活环境。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "持续抹面维护",
+          "text": "土坯材料需要部族成员按传统方式定期抹面，现存建筑不是几百年从不修补的残壳。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "较低层级住宅",
+          "feature": "退台住房的低层部分组成院旁生活界面，尺度与顶部房块不相同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "高层群居房块",
+          "feature": "北南建筑的多层聚居展现较高竖向结构，不能把全部住房画成单间平房。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "定居社区的农业、文化及共同活动相连，水源与圣山环境对延续聚落具有意义。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "高度层级是绘画比较维度，不冒充机构的正式家屋类别。",
+        "20世纪有限引入框架门窗；照片不能原样用于13世纪复原。"
+      ],
+      "drawing": "先画退台、连续房块和共用空地，再放出入活动；不用岩棚背景，也不把基瓦细节搬进每间住宅。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "里奥格兰德普韦布洛住房：梯状多层房块与共同空间：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/492/",
+          "locator": "Brief synthesis：late13 early14、terraced tiers five storeys；Authenticity：replastering、20th doors windows。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-chiloe-wooden",
+    "module": "architecture",
+    "category": "houses",
+    "name": "奇洛埃木教堂：船坞木工、纵向内殿与拱顶变体",
+    "region": "智利（奇洛埃群岛）",
+    "period": "17—19世纪持续发展的教堂传统；存世各教堂分期有别",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/971/",
+    "content": "比较奇洛埃木构教堂的共同内殿与顶盖变体，强调教堂体系而非只记录单体钟塔。",
+    "use": "室内先定三条纵向空间和中殿高低，再选顶盖；海岸外景将钟塔用于航道与社区广场的视觉关系。",
+    "caution": "17—19世纪指传统发展，不能给照片单栋教堂统一定年。",
+    "find": "奇洛埃木教堂：船坞木工、纵向内殿与拱顶变体 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "智利（奇洛埃群岛）",
+      "era": "17—19世纪持续发展的教堂传统；存世各教堂分期有别",
+      "start": 1601,
+      "end": 1900,
+      "dateLabel": "17—19世纪持续发展的教堂传统；存世各教堂分期有别",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "17—19世纪指传统发展，不能给照片单栋教堂统一定年。",
+        "曾有草顶、后来木瓦及修复变化；绘画须核对所选教堂阶段。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/971/",
+          "locator": "Nomination971.pdf第11页：three naves、barrel vault、Achao Rilan；Description17th19th。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        },
+        {
+          "url": "https://whc.unesco.org/uploads/nominations/971.pdf",
+          "locator": "第11页：三纵向内殿、木柱、筒顶、Achao与Rilán变体、塔楼航海用途。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/971/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-971.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-971.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_971.jpg",
+        "source": "https://whc.unesco.org/en/list/971/",
+        "caption": "奇洛埃木教堂官方配图；地方木建造系列之一，具体建造及照片年份未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较奇洛埃木构教堂的共同内殿与顶盖变体，强调教堂体系而非只记录单体钟塔。",
+      "common": [
+        {
+          "title": "三条纵向内殿",
+          "text": "木柱分隔中殿和两侧空间，主殿通常一直延至后墙，两侧较短并联系祭器及准备房。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "钟塔参与海上识别",
+          "text": "中置塔楼构成主要垂直轮廓，木工与船坞传统联系，塔也可为航海标志。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "筒形木拱顶",
+          "feature": "多数中殿为筒形顶，侧空间更低、平顶，效果近倒扣船体的木结构。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "分段及扇拱变体",
+          "feature": "阿乔与里兰的顶盖分别呈分段沟形或扇形装饰构造，不应全部照抄普通筒顶。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "巡回传教与地方社区信仰推动建筑发展，岛民木作和船工经验将欧洲礼拜建筑转为地域形式。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "17—19世纪指传统发展，不能给照片单栋教堂统一定年。",
+        "曾有草顶、后来木瓦及修复变化；绘画须核对所选教堂阶段。"
+      ],
+      "drawing": "室内先定三条纵向空间和中殿高低，再选顶盖；海岸外景将钟塔用于航道与社区广场的视觉关系。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "奇洛埃木教堂：船坞木工、纵向内殿与拱顶变体：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/971/",
+          "locator": "Nomination971.pdf第11页：three naves、barrel vault、Achao Rilan；Description17th19th。"
+        },
+        {
+          "id": "s2",
+          "title": "智利国家古迹委员会：Churches of Chiloé申报研究",
+          "url": "https://whc.unesco.org/uploads/nominations/971.pdf",
+          "locator": "第11页：三纵向内殿、木柱、筒顶、Achao与Rilán变体、塔楼航海用途。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-chimu-compounds",
+    "module": "architecture",
+    "category": "houses",
+    "name": "奇穆土筑围院：高等级复合院与生产区",
+    "region": "秘鲁（北海岸）",
+    "period": "15世纪奇穆王国鼎盛时期；建筑遗存多期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/366/",
+    "content": "以昌昌的多处围院和工艺生产区研究等级化土筑建筑类型，不把整座城市画成一个王宫。",
+    "use": "先区分院域等级和生产用途，再画墙饰与人物；复原完整屋顶必须另找考古证据，不能凭残墙想象。",
+    "caution": "15世纪为王国鼎盛，不是每段墙面的确切施工日期。",
+    "find": "奇穆土筑围院：高等级复合院与生产区 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "秘鲁（北海岸）",
+      "era": "15世纪奇穆王国鼎盛时期；建筑遗存多期",
+      "start": 1401,
+      "end": 1500,
+      "dateLabel": "15世纪奇穆王国鼎盛时期；建筑遗存多期",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "15世纪为王国鼎盛，不是每段墙面的确切施工日期。",
+        "遗址因气候风化与保护修复改变，图中残墙不是建筑当时完整高度。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/366/",
+          "locator": "Brief synthesis：nine rectangular compounds、32 semi monumental、four production sectors、15th。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/366/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-366.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-366.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_366.jpg",
+        "source": "https://whc.unesco.org/en/list/366/",
+        "caption": "昌昌土筑围院遗存官方配图；反映遗迹保存状态，不能作15世纪完整院域的现成照片。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以昌昌的多处围院和工艺生产区研究等级化土筑建筑类型，不把整座城市画成一个王宫。",
+      "common": [
+        {
+          "title": "高墙矩形围合",
+          "text": "大型独立院域由高厚土墙界定，内部建筑围绕开敞空间布置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "生活与资源设施并置",
+          "text": "神庙、住所、仓库、水池和葬仪台可同处院域，土墙饰带带抽象及动植物纹样。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "高等级复合院",
+          "feature": "九个大型矩形院域构成社会政治核心，规模与独立性明显。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "次等级及生产区",
+          "feature": "外围有较小围合和织造、木作、金属加工区，不能全画为同样豪华高墙宫院。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "严格政治与社会分层进入建筑区划，农业水利与手工业供应维持大规模土筑城市。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "15世纪为王国鼎盛，不是每段墙面的确切施工日期。",
+        "遗址因气候风化与保护修复改变，图中残墙不是建筑当时完整高度。"
+      ],
+      "drawing": "先区分院域等级和生产用途，再画墙饰与人物；复原完整屋顶必须另找考古证据，不能凭残墙想象。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "奇穆土筑围院：高等级复合院与生产区：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/366/",
+          "locator": "Brief synthesis：nine rectangular compounds、32 semi monumental、four production sectors、15th。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-guarani-missions",
+    "module": "architecture",
+    "category": "houses",
+    "name": "瓜拉尼传教聚落建筑：宗教中心与农业支援网络",
+    "region": "阿根廷、巴西（瓜拉尼地区）",
+    "period": "17—18世纪耶稣会传教聚落",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/275/",
+    "content": "以跨国多处reducciones研究有组织的传教聚落建筑组合，承认原有瓜拉尼土地与社会背景。",
+    "use": "教堂废墟可画保存场景；历史生活画要把生产用地和支援建筑补入，不能只围绕一个华丽立面。",
+    "caution": "不是瓜拉尼人所有时期的传统住宅类型。",
+    "find": "瓜拉尼传教聚落建筑：宗教中心与农业支援网络 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "阿根廷、巴西（瓜拉尼地区）",
+      "era": "17—18世纪耶稣会传教聚落",
+      "start": 1601,
+      "end": 1800,
+      "dateLabel": "17—18世纪耶稣会传教聚落",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "不是瓜拉尼人所有时期的传统住宅类型。",
+        "只据正文说明网络和用途，未确认的广场尺寸、住房排数不作复原断言。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/275/",
+          "locator": "Brief synthesis：17th18th、30 settlements、ranches mate trails waterways、smaller structures；Criterion iv。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/275/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-275.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-275.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_275.jpg",
+        "source": "https://whc.unesco.org/en/list/275/",
+        "caption": "瓜拉尼传教聚落宗教石构遗迹官方配图；为考古保存状态，不能作17—18世纪完整建筑照片。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以跨国多处reducciones研究有组织的传教聚落建筑组合，承认原有瓜拉尼土地与社会背景。",
+      "common": [
+        {
+          "title": "定居点成网络",
+          "text": "多个聚落与牧场、马黛茶园、道路和水路连接，建筑不是孤立在森林中的教堂。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "不同遗存保持布局差别",
+          "text": "系列各点布局和保存程度不同，完整教堂与残墙并不能互相等量替代。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "宗教核心建筑",
+          "feature": "教堂等主要结构承担传教和仪式，石构遗迹显示较大尺度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "生产支援建筑",
+          "feature": "较小建筑支持聚落基本功能，与耕地和交通网络结合，劳动路线不同于礼拜场。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "传教活动组织空间、经济与文化关系，形成当地群体与欧洲耶稣会相互接触的特定建筑体系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不是瓜拉尼人所有时期的传统住宅类型。",
+        "只据正文说明网络和用途，未确认的广场尺寸、住房排数不作复原断言。"
+      ],
+      "drawing": "教堂废墟可画保存场景；历史生活画要把生产用地和支援建筑补入，不能只围绕一个华丽立面。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "瓜拉尼传教聚落建筑：宗教中心与农业支援网络：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/275/",
+          "locator": "Brief synthesis：17th18th、30 settlements、ranches mate trails waterways、smaller structures；Criterion iv。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-cuban-houses",
+    "module": "architecture",
+    "category": "houses",
+    "name": "加勒比制糖城市住宅：朴素地方宅与富裕大宅",
+    "region": "古巴（特立尼达）",
+    "period": "18—19世纪住宅街区；制糖繁盛18世纪末—19世纪末",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/460/",
+    "content": "研究制糖财富所影响的城市住宅等级与时期变体，避免把种植园厂房、奴隶营房和商人大宅混成同类。",
+    "use": "选定时期和家庭阶层再画门面与广场，日常家居尺度要与财富相配；别把糖厂烟囱装在每栋城宅旁。",
+    "caution": "此条研究城市家居，不能照富宅复原被奴役劳动者的营房。",
+    "find": "加勒比制糖城市住宅：朴素地方宅与富裕大宅 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "古巴（特立尼达）",
+      "era": "18—19世纪住宅街区；制糖繁盛18世纪末—19世纪末",
+      "start": 1701,
+      "end": 1900,
+      "dateLabel": "18—19世纪住宅街区；制糖繁盛18世纪末—19世纪末",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "此条研究城市家居，不能照富宅复原被奴役劳动者的营房。",
+        "城市16世纪建立不意味着现存所有住宅都建于16世纪。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/460/",
+          "locator": "Brief synthesis：early18 Andalusian Moorish、19 neoclassical traditional spatial、modest luxurious；sugar slavery。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/460/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-doc-120713.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-doc-120713.jpg",
+        "original": "https://whc.unesco.org/document/120713",
+        "source": "https://whc.unesco.org/en/documents/120713",
+        "caption": "特立尼达低层住宅的瓦屋面与连续房屋群；照片日期未注明，远处塔楼仅作街区背景。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "Wilfredo Carazas-Aedo；© CRA-terre",
+        "license": "图像条目未明确许可；公开复用需核对权利人条件",
+        "related": false,
+        "width": 500,
+        "height": 329
+      }
+    ],
+    "topic": {
+      "scope": "研究制糖财富所影响的城市住宅等级与时期变体，避免把种植园厂房、奴隶营房和商人大宅混成同类。",
+      "common": [
+        {
+          "title": "地块与空间传统连续",
+          "text": "中小宅地中的地方建造保持相对一致，较新形式叠在传统空间组织上。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "财富进入住宅外观",
+          "text": "普通住房和豪华大宅共存，广场、石路及街巷联系家庭与城市交往。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "18世纪地方宅",
+          "feature": "较早住房有安达卢西亚及摩尔因素，形式较简朴，并非全是宫殿门面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "19世纪富裕宅",
+          "feature": "更精致新古典主义形式与旧空间惯例结合，建筑投入反映糖业财富。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "周边制糖经济支持城市营建，而繁荣同时建立在奴隶劳动体系上，社会身份影响住宅环境。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "此条研究城市家居，不能照富宅复原被奴役劳动者的营房。",
+        "城市16世纪建立不意味着现存所有住宅都建于16世纪。"
+      ],
+      "drawing": "选定时期和家庭阶层再画门面与广场，日常家居尺度要与财富相配；别把糖厂烟囱装在每栋城宅旁。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加勒比制糖城市住宅：朴素地方宅与富裕大宅：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/460/",
+          "locator": "Brief synthesis：early18 Andalusian Moorish、19 neoclassical traditional spatial、modest luxurious；sugar slavery。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO图像条目：照片日期、署名与许可",
+          "url": "https://whc.unesco.org/en/documents/120713",
+          "locator": "Date、Author、Copyright、License、Condition of use、Original Size。日期为图像条目日期，不作建筑始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-antiguan-baroque",
+    "module": "architecture",
+    "category": "houses",
+    "name": "中美洲抗震宗教建筑：低钟塔、厚体量与灰泥立面",
+    "region": "危地马拉（安提瓜）",
+    "period": "17—18世纪存世宗教建筑；1773年地震后多留废墟",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/65/",
+    "content": "以安提瓜多处教堂与修院研究地域巴洛克宗教建筑，比较礼拜建筑和修院生活组群。",
+    "use": "用厚重墙体和低塔控制轮廓，再加灰泥细部；复原修院生活需另核内部平面，别凭外观填满豪宅房间。",
+    "caution": "这里只讨论安提瓜地方类型，不给全中美洲建筑套同一抗震样式。",
+    "find": "中美洲抗震宗教建筑：低钟塔、厚体量与灰泥立面 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "危地马拉（安提瓜）",
+      "era": "17—18世纪存世宗教建筑；1773年地震后多留废墟",
+      "start": 1601,
+      "end": 1800,
+      "dateLabel": "17—18世纪存世宗教建筑；1773年地震后多留废墟",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "这里只讨论安提瓜地方类型，不给全中美洲建筑套同一抗震样式。",
+        "许多照片为1773年后废墟或修复；建造期不等于保存状态。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/65/",
+          "locator": "Brief synthesis：17th18th、Barroco antigueño、stucco low bell towers earthquakes；Criterion iv：churches monasteries。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/65/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-65.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-65.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_65.jpg",
+        "source": "https://whc.unesco.org/en/list/65/",
+        "caption": "安提瓜宗教建筑与街道官方配图；保存或修复的历史外观，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以安提瓜多处教堂与修院研究地域巴洛克宗教建筑，比较礼拜建筑和修院生活组群。",
+      "common": [
+        {
+          "title": "厚重与较低钟塔",
+          "text": "机构将庞大体量、低塔解释为回应频繁地震的地方调整，不能照欧洲高尖塔教堂复制。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "灰泥装饰集中",
+          "text": "内外灰泥和深刻门楣、中央窗龛形成立面识别，装饰与结构体量须同时考虑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "教堂礼拜型",
+          "feature": "面向信众的礼拜建筑与公共街道、广场联系，强调门面和集会方向。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "修院生活型",
+          "feature": "宗教共同体使用的组群兼有起居和内部活动，不能只留一张教堂立面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "殖民社会中教会深入日常生活，地震环境又促成欧洲巴洛克形式的地域变体。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这里只讨论安提瓜地方类型，不给全中美洲建筑套同一抗震样式。",
+        "许多照片为1773年后废墟或修复；建造期不等于保存状态。"
+      ],
+      "drawing": "用厚重墙体和低塔控制轮廓，再加灰泥细部；复原修院生活需另核内部平面，别凭外观填满豪宅房间。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "中美洲抗震宗教建筑：低钟塔、厚体量与灰泥立面：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/65/",
+          "locator": "Brief synthesis：17th18th、Barroco antigueño、stucco low bell towers earthquakes；Criterion iv：churches monasteries。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-yucatan-monuments",
+    "module": "architecture",
+    "category": "houses",
+    "name": "尤卡坦玛雅宗教公共建筑：普克传统与后期融合",
+    "region": "墨西哥（尤卡坦）",
+    "period": "6—10世纪普克阶段；10世纪后玛雅与中墨西哥融合",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/483/",
+    "content": "用奇琴伊察的多组公共宗教建筑研究两个历史阶段的建筑语言，不把单座金字塔冒充所有玛雅建筑。",
+    "use": "先定时期和仪式活动，再选球场、神庙或圆形建筑；不要把每个城市背景都画成一座阶梯金字塔。",
+    "caution": "机构叙述包含后期史料传统，不能把传说的攻城年当作精确施工年。",
+    "find": "尤卡坦玛雅宗教公共建筑：普克传统与后期融合 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "墨西哥（尤卡坦）",
+      "era": "6—10世纪普克阶段；10世纪后玛雅与中墨西哥融合",
+      "start": 501,
+      "end": 1300,
+      "dateLabel": "6—10世纪普克阶段；10世纪后玛雅与中墨西哥融合",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "机构叙述包含后期史料传统，不能把传说的攻城年当作精确施工年。",
+        "13世纪以后无主要新建筑的判断不等于所有使用活动终止。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/483/",
+          "locator": "Brief synthesis：6th10th Puuc、10th blending、major monuments after13th；Criterion ii iii。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/483/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-483.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-483.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_483.jpg",
+        "source": "https://whc.unesco.org/en/list/483/",
+        "caption": "奇琴伊察库库尔坎神庙官方配图；为考古保护后的建筑例证，不能代表全部公共建筑类型。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "用奇琴伊察的多组公共宗教建筑研究两个历史阶段的建筑语言，不把单座金字塔冒充所有玛雅建筑。",
+      "common": [
+        {
+          "title": "建筑成组围台地",
+          "text": "神庙、球场和其他仪式建筑组成公共中心，各类体量和参与方式有别。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "雕刻参与建筑表达",
+          "text": "石构比例、装饰与雕塑结合，形式记录地方传统与外来因素的交流。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "普克传统阶段",
+          "feature": "6—10世纪旧区建筑代表山丘区域常见玛雅风格，不应强加后期武士建筑特征。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "后期融合阶段",
+          "feature": "10世纪后圆形天文建筑、库库尔坎神庙与武士等建筑显示传统交汇，建筑类别也更复杂。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "地区文化与人口交流进入宗教公共建筑，地下水穴同时影响聚落选址和发展。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构叙述包含后期史料传统，不能把传说的攻城年当作精确施工年。",
+        "13世纪以后无主要新建筑的判断不等于所有使用活动终止。"
+      ],
+      "drawing": "先定时期和仪式活动，再选球场、神庙或圆形建筑；不要把每个城市背景都画成一座阶梯金字塔。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "尤卡坦玛雅宗教公共建筑：普克传统与后期融合：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/483/",
+          "locator": "Brief synthesis：6th10th Puuc、10th blending、major monuments after13th；Criterion ii iii。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-micronesian-islets",
+    "module": "architecture",
+    "category": "houses",
+    "name": "密克罗尼西亚巨石岛域建筑：居住、神庙与墓域",
+    "region": "密克罗尼西亚联邦（波纳佩）",
+    "period": "公元1200—1500年社会与聚落重组阶段",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1503/",
+    "content": "以南马都上百人工岛的建筑遗迹研究酋长权力中心的围域类型，比较生活与仪式用途。",
+    "use": "画水道、人工岛边界和柱石交错层次，再放人物与仪式；居住区与墓域不应共享同样活动。",
+    "caution": "1200—1500为主要社会发展阶段，不是每块巨石安置年份。",
+    "find": "密克罗尼西亚巨石岛域建筑：居住、神庙与墓域 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "密克罗尼西亚联邦（波纳佩）",
+      "era": "公元1200—1500年社会与聚落重组阶段",
+      "start": 1200,
+      "end": 1500,
+      "dateLabel": "公元1200—1500年社会与聚落重组阶段",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "1200—1500为主要社会发展阶段，不是每块巨石安置年份。",
+        "现为遗址并有植被影响，不能把照片残墙当作古代所有建筑完整状态。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1503/",
+          "locator": "Brief synthesis：100 islets palaces temples mortuaries residential、1200-1500；Criterion i header-stretcher。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1503/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1503.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1503.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1503.jpg",
+        "source": "https://whc.unesco.org/en/list/1503/",
+        "caption": "南马都柱状玄武岩建筑遗存官方配图；反映遗址保存状态，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以南马都上百人工岛的建筑遗迹研究酋长权力中心的围域类型，比较生活与仪式用途。",
+      "common": [
+        {
+          "title": "人工岛与水道",
+          "text": "巨石建筑分布于沿海人工岛域，水上联系是空间组织的一部分。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "柱状玄武岩叠筑",
+          "text": "从岛内其他地点运来的大柱状石按交错方式组织高墙，不能当普通小卵石砌墙。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "宫室居住岛域",
+          "feature": "石构宫室和住区构成权力与生活空间，岛域之间并非功能相同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "神庙墓域",
+          "feature": "礼仪、祭祀和殡葬建筑组成另一类空间，围域和进入情境与生活区有别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "社会等级与复杂宗教实践支撑大型工程，建筑集中表达绍德雷尔王朝的政治和礼仪体系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1200—1500为主要社会发展阶段，不是每块巨石安置年份。",
+        "现为遗址并有植被影响，不能把照片残墙当作古代所有建筑完整状态。"
+      ],
+      "drawing": "画水道、人工岛边界和柱石交错层次，再放人物与仪式；居住区与墓域不应共享同样活动。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "密克罗尼西亚巨石岛域建筑：居住、神庙与墓域：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1503/",
+          "locator": "Brief synthesis：100 islets palaces temples mortuaries residential、1200-1500；Criterion i header-stretcher。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-polynesian-marae",
+    "module": "architecture",
+    "category": "houses",
+    "name": "社会群岛marae：铺石礼仪院、台基与聚会网络",
+    "region": "法属波利尼西亚（赖阿特阿）",
+    "period": "14—18世纪mā'ohi礼仪建筑",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1529/",
+    "content": "以塔普塔普阿泰阿多处marae研究社会群岛的礼仪和社会建筑类型，区分滨海联盟中心与上谷旧场地。",
+    "use": "先画院、ahu和进入方向，人物数量与集会性质相配；海面航路和山谷生活背景不要机械互换。",
+    "caution": "marae遍布波利尼西亚，但本条四边院台形式限定社会群岛。",
+    "find": "社会群岛marae：铺石礼仪院、台基与聚会网络 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "法属波利尼西亚（赖阿特阿）",
+      "era": "14—18世纪mā'ohi礼仪建筑",
+      "start": 1301,
+      "end": 1800,
+      "dateLabel": "14—18世纪mā'ohi礼仪建筑",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "marae遍布波利尼西亚，但本条四边院台形式限定社会群岛。",
+        "部分场地修复，14—18世纪不表示照片全部石块都原位原状。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1529/",
+          "locator": "Decision41COM8B23：14th18th、quadrilateral ahu、upland marae、coastal alliance；正文Some restored。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        },
+        {
+          "url": "https://whc.unesco.org/en/decisions/6895",
+          "locator": "Brief synthesis、Criterion iv：14—18世纪，山谷旧marae与滨海联盟中心。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1529/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-doc-147826.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-doc-147826.jpg",
+        "original": "https://whc.unesco.org/document/147826",
+        "source": "https://whc.unesco.org/en/documents/147826",
+        "caption": "2013年4月1日marae场地官方图像；A.Wickel/GIE Océanide摄、©SCP，显示维护后的开放礼仪空间。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "A.Wickel / GIE Océanide；© SCP",
+        "license": "Nomination File，非独占授权；须署名、禁止衍生；依机构图像条目条件",
+        "related": false,
+        "width": 4288,
+        "height": 2848
+      }
+    ],
+    "topic": {
+      "scope": "以塔普塔普阿泰阿多处marae研究社会群岛的礼仪和社会建筑类型，区分滨海联盟中心与上谷旧场地。",
+      "common": [
+        {
+          "title": "铺石院与端部平台",
+          "text": "社会群岛marae发展为四边铺石院及一端矩形ahu台基，不以有顶房屋替代开放礼仪场。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "多重社会用途",
+          "text": "政治、宗教、葬仪和集会功能可同时存在，场地联系祖先、神与活人。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "滨海联盟中心型",
+          "feature": "海边较大礼仪组群支持首领、祭司、武士跨岛集会，联系礁口及航海进入路线。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "山谷旧marae型",
+          "feature": "上部谷地有更早礼仪场、农业台地和住居痕迹，与滨海政治中心的环境有别。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "mā'ohi社会等级、政治联盟与远洋导航维持场地网络，地方自然地貌与集会礼仪共同赋予建筑意义。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "marae遍布波利尼西亚，但本条四边院台形式限定社会群岛。",
+        "部分场地修复，14—18世纪不表示照片全部石块都原位原状。"
+      ],
+      "drawing": "先画院、ahu和进入方向，人物数量与集会性质相配；海面航路和山谷生活背景不要机械互换。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "社会群岛marae：铺石礼仪院、台基与聚会网络：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1529/",
+          "locator": "Decision41COM8B23：14th18th、quadrilateral ahu、upland marae、coastal alliance；正文Some restored。"
+        },
+        {
+          "id": "s2",
+          "title": "UNESCO：Decision 41 COM 8B.23",
+          "url": "https://whc.unesco.org/en/decisions/6895",
+          "locator": "Brief synthesis、Criterion iv：14—18世纪，山谷旧marae与滨海联盟中心。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO图像条目：照片日期、署名与许可",
+          "url": "https://whc.unesco.org/en/documents/147826",
+          "locator": "Date、Author、Copyright、License、Condition of use、Original Size。日期为图像条目日期，不作建筑始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-pacific-port",
+    "module": "architecture",
+    "category": "houses",
+    "name": "南太平洋港口建筑：低层店仓与社区公共设施",
+    "region": "斐济（莱武卡）",
+    "period": "1820年代起发展，19世纪后期港口形态",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1399/",
+    "content": "以莱武卡研究地方聚落与殖民海运相互作用的港口建筑类型，比较滨海经营与内陆社区空间。",
+    "use": "用海岸低楼、坡上聚落和连接通路组织背景；先分仓储和公共生活，波纹铁皮不能放入更早未核年代。",
+    "caution": "这是19世纪后期太平洋港口例证，不是全部斐济传统乡村住房。",
+    "find": "南太平洋港口建筑：低层店仓与社区公共设施 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "斐济（莱武卡）",
+      "era": "1820年代起发展，19世纪后期港口形态",
+      "start": 1820,
+      "end": 1900,
+      "dateLabel": "1820年代起发展，19世纪后期港口形态",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "这是19世纪后期太平洋港口例证，不是全部斐济传统乡村住房。",
+        "1874年割让与1882年迁都属于政治阶段，不是所有建筑的建造年。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1399/",
+          "locator": "Brief synthesis：1820s、single two storied timber weatherboard corrugated、hipped gable、shops and institutions。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1399/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1399.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1399.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1399.jpg",
+        "source": "https://whc.unesco.org/en/list/1399/",
+        "caption": "莱武卡滨海公共建筑官方配图；19世纪后期港口街景例证，单体与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以莱武卡研究地方聚落与殖民海运相互作用的港口建筑类型，比较滨海经营与内陆社区空间。",
+      "common": [
+        {
+          "title": "一二层木架围护",
+          "text": "建筑多为木框架，外覆木板或波纹铁皮，屋面有四坡或双坡，尺度整体较低。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "顺海岸与坡地发展",
+          "text": "仓库店铺沿滨海主街，支路顺地形进入内陆村落和社区，不能画成宽广平地殖民格网。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "滨海商业店仓",
+          "feature": "椰干棚、货仓、保税店和港口设施服务装卸与航运，紧贴海岸通路。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "社区生活公共组",
+          "feature": "住宅、学校、宗教和社交建筑围地方村落发展，与经营区分功能。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "欧洲和美国海运商业在当地人口持续多数的环境中适应地方建造与聚落秩序，形成混合港景。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是19世纪后期太平洋港口例证，不是全部斐济传统乡村住房。",
+        "1874年割让与1882年迁都属于政治阶段，不是所有建筑的建造年。"
+      ],
+      "drawing": "用海岸低楼、坡上聚落和连接通路组织背景；先分仓储和公共生活，波纹铁皮不能放入更早未核年代。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "南太平洋港口建筑：低层店仓与社区公共设施：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1399/",
+          "locator": "Brief synthesis：1820s、single two storied timber weatherboard corrugated、hipped gable、shops and institutions。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-tulou",
+    "module": "architecture",
+    "category": "houses",
+    "name": "闽西南土楼：合族居住、防御外墙与圆方平面",
+    "region": "中国（福建西南）",
+    "period": "15—20世纪；本专题以列入遗产的46座土楼为样本",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1113/",
+    "content": "比较福建山地土楼这一类集体防御住宅，关注同宗家庭怎样在一个院落建筑内生活。",
+    "use": "先画防护外壳与内部庭院的反差，再安排家户、入口和人物活动，避免均匀楼层式公寓。",
+    "caution": "限定福建遗产样本，不等同所有客家或闽南住宅。",
+    "find": "闽西南土楼：合族居住、防御外墙与圆方平面 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（福建西南）",
+      "era": "15—20世纪；本专题以列入遗产的46座土楼为样本",
+      "start": 1401,
+      "end": 2000,
+      "dateLabel": "15—20世纪；本专题以列入遗产的46座土楼为样本",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "限定福建遗产样本，不等同所有客家或闽南住宅。",
+        "现存修缮照片不能直接恢复每一世纪的材料表面。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1113/",
+          "locator": "Description：15th and 20th centuries、circular or square；Outstanding Universal Value：communal response。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1113/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1113.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1113.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1113.jpg",
+        "source": "https://whc.unesco.org/en/list/1113/",
+        "caption": "土楼与耕地、山谷的官方配图；建筑样本15—20世纪，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较福建山地土楼这一类集体防御住宅，关注同宗家庭怎样在一个院落建筑内生活。",
+      "common": [
+        {
+          "title": "外闭内开",
+          "text": "厚土外墙、宽瓦檐与少量低层外窗共同形成防护面，内部朝中央露天院落展开。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "家户竖向分配",
+          "text": "多层住房并非每层属于一个家庭；正文指出家庭可沿竖向占有每层的两三间。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "圆形院落型",
+          "feature": "房间沿圆周组织，连续的内侧空间围合中央院落。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "方形院落型",
+          "feature": "沿方形周边排列住房，共享庭院；不能把所有土楼画成圆筒。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "集体住宅和防御需要相连，并与稻茶等农业用地、山谷地形及家族组织共同形成聚落。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "限定福建遗产样本，不等同所有客家或闽南住宅。",
+        "现存修缮照片不能直接恢复每一世纪的材料表面。"
+      ],
+      "drawing": "先画防护外壳与内部庭院的反差，再安排家户、入口和人物活动，避免均匀楼层式公寓。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "闽西南土楼：合族居住、防御外墙与圆方平面：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1113/",
+          "locator": "Description：15th and 20th centuries、circular or square；Outstanding Universal Value：communal response。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-diaolou",
+    "module": "architecture",
+    "category": "houses",
+    "name": "开平碉楼：临时避难、强化住宅与瞭望塔",
+    "region": "中国（广东开平）",
+    "period": "19世纪末—20世纪初；碉楼传统可追溯明代",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1112/",
+    "content": "以开平村落碉楼群比较多层防御建筑的用途，不以塔顶造型来判断居住方式。",
+    "use": "把共有避难楼和私人住楼画在不同生活情境，入口、居住痕迹与周边农田比装饰复制更重要。",
+    "caution": "不是全部广东村落的普通住房模型。",
+    "find": "开平碉楼：临时避难、强化住宅与瞭望塔 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（广东开平）",
+      "era": "19世纪末—20世纪初；碉楼传统可追溯明代",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19世纪末—20世纪初；碉楼传统可追溯明代",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "不是全部广东村落的普通住房模型。",
+        "年代取建筑繁盛阶段；明代起源不代表照片中的塔都建于明代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1112/",
+          "locator": "Description：three forms、late 19th and early 20th centuries；Criterion iii：banditry。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1112/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1112.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1112.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1112.jpg",
+        "source": "https://whc.unesco.org/en/list/1112/",
+        "caption": "开平碉楼群官方配图；19世纪末—20世纪初传统的遗产例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以开平村落碉楼群比较多层防御建筑的用途，不以塔顶造型来判断居住方式。",
+      "common": [
+        {
+          "title": "村落防御",
+          "text": "高耸建筑置于村屋和农田之间，形成可避难、可监视周围环境的乡村节点。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料与风格杂合",
+          "text": "土、石、砖和混凝土均有使用，中国地方建造与侨民带回的西方形式相结合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "合建避难楼",
+          "feature": "由多个家庭共同建造，在危险时临时集中避难。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "居住兼防御楼",
+          "feature": "富裕家庭修建并实际居住，另有专为警戒设置的瞭望塔。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "海外移民财富与建筑经验回流，同时当地盗匪威胁推动了防御楼传统最后一次繁盛。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不是全部广东村落的普通住房模型。",
+        "年代取建筑繁盛阶段；明代起源不代表照片中的塔都建于明代。"
+      ],
+      "drawing": "把共有避难楼和私人住楼画在不同生活情境，入口、居住痕迹与周边农田比装饰复制更重要。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "开平碉楼：临时避难、强化住宅与瞭望塔：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1112/",
+          "locator": "Description：three forms、late 19th and early 20th centuries；Criterion iii：banditry。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-naxi",
+    "module": "architecture",
+    "category": "houses",
+    "name": "丽江纳西文化住宅：木架瓦屋、院落与水道街巷",
+    "region": "中国（云南丽江）",
+    "period": "明清住宅街区；白沙更早的宋元阶段另计",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/811/",
+    "content": "以大研、白沙、束河住房群研究纳西文化中的住宅组合，区分山坡街区和不同形成阶段。",
+    "use": "先处理坡面、屋顶高低、水渠与桥，再放入生活院落，避免将丽江画成平地规则棋盘。",
+    "caution": "只覆盖丽江遗产住房群，不能代表所有纳西村寨。",
+    "find": "丽江纳西文化住宅：木架瓦屋、院落与水道街巷 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（云南丽江）",
+      "era": "明清住宅街区；白沙更早的宋元阶段另计",
+      "start": 1368,
+      "end": 1911,
+      "dateLabel": "明清住宅街区；白沙更早的宋元阶段另计",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "只覆盖丽江遗产住房群，不能代表所有纳西村寨。",
+        "经历地震和修复；照片中的旅游店面不可直接搬入明清场景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/811/",
+          "locator": "Brief synthesis：two-storeyed timber-framed houses；Criteria ii、iv、v；Authenticity：Ming and Qing。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/811/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-811.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-811.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_811.jpg",
+        "source": "https://whc.unesco.org/en/list/811/",
+        "caption": "丽江旧城官方配图；明清住宅形态的保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以大研、白沙、束河住房群研究纳西文化中的住宅组合，区分山坡街区和不同形成阶段。",
+      "common": [
+        {
+          "title": "两层木构瓦屋",
+          "text": "正文明确指出大量住宅为两层、木框架及瓦顶，院落、雕梁和入口装饰融入多文化因素。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "沿地形与水道",
+          "text": "住房成排顺应坡面，街巷面对水渠，部分建筑和桥梁跨越渠道。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "大研商贸街区",
+          "feature": "明代形成的商业中心，住宅与密集街巷、水路联成城市生活场景。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "白沙束河住房群",
+          "feature": "在城外形成不同阶段的住房聚落；白沙较早，不能强套大研商业街尺度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "茶马贸易与纳西、汉、藏、白等群体交流影响建造；供水亦服务日常生活、生产和防火。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "只覆盖丽江遗产住房群，不能代表所有纳西村寨。",
+        "经历地震和修复；照片中的旅游店面不可直接搬入明清场景。"
+      ],
+      "drawing": "先处理坡面、屋顶高低、水渠与桥，再放入生活院落，避免将丽江画成平地规则棋盘。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "丽江纳西文化住宅：木架瓦屋、院落与水道街巷：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/811/",
+          "locator": "Brief synthesis：two-storeyed timber-framed houses；Criteria ii、iv、v；Authenticity：Ming and Qing。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-hoian",
+    "module": "architecture",
+    "category": "houses",
+    "name": "越南会安商港建筑：木架联排、前街后河与家族祭祀",
+    "region": "越南（会安）",
+    "period": "17—18世纪现存木构街景；港口活跃于15—19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/948/",
+    "content": "把会安作为东南亚传统商港建筑群的例证，比较营业居住建筑与家族、公共信仰建筑。",
+    "use": "以窄街、连排屋和水运方向安排背景；桥上祭祀建筑可用于往来场景，住宅另核门道和河岸。",
+    "caution": "限定会安商港；不是所有越南住宅共有前街后河。",
+    "find": "越南会安商港建筑：木架联排、前街后河与家族祭祀 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "越南（会安）",
+      "era": "17—18世纪现存木构街景；港口活跃于15—19世纪",
+      "start": 1601,
+      "end": 1800,
+      "dateLabel": "17—18世纪现存木构街景；港口活跃于15—19世纪",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "限定会安商港；不是所有越南住宅共有前街后河。",
+        "官方封面为日本桥，属交通宗教建筑例证，不能当商住平面照片。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/948/",
+          "locator": "Brief synthesis：1107 timber frame buildings、front streets backs river；surviving 17th and 18th centuries。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/948/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-doc-134781.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-doc-134781.jpg",
+        "original": "https://whc.unesco.org/document/134781",
+        "source": "https://whc.unesco.org/en/documents/134781",
+        "caption": "会安木构院落与楼层廊道；图像条目日期2013年10月17日，非建筑始建年。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "Ko Hon Chiu Vincent；© Ko Hon Chiu Vincent",
+        "license": "All Rights Reserved；公开复用需权利人许可",
+        "related": false,
+        "width": 7360,
+        "height": 4912
+      }
+    ],
+    "topic": {
+      "scope": "把会安作为东南亚传统商港建筑群的例证，比较营业居住建筑与家族、公共信仰建筑。",
+      "common": [
+        {
+          "title": "木架砖木围护",
+          "text": "遗产包含大量木框架建筑，墙体可用砖或木，屋面覆瓦，木构件常有雕饰。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "紧密联排与装卸",
+          "text": "临窄街连续排列，部分前部向顾客开门、后部向河道装卸，生活与贸易相接。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "商住建筑",
+          "feature": "临街经营、后部接近水运的建筑体现商品和人员两套通路。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "宗教及家族建筑",
+          "feature": "佛寺、家族祭祀房与商业住宅同处街区；其用途不应画成普通营业房。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "国际港口中的地方、华人、日本及后来的欧洲交流塑造街景，衰落又减少了大规模替换旧木屋。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "限定会安商港；不是所有越南住宅共有前街后河。",
+        "官方封面为日本桥，属交通宗教建筑例证，不能当商住平面照片。"
+      ],
+      "drawing": "以窄街、连排屋和水运方向安排背景；桥上祭祀建筑可用于往来场景，住宅另核门道和河岸。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "越南会安商港建筑：木架联排、前街后河与家族祭祀：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/948/",
+          "locator": "Brief synthesis：1107 timber frame buildings、front streets backs river；surviving 17th and 18th centuries。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO图像条目：照片日期、署名与许可",
+          "url": "https://whc.unesco.org/en/documents/134781",
+          "locator": "Date、Author、Copyright、License、Condition of use、Original Size。日期为图像条目日期，不作建筑始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-lao",
+    "module": "architecture",
+    "category": "houses",
+    "name": "琅勃拉邦建筑群：村落寺院、地方住宅与殖民街区",
+    "region": "老挝（琅勃拉邦）",
+    "period": "19—20世纪融合街景；寺院与聚落另有早期阶段",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/479/",
+    "content": "研究传统老挝宗教、生活建筑与殖民时期公共建筑如何在一个地方城市中并存。",
+    "use": "画背景时用寺院、住宅、河岸形成层次，避免把殖民外观和王都早期服饰放在同一未注明年代中。",
+    "caution": "仅为琅勃拉邦城市融合实例，不能推作老挝乡村统一样式。",
+    "find": "琅勃拉邦建筑群：村落寺院、地方住宅与殖民街区 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "老挝（琅勃拉邦）",
+      "era": "19—20世纪融合街景；寺院与聚落另有早期阶段",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19—20世纪融合街景；寺院与聚落另有早期阶段",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "仅为琅勃拉邦城市融合实例，不能推作老挝乡村统一样式。",
+        "19—20世纪是融合阶段，不是每座寺院的建造年份。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/479/",
+          "locator": "Brief synthesis：each with its temple、colonial morphology；Criterion ii：19th and 20th century。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/479/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-479.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-479.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_479.jpg",
+        "source": "https://whc.unesco.org/en/list/479/",
+        "caption": "琅勃拉邦寺院官方配图；属于传统宗教建筑组，具体建筑年代与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究传统老挝宗教、生活建筑与殖民时期公共建筑如何在一个地方城市中并存。",
+      "common": [
+        {
+          "title": "寺院依附村落",
+          "text": "旧村落各有寺院，后来的新建筑保留了这一生活和宗教组织。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "建筑与自然相接",
+          "text": "河岸、池塘、湿地与半岛地形进入城市布局，宗教中心、王室及贵族住处集中在半岛。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "传统村落建筑组",
+          "feature": "住宅与寺院组成地方生活单元，宗教活动沿街与河岸展开。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "殖民时期建筑组",
+          "feature": "19—20世纪欧洲殖民建筑和街道系统叠入已有布局，形成不同的体量与道路联系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "城市曾为王都与佛教中心；殖民管理带来新建筑，但没有完全取代旧村落的组织关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "仅为琅勃拉邦城市融合实例，不能推作老挝乡村统一样式。",
+        "19—20世纪是融合阶段，不是每座寺院的建造年份。"
+      ],
+      "drawing": "画背景时用寺院、住宅、河岸形成层次，避免把殖民外观和王都早期服饰放在同一未注明年代中。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "琅勃拉邦建筑群：村落寺院、地方住宅与殖民街区：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/479/",
+          "locator": "Brief synthesis：each with its temple、colonial morphology；Criterion ii：19th and 20th century。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-caravanserai",
+    "module": "architecture",
+    "category": "houses",
+    "name": "伊朗商旅驿站：道路服务、地域适应与建筑网络",
+    "region": "伊朗（多省历史道路）",
+    "period": "公元前5世纪—20世纪初的建筑传统；各遗存分期不同",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1668/",
+    "content": "以54处商旅驿站组成的官方系列资料研究道路旅宿类型，重点是服务对象与地域差别。",
+    "use": "先决定驿站处于道路、荒漠还是城旁，再安排车队、水和暂住活动；不要照一座入口拼出全国模板。",
+    "caution": "本页提供地域与使用差别，具体平面需继续核对各驿站资料。",
+    "find": "伊朗商旅驿站：道路服务、地域适应与建筑网络 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗（多省历史道路）",
+      "era": "公元前5世纪—20世纪初的建筑传统；各遗存分期不同",
+      "start": -500,
+      "end": 1925,
+      "dateLabel": "公元前5世纪—20世纪初的建筑传统；各遗存分期不同",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "本页提供地域与使用差别，具体平面需继续核对各驿站资料。",
+        "古代传统起点不等于全部54座建筑始建年；照片可能是遗迹。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1668/",
+          "locator": "Brief synthesis：roadside inns、different climate and geographical locations；Criterion iii：5th century BC to early 20th。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1668/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1668.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1668.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1668.jpg",
+        "source": "https://whc.unesco.org/en/list/1668/",
+        "caption": "伊朗驿站官方配图；表现院落遗存，具体分期与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以54处商旅驿站组成的官方系列资料研究道路旅宿类型，重点是服务对象与地域差别。",
+      "common": [
+        {
+          "title": "沿路布点",
+          "text": "驿站沿贸易和朝圣道路提供食物、水和安全休息，并非独立于道路的城市旅馆。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "建筑随环境变化",
+          "text": "系列呈现不同材料、风格和气候适应，不能把某一座庭院的样子视作全国统一平面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "沙漠道路型",
+          "feature": "位于干旱交通网络，水源和遮蔽尤其影响旅行服务与布局。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "城镇村旁型",
+          "feature": "与城市或村庄相接，由地方社区参与维护，有的仍提供临时住宿。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "跨地域的商人、朝圣者与其他旅人短期汇聚，驿站同时支持运输和思想、语言与知识交流。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本页提供地域与使用差别，具体平面需继续核对各驿站资料。",
+        "古代传统起点不等于全部54座建筑始建年；照片可能是遗迹。"
+      ],
+      "drawing": "先决定驿站处于道路、荒漠还是城旁，再安排车队、水和暂住活动；不要照一座入口拼出全国模板。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "伊朗商旅驿站：道路服务、地域适应与建筑网络：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1668/",
+          "locator": "Brief synthesis：roadside inns、different climate and geographical locations；Criterion iii：5th century BC to early 20th。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-persian-garden",
+    "module": "architecture",
+    "category": "houses",
+    "name": "波斯园林建筑：四分水道、围墙与亭阁配置",
+    "region": "伊朗（九省园林系列）",
+    "period": "传统根源为公元前6世纪；现存九园分属不同时期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1372/",
+    "content": "比较波斯园林这一设计类型，关注建筑、水和植被的组合，而非将九座园林视作同一王朝样式。",
+    "use": "用水线和树荫先组织画面，让亭阁与围墙参与观景，不要只画一个十字水池就当完成类型。",
+    "caution": "四分原则并不要求每园尺寸、植栽或亭阁位置相同。",
+    "find": "波斯园林建筑：四分水道、围墙与亭阁配置 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗（九省园林系列）",
+      "era": "传统根源为公元前6世纪；现存九园分属不同时期",
+      "start": -600,
+      "end": null,
+      "dateLabel": "传统根源为公元前6世纪；现存九园分属不同时期",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "四分原则并不要求每园尺寸、植栽或亭阁位置相同。",
+        "起源年代只说明设计传统；不可给照片中的建筑标公元前6世纪。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1372/",
+          "locator": "Description：6th century BC、four sectors；Brief synthesis；Criterion iii：private residences、palaces、religious institutions。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1372/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1372.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1372.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1372.jpg",
+        "source": "https://whc.unesco.org/en/list/1372/",
+        "caption": "波斯园林水池和建筑官方配图；所属单园建造期与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较波斯园林这一设计类型，关注建筑、水和植被的组合，而非将九座园林视作同一王朝样式。",
+      "common": [
+        {
+          "title": "几何与分区",
+          "text": "四分布局原则可适应不同地形和气候，水同时参与灌溉、观赏与空间组织。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "建筑嵌入园地",
+          "text": "亭阁、围墙和其他建筑与树木、水源、渠道共同创造内部环境。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "生活宫苑型",
+          "feature": "服务住宅和宫廷的园林，将日常、接待和观景纳入围墙内。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "宗教纪念型",
+          "feature": "与陵墓、慈善或宗教机构相关的园林，建筑任务与宫苑不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "工程管理维持水流与局部舒适环境，园林也承载关于乐园和自然秩序的象征。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "四分原则并不要求每园尺寸、植栽或亭阁位置相同。",
+        "起源年代只说明设计传统；不可给照片中的建筑标公元前6世纪。"
+      ],
+      "drawing": "用水线和树荫先组织画面，让亭阁与围墙参与观景，不要只画一个十字水池就当完成类型。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "波斯园林建筑：四分水道、围墙与亭阁配置：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1372/",
+          "locator": "Description：6th century BC、four sectors；Brief synthesis；Criterion iii：private residences、palaces、religious institutions。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-qanat",
+    "module": "architecture",
+    "category": "parts",
+    "name": "伊朗坎儿井设施：母井、检修竖井与用水建筑",
+    "region": "伊朗（干旱地区）",
+    "period": "延续数世纪的传统水利；本页未逐一给出始建年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1506/",
+    "content": "研究坎儿井系统作为农业和聚落基础设施的建筑关系，分清地下引水和地面使用端。",
+    "use": "地下剖面需依具体井线资料；街景则把取水点、储水和水磨按水流关系画，避免井口随机排列。",
+    "caution": "年代未逐井确认，数字范围保留空值。",
+    "find": "伊朗坎儿井设施：母井、检修竖井与用水建筑 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗（干旱地区）",
+      "era": "延续数世纪的传统水利；本页未逐一给出始建年",
+      "start": null,
+      "end": null,
+      "dateLabel": "延续数世纪的传统水利；本页未逐一给出始建年",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "年代未逐井确认，数字范围保留空值。",
+        "机构图片是系统关联建筑例证，不能据地面外观复原看不见的全部隧道。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1506/",
+          "locator": "Brief synthesis：mother well、shafts、hamams reservoirs watermills；全文未逐井始建年。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1506/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1506.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1506.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1506.jpg",
+        "source": "https://whc.unesco.org/en/list/1506/",
+        "caption": "坎儿井遗产系统关联设施官方配图；具体结构与拍摄日期未载，不作全线复原图。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究坎儿井系统作为农业和聚落基础设施的建筑关系，分清地下引水和地面使用端。",
+      "common": [
+        {
+          "title": "缓坡地下引水",
+          "text": "近水平隧道依靠重力把山麓地下水输到出口，并通过渠道分配到农业用地。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "重复检修竖井",
+          "text": "母井接近水源，沿路的竖井用于清出土料和通风，从地面看形成连续井口。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "取水输送设施",
+          "feature": "母井、地下隧道、分支和维护通道组成水源到聚落的联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "用水服务设施",
+          "feature": "相关水库、公共或私人浴室、水磨及工人休息处服务不同用途，不都是井口。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "干旱地区依靠引水支持长期聚落；共同管理制度让使用者协商水量与维护责任。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "年代未逐井确认，数字范围保留空值。",
+        "机构图片是系统关联建筑例证，不能据地面外观复原看不见的全部隧道。"
+      ],
+      "drawing": "地下剖面需依具体井线资料；街景则把取水点、储水和水磨按水流关系画，避免井口随机排列。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "伊朗坎儿井设施：母井、检修竖井与用水建筑：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1506/",
+          "locator": "Brief synthesis：mother well、shafts、hamams reservoirs watermills；全文未逐井始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-yazd",
+    "module": "architecture",
+    "category": "houses",
+    "name": "亚兹德土筑住宅：下沉庭院、风塔与贫富尺度",
+    "region": "伊朗（亚兹德）",
+    "period": "传统住宅持续改建；部分为萨法维、卡扎尔时期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1544/",
+    "content": "比较沙漠城市中的传统住宅组织，主要依据机构对小宅与大型装饰住宅的综述。",
+    "use": "先定院落下沉程度、通往地下的入口和风塔，再加门窗；生活场景要留出真实遮阴与水的用途。",
+    "caution": "不把所有亚兹德住宅都画成大商人宅。",
+    "find": "亚兹德土筑住宅：下沉庭院、风塔与贫富尺度 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗（亚兹德）",
+      "era": "传统住宅持续改建；部分为萨法维、卡扎尔时期",
+      "start": null,
+      "end": null,
+      "dateLabel": "传统住宅持续改建；部分为萨法维、卡扎尔时期",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "不把所有亚兹德住宅都画成大商人宅。",
+        "个别住宅年代未逐项确认，拍摄2009年不等于建造2009年。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1544/",
+          "locator": "Brief synthesis：courtyards below ground、wind catchers；Integrity：modest to very large houses；Supplementary Information住宅分期。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1544/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-doc-158111.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-doc-158111.jpg",
+        "original": "https://whc.unesco.org/document/158111",
+        "source": "https://whc.unesco.org/en/documents/158111",
+        "caption": "Malekzadeh House，图像条目日期2009年12月4日；为保存住宅例证，建造年代未在图像条目注明。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "Ali Jadidi；© ICHHTO",
+        "license": "Nomination File，非独占授权；须署名、禁止衍生；依机构图像条目条件",
+        "related": false,
+        "width": 3544,
+        "height": 2267
+      }
+    ],
+    "topic": {
+      "scope": "比较沙漠城市中的传统住宅组织，主要依据机构对小宅与大型装饰住宅的综述。",
+      "common": [
+        {
+          "title": "土墙与院落",
+          "text": "厚土墙、拱顶和穹顶共同形成建筑；下沉庭院联系地下空间，不能只画平地花园。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "风塔参与调节",
+          "text": "风塔、院落和厚墙协同改善室内环境，住房还依靠区域坎儿井取得水。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "普通小宅",
+          "feature": "保留土筑、庭院与街巷关系，体量和装饰投入较小。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "大型装饰宅",
+          "feature": "拥有较大空间及较丰富表面装饰，部分已被保护修复并改作其他用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "极端干旱与有限材料、水源促成这一住宅体系；社区中心与住房沿坎儿井组织。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不把所有亚兹德住宅都画成大商人宅。",
+        "个别住宅年代未逐项确认，拍摄2009年不等于建造2009年。"
+      ],
+      "drawing": "先定院落下沉程度、通往地下的入口和风塔，再加门窗；生活场景要留出真实遮阴与水的用途。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "亚兹德土筑住宅：下沉庭院、风塔与贫富尺度：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1544/",
+          "locator": "Brief synthesis：courtyards below ground、wind catchers；Integrity：modest to very large houses；Supplementary Information住宅分期。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO图像条目：照片日期、署名与许可",
+          "url": "https://whc.unesco.org/en/documents/158111",
+          "locator": "Date、Author、Copyright、License、Condition of use、Original Size。日期为图像条目日期，不作建筑始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-nepal-sacred",
+    "module": "architecture",
+    "category": "houses",
+    "name": "尼泊尔谷地宗教建筑：佛塔与印度教寺院群",
+    "region": "尼泊尔（加德满都谷地）",
+    "period": "多时期宗教传统；各塔寺年代须分别确认",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/121/",
+    "content": "以谷地多个宗教建筑群比较公共信仰场所，区分佛塔与印度教寺院而不混合神像、入口和仪式用途。",
+    "use": "先选佛教绕塔还是印度教寺院场景，再配人群和附属空间；塔的体量与寺院屋顶应分开核对。",
+    "caution": "不能把谷地七处遗产当成一座统一平面的寺庙。",
+    "find": "尼泊尔谷地宗教建筑：佛塔与印度教寺院群 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "尼泊尔（加德满都谷地）",
+      "era": "多时期宗教传统；各塔寺年代须分别确认",
+      "start": null,
+      "end": null,
+      "dateLabel": "多时期宗教传统；各塔寺年代须分别确认",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "不能把谷地七处遗产当成一座统一平面的寺庙。",
+        "昌古纳拉扬5世纪铭文年代不可套在图中其他佛塔上。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/121/",
+          "locator": "Brief synthesis：seven zones、Swayambhu、Bauddhanath、Pashupati、Changu Narayan；第五世纪为铭文。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/121/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-121.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-121.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_121.jpg",
+        "source": "https://whc.unesco.org/en/list/121/",
+        "caption": "谷地佛塔官方配图；宗教建筑类型例证，具体塔身分期和照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以谷地多个宗教建筑群比较公共信仰场所，区分佛塔与印度教寺院而不混合神像、入口和仪式用途。",
+      "common": [
+        {
+          "title": "群组与公共空间",
+          "text": "宗教建筑可组成独立圣地，也与城市宫殿、广场和街区连接。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "地方建造文化",
+          "text": "谷地建筑属于特定地域的历史组合，纽瓦尔聚落和寺院联系密切。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "佛教佛塔群",
+          "feature": "斯瓦扬布与博达纳特分别提供古老佛塔及大尺度佛塔的例证。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "印度教寺院群",
+          "feature": "帕舒帕蒂为广泛寺院区，昌古纳拉扬与传统纽瓦尔聚落相联。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "宗教中心与城市政治、公共生活共处，建筑类别决定参与者的路线和场景性质。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不能把谷地七处遗产当成一座统一平面的寺庙。",
+        "昌古纳拉扬5世纪铭文年代不可套在图中其他佛塔上。"
+      ],
+      "drawing": "先选佛教绕塔还是印度教寺院场景，再配人群和附属空间；塔的体量与寺院屋顶应分开核对。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "尼泊尔谷地宗教建筑：佛塔与印度教寺院群：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/121/",
+          "locator": "Brief synthesis：seven zones、Swayambhu、Bauddhanath、Pashupati、Changu Narayan；第五世纪为铭文。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-bukhara",
+    "module": "architecture",
+    "category": "houses",
+    "name": "中亚伊斯兰城市公共建筑：经学院与穹顶市场",
+    "region": "乌兹别克斯坦（布哈拉）",
+    "period": "16—17世纪公共建筑为主；早期遗存另计",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/602/",
+    "content": "以布哈拉的多处公共建筑为例，比较教育信仰建筑和贸易节点怎样进入城市街区。",
+    "use": "用群组位置及行业活动区分场景，避免把每座穹顶建筑都画成清真寺，院门与街口要留出通路。",
+    "caution": "没有把10世纪陵墓的日期用于16—17世纪学院。",
+    "find": "中亚伊斯兰城市公共建筑：经学院与穹顶市场 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "乌兹别克斯坦（布哈拉）",
+      "era": "16—17世纪公共建筑为主；早期遗存另计",
+      "start": 1501,
+      "end": 1700,
+      "dateLabel": "16—17世纪公共建筑为主；早期遗存另计",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "没有把10世纪陵墓的日期用于16—17世纪学院。",
+        "遗产封面只作建筑群外观例证；具体学院或商场平面需逐栋核对。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/602/",
+          "locator": "Brief synthesis：Sheibani period、medresseh、Taki Sarafon、Taki-Tilpak-Furushan；1652学院。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/602/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-602.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-602.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_602.jpg",
+        "source": "https://whc.unesco.org/en/list/602/",
+        "caption": "布哈拉历史建筑官方配图；16—17世纪公共建筑传统例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以布哈拉的多处公共建筑为例，比较教育信仰建筑和贸易节点怎样进入城市街区。",
+      "common": [
+        {
+          "title": "公共建筑成组",
+          "text": "经学院、清真寺与集会空间相互联系，建筑意义须放回整体城市布局。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "商贸节点显著",
+          "text": "重要交叉路口与交易设施形成联系，市场按钱币兑换、帽品等行业组织。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "经学院组",
+          "feature": "多个学院构成主要建筑群，17世纪继续增建；教学信仰用途与住宅不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "穹顶交易组",
+          "feature": "钱商、帽商等市场节点或有覆顶大厅，重在交通相接与行业活动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "丝路城市兼为经济与伊斯兰文化中心，不同建筑服务教育、信仰与专业交易，塑造公共生活。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "没有把10世纪陵墓的日期用于16—17世纪学院。",
+        "遗产封面只作建筑群外观例证；具体学院或商场平面需逐栋核对。"
+      ],
+      "drawing": "用群组位置及行业活动区分场景，避免把每座穹顶建筑都画成清真寺，院门与街口要留出通路。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "中亚伊斯兰城市公共建筑：经学院与穹顶市场：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/602/",
+          "locator": "Brief synthesis：Sheibani period、medresseh、Taki Sarafon、Taki-Tilpak-Furushan；1652学院。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-anhui",
+    "module": "architecture",
+    "category": "houses",
+    "name": "皖南宗族商贸村落住宅：山墙、院门与村级水系",
+    "region": "中国（安徽黟县）",
+    "period": "14—20世纪保存的地域村落形态",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1002/",
+    "content": "以西递与宏村两组住房为样本，研究归乡商人和官员营建的村落住宅及其共同地域特征。",
+    "use": "先安排山势、溪渠与院门，再画山墙的起伏和人物通路；不要把苏州园林亭阁当普通徽州住宅模板。",
+    "caution": "两村布局变体不是徽州全部住宅的正式分类。",
+    "find": "皖南宗族商贸村落住宅：山墙、院门与村级水系 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（安徽黟县）",
+      "era": "14—20世纪保存的地域村落形态",
+      "start": 1301,
+      "end": 2000,
+      "dateLabel": "14—20世纪保存的地域村落形态",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "两村布局变体不是徽州全部住宅的正式分类。",
+        "建筑样本14—20世纪，不以聚落传说或某张拍摄日期替代房屋分期。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1002/",
+          "locator": "Brief synthesis：14th and 20th centuries、returning merchants、Xidi streams、Hongcun pools。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1002/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-doc-114153.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-doc-114153.jpg",
+        "original": "https://whc.unesco.org/document/114153",
+        "source": "https://whc.unesco.org/en/documents/114153",
+        "caption": "皖南住宅院门，图像条目2004年；Giovanni Boccardi摄，属于历史建筑保存例证。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "Giovanni Boccardi；© UNESCO",
+        "license": "CC BY-SA 3.0 IGO；须署名，衍生作品适用相同许可",
+        "related": false,
+        "width": 768,
+        "height": 1024
+      }
+    ],
+    "topic": {
+      "scope": "以西递与宏村两组住房为样本，研究归乡商人和官员营建的村落住宅及其共同地域特征。",
+      "common": [
+        {
+          "title": "克制外观与细部",
+          "text": "建筑色彩朴素，山墙与内部陈设体现细致装饰，不以皇宫式华彩表现商人村屋。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "家族与水路组织",
+          "text": "家庭宗族联系、街巷和持续供水系统共同组织村落，住宅不应脱离地势孤立摆放。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "沿溪村落型",
+          "feature": "西递位于山间并沿多道溪流营建，水路和街巷形成连续的生活联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "池渠村落型",
+          "feature": "宏村坡下的溪流联系中央月沼及南部池塘，住宅与人工水系相互依存。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "商业经济带来营建财富，儒家家族秩序和对人与自然和谐的追求进入住宅、村巷与水道布局。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "两村布局变体不是徽州全部住宅的正式分类。",
+        "建筑样本14—20世纪，不以聚落传说或某张拍摄日期替代房屋分期。"
+      ],
+      "drawing": "先安排山势、溪渠与院门，再画山墙的起伏和人物通路；不要把苏州园林亭阁当普通徽州住宅模板。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "皖南宗族商贸村落住宅：山墙、院门与村级水系：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1002/",
+          "locator": "Brief synthesis：14th and 20th centuries、returning merchants、Xidi streams、Hongcun pools。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO图像条目：照片日期、署名与许可",
+          "url": "https://whc.unesco.org/en/documents/114153",
+          "locator": "Date、Author、Copyright、License、Condition of use、Original Size。日期为图像条目日期，不作建筑始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-hadrami",
+    "module": "architecture",
+    "category": "houses",
+    "name": "哈德拉毛土坯塔屋：紧密街区与向上居住",
+    "region": "也门（希巴姆）",
+    "period": "16—19世纪城市住宅传统",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/192/",
+    "content": "以希巴姆成片塔屋研究哈德拉毛城市住宅的高度、街区密度和洪泛环境关系。",
+    "use": "把土墙渐收的高低房块、窄巷和谷地背景画成连续街区；低层开口少，别按现代玻璃高楼分格。",
+    "caution": "这里按高度作绘画对照，不冒充机构的正式住宅分型。",
+    "find": "哈德拉毛土坯塔屋：紧密街区与向上居住 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "也门（希巴姆）",
+      "era": "16—19世纪城市住宅传统",
+      "start": 1501,
+      "end": 1900,
+      "dateLabel": "16—19世纪城市住宅传统",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "这里按高度作绘画对照，不冒充机构的正式住宅分型。",
+        "城内清真寺和城堡更早，不能把整座城所有建筑都标16世纪。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/192/",
+          "locator": "Brief synthesis：up to seven storeys、1532-3 flood；Criteria iii、iv：16th to 19th、no ground fenestration。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/192/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-192.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-192.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_192.jpg",
+        "source": "https://whc.unesco.org/en/list/192/",
+        "caption": "希巴姆塔屋群官方配图；16—19世纪传统保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以希巴姆成片塔屋研究哈德拉毛城市住宅的高度、街区密度和洪泛环境关系。",
+      "common": [
+        {
+          "title": "多层土坯房块",
+          "text": "晒干土砖住房可达七层，密集相连而不是一座独立高塔与低矮草房的组合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "低层开口谨慎",
+          "text": "防护围墙与几乎没有低层外窗的住宅群构成集体防御性，街巷和广场按网格联系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "较低住宅层级",
+          "feature": "同一塔屋传统存在不同高度，不能将全部房屋统一画作七层。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "高层塔屋层级",
+          "feature": "高达数层的住房集中在城内，向上发展兼具家族保护与地位表达作用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "香料乳香商路带来贸易资源；洪泛农业提供经济支持和土筑材料，防御竞争推动高密度布局。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这里按高度作绘画对照，不冒充机构的正式住宅分型。",
+        "城内清真寺和城堡更早，不能把整座城所有建筑都标16世纪。"
+      ],
+      "drawing": "把土墙渐收的高低房块、窄巷和谷地背景画成连续街区；低层开口少，别按现代玻璃高楼分格。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "哈德拉毛土坯塔屋：紧密街区与向上居住：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/192/",
+          "locator": "Brief synthesis：up to seven storeys、1532-3 flood；Criteria iii、iv：16th to 19th、no ground fenestration。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-bazaar",
+    "module": "architecture",
+    "category": "houses",
+    "name": "伊朗传统巴扎空间：覆顶交易与社会服务的连接",
+    "region": "伊朗（大不里士）",
+    "period": "18世纪地震后存世建筑；传统贸易活动12—18世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1346/",
+    "content": "以大不里士巴扎成系列的功能建筑研究传统市场复合空间，不以一座商场代替整套交易体系。",
+    "use": "画人群与货品时先明确交易节点或社会服务空间，再使用连续拱顶表现市场的纵深和遮蔽。",
+    "caution": "这里只说明功能分区，不能据总述编造每个厅堂平面。",
+    "find": "伊朗传统巴扎空间：覆顶交易与社会服务的连接 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗（大不里士）",
+      "era": "18世纪地震后存世建筑；传统贸易活动12—18世纪",
+      "start": 1780,
+      "end": 1800,
+      "dateLabel": "18世纪地震后存世建筑；传统贸易活动12—18世纪",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "这里只说明功能分区，不能据总述编造每个厅堂平面。",
+        "现存结构反映1780年地震后营建，不等于全部出自13世纪。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1346/",
+          "locator": "Brief synthesis：commercial social educational religious；Integrity and Authenticity：constructed after 1780 earthquake。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1346/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1346.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1346.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1346.jpg",
+        "source": "https://whc.unesco.org/en/list/1346/",
+        "caption": "大不里士巴扎覆顶交易空间官方配图；地震后历史结构例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以大不里士巴扎成系列的功能建筑研究传统市场复合空间，不以一座商场代替整套交易体系。",
+      "common": [
+        {
+          "title": "连续砖构覆盖",
+          "text": "覆顶砖建筑和封闭空间相互连接，在紧凑区域容纳多种专业活动。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "行业与空间相连",
+          "text": "建筑格局关联行业、人员和社会组织，交易动线并非与生活文化完全分离。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "商业交易空间",
+          "feature": "按专业经营服务商旅与货物流动，覆顶道路和交易节点联系成网。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "教育信仰交往空间",
+          "feature": "宗教、教育和社会集会设施嵌入市场体系，与商业功能保持联系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "东西向国际贸易和地方制度使市场持续运作；建筑回应专业交易及社会文化交流的不同需要。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这里只说明功能分区，不能据总述编造每个厅堂平面。",
+        "现存结构反映1780年地震后营建，不等于全部出自13世纪。"
+      ],
+      "drawing": "画人群与货品时先明确交易节点或社会服务空间，再使用连续拱顶表现市场的纵深和遮蔽。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "伊朗传统巴扎空间：覆顶交易与社会服务的连接：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1346/",
+          "locator": "Brief synthesis：commercial social educational religious；Integrity and Authenticity：constructed after 1780 earthquake。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-pearling-houses",
+    "module": "architecture",
+    "category": "houses",
+    "name": "海湾采珠商贸建筑：商人住处、会客与店仓",
+    "region": "巴林（穆哈拉格）",
+    "period": "19世纪末—20世纪初采珠业繁盛期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1364/",
+    "content": "研究采珠经济所支持的住宅和商业建筑类型，避免把海岸劳动场景直接画进豪华商宅。",
+    "use": "以住宅、会客和店仓三种活动组织人物，装饰程度与经营角色相配；海湾环境应作为产业联系背景。",
+    "caution": "传统采珠从古代延续，不表示现存商宅也始建于公元2世纪。",
+    "find": "海湾采珠商贸建筑：商人住处、会客与店仓 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "巴林（穆哈拉格）",
+      "era": "19世纪末—20世纪初采珠业繁盛期",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19世纪末—20世纪初采珠业繁盛期",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "传统采珠从古代延续，不表示现存商宅也始建于公元2世纪。",
+        "图像为2009年保存状态；不可直接宣称所有现存建筑未经重建。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1364/",
+          "locator": "Brief synthesis、Integrity：late 19th early 20th；Description：residences shops storehouses；Maps：Majlis。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1364/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-doc-117184.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-doc-117184.jpg",
+        "original": "https://whc.unesco.org/document/117184",
+        "source": "https://whc.unesco.org/en/documents/117184",
+        "caption": "Siyadi建筑群，图像条目2009年4月；Ghassan Chemali摄、©MiCI，展示保存商贸建筑。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "Ghassan Chemali；© MiCI",
+        "license": "All Rights Reserved；公开复用需权利人许可，依机构图像条目条件",
+        "related": false,
+        "width": 500,
+        "height": 332
+      }
+    ],
+    "topic": {
+      "scope": "研究采珠经济所支持的住宅和商业建筑类型，避免把海岸劳动场景直接画进豪华商宅。",
+      "common": [
+        {
+          "title": "经济角色分明",
+          "text": "住宅、店铺、仓库和会客设施分别体现商人、行业与社会交往的需要。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "精细木作灰泥",
+          "text": "机构指出这些建筑见证采珠业培育的木构件和灰泥工艺传统。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "居住会客型",
+          "feature": "商人住宅与majlis会客空间体现财富、社会关系和接待用途。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "商业储存型",
+          "feature": "店铺、储存建筑服务采珠贸易，尺度和出入活动与住宅有别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "19世纪末和20世纪初贸易高峰推动商人街区发展；1930年代养殖珍珠冲击使行业迅速衰落。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "传统采珠从古代延续，不表示现存商宅也始建于公元2世纪。",
+        "图像为2009年保存状态；不可直接宣称所有现存建筑未经重建。"
+      ],
+      "drawing": "以住宅、会客和店仓三种活动组织人物，装饰程度与经营角色相配；海湾环境应作为产业联系背景。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "海湾采珠商贸建筑：商人住处、会客与店仓：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1364/",
+          "locator": "Brief synthesis、Integrity：late 19th early 20th；Description：residences shops storehouses；Maps：Majlis。"
+        },
+        {
+          "id": "img",
+          "title": "UNESCO图像条目：照片日期、署名与许可",
+          "url": "https://whc.unesco.org/en/documents/117184",
+          "locator": "Date、Author、Copyright、License、Condition of use、Original Size。日期为图像条目日期，不作建筑始建年。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-oasis-fortified",
+    "module": "architecture",
+    "category": "houses",
+    "name": "伊朗绿洲土筑城堡聚落：管理区与受保护住宅",
+    "region": "伊朗（巴姆地区）",
+    "period": "7—11世纪繁盛期；遗存多期，2003年地震后修复",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1208/",
+    "content": "以巴姆地区的土筑堡垒、居住区和遗迹研究绿洲防御聚落类型，不把一座城门当完整资料。",
+    "use": "先分堡垒核心、居住区和水源耕地，再画高低城墙；复原场景要另核地震前资料与修复记录。",
+    "caution": "7—11世纪是繁盛阶段，不是所有墙体的统一建造期。",
+    "find": "伊朗绿洲土筑城堡聚落：管理区与受保护住宅 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗（巴姆地区）",
+      "era": "7—11世纪繁盛期；遗存多期，2003年地震后修复",
+      "start": 601,
+      "end": 1100,
+      "dateLabel": "7—11世纪繁盛期；遗存多期，2003年地震后修复",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "7—11世纪是繁盛阶段，不是所有墙体的统一建造期。",
+        "2003年地震造成严重破坏；官方旧图不应标成2026年现状。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1208/",
+          "locator": "Brief synthesis：governor quarters fortified residential、chineh khesht；Description：7th to 11th；Integrity：earthquake。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1208/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1208.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1208.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1208.jpg",
+        "source": "https://whc.unesco.org/en/list/1208/",
+        "caption": "巴姆土筑城防官方配图；拍摄年份未载，可能反映地震前或修复阶段，不能作为2026年现状保证。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以巴姆地区的土筑堡垒、居住区和遗迹研究绿洲防御聚落类型，不把一座城门当完整资料。",
+      "common": [
+        {
+          "title": "土层土砖并用",
+          "text": "夯叠土层与晒干土砖共同构成建筑，拱和穹顶参与覆盖空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "绿洲体系相连",
+          "text": "堡垒住宅与地下引水、耕作及贸易路线关联，不是完全自给的孤立沙漠城堡。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "管理堡垒区",
+          "feature": "统治者住处和防护设施形成政治核心，对外交通受到控制。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "受保护住宅区",
+          "feature": "住宅街区在防护范围内组织，生活建筑与管理核心使用和规模不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "沙漠贸易交汇点需要保护人员与商品，坎儿井保障绿洲生活，织物生产和交易推动繁荣。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "7—11世纪是繁盛阶段，不是所有墙体的统一建造期。",
+        "2003年地震造成严重破坏；官方旧图不应标成2026年现状。"
+      ],
+      "drawing": "先分堡垒核心、居住区和水源耕地，再画高低城墙；复原场景要另核地震前资料与修复记录。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "伊朗绿洲土筑城堡聚落：管理区与受保护住宅：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1208/",
+          "locator": "Brief synthesis：governor quarters fortified residential、chineh khesht；Description：7th to 11th；Integrity：earthquake。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-trulli",
+    "module": "architecture",
+    "category": "houses",
+    "name": "普利亚干砌石屋：田间棚仓与永久住宅",
+    "region": "意大利（伊特里亚谷地）",
+    "period": "14世纪中期以来的现存传统；18世纪城镇扩展",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/787/",
+    "content": "研究trulli这一类石灰岩干砌建筑，比较农业临时用途与较稳定的家居用途。",
+    "use": "先画厚墙、少开口和房间顶盖单元，再处理白灰、屋顶标记；棚仓不应塞满豪华卧室家具。",
+    "caution": "本专题限定伊特里亚地方传统，不把地中海全部石棚都叫trullo。",
+    "find": "普利亚干砌石屋：田间棚仓与永久住宅 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "意大利（伊特里亚谷地）",
+      "era": "14世纪中期以来的现存传统；18世纪城镇扩展",
+      "start": 1350,
+      "end": 1800,
+      "dateLabel": "14世纪中期以来的现存传统；18世纪城镇扩展",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "本专题限定伊特里亚地方传统，不把地中海全部石棚都叫trullo。",
+        "中期14世纪是现存传统样本下限，不等于所有石顶房子的具体年。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/787/",
+          "locator": "Brief synthesis：mid-14th、temporary field shelters storehouses permanent dwellings、double skin、corbelled slabs。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/787/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-787.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-787.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_787.jpg",
+        "source": "https://whc.unesco.org/en/list/787/",
+        "caption": "阿尔贝罗贝洛trulli官方配图；地方干砌石屋保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究trulli这一类石灰岩干砌建筑，比较农业临时用途与较稳定的家居用途。",
+      "common": [
+        {
+          "title": "不用砂浆的厚墙",
+          "text": "石材来自附近田地及取地下蓄水空间，双层墙与碎石芯形成厚实外壳。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "石板逐层收顶",
+          "text": "屋顶可呈圆锥、穹隆或角锥，内外双层覆盖，外石板处理防水。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "临时棚仓型",
+          "feature": "田间遮蔽与储存用石屋服务小土地经营和农业劳作。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "永久住宅型",
+          "feature": "有壁炉、壁龛等生活空间，可由多个石顶单元组合，少数为两层。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "当地石灰岩易取得，建造与耕地清理、蓄水相联系；不同使用时长影响室内安排。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本专题限定伊特里亚地方传统，不把地中海全部石棚都叫trullo。",
+        "中期14世纪是现存传统样本下限，不等于所有石顶房子的具体年。"
+      ],
+      "drawing": "先画厚墙、少开口和房间顶盖单元，再处理白灰、屋顶标记；棚仓不应塞满豪华卧室家具。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "普利亚干砌石屋：田间棚仓与永久住宅：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/787/",
+          "locator": "Brief synthesis：mid-14th、temporary field shelters storehouses permanent dwellings、double skin、corbelled slabs。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-matera",
+    "module": "architecture",
+    "category": "houses",
+    "name": "地中海凿岩聚落：洞穴住宅与宗教空间",
+    "region": "意大利（马泰拉）",
+    "period": "8世纪后居住扩展；15—18世纪持续增层",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/670/",
+    "content": "以马泰拉多处洞居和岩凿宗教建筑说明凿岩聚落类型，比较家居与宗教功能。",
+    "use": "先处理岩面、入口和上层建筑的交叠，再区分灶旁生活与宗教活动，别把天然裂缝当作门窗装饰。",
+    "caution": "史前首次占居不能当作照片洞居的建造年。",
+    "find": "地中海凿岩聚落：洞穴住宅与宗教空间 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "意大利（马泰拉）",
+      "era": "8世纪后居住扩展；15—18世纪持续增层",
+      "start": 701,
+      "end": 1800,
+      "dateLabel": "8世纪后居住扩展；15—18世纪持续增层",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "史前首次占居不能当作照片洞居的建造年。",
+        "1950年代迁出、1980年代恢复使用；保存场景不能直接复制成连续不变的生活史。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/670/",
+          "locator": "Brief synthesis：8th century cave occupation、simple caves enclosed blocks、houses churches workshops；Authenticity迁出恢复。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/670/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-670.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-670.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_670.jpg",
+        "source": "https://whc.unesco.org/en/list/670/",
+        "caption": "马泰拉岩凿宗教空间官方配图；展示洞居体系中的宗教类型，具体洞窟与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以马泰拉多处洞居和岩凿宗教建筑说明凿岩聚落类型，比较家居与宗教功能。",
+      "common": [
+        {
+          "title": "利用天然洞穴",
+          "text": "早期住处在洞穴外以挖出的石块封墙，住房和工作空间与岩地相连。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "多阶段贴合地形",
+          "text": "沟谷、岩壁、高地及后来建造部分叠加，街区不是统一年代的一次性设计。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "洞穴家居型",
+          "feature": "住房、商店与作坊利用岩穴，生活入口和外加墙面形成近地尺度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "岩凿宗教型",
+          "feature": "教堂、修院和隐修场所利用洞穴或凿岩空间，仪式组织与普通家屋不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "地形和资源制约促成利用岩穴的定居方式，随着人口和宗教发展不断向外扩展。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "史前首次占居不能当作照片洞居的建造年。",
+        "1950年代迁出、1980年代恢复使用；保存场景不能直接复制成连续不变的生活史。"
+      ],
+      "drawing": "先处理岩面、入口和上层建筑的交叠，再区分灶旁生活与宗教活动，别把天然裂缝当作门窗装饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "地中海凿岩聚落：洞穴住宅与宗教空间：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/670/",
+          "locator": "Brief synthesis：8th century cave occupation、simple caves enclosed blocks、houses churches workshops；Authenticity迁出恢复。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-roros",
+    "module": "architecture",
+    "category": "houses",
+    "name": "北欧矿业木构聚落：一层与两层住宅及生产环境",
+    "region": "挪威（勒罗斯）",
+    "period": "1646年矿城形成；1679年后重建至20世纪矿业延续",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/55/",
+    "content": "以勒罗斯矿业城及农村生产景观比较木构住宅的尺度与矿业生活联系。",
+    "use": "背景用木屋高低、生产水路和冬季运输联系，公共教堂只作城市节点，别把矿工宅画成教堂体量。",
+    "caution": "黑化木立面不代表中世纪建造，正文明确现城1646年后形成。",
+    "find": "北欧矿业木构聚落：一层与两层住宅及生产环境 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "挪威（勒罗斯）",
+      "era": "1646年矿城形成；1679年后重建至20世纪矿业延续",
+      "start": 1646,
+      "end": 1977,
+      "dateLabel": "1646年矿城形成；1679年后重建至20世纪矿业延续",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "黑化木立面不代表中世纪建造，正文明确现城1646年后形成。",
+        "一层两层是有据尺度对照，不能据此编造全部住宅的内部平面。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/55/",
+          "locator": "Description：one and two storey houses、rebuilt after1679；Brief synthesis：1646、winter route；1977终止矿业。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/55/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-55.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-55.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_55.jpg",
+        "source": "https://whc.unesco.org/en/list/55/",
+        "caption": "勒罗斯城镇木屋与公共建筑官方配图；17世纪后矿业聚落例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以勒罗斯矿业城及农村生产景观比较木构住宅的尺度与矿业生活联系。",
+      "common": [
+        {
+          "title": "木构低层街景",
+          "text": "约两千座一层或两层木建筑共同组成街区，不靠一栋高楼表现矿城。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "生产与农业互相支持",
+          "text": "冶炼、供水、运输和城市附近农业共同维持山地生产，冬季道路是重要联系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "一层住宅组",
+          "feature": "低矮木屋联系街巷和生产生活院地，体量适宜较小家居场景。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "两层住宅组",
+          "feature": "较高住房增加建筑层次，与冶炼等公共生产建筑在城市轮廓中相区分。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "高寒、缺道路和森林农业边缘条件要求适应季节运输，铜矿生产组织推动特定木构生活环境。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "黑化木立面不代表中世纪建造，正文明确现城1646年后形成。",
+        "一层两层是有据尺度对照，不能据此编造全部住宅的内部平面。"
+      ],
+      "drawing": "背景用木屋高低、生产水路和冬季运输联系，公共教堂只作城市节点，别把矿工宅画成教堂体量。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "北欧矿业木构聚落：一层与两层住宅及生产环境：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/55/",
+          "locator": "Description：one and two storey houses、rebuilt after1679；Brief synthesis：1646、winter route；1977终止矿业。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-malopolska",
+    "module": "architecture",
+    "category": "houses",
+    "name": "小波兰木教堂：横木墙身、塔楼与彩绘内部",
+    "region": "波兰（小波兰南部）",
+    "period": "中世纪哥特式木建造传统；各教堂分期需单独核对",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1053/",
+    "content": "比较六座乡村木教堂构成的类型系列，关注共同木构方法与有无塔楼的外观差别。",
+    "use": "把墙身叠木和柱梁塔分开画，屋顶陡度服从主殿体量；室内图像依据具体教堂，避免乱拼圣像。",
+    "caution": "中世纪传统不等于所有现存彩绘同年，后期装饰须另核。",
+    "find": "小波兰木教堂：横木墙身、塔楼与彩绘内部 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "波兰（小波兰南部）",
+      "era": "中世纪哥特式木建造传统；各教堂分期需单独核对",
+      "start": null,
+      "end": null,
+      "dateLabel": "中世纪哥特式木建造传统；各教堂分期需单独核对",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+      "notes": [
+        "中世纪传统不等于所有现存彩绘同年，后期装饰须另核。",
+        "只覆盖小波兰罗马天主教类型，不套给所有东欧木教堂。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1053/",
+          "locator": "Description：medieval log construction；Integrity：tower post and beam、tripartite except towerless Lipnica、paintings。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1053/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1053.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1053.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1053.jpg",
+        "source": "https://whc.unesco.org/en/list/1053/",
+        "caption": "小波兰木教堂官方配图；展示高屋面与木构轮廓，具体修建和拍摄年份未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较六座乡村木教堂构成的类型系列，关注共同木构方法与有无塔楼的外观差别。",
+      "common": [
+        {
+          "title": "横木墙与框架塔",
+          "text": "主体采用横向叠木，塔部分可用柱梁架，屋架联系中殿与圣坛空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "高屋顶与内部图像",
+          "text": "陡高屋面、廊道和木雕细节构成轮廓，彩绘墙顶兼有装饰与教导意义。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "带塔三段式",
+          "feature": "多数教堂以塔、主体和圣坛形成分段轮廓，入口与礼拜路线层级明确。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "无塔变体",
+          "feature": "利普尼察穆罗瓦纳提供无塔例外，不能把所有乡村教堂一律补同样钟塔。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "乡村木材和工坊传统提供城市石教堂以外的建造选择，贵族资助也使建筑成为地位表达。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "中世纪传统不等于所有现存彩绘同年，后期装饰须另核。",
+        "只覆盖小波兰罗马天主教类型，不套给所有东欧木教堂。"
+      ],
+      "drawing": "把墙身叠木和柱梁塔分开画，屋顶陡度服从主殿体量；室内图像依据具体教堂，避免乱拼圣像。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "小波兰木教堂：横木墙身、塔楼与彩绘内部：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1053/",
+          "locator": "Description：medieval log construction；Integrity：tower post and beam、tripartite except towerless Lipnica、paintings。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-slovak-wooden",
+    "module": "architecture",
+    "category": "houses",
+    "name": "斯洛伐克木教堂：不同教派的平面与内部安排",
+    "region": "斯洛伐克（喀尔巴阡山区）",
+    "period": "16—18世纪八座木教堂系列",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1273/",
+    "content": "研究同一山地区域里不同信仰群体的木教堂，先辨礼仪传统再比较外观。",
+    "use": "先定教派与参与者使用方式，再画木墙、圣坛和图像；别只换塔顶就宣称改变了建筑类型。",
+    "caution": "正文归类教派，不提供每间室内完整尺寸；具体平面仍需单栋资料。",
+    "find": "斯洛伐克木教堂：不同教派的平面与内部安排 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "斯洛伐克（喀尔巴阡山区）",
+      "era": "16—18世纪八座木教堂系列",
+      "start": 1501,
+      "end": 1800,
+      "dateLabel": "16—18世纪八座木教堂系列",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "正文归类教派，不提供每间室内完整尺寸；具体平面仍需单栋资料。",
+        "16—18世纪是系列建造范围，不是每座现存修复部件都属此时。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1273/",
+          "locator": "Outstanding Universal Value：eight、Roman Catholic Protestant Greek Orthodox、16th18th、typological variations。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1273/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1273.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1273.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1273.jpg",
+        "source": "https://whc.unesco.org/en/list/1273/",
+        "caption": "斯洛伐克木教堂官方配图；16—18世纪系列之一，单栋分期及照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究同一山地区域里不同信仰群体的木教堂，先辨礼仪传统再比较外观。",
+      "common": [
+        {
+          "title": "地方木材与传统工艺",
+          "text": "建筑主要用木，许多处于偏远村落，在技术和材料层面共享地方惯例。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "内部与外部响应礼仪",
+          "text": "平面、室内布置和外观因教派有差别，壁顶绘画和艺术品也影响空间识读。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "罗马天主教类型",
+          "feature": "西方礼仪及哥特、文艺复兴、巴洛克等观念被地方木匠转化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "新教及东仪类型",
+          "feature": "路德宗和东仪教会另有平面、内部空间与视觉要求，不能把三类圣所画成同一陈设。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "多种信仰在小区域共存，拉丁与拜占庭文化交流及宗教宽容影响乡村木构传统。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "正文归类教派，不提供每间室内完整尺寸；具体平面仍需单栋资料。",
+        "16—18世纪是系列建造范围，不是每座现存修复部件都属此时。"
+      ],
+      "drawing": "先定教派与参与者使用方式，再画木墙、圣坛和图像；别只换塔顶就宣称改变了建筑类型。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "斯洛伐克木教堂：不同教派的平面与内部安排：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1273/",
+          "locator": "Outstanding Universal Value：eight、Roman Catholic Protestant Greek Orthodox、16th18th、typological variations。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-fortified-church",
+    "module": "architecture",
+    "category": "houses",
+    "name": "特兰西瓦尼亚要塞教堂：村庄礼拜与共同防护",
+    "region": "罗马尼亚（南特兰西瓦尼亚）",
+    "period": "13—16世纪教堂形式；村落组织保留中世纪晚期特征",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/596/",
+    "content": "比较萨克森移民村落的要塞教堂建筑组，关注礼拜场所与防护围合如何共存。",
+    "use": "画礼拜时保留外部堡垒环境，画防护场景时画清通向村庄农屋的道路，不把教堂当王室宫堡。",
+    "caution": "本条按用途划分建筑组构成，不宣称为机构给出的两种正式房式。",
+    "find": "特兰西瓦尼亚要塞教堂：村庄礼拜与共同防护 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "罗马尼亚（南特兰西瓦尼亚）",
+      "era": "13—16世纪教堂形式；村落组织保留中世纪晚期特征",
+      "start": 1201,
+      "end": 1600,
+      "dateLabel": "13—16世纪教堂形式；村落组织保留中世纪晚期特征",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "本条按用途划分建筑组构成，不宣称为机构给出的两种正式房式。",
+        "这里只使用机构给定共性，围墙层数和军防细节不能照一村复制到所有村。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/596/",
+          "locator": "Description：seven Saxon villages、family farmstead、fortified churches 13th16th；系列共性。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/596/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-596.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-596.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_596.jpg",
+        "source": "https://whc.unesco.org/en/list/596/",
+        "caption": "特兰西瓦尼亚要塞教堂围护官方配图；13—16世纪系列传统例证，具体改建及照片年代未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "比较萨克森移民村落的要塞教堂建筑组，关注礼拜场所与防护围合如何共存。",
+      "common": [
+        {
+          "title": "宗教核心主导村庄",
+          "text": "教堂构成聚落中显著节点，周围家庭农庄与土地利用体系保持联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "防护与信仰结合",
+          "text": "系列以加固教堂及相关围护为共同特征，不能按普通无防御乡村小礼拜堂理解。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "礼拜建筑部分",
+          "feature": "内部用于宗教活动，外观保留13—16世纪不同阶段的建造形式。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "防护围合部分",
+          "feature": "围墙和附属防护体服务共同避护，入口及周边农庄联系须独立考虑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "乡村共同体把信仰和防护纳入同一聚落核心，建筑与家庭生产和土地组织形成连续关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本条按用途划分建筑组构成，不宣称为机构给出的两种正式房式。",
+        "这里只使用机构给定共性，围墙层数和军防细节不能照一村复制到所有村。"
+      ],
+      "drawing": "画礼拜时保留外部堡垒环境，画防护场景时画清通向村庄农屋的道路，不把教堂当王室宫堡。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "特兰西瓦尼亚要塞教堂：村庄礼拜与共同防护：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/596/",
+          "locator": "Description：seven Saxon villages、family farmstead、fortified churches 13th16th；系列共性。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-russian-pogost",
+    "module": "architecture",
+    "category": "houses",
+    "name": "俄罗斯北方木构教区中心：夏冬教堂与钟楼",
+    "region": "俄罗斯（卡累利阿）",
+    "period": "18—19世纪教区建筑；显圣容教堂木料测年为1713—1714年后，钟楼1862年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/544/",
+    "content": "以基日组合研究北方pogost教区建筑类型，比较两类季节礼拜建筑与钟楼的关系。",
+    "use": "先将两座教堂与钟楼组成场地，再处理木顶重复层次；历史场景要核对覆面和涂色所属阶段。",
+    "caution": "这是北方地方教区组合例证，不是全部俄罗斯教堂的统一标准。",
+    "find": "俄罗斯北方木构教区中心：夏冬教堂与钟楼 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "俄罗斯（卡累利阿）",
+      "era": "18—19世纪教区建筑；显圣容教堂木料测年为1713—1714年后，钟楼1862年",
+      "start": 1714,
+      "end": 1862,
+      "dateLabel": "18—19世纪教区建筑；显圣容教堂木料测年为1713—1714年后，钟楼1862年",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "这是北方地方教区组合例证，不是全部俄罗斯教堂的统一标准。",
+        "19世纪覆板白漆和金属穹面在20世纪修复中改变；照片不能代表所有历史阶段。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/544/",
+          "locator": "Description：18th wooden churches19th belltower；Brief synthesis：1714 1764；Authenticity：1949-59 restoration。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        },
+        {
+          "url": "https://whc.unesco.org/document/153718",
+          "locator": "第43页：较大的北侧夏季教堂、南侧冬季教堂；北方分散教区建筑组合。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/544/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-544.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-544.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_544.jpg",
+        "source": "https://whc.unesco.org/en/list/544/",
+        "caption": "基日教区中心官方配图；18—19世纪建筑经持续修复后的例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以基日组合研究北方pogost教区建筑类型，比较两类季节礼拜建筑与钟楼的关系。",
+      "common": [
+        {
+          "title": "整体教区场地",
+          "text": "教堂、墓地及远散居民所需建筑在同一围合场地汇聚，承担区域精神生活。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "传统木匠组织体量",
+          "text": "叠木技术、木制结构和装饰构成层叠轮廓，组群按三角关系取得整体视觉。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "夏季大型教堂",
+          "feature": "大尺度显圣容教堂以复杂多穹顶轮廓提供季节礼拜的主要空间。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "冬季较小教堂",
+          "feature": "较小圣母代祷教堂与钟楼构成另一活动层级，不能用大教堂尺度替代全部场所。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "周围分散的农业共同体需要集中宗教中心，季节条件和集会需求使不同体量相互配合。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "这是北方地方教区组合例证，不是全部俄罗斯教堂的统一标准。",
+        "19世纪覆板白漆和金属穹面在20世纪修复中改变；照片不能代表所有历史阶段。"
+      ],
+      "drawing": "先将两座教堂与钟楼组成场地，再处理木顶重复层次；历史场景要核对覆面和涂色所属阶段。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "俄罗斯北方木构教区中心：夏冬教堂与钟楼：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/544/",
+          "locator": "Description：18th wooden churches19th belltower；Brief synthesis：1714 1764；Authenticity：1949-59 restoration。"
+        },
+        {
+          "id": "s2",
+          "title": "ICOMOS：Kizhi Pogost评估",
+          "url": "https://whc.unesco.org/document/153718",
+          "locator": "第43页：较大的北侧夏季教堂、南侧冬季教堂；北方分散教区建筑组合。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-swedish-festive",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "瑞典农庄庆典空间：独立宴屋与主屋装饰套间",
+    "region": "瑞典（海尔辛兰及相邻地区）",
+    "period": "18—19世纪农庄；重要室内装饰1800—1870年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1282/",
+    "content": "研究富裕独立农民的庆典建筑和房间，区分日常居住与特意保留的盛会空间。",
+    "use": "先定独立宴屋还是主屋套间，再安排宾客、空闲房与出入路线；日常劳动场景宜与礼仪陈设区分。",
+    "caution": "不是全体瑞典农民住房都拥有精装宴庆套间。",
+    "find": "瑞典农庄庆典空间：独立宴屋与主屋装饰套间 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞典（海尔辛兰及相邻地区）",
+      "era": "18—19世纪农庄；重要室内装饰1800—1870年",
+      "start": 1800,
+      "end": 1870,
+      "dateLabel": "18—19世纪农庄；重要室内装饰1800—1870年",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "不是全体瑞典农民住房都拥有精装宴庆套间。",
+        "1800—1870是重要装饰房间范围，不表示各农庄全部房屋同年建成。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1282/",
+          "locator": "Brief synthesis：Herrstuga or rooms main house、festivities、flax woodland；Authenticity：1800-1870 key rooms。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1282/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1282.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1282.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1282.jpg",
+        "source": "https://whc.unesco.org/en/list/1282/",
+        "caption": "海尔辛兰庆典房间官方配图；19世纪装饰传统的保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究富裕独立农民的庆典建筑和房间，区分日常居住与特意保留的盛会空间。",
+      "common": [
+        {
+          "title": "专供节庆使用",
+          "text": "庆典房屋或套间常在一年大部分时间闲置，不能当作普通家庭每日起居室。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "彩绘表达地位",
+          "text": "墙顶可直接绘画或附布面图像，民间艺术融合地主阶层流行风格。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "独立庆典屋",
+          "feature": "Herrstuga设在农庄内专门建筑中，屋与屋之间关系应画清。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "主屋庆典套间",
+          "feature": "另一方式在主屋内部保留多个装饰房间，而非每间都用于同一功能。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "亚麻生产、森林利用和富裕农庄收入支持大规模营建，宴庆空间展示独立农民的社会地位。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不是全体瑞典农民住房都拥有精装宴庆套间。",
+        "1800—1870是重要装饰房间范围，不表示各农庄全部房屋同年建成。"
+      ],
+      "drawing": "先定独立宴屋还是主屋套间，再安排宾客、空闲房与出入路线；日常劳动场景宜与礼仪陈设区分。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "瑞典农庄庆典空间：独立宴屋与主屋装饰套间：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1282/",
+          "locator": "Brief synthesis：Herrstuga or rooms main house、festivities、flax woodland；Authenticity：1800-1870 key rooms。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-porticoes",
+    "module": "architecture",
+    "category": "parts",
+    "name": "博洛尼亚城市柱廊：木石砖与现代混凝土变体",
+    "region": "意大利（博洛尼亚）",
+    "period": "12—21世纪持续建造的柱廊系列",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1650/",
+    "content": "研究柱廊作为建筑外部公共使用空间的类型，比较材料和时代改变后的结构与社会活动。",
+    "use": "把住户门面、公共人行和店铺活动合为真实廊道，先按年代选柱梁或拱券，再处理光影纵深。",
+    "caution": "不是全意大利城市都执行博洛尼亚相同的柱廊制度。",
+    "find": "博洛尼亚城市柱廊：木石砖与现代混凝土变体 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "意大利（博洛尼亚）",
+      "era": "12—21世纪持续建造的柱廊系列",
+      "start": 1101,
+      "end": 2026,
+      "dateLabel": "12—21世纪持续建造的柱廊系列",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "不是全意大利城市都执行博洛尼亚相同的柱廊制度。",
+        "12—21世纪是系列延续范围；现代梁柱不能随意放入中世纪街景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1650/",
+          "locator": "Description：12th to present、wood stone brick concrete、Barca；Brief synthesis：1288 statute、public use。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1650/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1650.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1650.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1650.jpg",
+        "source": "https://whc.unesco.org/en/list/1650/",
+        "caption": "博洛尼亚柱廊官方配图；遮蔽步行空间例证，具体廊段年代与照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "研究柱廊作为建筑外部公共使用空间的类型，比较材料和时代改变后的结构与社会活动。",
+      "common": [
+        {
+          "title": "私人建筑公共使用",
+          "text": "廊道与住屋、公共和宗教建筑相连，法律和城市惯例让其承担公共步行、交流和经营。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "覆盖路径多样",
+          "text": "可在街道一侧或两侧，也可覆盖广场、通路，另有独立而不连续的廊建筑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "木石砖传统型",
+          "feature": "早期木构及后续石砖廊道形成不同支撑与覆顶形式，不可一律画成石拱。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "混凝土现代型",
+          "feature": "20世纪混凝土提供新结构可能，部分替代传统拱券并形成新的建筑语言。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "持续的城市规则与社区使用使柱廊在雨热天气下仍支持交流、步行和商贸。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不是全意大利城市都执行博洛尼亚相同的柱廊制度。",
+        "12—21世纪是系列延续范围；现代梁柱不能随意放入中世纪街景。"
+      ],
+      "drawing": "把住户门面、公共人行和店铺活动合为真实廊道，先按年代选柱梁或拱券，再处理光影纵深。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "博洛尼亚城市柱廊：木石砖与现代混凝土变体：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1650/",
+          "locator": "Description：12th to present、wood stone brick concrete、Barca；Brief synthesis：1288 statute、public use。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-mill-village",
+    "module": "architecture",
+    "category": "houses",
+    "name": "苏格兰纺织工厂村：生产楼、工人住房与教育设施",
+    "region": "英国（苏格兰）",
+    "period": "18世纪末—19世纪初工厂村类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/429/",
+    "content": "以新拉纳克作为规划工厂村的例证，比较生产与劳动者生活设施组成的建筑体系。",
+    "use": "先画生产大楼与较小生活建筑的关系，再安排上下班和上学路线；瀑布河谷不是无关风景。",
+    "caution": "这里只从整体体系分类，厂房机械和家屋平面不能由总述编造。",
+    "find": "苏格兰纺织工厂村：生产楼、工人住房与教育设施 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国（苏格兰）",
+      "era": "18世纪末—19世纪初工厂村类型",
+      "start": 1701,
+      "end": 1900,
+      "dateLabel": "18世纪末—19世纪初工厂村类型",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "这里只从整体体系分类，厂房机械和家屋平面不能由总述编造。",
+        "此例带有特定雇主管理制度，不代表所有英国产业工人都享有同样设施。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/429/",
+          "locator": "Description：18th village19th community、cotton mills housing institute school；Brief synthesis：Falls Clyde。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/429/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-429.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-429.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_429.jpg",
+        "source": "https://whc.unesco.org/en/list/429/",
+        "caption": "新拉纳克河谷厂村官方配图；18世纪末—19世纪初体系的保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以新拉纳克作为规划工厂村的例证，比较生产与劳动者生活设施组成的建筑体系。",
+      "common": [
+        {
+          "title": "整体生产生活规划",
+          "text": "工厂、住房和公共设施同处一片村落，建筑与工业组织相互联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "河谷与水力背景",
+          "text": "厂村设于克莱德瀑布附近，地形和自然环境是场址的一部分。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "纺织生产建筑",
+          "feature": "大型棉纺厂楼承载集中工作，其尺度、出入和周边交通区别于住房。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "住房教育建筑",
+          "feature": "工人住宅、学校和教育机构支持劳动力生活与改革实践，不能画成附属仓库。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "雇主的社会改革构想与工业生产结合，在19世纪初形成关注居住、教育及管理的社区模型。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这里只从整体体系分类，厂房机械和家屋平面不能由总述编造。",
+        "此例带有特定雇主管理制度，不代表所有英国产业工人都享有同样设施。"
+      ],
+      "drawing": "先画生产大楼与较小生活建筑的关系，再安排上下班和上学路线；瀑布河谷不是无关风景。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "苏格兰纺织工厂村：生产楼、工人住房与教育设施：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/429/",
+          "locator": "Description：18th village19th community、cotton mills housing institute school；Brief synthesis：Falls Clyde。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-saltaire",
+    "module": "architecture",
+    "category": "houses",
+    "name": "英格兰规划工业村：分层住房、厂房与公共服务",
+    "region": "英国（英格兰西约克郡）",
+    "period": "19世纪中叶及后半叶工业村建筑",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/1028/",
+    "content": "以索尔泰尔说明规划工业村里住房层级和公共服务建筑怎样与大型纺织厂共同组成社区。",
+    "use": "以大厂楼、成排住房和公共节点组织上下班、就学与休息，按住房等级分人物环境而非复制同一门面。",
+    "caution": "不是每个工厂村都包含全部服务设施；这里是特定规划模型。",
+    "find": "英格兰规划工业村：分层住房、厂房与公共服务 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国（英格兰西约克郡）",
+      "era": "19世纪中叶及后半叶工业村建筑",
+      "start": 1850,
+      "end": 1900,
+      "dateLabel": "19世纪中叶及后半叶工业村建筑",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "不是每个工厂村都包含全部服务设施；这里是特定规划模型。",
+        "19世纪中叶不是所有后期附属设施的精确建成年，现存建筑有持续维护。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/1028/",
+          "locator": "Brief synthesis：second half19th、hierarchical employees housing、Dining Room hospital school institute park。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/1028/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-1028.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-1028.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_1028.jpg",
+        "source": "https://whc.unesco.org/en/list/1028/",
+        "caption": "索尔泰尔公共建筑官方配图；19世纪规划工业村节点例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以索尔泰尔说明规划工业村里住房层级和公共服务建筑怎样与大型纺织厂共同组成社区。",
+      "common": [
+        {
+          "title": "统一规划与风格",
+          "text": "纺织厂、公共楼及工人住房以相近的建筑品质形成整体，街区布局保存较完整。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "就业等级进入住房",
+          "text": "机构明确说明雇员住房存在等级差别，不能让全部居民拥有同样大小住宅。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "雇员住宅组",
+          "feature": "不同等级人员的住房是生活部分，绘画需表现尺寸及街段关系差异。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "厂房公共服务组",
+          "feature": "学校、医院、会堂、公园和大厂房承担工作、教育及公共生活，与住宅区别用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "19世纪工业家长式管理把福利与雇主管理结合，体现纺织业财富及对城镇社会规划的影响。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不是每个工厂村都包含全部服务设施；这里是特定规划模型。",
+        "19世纪中叶不是所有后期附属设施的精确建成年，现存建筑有持续维护。"
+      ],
+      "drawing": "以大厂楼、成排住房和公共节点组织上下班、就学与休息，按住房等级分人物环境而非复制同一门面。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "英格兰规划工业村：分层住房、厂房与公共服务：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/1028/",
+          "locator": "Brief synthesis：second half19th、hierarchical employees housing、Dining Room hospital school institute park。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-architecture-bohemian-farms",
+    "module": "architecture",
+    "category": "houses",
+    "name": "南波希米亚农庄：U形大院与较小农屋",
+    "region": "捷克（南波希米亚）",
+    "period": "18—19世纪地方建筑；地块格局沿用中世纪基础",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://whc.unesco.org/en/list/861/",
+    "content": "以霍拉索维采多户农庄为样本，研究南波希米亚乡土农庄的共同院落组织与尺度差别。",
+    "use": "先用公共绿地安排农庄朝向，再画U形院和大小差别；场景中有劳动空间，不能只排彩色宫殿门面。",
+    "caution": "中世纪是村庄布局基础，不是现存全部彩饰立面的建造年代。",
+    "find": "南波希米亚农庄：U形大院与较小农屋 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "捷克（南波希米亚）",
+      "era": "18—19世纪地方建筑；地块格局沿用中世纪基础",
+      "start": 1701,
+      "end": 1900,
+      "dateLabel": "18—19世纪地方建筑；地块格局沿用中世纪基础",
+      "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+      "notes": [
+        "中世纪是村庄布局基础，不是现存全部彩饰立面的建造年代。",
+        "部分室内经历明显改造，现存外观不能证明古代各间用途完整保留。"
+      ],
+      "evidence": [
+        {
+          "url": "https://whc.unesco.org/en/list/861/",
+          "locator": "Brief synthesis：23 farmsteads、U-shaped、village green、smaller houses、18th19th；Authenticity：interior changes。",
+          "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+        }
+      ],
+      "source": "https://whc.unesco.org/en/list/861/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-architecture-861.jpg",
+        "full": "绘画参考资源/例图/world200-architecture-861.jpg",
+        "original": "https://whc.unesco.org/uploads/sites/site_861.jpg",
+        "source": "https://whc.unesco.org/en/list/861/",
+        "caption": "霍拉索维采农庄官方配图；18—19世纪地方住宅保存例证，照片日期未载。",
+        "provider": "UNESCO World Heritage Centre；原权利人见署名及图像条目",
+        "credit": "UNESCO机构封面配图；可读取正文未载与该文件对应的摄影者，保留原机构图像权利",
+        "license": "单张图像许可未确认；公开复用须查看UNESCO对应图像条目及权利人使用条件，不能将正文CC许可套用于照片",
+        "related": false,
+        "width": 500,
+        "height": 500
+      }
+    ],
+    "topic": {
+      "scope": "以霍拉索维采多户农庄为样本，研究南波希米亚乡土农庄的共同院落组织与尺度差别。",
+      "common": [
+        {
+          "title": "住房围农院",
+          "text": "多数农庄采用U形布局，内部留作农院，建筑向村中绿地展示山墙。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "山墙灰泥与色彩",
+          "text": "装饰借鉴波希米亚及奥地利庄园，彩色立面和纪年构成地方民间巴洛克形象。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "大型农庄型",
+          "feature": "较大的农庄围中院组织生产和家庭空间，正面山墙与村落公共绿地联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "较小农屋型",
+          "feature": "村中另有明显更小的农屋，不能给每个家庭都画同等大院和装饰投入。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "地方工匠把上层建筑装饰转化为农庄立面，稳定地块与农业活动支撑村落格局长期保持。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "中世纪是村庄布局基础，不是现存全部彩饰立面的建造年代。",
+        "部分室内经历明显改造，现存外观不能证明古代各间用途完整保留。"
+      ],
+      "drawing": "先用公共绿地安排农庄朝向，再画U形院和大小差别；场景中有劳动空间，不能只排彩色宫殿门面。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "南波希米亚农庄：U形大院与较小农屋：UNESCO机构正文综述",
+          "url": "https://whc.unesco.org/en/list/861/",
+          "locator": "Brief synthesis：23 farmsteads、U-shaped、village green、smaller houses、18th19th；Authenticity：interior changes。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-sitar",
+    "module": "objects",
+    "category": "music",
+    "name": "印度19—20世纪西塔琴：主弦、共鸣弦与形制变化",
+    "region": "印度",
+    "period": "19世纪中叶—1997年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+    "content": "以印度斯坦音乐中的有品拨弦琴为范围，对照19世纪馆藏与1997年制琴记录。",
+    "use": "画手部时区分真正拨奏的主弦与下层共鸣弦；先确定年代，再安排琴品和弦轴。",
+    "caution": "这里比较的是有据实物阶段，不能凭六弦或多弦单独断定所有琴的年代。",
+    "find": "印度19—20世纪西塔琴：主弦、共鸣弦与形制变化 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度",
+      "era": "19世纪中叶—1997年",
+      "start": 1840,
+      "end": 1997,
+      "dateLabel": "19世纪中叶—1997年",
+      "dateBasis": "证据",
+      "notes": [
+        "这里比较的是有据实物阶段，不能凭六弦或多弦单独断定所有琴的年代。",
+        "共鸣弦不由演奏者逐条拨奏；1997年式样不能直接放入早期宫廷。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+          "locator": "各乐器小标题：Sitar、Sarangi、Sahnai；注意文中说明地区和时代变化",
+          "text": "the design of sarangis varies from region to region"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503529",
+          "locator": "正文7 melody and 13 sympathetic strings及制琴改良；Date:1997",
+          "text": "正文7 melody and 13 sympathetic strings及制琴改良；Date:1997"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/500750",
+          "locator": "Artwork Details：mid-19th century，Wood, ivory, metal",
+          "text": "Artwork Details：mid-19th century，Wood, ivory, metal"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-sitar.jpg",
+        "full": "绘画参考资源/例图/world200-objects-sitar.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.180.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/500750",
+        "caption": "Sitar，馆藏编号89.4.180；实物年代：mid-19th century；馆方族属：Indian；材质：Wood, ivory, metal；尺寸：126cm x 25cm x 13cm。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 474,
+        "height": 720
+      }
+    ],
+    "topic": {
+      "scope": "以印度斯坦音乐中的有品拨弦琴为范围，对照19世纪馆藏与1997年制琴记录。",
+      "common": [
+        {
+          "title": "长颈有品",
+          "text": "琴颈承载弦与琴品，弹奏弦经过琴桥通向共鸣体。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "多层弦路",
+          "text": "较新的西塔琴另有不直接拨奏的共鸣弦，随主弦振动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "早期较少弦",
+          "feature": "综述指出早期西塔琴为六弦，不应倒填现代共鸣弦系统。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "现代多弦",
+          "feature": "1997年琴有七条旋律弦和十三条共鸣弦，琴颈、琴桥也经改良。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "它主要用于北印度古典音乐，琴体结构与弦路参与塑造持续的共鸣。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这里比较的是有据实物阶段，不能凭六弦或多弦单独断定所有琴的年代。",
+        "共鸣弦不由演奏者逐条拨奏；1997年式样不能直接放入早期宫廷。"
+      ],
+      "drawing": "画手部时区分真正拨奏的主弦与下层共鸣弦；先确定年代，再安排琴品和弦轴。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Musical Instruments of the Indian Subcontinent — Met",
+          "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+          "locator": "各乐器小标题：Sitar、Sarangi、Sahnai；注意文中说明地区和时代变化"
+        },
+        {
+          "id": "s2",
+          "title": "Sitar — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503529",
+          "locator": "正文7 melody and 13 sympathetic strings及制琴改良；Date:1997"
+        },
+        {
+          "id": "s3",
+          "title": "Sitar — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/500750",
+          "locator": "Artwork Details：mid-19th century，Wood, ivory, metal"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-sarangi",
+    "module": "objects",
+    "category": "music",
+    "name": "印度与尼泊尔萨兰吉：皮面共鸣箱与有无共鸣弦",
+    "region": "印度、尼泊尔",
+    "period": "19世纪实物；综述发表于2009年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+    "content": "考察同名拉弦乐器的地区差异，配图为印度古吉拉特19世纪实物。",
+    "use": "抓住皮膜、短粗琴身和成组弦轴，给弓与手指留出真实接触空间。",
+    "caution": "通常尺寸及三弦描述属于印度典型结构，不是所有地区的硬性规格。",
+    "find": "印度与尼泊尔萨兰吉：皮面共鸣箱与有无共鸣弦 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度、尼泊尔",
+      "era": "19世纪实物；综述发表于2009年",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "19世纪实物；综述发表于2009年",
+      "dateBasis": "证据",
+      "notes": [
+        "通常尺寸及三弦描述属于印度典型结构，不是所有地区的硬性规格。",
+        "图为19世纪古吉拉特例，不能用它证明尼泊尔式样或古代起源。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+          "locator": "各乐器小标题：Sitar、Sarangi、Sahnai；注意文中说明地区和时代变化",
+          "text": "the design of sarangis varies from region to region"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/500769",
+          "locator": "Artwork Details：Indian (Gujarat)，19th century，木、金属、皮膜、马毛等",
+          "text": "Artwork Details：Indian (Gujarat)，19th century，木、金属、皮膜、马毛等"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-sarangi.jpg",
+        "full": "绘画参考资源/例图/world200-objects-sarangi.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP101375.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/500769",
+        "caption": "Sarangi，馆藏编号89.4.200a, b；实物年代：19th century；馆方族属：Indian (Gujarat)；材质：Wood, metal, parchment, horsehair, mother-of -pearl, ivory, paint；尺寸：L. 24 3/4 × W. 8 1/4 × D. 4 15/16 in. (62.8 × 21 × 12.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 1500,
+        "height": 1872
+      }
+    ],
+    "topic": {
+      "scope": "考察同名拉弦乐器的地区差异，配图为印度古吉拉特19世纪实物。",
+      "common": [
+        {
+          "title": "弓奏与皮面",
+          "text": "萨兰吉以弓拉动琴弦，木质共鸣体的演奏面覆盖皮膜。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "弦组分工",
+          "text": "典型印度琴有肠质演奏弦及金属共鸣弦，数量并不固定。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "印度型",
+          "feature": "综述以整块tun木制作及三根肠弦说明常见结构。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "尼泊尔型",
+          "feature": "通常较印度例小，部分琴不设共鸣弦，不能画成同一弦轴密度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "地区制作习惯使同名乐器的尺寸与弦组不同，画伴奏场景需先选当地类型。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "通常尺寸及三弦描述属于印度典型结构，不是所有地区的硬性规格。",
+        "图为19世纪古吉拉特例，不能用它证明尼泊尔式样或古代起源。"
+      ],
+      "drawing": "抓住皮膜、短粗琴身和成组弦轴，给弓与手指留出真实接触空间。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Musical Instruments of the Indian Subcontinent — Met",
+          "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+          "locator": "各乐器小标题：Sitar、Sarangi、Sahnai；注意文中说明地区和时代变化"
+        },
+        {
+          "id": "s2",
+          "title": "Sarangi — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/500769",
+          "locator": "Artwork Details：Indian (Gujarat)，19th century，木、金属、皮膜、马毛等"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-double-reeds",
+    "module": "objects",
+    "category": "music",
+    "name": "伊朗与印度19世纪双簧管：唇盘、指孔与扩口",
+    "region": "伊朗、印度",
+    "period": "19世纪后期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/505709",
+    "content": "比较伊朗sorna与北印度sahnai的机构分类说明，避免把跨地区名称当作相同规格。",
+    "use": "先画簧片与唇盘的贴合位置，再布置手指；不要套用横笛侧吹姿势。",
+    "caution": "机构只说多数带唇盘，并非整个家族每件都有。",
+    "find": "伊朗与印度19世纪双簧管：唇盘、指孔与扩口 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗、印度",
+      "era": "19世纪后期",
+      "start": 1870,
+      "end": 1899,
+      "dateLabel": "19世纪后期",
+      "dateBasis": "证据",
+      "notes": [
+        "机构只说多数带唇盘，并非整个家族每件都有。",
+        "同源名称不能证明音域、指孔数量和金属喇叭口完全相同。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/505709",
+          "locator": "正文Sorna家族、pirouette及附属调簧小刺；Date:late 19th century",
+          "text": "Most are equipped with a disc"
+        },
+        {
+          "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+          "locator": "各乐器小标题：Sitar、Sarangi、Sahnai；注意文中说明地区和时代变化",
+          "text": "the design of sarangis varies from region to region"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/505709"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-double-reeds.jpg",
+        "full": "绘画参考资源/例图/world200-objects-double-reeds.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP318147.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/505709",
+        "caption": "Sorna，馆藏编号89.4.2210；实物年代：late 19th century；馆方族属：Iranian (Persian)；材质：wood, brass, bone, horn, reed；尺寸：Total L. 27.9 cm (11in.); Body L. ±26 cm (10 1/4 in.); Diam.  top ±2 cm (13/16 in.) x bell ±6.2 cm (2 7/16 in.)  Staple insert L. 7.5 cm (2 15/16 in.)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 2892,
+        "height": 3894
+      }
+    ],
+    "topic": {
+      "scope": "比较伊朗sorna与北印度sahnai的机构分类说明，避免把跨地区名称当作相同规格。",
+      "common": [
+        {
+          "title": "双簧发声",
+          "text": "sorna属于横跨西亚、亚洲及东南欧洲的双簧管家族。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "管身开孔",
+          "text": "北印度sahnai及南印度nagasvaram有七个等距指孔而无拇指孔。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "带唇盘",
+          "feature": "sorna家族多在簧片下设圆盘，让双唇抵住以帮助控制气流。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "木竹管身配扩口",
+          "feature": "印度综述指出扩口常为金属，管身常为木或竹，但有例外。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "簧片、唇盘与开孔共同决定吹奏姿态，扩口和材料不能只按地区名字猜测。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构只说多数带唇盘，并非整个家族每件都有。",
+        "同源名称不能证明音域、指孔数量和金属喇叭口完全相同。"
+      ],
+      "drawing": "先画簧片与唇盘的贴合位置，再布置手指；不要套用横笛侧吹姿势。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Sorna — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/505709",
+          "locator": "正文Sorna家族、pirouette及附属调簧小刺；Date:late 19th century"
+        },
+        {
+          "id": "s2",
+          "title": "Musical Instruments of the Indian Subcontinent — Met",
+          "url": "https://www.metmuseum.org/essays/musical-instruments-of-the-indian-subcontinent",
+          "locator": "各乐器小标题：Sitar、Sarangi、Sahnai；注意文中说明地区和时代变化"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-koto",
+    "module": "objects",
+    "category": "music",
+    "name": "日本19世纪筝：长箱、活动琴码与微型陈设",
+    "region": "日本",
+    "period": "19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://searchcollection.asianart.org/objects/9857/koto",
+    "content": "以机构所述十三弦筝的结构和馆藏微型筝为对照，不把陈设件当成演奏尺寸。",
+    "use": "画成排斜置琴码及弦跨码的高低差；左手位于琴码另一侧，避免画成吉他按弦。",
+    "caution": "十三弦结构来自本页传统例，不包括所有现代扩展筝。",
+    "find": "日本19世纪筝：长箱、活动琴码与微型陈设 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "19世纪",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "19世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "十三弦结构来自本页传统例，不包括所有现代扩展筝。",
+        "贵重镶嵌和装饰并非每台筝都有；微型件不能按人物尺度直接照搬。"
+      ],
+      "evidence": [
+        {
+          "url": "https://searchcollection.asianart.org/objects/9857/koto",
+          "locator": "Object Label：桐木、十三弦、movable bridges及两手动作；Date:1700–1850",
+          "text": "shifting the movable bridges on its soundboard"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/500671",
+          "locator": "Artwork Details：Miniature Koto，mid 19th–late 19th century",
+          "text": "Artwork Details：Miniature Koto，mid 19th–late 19th century"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/500576",
+          "locator": "Artwork Details：Koto，Japanese，19th century",
+          "text": "Artwork Details：Koto，Japanese，19th century"
+        }
+      ],
+      "source": "https://searchcollection.asianart.org/objects/9857/koto"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-koto.jpg",
+        "full": "绘画参考资源/例图/world200-objects-koto.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/MUS2036.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/500576",
+        "caption": "Koto，馆藏编号89.2.184；实物年代：19th century；馆方族属：Japanese；材质：Wood, ivory, metal, silk；尺寸：L. 69 3/8 × W. 22 3/16-9 1/2  × H. 3 3/8  ×  in. (176.2 × 56.4-24.2  ×8.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Joseph W. Drexel, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 636,
+        "height": 123
+      }
+    ],
+    "topic": {
+      "scope": "以机构所述十三弦筝的结构和馆藏微型筝为对照，不把陈设件当成演奏尺寸。",
+      "common": [
+        {
+          "title": "长箱横置",
+          "text": "筝是横向拨弦乐器，常以桐木构成长共鸣体，演奏者坐在其前。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "独立活动琴码",
+          "text": "十三根弦各由琴码支撑，移动琴码可改变调弦，左手按码外弦段改变音高。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "演奏器",
+          "feature": "用右手三指上的拨片拨弦，体量应与坐姿人物对应。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "微型陈设器",
+          "feature": "Met把19世纪中后期例明确登记为Miniature Koto，比例不能代表全尺寸琴。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "活动琴码让同一琴体适应不同音阶，也让两只手分别承担拨奏与压弦。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "十三弦结构来自本页传统例，不包括所有现代扩展筝。",
+        "贵重镶嵌和装饰并非每台筝都有；微型件不能按人物尺度直接照搬。"
+      ],
+      "drawing": "画成排斜置琴码及弦跨码的高低差；左手位于琴码另一侧，避免画成吉他按弦。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Koto — Asian Art Museum",
+          "url": "https://searchcollection.asianart.org/objects/9857/koto",
+          "locator": "Object Label：桐木、十三弦、movable bridges及两手动作；Date:1700–1850"
+        },
+        {
+          "id": "s2",
+          "title": "Miniature Koto  (箏) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/500671",
+          "locator": "Artwork Details：Miniature Koto，mid 19th–late 19th century"
+        },
+        {
+          "id": "s3",
+          "title": "Koto (箏) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/500576",
+          "locator": "Artwork Details：Koto，Japanese，19th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-shamisen",
+    "module": "objects",
+    "category": "music",
+    "name": "日本19世纪三味线：皮面箱体、拨片与用途尺寸",
+    "region": "日本",
+    "period": "19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/503799",
+    "content": "讨论叙事歌、文乐、歌舞伎及筝室内乐中的拨弦器，而非只描述一件名家藏品。",
+    "use": "画箱体、长颈、弦轴和大拨片的空间关系，拨片触皮只在相应动作中出现。",
+    "caution": "资料没有给各曲种完整尺寸表，不能擅自编出大小等级的具体厘米数。",
+    "find": "日本19世纪三味线：皮面箱体、拨片与用途尺寸 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "19世纪",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "19世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "资料没有给各曲种完整尺寸表，不能擅自编出大小等级的具体厘米数。",
+        "本页图为19世纪木、布、皮结构，不能据此证明现代塑料的外观。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503799",
+          "locator": "正文源流、曲种、different sizes及传统皮/现代塑料；Date:19th century",
+          "text": "正文源流、曲种、different sizes及传统皮/现代塑料；Date:19th century"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/500666",
+          "locator": "正文large plectrum和皮面敲击；Date:ca.1875",
+          "text": "正文large plectrum和皮面敲击；Date:ca.1875"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/503799"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-shamisen.jpg",
+        "full": "绘画参考资源/例图/world200-objects-shamisen.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/255422.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503799",
+        "caption": "Shamisen，馆藏编号1990.129.5；实物年代：19th century；馆方族属：Japanese；材质：Wood, cloth, skin；尺寸：38 1/4 × 7 1/2 × 3 3/4 in. (97.1 × 19 × 9.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Clara Mertens Bequest, in memory of André Mertens, by exchange; and Gift of Mark H. Handwerk, in memory of Mary Lewin Wethered Clark Handwerk, by exchange, 1990",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 519,
+        "height": 1360
+      }
+    ],
+    "topic": {
+      "scope": "讨论叙事歌、文乐、歌舞伎及筝室内乐中的拨弦器，而非只描述一件名家藏品。",
+      "common": [
+        {
+          "title": "皮面放大",
+          "text": "传统箱体蒙动物皮，琴弦振动经箱体发声；现代也会使用塑料材料。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "拨片兼敲击",
+          "text": "三味线常由较大的拨片拨奏，拨片有时也击中皮面造成节奏声。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "按曲种选尺寸",
+          "feature": "机构说明不同表演门类使用不同大小，不能只画一种固定比例。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "传统与现代蒙面",
+          "feature": "传统犬皮或猫皮与现代塑料应分别画出材质依据。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "叙事、戏剧和室内乐的不同需求，使箱体大小与拨奏方式存在差异。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "资料没有给各曲种完整尺寸表，不能擅自编出大小等级的具体厘米数。",
+        "本页图为19世纪木、布、皮结构，不能据此证明现代塑料的外观。"
+      ],
+      "drawing": "画箱体、长颈、弦轴和大拨片的空间关系，拨片触皮只在相应动作中出现。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Shamisen — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503799",
+          "locator": "正文源流、曲种、different sizes及传统皮/现代塑料；Date:19th century"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/500666",
+          "locator": "正文large plectrum和皮面敲击；Date:ca.1875"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-shakuhachi",
+    "module": "objects",
+    "category": "music",
+    "name": "日本18—19世纪尺八：根端竹管、独奏与合奏改形",
+    "region": "日本",
+    "period": "18—19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/503039",
+    "content": "对照Met18、19世纪竹制尺八与江户时期的机构类型说明。",
+    "use": "以竹管纵轴、吹口与嘴部关系定位，再画指孔；保留根端的不规则轮廓。",
+    "caution": "这是一段类型发展说明，不能说每根短尺八都属僧侣或每根长管都属合奏。",
+    "find": "日本18—19世纪尺八：根端竹管、独奏与合奏改形 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "18—19世纪",
+      "start": 1700,
+      "end": 1899,
+      "dateLabel": "18—19世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "这是一段类型发展说明，不能说每根短尺八都属僧侣或每根长管都属合奏。",
+        "两张馆藏的具体厘米数是个体记录，不等于整个世纪的统一尺寸。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503039",
+          "locator": "正文root-end longitudinal bamboo flute及合奏加长；Date:18th century",
+          "text": "the instrument was elongated"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/502823",
+          "locator": "同类发展说明；Date:19th century",
+          "text": "同类发展说明；Date:19th century"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/503039"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-shakuhachi.jpg",
+        "full": "绘画参考资源/例图/world200-objects-shakuhachi.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/midp48.126.7a.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503039",
+        "caption": "Shakuhachi，馆藏编号48.126.7a, b；实物年代：18th century；馆方族属：Japanese；材质：Bamboo；尺寸：L. 18 × Diam. (largest) 1 7/16 in. (45.7 × 3.7 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. Howard Mansfield, 1948",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 563,
+        "height": 720
+      }
+    ],
+    "topic": {
+      "scope": "对照Met18、19世纪竹制尺八与江户时期的机构类型说明。",
+      "common": [
+        {
+          "title": "纵吹竹管",
+          "text": "尺八是以竹根端制作的纵向吹奏管，画面应保留节、根端及纵吹关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "管长会变化",
+          "text": "从宗教独奏进入都市合奏后，机构记载管体曾加长并作技术调整。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "宗教独奏阶段",
+          "feature": "江户虚无僧的尺八被理解为冥想工具，常单独演奏。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "都市合奏阶段",
+          "feature": "为适应合奏而加长的类型追求跨音区的更均衡表现。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "演奏环境变化推动管体和发音性能调整，独奏与合奏不能只靠同一外形套用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是一段类型发展说明，不能说每根短尺八都属僧侣或每根长管都属合奏。",
+        "两张馆藏的具体厘米数是个体记录，不等于整个世纪的统一尺寸。"
+      ],
+      "drawing": "以竹管纵轴、吹口与嘴部关系定位，再画指孔；保留根端的不规则轮廓。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Shakuhachi — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503039",
+          "locator": "正文root-end longitudinal bamboo flute及合奏加长；Date:18th century"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/502823",
+          "locator": "同类发展说明；Date:19th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-japan-ritual-set",
+    "module": "objects",
+    "category": "tools",
+    "name": "日本12—13世纪密教法具：金刚杵、铃与三足盘",
+    "region": "日本",
+    "period": "12—13世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/36118",
+    "content": "以金刚杵、金刚铃和承置盘的成组关系为对象，器物用途限定在密教仪式。",
+    "use": "画盘面与脚下的空隙，并把铃与双端杵分成不同握持对象。",
+    "caution": "三叉杵不是所有密教金刚杵的唯一型式；此页不概括整个亚洲佛教。",
+    "find": "日本12—13世纪密教法具：金刚杵、铃与三足盘 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "12—13世纪",
+      "start": 1100,
+      "end": 1299,
+      "dateLabel": "12—13世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "三叉杵不是所有密教金刚杵的唯一型式；此页不概括整个亚洲佛教。",
+        "传入日本的9世纪法具盘叙述，不等于配图12—13世纪器具本身的年代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/36118",
+          "locator": "正文成组用途、cat feet及最早盘的背景；Date:13th century",
+          "text": "a set of vajra pestles and a bell"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/36434",
+          "locator": "Artwork Details：Three-Pronged Vajra，12th century，Gilt bronze",
+          "text": "Artwork Details：Three-Pronged Vajra，12th century，Gilt bronze"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/36118"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-japan-ritual-set.jpg",
+        "full": "绘画参考资源/例图/world200-objects-japan-ritual-set.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DT5689.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/36434",
+        "caption": "Three-Pronged Vajra，馆藏编号1987.151；实物年代：12th century；馆方族属：Japan；材质：Gilt bronze；尺寸：L. 6 7/8 in. (17.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Richard and Peggy Danziger, 1987",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3200
+      }
+    ],
+    "topic": {
+      "scope": "以金刚杵、金刚铃和承置盘的成组关系为对象，器物用途限定在密教仪式。",
+      "common": [
+        {
+          "title": "成组置放",
+          "text": "法杵和铃在祈祷、诵咒时置于青铜法具盘上，不能只画孤立装饰品。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "金属器分职",
+          "text": "杵、铃、盘同属仪式组合，但轮廓和操作职能不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "三叉杵",
+          "feature": "12世纪鎏金青铜例在两端收成三叉形，是此页可核实的杵型。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "三足盘",
+          "feature": "13世纪盘用弯曲支脚承托，机构称其脚形为“猫足”。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "器具按仪式行动成组组织，承盘让法杵与铃保持可取用的位置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "三叉杵不是所有密教金刚杵的唯一型式；此页不概括整个亚洲佛教。",
+        "传入日本的9世纪法具盘叙述，不等于配图12—13世纪器具本身的年代。"
+      ],
+      "drawing": "画盘面与脚下的空隙，并把铃与双端杵分成不同握持对象。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Three-Footed Stand (Kongōban) for Buddhist Ritual Implements — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/36118",
+          "locator": "正文成组用途、cat feet及最早盘的背景；Date:13th century"
+        },
+        {
+          "id": "s2",
+          "title": "Three-Pronged Vajra (Sankosho) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/36434",
+          "locator": "Artwork Details：Three-Pronged Vajra，12th century，Gilt bronze"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-gamelan-bronze",
+    "module": "objects",
+    "category": "music",
+    "name": "爪哇19世纪加美兰铜乐器：条片、槽箱与低音锣",
+    "region": "印度尼西亚（爪哇）",
+    "period": "19世纪实物；1977—1978年机构综述",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Musical_Instruments_in_the_Metropolitan_Museum_The_Metropolitan_Museum_of_Art_Bulletin_v_35.pdf",
+    "content": "以加美兰中的敲击铜器及各声部关系为范围，图示为saron panerus slendro。",
+    "use": "画铜条厚度、条下空腔和敲棒动作；在群奏中区分平列条片与锣的轮廓。",
+    "caution": "加美兰不是单一乐器；此页不把每座宫廷或村落的编制说成同一套。",
+    "find": "爪哇19世纪加美兰铜乐器：条片、槽箱与低音锣 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度尼西亚（爪哇）",
+      "era": "19世纪实物；1977—1978年机构综述",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "19世纪实物；1977—1978年机构综述",
+      "dateBasis": "证据",
+      "notes": [
+        "加美兰不是单一乐器；此页不把每座宫廷或村落的编制说成同一套。",
+        "配图为19世纪saron，不能仅据它复原其他锣的尺寸或整支乐队人数。"
+      ],
+      "evidence": [
+        {
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Musical_Instruments_in_the_Metropolitan_Museum_The_Metropolitan_Museum_of_Art_Bulletin_v_35.pdf",
+          "locator": "SOUTHEAST ASIA段及SARON图注：bronze bars、wood trough、deep gong strokes",
+          "text": "Resonating chambers are chiseled into the wood trough"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/501374",
+          "locator": "Artwork Details：Saron Panerus Slendro，Javanese，19th century",
+          "text": "Artwork Details：Saron Panerus Slendro，Javanese，19th century"
+        }
+      ],
+      "source": "https://resources.metmuseum.org/resources/metpublications/pdf/Musical_Instruments_in_the_Metropolitan_Museum_The_Metropolitan_Museum_of_Art_Bulletin_v_35.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-gamelan-bronze.jpg",
+        "full": "绘画参考资源/例图/world200-objects-gamelan-bronze.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/211945.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/501374",
+        "caption": "Saron Panerus Slendro，馆藏编号89.4.759a,b；实物年代：19th century；馆方族属：Javanese；材质：Teak, bronze, paint；尺寸：9 × 9 13/16 × 26 in. (22.9 × 25 × 66 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 1803,
+        "height": 1218
+      }
+    ],
+    "topic": {
+      "scope": "以加美兰中的敲击铜器及各声部关系为范围，图示为saron panerus slendro。",
+      "common": [
+        {
+          "title": "铜器分工",
+          "text": "加美兰组合多种铜制敲击乐器，高音声部装饰较慢的旋律框架，深锣音作标记。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "承架也发声",
+          "text": "saron铜条下方的木槽被凿出共鸣空间，条片与槽箱应成套理解。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "铜条saron",
+          "feature": "排列的铜条架在木槽上，外形与木琴相似，但发声片为金属。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "锣类声部",
+          "feature": "低音锣以深沉敲击穿插在乐队框架中，不能画成同排等宽铜条。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "各器物承担不同旋律和节奏职能，因此乐队摆设需要显示发声部件与支架差别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "加美兰不是单一乐器；此页不把每座宫廷或村落的编制说成同一套。",
+        "配图为19世纪saron，不能仅据它复原其他锣的尺寸或整支乐队人数。"
+      ],
+      "drawing": "画铜条厚度、条下空腔和敲棒动作；在群奏中区分平列条片与锣的轮廓。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Musical Instruments in the Metropolitan Museum — Met Bulletin 35(3)",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Musical_Instruments_in_the_Metropolitan_Museum_The_Metropolitan_Museum_of_Art_Bulletin_v_35.pdf",
+          "locator": "SOUTHEAST ASIA段及SARON图注：bronze bars、wood trough、deep gong strokes"
+        },
+        {
+          "id": "s2",
+          "title": "Saron Panerus Slendro — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/501374",
+          "locator": "Artwork Details：Saron Panerus Slendro，Javanese，19th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-hookah-bases",
+    "module": "objects",
+    "category": "vessels",
+    "name": "印度18—19世纪水烟底座：球形支环与平底金属器",
+    "region": "印度",
+    "period": "约1750—1800年及19世纪初实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://collections.lacma.org/object/43879",
+    "content": "比较水烟底座的支承方式与连接口，图像必须看作底座而不是完整水烟装置。",
+    "use": "先确认底部能否自立，分别画出燃烧碗接头和侧管口，勿把底座当花瓶。",
+    "caution": "部分倒蕾形器需手持或另用支架，不能把所有金属底座都画成自立。",
+    "find": "印度18—19世纪水烟底座：球形支环与平底金属器 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度",
+      "era": "约1750—1800年及19世纪初实物",
+      "start": 1750,
+      "end": 1830,
+      "dateLabel": "约1750—1800年及19世纪初实物",
+      "dateBasis": "证据",
+      "notes": [
+        "部分倒蕾形器需手持或另用支架，不能把所有金属底座都画成自立。",
+        "bidri各地工艺不同，黑地银纹不能一概称为同一种嵌银手法。"
+      ],
+      "evidence": [
+        {
+          "url": "https://collections.lacma.org/object/43879",
+          "locator": "正文连接口、手持/支架、bidri合金与银饰技术",
+          "text": "separate spouts for connecting the combustion bowl"
+        },
+        {
+          "url": "https://collections.lacma.org/object/463",
+          "locator": "正文球形支环、平底出现与18世纪普及；记录年代",
+          "text": "正文球形支环、平底出现与18世纪普及；记录年代"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/74672",
+          "locator": "正文宫廷用途和银、bidri、彩玻璃的材料；图为19世纪设计稿",
+          "text": "正文宫廷用途和银、bidri、彩玻璃的材料；图为19世纪设计稿"
+        }
+      ],
+      "source": "https://collections.lacma.org/object/43879"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-hookah-bases.jpg",
+        "full": "绘画参考资源/例图/world200-objects-hookah-bases.jpg",
+        "original": "https://collections-images.lacma.org/images/463/463-1-desktop.jpg",
+        "source": "https://collections.lacma.org/object/463",
+        "caption": "约1750—1800年水烟底座；仅示底座，连接管和燃烧碗不能从此图完整复原。",
+        "provider": "LACMA",
+        "credit": "Los Angeles County Museum of Art / Museum Associates",
+        "license": "图像使用遵循LACMA馆藏页条款；署名Museum Associates/LACMA",
+        "related": false,
+        "width": 2894,
+        "height": 3328
+      }
+    ],
+    "topic": {
+      "scope": "比较水烟底座的支承方式与连接口，图像必须看作底座而不是完整水烟装置。",
+      "common": [
+        {
+          "title": "底座连管",
+          "text": "底座连接上部燃烧碗与吸烟管，LACMA19世纪例将两接口分别设置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "金属表面",
+          "text": "bidri以锌为主要合金成分，银饰可由嵌丝、嵌片或覆盖片材形成。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "早期球形",
+          "feature": "平底器流行前，底座一般为球形，需用支承环保持直立。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "平底型",
+          "feature": "机构说明18世纪中叶平底器广泛见于绘画与存世实物。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "支环或平底处理的是稳定和搬持问题；装饰则与宫廷用品的展示需求相关。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "部分倒蕾形器需手持或另用支架，不能把所有金属底座都画成自立。",
+        "bidri各地工艺不同，黑地银纹不能一概称为同一种嵌银手法。"
+      ],
+      "drawing": "先确认底部能否自立，分别画出燃烧碗接头和侧管口，勿把底座当花瓶。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Hookah Base, early 19th century — LACMA",
+          "url": "https://collections.lacma.org/object/43879",
+          "locator": "正文连接口、手持/支架、bidri合金与银饰技术"
+        },
+        {
+          "id": "s2",
+          "title": "Hookah Base, circa 1750–1800 — LACMA",
+          "url": "https://collections.lacma.org/object/463",
+          "locator": "正文球形支环、平底出现与18世纪普及；记录年代"
+        },
+        {
+          "id": "s3",
+          "title": "Design for a Hookah Base — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/74672",
+          "locator": "正文宫廷用途和银、bidri、彩玻璃的材料；图为19世纪设计稿"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-dongson-drums",
+    "module": "objects",
+    "category": "music",
+    "name": "越南东山鼓类：大型铜鼓与青铜、陶质随葬模型",
+    "region": "越南",
+    "period": "约公元前500—公元300年实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/39209",
+    "content": "将铜鼓形制与不同材质的墓葬模型相互对照，不把缩小器视为演奏器标准。",
+    "use": "画鼓面、腰部弧线与外张底部的转折；先在图注中标明实物或模型。",
+    "caution": "机构明确表示铜鼓功能未完全确定，不能只断言它是雨祭或战鼓。",
+    "find": "越南东山鼓类：大型铜鼓与青铜、陶质随葬模型 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "越南",
+      "era": "约公元前500—公元300年实物",
+      "start": -500,
+      "end": 300,
+      "dateLabel": "约公元前500—公元300年实物",
+      "dateBasis": "证据",
+      "notes": [
+        "机构明确表示铜鼓功能未完全确定，不能只断言它是雨祭或战鼓。",
+        "小模型的蛙饰、尺寸及材料不能代表所有东山铜鼓；陶型不是铜器。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/39209",
+          "locator": "正文尺寸范围、分布、功能不确定；Date:ca.500 BCE–300 CE",
+          "text": "正文尺寸范围、分布、功能不确定；Date:ca.500 BCE–300 CE"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/50782",
+          "locator": "正文低温陶墓葬模型；Date:100 BCE–100 CE",
+          "text": "正文低温陶墓葬模型；Date:100 BCE–100 CE"
+        },
+        {
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Year_One_Art_of_the_Ancient_World_East_and_West.pdf",
+          "locator": "第184页，133 Drum Model with Four Frogs：rounded top, curved middle, splayed base",
+          "text": "第184页，133 Drum Model with Four Frogs：rounded top, curved middle, splayed base"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/39209"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-dongson-drums.jpg",
+        "full": "绘画参考资源/例图/world200-objects-dongson-drums.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/29G_A28AR5.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/39209",
+        "caption": "Miniature Drum with Four Frogs，馆藏编号2000.284.57；实物年代：ca. 500 BCE–300 CE；馆方族属：Vietnam；材质：Bronze；尺寸：H. 4 in. (10.2 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 3402,
+        "height": 2560
+      }
+    ],
+    "topic": {
+      "scope": "将铜鼓形制与不同材质的墓葬模型相互对照，不把缩小器视为演奏器标准。",
+      "common": [
+        {
+          "title": "外形有家族联系",
+          "text": "机构综述指出常见鼓体有鼓面、收弧中段及外张下部，尺寸跨度极大。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "title": "跨地区分布",
+          "text": "越南产鼓及当地制作例分布于华南和东南亚大陆、岛屿，产地须单独核实。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "青铜鼓及缩小铜型",
+          "feature": "四蛙小鼓记录为青铜，10.2厘米高，只能作为模型级尺度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "陶质墓葬模型",
+          "feature": "灰色低温陶鼓模型与房屋等物一起进入墓葬，材料和用途不同。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "鼓可能参与战争、政治或丧葬仪式，缩小模型则可表达死后所需物品。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构明确表示铜鼓功能未完全确定，不能只断言它是雨祭或战鼓。",
+        "小模型的蛙饰、尺寸及材料不能代表所有东山铜鼓；陶型不是铜器。"
+      ],
+      "drawing": "画鼓面、腰部弧线与外张底部的转折；先在图注中标明实物或模型。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Miniature Drum with Four Frogs — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/39209",
+          "locator": "正文尺寸范围、分布、功能不确定；Date:ca.500 BCE–300 CE"
+        },
+        {
+          "id": "s2",
+          "title": "Model of a Bronze Drum — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/50782",
+          "locator": "正文低温陶墓葬模型；Date:100 BCE–100 CE"
+        },
+        {
+          "id": "s3",
+          "title": "The Year One — Met",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Year_One_Art_of_the_Ancient_World_East_and_West.pdf",
+          "locator": "第184页，133 Drum Model with Four Frogs：rounded top, curved middle, splayed base"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-egypt-headrests",
+    "module": "objects",
+    "category": "tools",
+    "name": "古埃及中王国头枕：平底、弧托与支柱分型",
+    "region": "埃及",
+    "period": "约公元前2030—前1802年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/544251",
+    "content": "研究中王国木质头枕的稳定结构，并与机构对生活用、丧葬用材料的说明区分。",
+    "use": "画侧卧人物时把托颈高度与肩部联系，留出多杆间的透空。",
+    "caution": "木质生活用头枕与石质、象牙等随葬例需分辨，不能全部画成实际睡具。",
+    "find": "古埃及中王国头枕：平底、弧托与支柱分型 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃及",
+      "era": "约公元前2030—前1802年",
+      "start": -2030,
+      "end": -1802,
+      "dateLabel": "约公元前2030—前1802年",
+      "dateBasis": "证据",
+      "notes": [
+        "木质生活用头枕与石质、象牙等随葬例需分辨，不能全部画成实际睡具。",
+        "配图来自墓葬，出土地点不等于已证明它在生活中被谁使用。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/544251",
+          "locator": "正文consistent features与六杆/单柱；Date:ca.2030–1802 B.C.",
+          "text": "flat base board and curved top"
+        },
+        {
+          "url": "https://carlos.emory.edu/htdocs/ODYSSEY/EGYPT/headrest.html",
+          "locator": "分别解释石质随葬头枕和木质生活睡枕",
+          "text": "分别解释石质随葬头枕和木质生活睡枕"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/544251"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-egypt-headrests.jpg",
+        "full": "绘画参考资源/例图/world200-objects-egypt-headrests.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/eg/original/31.3.12_EGDP011883.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/544251",
+        "caption": "Headrest，馆藏编号31.3.12；实物年代：ca. 2030–1802 B.C.；馆方族属：见来源地域字段；材质：Wood；尺寸：H. 8 3/4 in. (22.2 cm), W. 9 in. (22.9 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Rogers Fund, 1931",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 3000,
+        "height": 4000
+      }
+    ],
+    "topic": {
+      "scope": "研究中王国木质头枕的稳定结构，并与机构对生活用、丧葬用材料的说明区分。",
+      "common": [
+        {
+          "title": "托颈轮廓",
+          "text": "头枕托住睡者的颈部，平底板与上部弯曲承托是常见的稳定组合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "中间支撑可变",
+          "text": "底部与弧托间的支撑不固定为一种，结构决定轮廓和留空。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "单柱型",
+          "feature": "机构称单个柱状支撑较常见，连接底板与上托。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "多杆型",
+          "feature": "六根细杆支撑弧托较罕见，不能当作所有家庭的标准头枕。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "托颈面与底板使头部离地，支撑形制变化提供不同雕刻和受力轮廓。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "木质生活用头枕与石质、象牙等随葬例需分辨，不能全部画成实际睡具。",
+        "配图来自墓葬，出土地点不等于已证明它在生活中被谁使用。"
+      ],
+      "drawing": "画侧卧人物时把托颈高度与肩部联系，留出多杆间的透空。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Headrest — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/544251",
+          "locator": "正文consistent features与六杆/单柱；Date:ca.2030–1802 B.C."
+        },
+        {
+          "id": "s2",
+          "title": "ODYSSEY Egypt Daily Life — Carlos Museum",
+          "url": "https://carlos.emory.edu/htdocs/ODYSSEY/EGYPT/headrest.html",
+          "locator": "分别解释石质随葬头枕和木质生活睡枕"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-zulu-headrests",
+    "module": "objects",
+    "category": "tools",
+    "name": "南非19—20世纪祖鲁头枕：多腿与几何支撑",
+    "region": "南非",
+    "period": "19—20世纪实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://africa.si.edu/collection/object/nmafa_89-8-15",
+    "content": "以祖鲁头枕类别说明和机构木雕实物为范围，区别颈托、支脚及祖先关联。",
+    "use": "区分腿支撑与几何透空支撑；托面要与颈部接触，体量小于整张卧具。",
+    "caution": "“可能白天作凳”是机构的解释，不能宣布所有长头枕确实兼作座椅。",
+    "find": "南非19—20世纪祖鲁头枕：多腿与几何支撑 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "南非",
+      "era": "19—20世纪实物",
+      "start": 1800,
+      "end": 1999,
+      "dateLabel": "19—20世纪实物",
+      "dateBasis": "证据",
+      "notes": [
+        "“可能白天作凳”是机构的解释，不能宣布所有长头枕确实兼作座椅。",
+        "本页祖鲁分型不能直接代替绍纳、聪加或东非各族的头枕。"
+      ],
+      "evidence": [
+        {
+          "url": "https://africa.si.edu/collection/object/nmafa_89-8-15",
+          "locator": "Label Text：共同托颈用途；Zulu headrests take two forms；Date:Late 19th to mid-20th century",
+          "text": "Zulu headrests take two forms"
+        },
+        {
+          "url": "https://www.clevelandart.org/art/2010.198",
+          "locator": "木、四腿、保护发式及祖先梦；Date:1800s–1900s",
+          "text": "木、四腿、保护发式及祖先梦；Date:1800s–1900s"
+        }
+      ],
+      "source": "https://africa.si.edu/collection/object/nmafa_89-8-15"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-zulu-headrests.jpg",
+        "full": "绘画参考资源/例图/world200-objects-zulu-headrests.jpg",
+        "original": "https://openaccess-cdn.clevelandart.org/2010.198/2010.198_web.jpg",
+        "source": "https://www.clevelandart.org/art/2010.198",
+        "caption": "19—20世纪祖鲁或斯威士风格木头枕，四腿例；不能据风格记录确定单一族属。",
+        "provider": "Cleveland Museum of Art",
+        "credit": "Leonard C. Hanna Jr. Fund",
+        "license": "CC0；CMA Open Access",
+        "related": false,
+        "width": 1263,
+        "height": 813
+      }
+    ],
+    "topic": {
+      "scope": "以祖鲁头枕类别说明和机构木雕实物为范围，区别颈托、支脚及祖先关联。",
+      "common": [
+        {
+          "title": "弯托护发",
+          "text": "曲面托颈、抬高头部，有助保护复杂发式，不能画成柔软填充枕。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "木雕个体性",
+          "text": "支腿、柱座和刻纹表现地区风格及制作者变化，轮廓有很大差别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "锥形多腿",
+          "feature": "一类以两至十根逐渐收细的圆柱腿支承长托面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "几何支撑",
+          "feature": "另一类用几何支架并覆盖浮雕图案，常见棋盘状纹饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "祖鲁观念把睡眠与梦视为祖先介入的渠道，因此头枕同时具有个人和精神意义。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "“可能白天作凳”是机构的解释，不能宣布所有长头枕确实兼作座椅。",
+        "本页祖鲁分型不能直接代替绍纳、聪加或东非各族的头枕。"
+      ],
+      "drawing": "区分腿支撑与几何透空支撑；托面要与颈部接触，体量小于整张卧具。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Headrest — National Museum of African Art",
+          "url": "https://africa.si.edu/collection/object/nmafa_89-8-15",
+          "locator": "Label Text：共同托颈用途；Zulu headrests take two forms；Date:Late 19th to mid-20th century"
+        },
+        {
+          "id": "s2",
+          "title": "Headrest — Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/2010.198",
+          "locator": "木、四腿、保护发式及祖先梦；Date:1800s–1900s"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-kuba-cups",
+    "module": "objects",
+    "category": "vessels",
+    "name": "刚果库巴19—20世纪棕榈酒杯：木雕、几何纹与造型杯",
+    "region": "刚果民主共和国",
+    "period": "19—20世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/310070",
+    "content": "以库巴社会精英使用的木质饮酒杯为范围，将杯身装饰与人形、仿鼓造型联系。",
+    "use": "保持杯口与内腔的容器关系，再加柄和刻纹；仿鼓杯没有鼓皮。",
+    "caution": "精英委托的华丽杯不代表每户日常都使用同样的木雕。",
+    "find": "刚果库巴19—20世纪棕榈酒杯：木雕、几何纹与造型杯 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "刚果民主共和国",
+      "era": "19—20世纪",
+      "start": 1800,
+      "end": 1999,
+      "dateLabel": "19—20世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "精英委托的华丽杯不代表每户日常都使用同样的木雕。",
+        "Cleveland图像登记为Kuba-style maker；风格归属不能擅改为已知作者或确定族群。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/310070",
+          "locator": "正文L13–19：纹样、精英、棕榈酒及仿鼓；Date:19th–20th century",
+          "text": "used a wide variety of unique vessels to drink palm wine"
+        },
+        {
+          "url": "https://high.org/collection/cup-2/",
+          "locator": "正文full figures or human heads及库巴发式",
+          "text": "正文full figures or human heads及库巴发式"
+        },
+        {
+          "url": "https://www.clevelandart.org/art/1954.374",
+          "locator": "Wood、early 1900s、Kuba-style maker；提供例图年代与材料",
+          "text": "Wood、early 1900s、Kuba-style maker；提供例图年代与材料"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/310070"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-kuba-cups.jpg",
+        "full": "绘画参考资源/例图/world200-objects-kuba-cups.jpg",
+        "original": "https://openaccess-cdn.clevelandart.org/1954.374/1954.374_web.jpg",
+        "source": "https://www.clevelandart.org/art/1954.374",
+        "caption": "20世纪初库巴风格木杯，图示圆筒杯身与交织刻纹；不是正文仿鼓杯本人。",
+        "provider": "Cleveland Museum of Art",
+        "credit": "Gift of Mrs. Louise M. Dunn in honor of Mr. and Mrs. Russell Jelliffe",
+        "license": "CC0；CMA Open Access",
+        "related": false,
+        "width": 790,
+        "height": 893
+      }
+    ],
+    "topic": {
+      "scope": "以库巴社会精英使用的木质饮酒杯为范围，将杯身装饰与人形、仿鼓造型联系。",
+      "common": [
+        {
+          "title": "饮酒与身份",
+          "text": "库巴精英使用多种专门酒杯饮棕榈酒，复杂雕刻可显示地位和委托者趣味。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "纹样跨媒介",
+          "text": "木杯常转译编织、刺绣中的交织纹、折线及分带布局。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "仿鼓型",
+          "feature": "杯可缩小模拟王室相关鼓型，以镂空底座、柄和刻纹组织轮廓。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "人头或人形型",
+          "feature": "机构说明木杯也采用完整人形或人头，细致表现库巴发式。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "分酒和精致用品展示与等级社会联系，杯形不只是装液体的中性容器。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "精英委托的华丽杯不代表每户日常都使用同样的木雕。",
+        "Cleveland图像登记为Kuba-style maker；风格归属不能擅改为已知作者或确定族群。"
+      ],
+      "drawing": "保持杯口与内腔的容器关系，再加柄和刻纹；仿鼓杯没有鼓皮。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Vessel: Drum — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/310070",
+          "locator": "正文L13–19：纹样、精英、棕榈酒及仿鼓；Date:19th–20th century"
+        },
+        {
+          "id": "s2",
+          "title": "Cup — High Museum of Art",
+          "url": "https://high.org/collection/cup-2/",
+          "locator": "正文full figures or human heads及库巴发式"
+        },
+        {
+          "id": "s3",
+          "title": "Cup — Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/1954.374",
+          "locator": "Wood、early 1900s、Kuba-style maker；提供例图年代与材料"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-dan-ladles",
+    "module": "objects",
+    "category": "tools",
+    "name": "利比里亚与科特迪瓦丹族宴勺：大勺体与人头、腿柄",
+    "region": "利比里亚、科特迪瓦",
+    "period": "19世纪—20世纪中叶",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/312458",
+    "content": "研究宴会荣誉性木勺的共性和柄部造型，避免把每件仪式雕刻当普通厨房勺。",
+    "use": "把勺碗的凹面、背面与柄连起来画，持勺人物需体现它的显著尺寸。",
+    "caution": "这是荣誉及仪式器，不应直接推广为丹族家庭普遍使用的饭勺。",
+    "find": "利比里亚与科特迪瓦丹族宴勺：大勺体与人头、腿柄 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "利比里亚、科特迪瓦",
+      "era": "19世纪—20世纪中叶",
+      "start": 1800,
+      "end": 1950,
+      "dateLabel": "19世纪—20世纪中叶",
+      "dateBasis": "证据",
+      "notes": [
+        "这是荣誉及仪式器，不应直接推广为丹族家庭普遍使用的饭勺。",
+        "图为科特迪瓦19世纪末—20世纪初例；一个柄型不能概括全部丹、韦社区。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/312458",
+          "locator": "正文L10–22：木、oversized、头柄/腿柄及宴会职责",
+          "text": "more frequent are handles representing the likeness of a human head"
+        },
+        {
+          "url": "https://www.clevelandart.org/art/2013.52",
+          "locator": "Wood, cord；late 19th–early 20th century；Feast of Merit说明",
+          "text": "Wood, cord；late 19th–early 20th century；Feast of Merit说明"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/312458"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-dan-ladles.jpg",
+        "full": "绘画参考资源/例图/world200-objects-dan-ladles.jpg",
+        "original": "https://openaccess-cdn.clevelandart.org/2013.52/2013.52_web.jpg",
+        "source": "https://www.clevelandart.org/art/2013.52",
+        "caption": "19世纪末—20世纪初科特迪瓦丹族木、绳宴勺；用于说明人形仪式器而非普通厨房标配。",
+        "provider": "Cleveland Museum of Art",
+        "credit": "Severance and Greta Millikin Trust",
+        "license": "CC0；CMA Open Access",
+        "related": false,
+        "width": 579,
+        "height": 893
+      }
+    ],
+    "topic": {
+      "scope": "研究宴会荣誉性木勺的共性和柄部造型，避免把每件仪式雕刻当普通厨房勺。",
+      "common": [
+        {
+          "title": "大木勺与荣誉",
+          "text": "宴勺雕得很大，授予以慷慨、待客和生产能力著称的女性。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "凹碗连雕柄",
+          "text": "可盛放物品的勺碗与雕刻柄连接，人体或动物意象参与形式组织。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "人头柄",
+          "feature": "较常见的柄部以人头、发式和脸部刻画承担识别与表意。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "双腿柄",
+          "feature": "部分勺将人体下半部化为柄，勺碗替代上半身；还有手或动物头等变体。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "宴勺可在宴会巡游和舞蹈中展示，成为主持者地位及精神力量的标识。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是荣誉及仪式器，不应直接推广为丹族家庭普遍使用的饭勺。",
+        "图为科特迪瓦19世纪末—20世纪初例；一个柄型不能概括全部丹、韦社区。"
+      ],
+      "drawing": "把勺碗的凹面、背面与柄连起来画，持勺人物需体现它的显著尺寸。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Wunkirmian or wakemia feasting spoon — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/312458",
+          "locator": "正文L10–22：木、oversized、头柄/腿柄及宴会职责"
+        },
+        {
+          "id": "s2",
+          "title": "Ceremonial Ladle — Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/2013.52",
+          "locator": "Wood, cord；late 19th–early 20th century；Feast of Merit说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-africa-lamellophones",
+    "module": "objects",
+    "category": "music",
+    "name": "撒哈拉以南簧片琴：板式、箱式与外置葫芦共鸣",
+    "region": "莫桑比克及撒哈拉以南地区",
+    "period": "约1900年例；机构类型综述",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/503679",
+    "content": "讨论可拨压的簧片琴家族，配图是莫桑比克Zambesi地区、可能Barwe制作的nyonganyonga。",
+    "use": "画簧片自由端、压条与共鸣体的层次，拇指接近簧片端部而不是像钢琴按键。",
+    "caution": "mbira和sanza是常被泛用的地区名称，不能代替不同构造的辨识。",
+    "find": "撒哈拉以南簧片琴：板式、箱式与外置葫芦共鸣 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "莫桑比克及撒哈拉以南地区",
+      "era": "约1900年例；机构类型综述",
+      "start": 1895,
+      "end": 1905,
+      "dateLabel": "约1900年例；机构类型综述",
+      "dateBasis": "证据",
+      "notes": [
+        "mbira和sanza是常被泛用的地区名称，不能代替不同构造的辨识。",
+        "配图族属带“可能”，必须保留不确定；不能由此推断整个非洲的起源年代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503679",
+          "locator": "正文L10–11：板/箱、材料、外葫芦、调音及名称；Date:ca.1900",
+          "text": "thin metal or split cane tongues"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/503679"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-africa-lamellophones.jpg",
+        "full": "绘画参考资源/例图/world200-objects-africa-lamellophones.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP302548.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503679",
+        "caption": "Nyonganyonga，馆藏编号09.163.6；实物年代：ca. 1900；馆方族属：Possibly Barwe People；材质：Wood, shell, metal, beads；尺寸：L 9 3/16 × W. 6 5/8 in. (23.4 × 16.9 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 2862,
+        "height": 3873
+      }
+    ],
+    "topic": {
+      "scope": "讨论可拨压的簧片琴家族，配图是莫桑比克Zambesi地区、可能Barwe制作的nyonganyonga。",
+      "common": [
+        {
+          "title": "簧片发声",
+          "text": "细金属条或劈开的藤条固定在共鸣板、箱上，以拇指拨压自由端。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "长度调音",
+          "text": "将簧片向内或外移，改变可振动长度；附加响物有时增加音色。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "板或箱共鸣",
+          "feature": "发声簧片可架在平板或盒形体上，外轮廓与手持方法随结构变化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "加葫芦放大",
+          "feature": "乐器可另置于空葫芦中增强声音，葫芦并非每件不可缺的主体。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "结构差异影响音色和手持方式；跨地区有许多名字，不能把名称缩成同一种琴。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "mbira和sanza是常被泛用的地区名称，不能代替不同构造的辨识。",
+        "配图族属带“可能”，必须保留不确定；不能由此推断整个非洲的起源年代。"
+      ],
+      "drawing": "画簧片自由端、压条与共鸣体的层次，拇指接近簧片端部而不是像钢琴按键。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Nyonganyonga — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503679",
+          "locator": "正文L10–11：板/箱、材料、外葫芦、调音及名称；Date:ca.1900"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-gabon-harps",
+    "module": "objects",
+    "category": "music",
+    "name": "加蓬19—20世纪弓形竖琴：皮面、弯颈与人头托架",
+    "region": "加蓬",
+    "period": "19世纪—20世纪中叶",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/503193",
+    "content": "聚焦加蓬Tsogo、Fang相关ngombi/ngombo竖琴，并区分地区琴身轮廓和仪式语境。",
+    "use": "画立式持琴时让皮面与弦平面清楚可见，弯颈、托架和雕头的位置要分层。",
+    "caution": "机构不同语境有男性、女性奏者，不能把所有同类琴一概指定给某一性别。",
+    "find": "加蓬19—20世纪弓形竖琴：皮面、弯颈与人头托架 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "加蓬",
+      "era": "19世纪—20世纪中叶",
+      "start": 1800,
+      "end": 1950,
+      "dateLabel": "19世纪—20世纪中叶",
+      "dateBasis": "证据",
+      "notes": [
+        "机构不同语境有男性、女性奏者，不能把所有同类琴一概指定给某一性别。",
+        "不得把加蓬人头托架与非洲所有竖琴或西非科拉的葫芦结构混同。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503193",
+          "locator": "正文棕榈纤维弦、皮面、立奏、治疗；Date:19th century",
+          "text": "正文棕榈纤维弦、皮面、立奏、治疗；Date:19th century"
+        },
+        {
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Recent_Acquisitions_A_Selection_2005_2006_The_Metropolitan_Museum_of_Art_Bulletin_v_64_no_2_Fall_2006.pdf",
+          "locator": "Ngombi Harp条：地区琴身轮廓、7形托架、人头、Bwiti；Date:mid-20th century",
+          "text": "harps of Gabon typically have a 7-shaped shelf"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/503193"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-gabon-harps.jpg",
+        "full": "绘画参考资源/例图/world200-objects-gabon-harps.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/MI16.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503193",
+        "caption": "Ngombo，馆藏编号1981.123；实物年代：19th century；馆方族属：Tsogo People；材质：Wood, fiber, skin；尺寸：L. 59.1 cm (23-1/4 in.); W. 12 cm (4-11/16 in.); D. 14.4 cm (5-11/16 in.)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Mr. and Mrs. Philip J. Hess Gift, 1981",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 1464,
+        "height": 1800
+      }
+    ],
+    "topic": {
+      "scope": "聚焦加蓬Tsogo、Fang相关ngombi/ngombo竖琴，并区分地区琴身轮廓和仪式语境。",
+      "common": [
+        {
+          "title": "弯颈连共鸣体",
+          "text": "弦跨接弯颈和覆皮腹面，19世纪例以棕榈纤维弦配皮面固定。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "地区轮廓多样",
+          "text": "机构比较非洲竖琴时列出砖块形、椭圆形及收腰共鸣体。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "加蓬托架型",
+          "feature": "加蓬琴颈典型由似数字7的台架支撑。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "Tsogo人头型",
+          "feature": "台架常被改为人头，与琴体、琴弦形成连续的立式轮廓。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "ngombi在Bwiti入会仪式及女性治疗仪式中有用途，形态与演奏位置需依具体群体记录。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "机构不同语境有男性、女性奏者，不能把所有同类琴一概指定给某一性别。",
+        "不得把加蓬人头托架与非洲所有竖琴或西非科拉的葫芦结构混同。"
+      ],
+      "drawing": "画立式持琴时让皮面与弦平面清楚可见，弯颈、托架和雕头的位置要分层。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Ngombo — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503193",
+          "locator": "正文棕榈纤维弦、皮面、立奏、治疗；Date:19th century"
+        },
+        {
+          "id": "s2",
+          "title": "Ngombi Harp — Met Recent Acquisitions 2005–2006",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Recent_Acquisitions_A_Selection_2005_2006_The_Metropolitan_Museum_of_Art_Bulletin_v_64_no_2_Fall_2006.pdf",
+          "locator": "Ngombi Harp条：地区琴身轮廓、7形托架、人头、Bwiti；Date:mid-20th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-westafrica-drums",
+    "module": "objects",
+    "category": "music",
+    "name": "加纳与尼日利亚19—20世纪鼓：单面杯形与双面收腰",
+    "region": "加纳、尼日利亚",
+    "period": "19—20世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/501976",
+    "content": "比较Asante atumpan与Yoruba dundun的膜面和鼓身构造，重点是形制与群奏关系。",
+    "use": "先数鼓面，再画绳路和槌形；群奏场景要让成对杯形鼓与收腰鼓轮廓可辨。",
+    "caution": "“说话鼓”不等于所有鼓都有挤压绳索调音的机构。",
+    "find": "加纳与尼日利亚19—20世纪鼓：单面杯形与双面收腰 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "加纳、尼日利亚",
+      "era": "19—20世纪",
+      "start": 1800,
+      "end": 1999,
+      "dateLabel": "19—20世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "“说话鼓”不等于所有鼓都有挤压绳索调音的机构。",
+        "同属西非不能把加纳Asante鼓槌、鼓形与尼日利亚Yoruba结构拼在一件上。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/501976",
+          "locator": "正文Atumpan双L形槌、成对、adowa；Date:19th century",
+          "text": "正文Atumpan双L形槌、成对、adowa；Date:19th century"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503288",
+          "locator": "正文variable tension、鼓形/附声与family；Date:20th century",
+          "text": "Variable tension drum with waisted body"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/501976"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-westafrica-drums.jpg",
+        "full": "绘画参考资源/例图/world200-objects-westafrica-drums.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP-14195-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/501976",
+        "caption": "Atumpan，馆藏编号89.4.1410；实物年代：19th century；馆方族属：Ashanti (Asante)；材质：Wood, fiber, hide；尺寸：22 1/16 × 9 3/4 in. (56 × 24.8 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 3201,
+        "height": 4000
+      }
+    ],
+    "topic": {
+      "scope": "比较Asante atumpan与Yoruba dundun的膜面和鼓身构造，重点是形制与群奏关系。",
+      "common": [
+        {
+          "title": "木体覆皮",
+          "text": "atumpan用木、纤维、皮制作，机构归为单面杯形鼓。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "鼓形与附声可变",
+          "text": "撒哈拉以南鼓有多种身形和绑皮方法，部分加铃、响环等音色附件。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "Atumpan",
+          "feature": "用两根L形鼓槌敲奏，可成对演奏或加入adowa舞乐组合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "Dundun",
+          "feature": "收腰体、双鼓面及可变张力结构，与杯形单面鼓不同。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "群体有时将鼓组织为“家族”，母鼓承担中心角色；结构和声部需分别判断。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "“说话鼓”不等于所有鼓都有挤压绳索调音的机构。",
+        "同属西非不能把加纳Asante鼓槌、鼓形与尼日利亚Yoruba结构拼在一件上。"
+      ],
+      "drawing": "先数鼓面，再画绳路和槌形；群奏场景要让成对杯形鼓与收腰鼓轮廓可辨。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Atumpan — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/501976",
+          "locator": "正文Atumpan双L形槌、成对、adowa；Date:19th century"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503288",
+          "locator": "正文variable tension、鼓形/附声与family；Date:20th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-egypt-sistra",
+    "module": "objects",
+    "category": "music",
+    "name": "古埃及至罗马时期叉铃：弧框与神龛框",
+    "region": "埃及、罗马地中海",
+    "period": "约公元前1200年—公元2世纪例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/545681",
+    "content": "以机构对sistrum发声结构和arc/naos框形的说明为范围，配图是罗马时期金属弧框例。",
+    "use": "区分框的外边界与横杆穿过框的关系，残存实例不要凭空补齐所有金属响片。",
+    "caution": "图为1—2世纪例，横杆端为鸭头；法老时期横杆多蛇头，不能跨时期直接互换。",
+    "find": "古埃及至罗马时期叉铃：弧框与神龛框 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃及、罗马地中海",
+      "era": "约公元前1200年—公元2世纪例",
+      "start": -1200,
+      "end": 199,
+      "dateLabel": "约公元前1200年—公元2世纪例",
+      "dateBasis": "证据",
+      "notes": [
+        "图为1—2世纪例，横杆端为鸭头；法老时期横杆多蛇头，不能跨时期直接互换。",
+        "哈托尔形象、猫形装饰及声音部件并非每件都保持完整或相同。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/545681",
+          "locator": "正文L10–12：响片、arc/naos、地域、鸭/蛇端；Date:1st–2nd century CE",
+          "text": "Sound disks would move on the wires"
+        },
+        {
+          "url": "https://www.metmuseum.org/exhibitions/divine-egypt/inside-the-exhibition",
+          "locator": "Hathor selected artworks列出arc及shrine sistra的不同年代和材料",
+          "text": "Hathor selected artworks列出arc及shrine sistra的不同年代和材料"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/545681"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-egypt-sistra.jpg",
+        "full": "绘画参考资源/例图/world200-objects-egypt-sistra.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/eg/original/DP311616.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/545681",
+        "caption": "Sistrum，馆藏编号19.5；实物年代：1st–2nd century CE；馆方族属：见来源地域字段；材质：Bronze or copper alloy；尺寸：h. 20.6 cm (8 1/8 in); w. 14 cm (5 1/2 in)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of C. and E. Canessa, 1919",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 2821,
+        "height": 3857
+      }
+    ],
+    "topic": {
+      "scope": "以机构对sistrum发声结构和arc/naos框形的说明为范围，配图是罗马时期金属弧框例。",
+      "common": [
+        {
+          "title": "框内横杆",
+          "text": "手柄托住发声框，横杆和可移动金属片相互碰撞发出摇响。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "构件可能缺失",
+          "text": "存世叉铃可仅留框、杆，失去响片，绘画要标明是残件或完整复原。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "弧框型",
+          "feature": "弧形框在罗马时期随伊西斯信仰见于埃及外地中海地区。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "神龛框型",
+          "feature": "与哈托尔关联的naos式在机构说明中未传播出埃及，轮廓不能混成弧框。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "叉铃是相关女神仪式的发声器和标识，手柄、框与横杆共同组织摇奏动作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图为1—2世纪例，横杆端为鸭头；法老时期横杆多蛇头，不能跨时期直接互换。",
+        "哈托尔形象、猫形装饰及声音部件并非每件都保持完整或相同。"
+      ],
+      "drawing": "区分框的外边界与横杆穿过框的关系，残存实例不要凭空补齐所有金属响片。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Sistrum — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/545681",
+          "locator": "正文L10–12：响片、arc/naos、地域、鸭/蛇端；Date:1st–2nd century CE"
+        },
+        {
+          "id": "s2",
+          "title": "Divine Egypt — Met",
+          "url": "https://www.metmuseum.org/exhibitions/divine-egypt/inside-the-exhibition",
+          "locator": "Hathor selected artworks列出arc及shrine sistra的不同年代和材料"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-europe-bagpipes",
+    "module": "objects",
+    "category": "music",
+    "name": "欧洲14—19世纪风笛：气囊、旋律管与持续音管",
+    "region": "法国及欧洲地区",
+    "period": "1324—1328年图像及19世纪实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/perspectives/hidden-bagpipes",
+    "content": "以欧洲风笛的器官组合和历史图像分型为范围，配图为法国19世纪biniou kozh。",
+    "use": "先画囊受臂压的位置，再分别连接吹气、旋律和持续音管；不要把每根管都画指孔。",
+    "caution": "机构指出全球超过130型，本页只讨论欧洲证据，不概括所有风笛传统。",
+    "find": "欧洲14—19世纪风笛：气囊、旋律管与持续音管 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "法国及欧洲地区",
+      "era": "1324—1328年图像及19世纪实物",
+      "start": 1324,
+      "end": 1899,
+      "dateLabel": "1324—1328年图像及19世纪实物",
+      "dateBasis": "证据",
+      "notes": [
+        "机构指出全球超过130型，本页只讨论欧洲证据，不概括所有风笛传统。",
+        "14世纪图像不是实物测量；法国19世纪馆藏的管长和囊形不能替代中世纪尺度。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/perspectives/hidden-bagpipes",
+          "locator": "开头结构说明及Hours of Jeanne d’Evreux的有/无持续音管；图像Date:1324–28",
+          "text": "some with drones, others without"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503854",
+          "locator": "Artwork Details：French，19th century，Binioù kozh",
+          "text": "Artwork Details：French，19th century，Binioù kozh"
+        }
+      ],
+      "source": "https://www.metmuseum.org/perspectives/hidden-bagpipes"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-europe-bagpipes.jpg",
+        "full": "绘画参考资源/例图/world200-objects-europe-bagpipes.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP-28532-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503854",
+        "caption": "Binioù kozh，馆藏编号89.4.2640；实物年代：19th century；馆方族属：French；材质：Wood, leather, cane reed, various materials；尺寸：90 x 20 x 7.5 cm approx overall dimensions\r\n\r\nWeight: under 40 lbs\r\n\r\nTechnical measurements: Pipe L. chanter 155 mm,  drone 395 mm, blowpipe 128 mm, under 40 lbs。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3029
+      }
+    ],
+    "topic": {
+      "scope": "以欧洲风笛的器官组合和历史图像分型为范围，配图为法国19世纪biniou kozh。",
+      "common": [
+        {
+          "title": "气囊储气",
+          "text": "最简单的风笛由储气囊和管件组成，气囊使声音持续，不能当普通袋饰。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "管件有分工",
+          "text": "旋律管用于奏曲，持续音管保持一个或多个音，吹气管补充气囊空气。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "有持续音管",
+          "feature": "机构14世纪法国手稿图中已见带持续音管的形式。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "无持续音管",
+          "feature": "同一手稿也出现缺少持续音管的形式，不能以现代某一地区配置倒推。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "储气与管路分工支持持续吹奏；从宫廷到街头的历史图像显示其广泛可识别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构指出全球超过130型，本页只讨论欧洲证据，不概括所有风笛传统。",
+        "14世纪图像不是实物测量；法国19世纪馆藏的管长和囊形不能替代中世纪尺度。"
+      ],
+      "drawing": "先画囊受臂压的位置，再分别连接吹气、旋律和持续音管；不要把每根管都画指孔。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Hidden Bagpipes of The Met",
+          "url": "https://www.metmuseum.org/perspectives/hidden-bagpipes",
+          "locator": "开头结构说明及Hours of Jeanne d’Evreux的有/无持续音管；图像Date:1324–28"
+        },
+        {
+          "id": "s2",
+          "title": "Binioù kozh (bagpipe) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503854",
+          "locator": "Artwork Details：French，19th century，Binioù kozh"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-hurdygurdy",
+    "module": "objects",
+    "category": "music",
+    "name": "欧洲18—19世纪手摇轮弦琴：摩擦轮、键条与箱体分型",
+    "region": "比利时（佛兰德斯）、欧洲",
+    "period": "18—19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.mim.be/en/collection-piece/hurdy-gurdy",
+    "content": "将手摇轮弦琴的发声机构和常见箱体轮廓作为一类器物比较。",
+    "use": "把摇柄、轮罩和键箱画清楚，双手分别操作轮和键，勿改成持弓小提琴姿势。",
+    "caution": "大提琴形为机构明确指出的罕见例，不能当作18世纪唯一标准。",
+    "find": "欧洲18—19世纪手摇轮弦琴：摩擦轮、键条与箱体分型 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "比利时（佛兰德斯）、欧洲",
+      "era": "18—19世纪",
+      "start": 1700,
+      "end": 1899,
+      "dateLabel": "18—19世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "大提琴形为机构明确指出的罕见例，不能当作18世纪唯一标准。",
+        "本页Met图登记为German?；保留产地疑问，不能凭轮廓确定德国制作。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.mim.be/en/collection-piece/hurdy-gurdy",
+          "locator": "正文机制、舞乐伴奏、常见形/少见cello形；18th century",
+          "text": "generally oval, triangular or guitar-shaped"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/501645",
+          "locator": "Artwork Details：German?，19th century；例图",
+          "text": "Artwork Details：German?，19th century；例图"
+        }
+      ],
+      "source": "https://www.mim.be/en/collection-piece/hurdy-gurdy"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-hurdygurdy.jpg",
+        "full": "绘画参考资源/例图/world200-objects-hurdygurdy.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/Mus102Aright.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/501645",
+        "caption": "Hurdy-Gurdy，馆藏编号89.4.1058；实物年代：19th century；馆方族属：German?；材质：Wood, various materials.；尺寸：Total length (wthout crank)  62.5 cm., Body length  44.1 cm.,\r\nWidth of\tupper bouts:  19.8 cm.\r\n\tmiddle bouts: 17.3 cm.\r\n\tlower bouts:  27.1 cm.\r\nTotal depth:  18.3 cm., Depth of ribs:  upper  9.3 cm., lower 10.1 cm.; Friction wheel diameter  13.8 cm., Keyboard span approx.  24.0 cm., Vibration length of strings approx.  35.0 cm.。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 431,
+        "height": 194
+      }
+    ],
+    "topic": {
+      "scope": "将手摇轮弦琴的发声机构和常见箱体轮廓作为一类器物比较。",
+      "common": [
+        {
+          "title": "轮代弓",
+          "text": "手柄带动摩擦轮擦动弦，结构包含共鸣箱、弦、轮和成列键。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "键缩弦长",
+          "text": "键连立式触弦件，按下后缩短可振动弦段以改变音高。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "常见轮廓",
+          "feature": "西欧器物一般可见椭圆、三角或吉他形箱体。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "少见大提琴形",
+          "feature": "MIM佛兰德斯例使用大提琴形箱体及特别长的颈和较多按键。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "此类琴曾用于舞曲以及流动歌者伴奏，转轮与按键让持续发音和旋律同时出现。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "大提琴形为机构明确指出的罕见例，不能当作18世纪唯一标准。",
+        "本页Met图登记为German?；保留产地疑问，不能凭轮廓确定德国制作。"
+      ],
+      "drawing": "把摇柄、轮罩和键箱画清楚，双手分别操作轮和键，勿改成持弓小提琴姿势。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Hurdy-gurdy — MIM",
+          "url": "https://www.mim.be/en/collection-piece/hurdy-gurdy",
+          "locator": "正文机制、舞乐伴奏、常见形/少见cello形；18th century"
+        },
+        {
+          "id": "s2",
+          "title": "Hurdy-Gurdy — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/501645",
+          "locator": "Artwork Details：German?，19th century；例图"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-hammered-dulcimers",
+    "module": "objects",
+    "category": "music",
+    "name": "18—19世纪击弦琴：梯形箱体、弦列与硬软槌头",
+    "region": "西班牙及欧美比较",
+    "period": "18世纪西班牙例；19世纪欧美资料",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/501611",
+    "content": "以由双槌击奏的多弦琴为范围，图示西班牙18世纪例，槌头分型来自机构专题研究。",
+    "use": "画梯形弦床、支桥和两只手持槌的落点；把琴桥与弦列组织成可信的高低层次。",
+    "caution": "此处硬软分型是槌附件的结构比较，不冒充各民族击弦琴完整分类。",
+    "find": "18—19世纪击弦琴：梯形箱体、弦列与硬软槌头 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙及欧美比较",
+      "era": "18世纪西班牙例；19世纪欧美资料",
+      "start": 1700,
+      "end": 1899,
+      "dateLabel": "18世纪西班牙例；19世纪欧美资料",
+      "dateBasis": "证据",
+      "notes": [
+        "此处硬软分型是槌附件的结构比较，不冒充各民族击弦琴完整分类。",
+        "西班牙例的槌长和箱体尺寸仅为实物记录，不能推广到美国或全欧洲。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/501611",
+          "locator": "Artwork Details：18th century，Spanish，木；长/短边及hammers尺寸",
+          "text": "Artwork Details：18th century，Spanish，木；长/短边及hammers尺寸"
+        },
+        {
+          "url": "https://repository.si.edu/server/api/core/bitstreams/6068402c-6bfd-4aed-8d6d-43c0664ac300/content",
+          "locator": "Mallets/hammers段：形制变化、硬面及deerskin/leather包覆面",
+          "text": "covered with deerskin or leather"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/501611"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-hammered-dulcimers.jpg",
+        "full": "绘画参考资源/例图/world200-objects-hammered-dulcimers.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/MUS54A.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/501611",
+        "caption": "Dulcimer，馆藏编号89.4.1001；实物年代：18th century；馆方族属：Spanish；材质：wood and various materials；尺寸：Length - long edge/short edge\t\t99.2/43.5 cm. (38.69 in./17.13 in.)\r\n\tBody width perpendicular to long edge:           \t46.8 cm. (18.25 in.)                       \r\n\tBody depth including molding:\t\t7.9 cm. (3.15 in.)\t    \r\n\tVibrating length of strings:\t\t80.5/30.0 cm (31.40 in./30 in.)\r\n\tDiameter of rosette:\t\t7.5 cm. (2.93 in.)\r\n\tLength of hammers:\t\tapp. 23.5 cm. (9.17 in.)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 867,
+        "height": 328
+      }
+    ],
+    "topic": {
+      "scope": "以由双槌击奏的多弦琴为范围，图示西班牙18世纪例，槌头分型来自机构专题研究。",
+      "common": [
+        {
+          "title": "箱上架弦",
+          "text": "西班牙例有不等长边的木箱、多条弦及音孔，机构归为击弦筝类。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "双槌操作",
+          "text": "弦用手持小槌敲击，槌头材质和形状有多种，而非用弓或键盘演奏。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "硬槌面",
+          "feature": "机构研究记录裸硬表面的槌端，与包覆面形成不同敲击接触。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "包覆槌面",
+          "feature": "鹿皮或皮革覆盖槌端的类型提供较柔和音色，需画出包覆层。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "槌头与弦接触的软硬差别改变声音，附件因此属于器物功能的一部分。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "此处硬软分型是槌附件的结构比较，不冒充各民族击弦琴完整分类。",
+        "西班牙例的槌长和箱体尺寸仅为实物记录，不能推广到美国或全欧洲。"
+      ],
+      "drawing": "画梯形弦床、支桥和两只手持槌的落点；把琴桥与弦列组织成可信的高低层次。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Dulcimer — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/501611",
+          "locator": "Artwork Details：18th century，Spanish，木；长/短边及hammers尺寸"
+        },
+        {
+          "id": "s2",
+          "title": "The Hammered Dulcimer — Smithsonian",
+          "url": "https://repository.si.edu/server/api/core/bitstreams/6068402c-6bfd-4aed-8d6d-43c0664ac300/content",
+          "locator": "Mallets/hammers段：形制变化、硬面及deerskin/leather包覆面"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-recorders",
+    "module": "objects",
+    "category": "music",
+    "name": "欧洲16—17世纪竖笛：哨口、指孔与一体、分节管",
+    "region": "德国、意大利及西欧",
+    "period": "约1600年—17世纪后半叶",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/the-development-of-the-recorder",
+    "content": "研究文艺复兴至早期巴洛克竖笛的共同开孔方式与管体发展。",
+    "use": "侧面可画出背面拇指孔，正面保留孔列；先决定一体或分节再画接头。",
+    "caution": "有底部双孔不等于同时多按一音孔，未用孔可以蜡堵住。",
+    "find": "欧洲16—17世纪竖笛：哨口、指孔与一体、分节管 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "德国、意大利及西欧",
+      "era": "约1600年—17世纪后半叶",
+      "start": 1600,
+      "end": 1699,
+      "dateLabel": "约1600年—17世纪后半叶",
+      "dateBasis": "证据",
+      "notes": [
+        "有底部双孔不等于同时多按一音孔，未用孔可以蜡堵住。",
+        "配图约1600年Bassano例；不能将其一体木管直接当成后期三节竖笛。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/the-development-of-the-recorder",
+          "locator": "The Recorder in the Renaissance段：孔、材料、成组及17世纪三节形",
+          "text": "seven fingerholes on the front"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/505501",
+          "locator": "正文一体、圆柱腔、左右手底孔；Date:early 17th century (?)",
+          "text": "正文一体、圆柱腔、左右手底孔；Date:early 17th century (?)"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/506723",
+          "locator": "正文Bassano成组竖笛及一块boxwood；Date:ca.1600",
+          "text": "正文Bassano成组竖笛及一块boxwood；Date:ca.1600"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/the-development-of-the-recorder"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-recorders.jpg",
+        "full": "绘画参考资源/例图/world200-objects-recorders.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP302656.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/506723",
+        "caption": "Tenor Recorder，馆藏编号2010.205；实物年代：ca. 1600；馆方族属：Italian or British；材质：Boxwood；尺寸：Height: 12 13/16 in. (32.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Amati Gifts, 2010",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 3929,
+        "height": 2947
+      }
+    ],
+    "topic": {
+      "scope": "研究文艺复兴至早期巴洛克竖笛的共同开孔方式与管体发展。",
+      "common": [
+        {
+          "title": "哨口吹奏",
+          "text": "竖笛由导气哨口发声，正面七孔、背面拇指孔将它与普通哨子区分。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "成组尺寸",
+          "text": "高音到低音的多尺寸竖笛用于合奏，不能把所有笛管画成同样长度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "一体木管",
+          "feature": "文艺复兴例多由一块木料制成，管腔主要为圆柱形；底部双孔可供左右手选择。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "三节轮廓",
+          "feature": "熟悉的三节式结构在17世纪后半叶形成，接节位置应依阶段确定。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "不同尺寸成组支持多声部曲目，结构变化与演奏需求和时期联系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "有底部双孔不等于同时多按一音孔，未用孔可以蜡堵住。",
+        "配图约1600年Bassano例；不能将其一体木管直接当成后期三节竖笛。"
+      ],
+      "drawing": "侧面可画出背面拇指孔，正面保留孔列；先决定一体或分节再画接头。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Development of the Recorder — Met",
+          "url": "https://www.metmuseum.org/essays/the-development-of-the-recorder",
+          "locator": "The Recorder in the Renaissance段：孔、材料、成组及17世纪三节形"
+        },
+        {
+          "id": "s2",
+          "title": "Tenor Recorder — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/505501",
+          "locator": "正文一体、圆柱腔、左右手底孔；Date:early 17th century (?)"
+        },
+        {
+          "id": "s3",
+          "title": "Tenor Recorder — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/506723",
+          "locator": "正文Bassano成组竖笛及一块boxwood；Date:ca.1600"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-europe-horns",
+    "module": "objects",
+    "category": "music",
+    "name": "欧洲19世纪圆号：可换弯管、内置管圈与活塞",
+    "region": "法国、比利时、奥地利",
+    "period": "1833—约1860年实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/503955",
+    "content": "比较自然圆号及早期改良圆号改变管长的办法，重点是外露管路差异。",
+    "use": "将弯管插口、手入喇叭口位置与阀路分开；器物年代决定是否画阀机构。",
+    "caution": "内置多管圈设计因重量和形状不便未广泛接受，不能画成所有19世纪圆号。",
+    "find": "欧洲19世纪圆号：可换弯管、内置管圈与活塞 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "法国、比利时、奥地利",
+      "era": "1833—约1860年实物",
+      "start": 1833,
+      "end": 1860,
+      "dateLabel": "1833—约1860年实物",
+      "dateBasis": "证据",
+      "notes": [
+        "内置多管圈设计因重量和形状不便未广泛接受，不能画成所有19世纪圆号。",
+        "维也纳双活塞结构为奥地利偏好例，不等于整个欧洲唯一阀式。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503955",
+          "locator": "正文hand horn、10 detachable crooks、长短管音色；Date:1845–50",
+          "text": "正文hand horn、10 detachable crooks、长短管音色；Date:1845–50"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503956",
+          "locator": "正文omnitonic管圈、未广泛接受；Date:1833",
+          "text": "正文omnitonic管圈、未广泛接受；Date:1833"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503659",
+          "locator": "正文1814阀、保留弯管、双活塞；Date:ca.1860",
+          "text": "正文1814阀、保留弯管、双活塞；Date:ca.1860"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/503955"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-europe-horns.jpg",
+        "full": "绘画参考资源/例图/world200-objects-europe-horns.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP-15910-003.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503955",
+        "caption": "Cor d'orchestre，馆藏编号1977.315a–n；实物年代：1845–50；馆方族属：French；材质：Brass；尺寸：。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, The Howard Bayne Fund Gift, 1977",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3751
+      }
+    ],
+    "topic": {
+      "scope": "比较自然圆号及早期改良圆号改变管长的办法，重点是外露管路差异。",
+      "common": [
+        {
+          "title": "卷管加扩口",
+          "text": "铜制管路卷成多圈并终止于宽口，手与口部共同参与吹奏。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "调性靠管长",
+          "text": "传统自然圆号用可换弯管改变有效管长，不同长度有不同音色。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "外换弯管型",
+          "feature": "19世纪乐队自然圆号可配一组不同长度的弯管。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "内置管圈及活塞型",
+          "feature": "omnitonic将不同管圈留在体内选择；阀式圆号则以阀机构切换管路。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "改良旨在更方便改变调性，但机构记载自然圆号在阀出现后仍长期继续制作和使用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "内置多管圈设计因重量和形状不便未广泛接受，不能画成所有19世纪圆号。",
+        "维也纳双活塞结构为奥地利偏好例，不等于整个欧洲唯一阀式。"
+      ],
+      "drawing": "将弯管插口、手入喇叭口位置与阀路分开；器物年代决定是否画阀机构。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Cor d'orchestre — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503955",
+          "locator": "正文hand horn、10 detachable crooks、长短管音色；Date:1845–50"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503956",
+          "locator": "正文omnitonic管圈、未广泛接受；Date:1833"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503659",
+          "locator": "正文1814阀、保留弯管、双活塞；Date:ca.1860"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-early-accordions",
+    "module": "objects",
+    "category": "music",
+    "name": "法国19世纪手风琴：折叠风箱、按钮与半音排",
+    "region": "法国",
+    "period": "1850—1855年实物；1830—1871年背景",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/503502",
+    "content": "以巴黎早期手风琴的气箱、按钮和改进型为范围，区别普通按钮配置与稀见第二排。",
+    "use": "画推拉动作时展开真实折数和风箱方向，端箱按钮与手的位置需保持连接。",
+    "caution": "此处两音/按钮属于所述早期型，不适用于所有现代手风琴。",
+    "find": "法国19世纪手风琴：折叠风箱、按钮与半音排 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "法国",
+      "era": "1850—1855年实物；1830—1871年背景",
+      "start": 1830,
+      "end": 1871,
+      "dateLabel": "1850—1855年实物；1830—1871年背景",
+      "dateBasis": "证据",
+      "notes": [
+        "此处两音/按钮属于所述早期型，不适用于所有现代手风琴。",
+        "增加第二排的稀见例不能冒充每个巴黎家庭的标准器。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503502",
+          "locator": "正文24键推拉两音、多折风箱、1831模型、第二排及巴黎生产；Date:1850–55",
+          "text": "one on push and a second on pull"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503681",
+          "locator": "对照英国ca.1835木、纸、皮accordion的机构材质记录",
+          "text": "对照英国ca.1835木、纸、皮accordion的机构材质记录"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/503502"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-early-accordions.jpg",
+        "full": "绘画参考资源/例图/world200-objects-early-accordions.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP105215.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/503502",
+        "caption": "Accordion，馆藏编号1998.70；实物年代：1850–55；馆方族属：French；材质：Wood, metal, mastic, brass, tortoiseshell, gilt brass, mother-of-pearl, silver foil；尺寸：Closed: 15 3/16 × 5 5/16 × 6 7/8 in. (38.5 × 13.5 × 17.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Funds from various donors, 1998",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 2048,
+        "height": 2048
+      }
+    ],
+    "topic": {
+      "scope": "以巴黎早期手风琴的气箱、按钮和改进型为范围，区别普通按钮配置与稀见第二排。",
+      "common": [
+        {
+          "title": "风箱供气",
+          "text": "多折风箱位于端部之间，推拉时供气，折缝与端箱需要作为连动结构。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "推拉异音",
+          "text": "机构所述按钮每个控制两个音，一个在推、另一个在拉时发声。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "早期模型",
+          "feature": "巴黎制琴商沿用Demian1831年设计模型，不能直接画成现代钢琴键盘琴。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "改进第二排",
+          "feature": "少数“完善型”增加用于变化音的第二排按钮，机构称已知仅存两件。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "巴黎厂家以华贵纹饰参与1830年代后的市场竞争，按键改进与装饰并行。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "此处两音/按钮属于所述早期型，不适用于所有现代手风琴。",
+        "增加第二排的稀见例不能冒充每个巴黎家庭的标准器。"
+      ],
+      "drawing": "画推拉动作时展开真实折数和风箱方向，端箱按钮与手的位置需保持连接。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Accordion — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503502",
+          "locator": "正文24键推拉两音、多折风箱、1831模型、第二排及巴黎生产；Date:1850–55"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503681",
+          "locator": "对照英国ca.1835木、纸、皮accordion的机构材质记录"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-nyckelharpa",
+    "module": "objects",
+    "category": "music",
+    "name": "瑞典18—19世纪键弦琴：弓、键机构与共鸣弦",
+    "region": "瑞典",
+    "period": "18世纪后期—19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://americanhistory.si.edu/collections/object/nmah_605640",
+    "content": "依据Smithsonian键弦琴家族说明，比较有无共鸣弦及silver-drone型；图示Met19世纪例。",
+    "use": "画短弓、横置琴体及侧伸的键列，让按键手和拉弓手承担不同动作。",
+    "caution": "不同世代有多种键排和弦数组合，不能把所述silver-drone型当作现代唯一标准。",
+    "find": "瑞典18—19世纪键弦琴：弓、键机构与共鸣弦 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "瑞典",
+      "era": "18世纪后期—19世纪",
+      "start": 1770,
+      "end": 1899,
+      "dateLabel": "18世纪后期—19世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "不同世代有多种键排和弦数组合，不能把所述silver-drone型当作现代唯一标准。",
+        "Met图只标19世纪瑞典，不能替图像另指定作者或精确年份。"
+      ],
+      "evidence": [
+        {
+          "url": "https://americanhistory.si.edu/collections/object/nmah_605640",
+          "locator": "Description：melody/bourdon/sympathetic、早期无共鸣弦、silverbasharpa及持奏",
+          "text": "some early nyckelharpan were built without sympathetic strings"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/501567",
+          "locator": "Artwork Details：Swedish，19th century，Wood，bowed keyboard",
+          "text": "Artwork Details：Swedish，19th century，Wood，bowed keyboard"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/503064",
+          "locator": "Artwork Details：late 18th century，Swedish",
+          "text": "Artwork Details：late 18th century，Swedish"
+        }
+      ],
+      "source": "https://americanhistory.si.edu/collections/object/nmah_605640"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-nyckelharpa.jpg",
+        "full": "绘画参考资源/例图/world200-objects-nyckelharpa.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/C5421 89.4.957.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/501567",
+        "caption": "Nyckelharpa，馆藏编号89.4.957；实物年代：19th century；馆方族属：Swedish；材质：Wood, various materials；尺寸：Total length 84.4 cm.\r\nWidth at  upper bouts 13.4 cm.\r\n\tmiddle bouts 8.5 cm.\r\n\tlower bouts 14.7 cm.\r\nTotal depth  16.3 cm.\r\nKeyboard span  29.1 cm.。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 2600,
+        "height": 3900
+      }
+    ],
+    "topic": {
+      "scope": "依据Smithsonian键弦琴家族说明，比较有无共鸣弦及silver-drone型；图示Met19世纪例。",
+      "common": [
+        {
+          "title": "弓与键协作",
+          "text": "弦由短弓摩擦，按键上的触弦件截短弦段；它不是用键盘敲弦的钢琴。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "弦组分职",
+          "text": "此类器物常有旋律、持续音及不直接拉奏的共鸣弦，桥的穿弦位置需辨别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "较早无共鸣弦型",
+          "feature": "机构说明部分早期键弦琴不设共鸣弦。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "Silverbasharpa",
+          "feature": "类型记录有两排键、两条旋律弦、两条低音弦及九条共鸣弦。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "可用颈带或放腿上演奏，坐、站、行走均有记录，键向下可借重力回位。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不同世代有多种键排和弦数组合，不能把所述silver-drone型当作现代唯一标准。",
+        "Met图只标19世纪瑞典，不能替图像另指定作者或精确年份。"
+      ],
+      "drawing": "画短弓、横置琴体及侧伸的键列，让按键手和拉弓手承担不同动作。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Nyckelharpa — National Museum of American History",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_605640",
+          "locator": "Description：melody/bourdon/sympathetic、早期无共鸣弦、silverbasharpa及持奏"
+        },
+        {
+          "id": "s2",
+          "title": "Nyckelharpa — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/501567",
+          "locator": "Artwork Details：Swedish，19th century，Wood，bowed keyboard"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/503064",
+          "locator": "Artwork Details：late 18th century，Swedish"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-pueblo-waterjars",
+    "module": "objects",
+    "category": "vessels",
+    "name": "新墨西哥阿科马水罐：短颈鼓腹与鸟纹、几何纹",
+    "region": "美国（新墨西哥）",
+    "period": "约1790年实物；1993年机构分类记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/717564",
+    "content": "以阿科马/Acomita水罐形制及装饰类别为范围，古例与现代研究记录分别标年。",
+    "use": "画短颈与大腹的比例转折，留意下腹凹面；图案顺着弧面展开而不是贴平花纹。",
+    "caution": "“可能抽象鸟”是机构对1790年图像的保留解释，不能把旋纹直接等同后期侧面鸟纹。",
+    "find": "新墨西哥阿科马水罐：短颈鼓腹与鸟纹、几何纹 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（新墨西哥）",
+      "era": "约1790年实物；1993年机构分类记录",
+      "start": 1790,
+      "end": 1993,
+      "dateLabel": "约1790年实物；1993年机构分类记录",
+      "dateBasis": "证据",
+      "notes": [
+        "“可能抽象鸟”是机构对1790年图像的保留解释，不能把旋纹直接等同后期侧面鸟纹。",
+        "1993年是研究出版年；装饰分类不能独立判断制作年代，本文不证明完整演变线。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/717564",
+          "locator": "正文earliest Acomita型共性、可能鸟及观念；Date:ca.1790",
+          "text": "short, undecorated necks, bulbous mid-bodies"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/318293",
+          "locator": "Artwork Details：Water Jar，Acoma Pueblo，about 1880，Ceramic",
+          "text": "Artwork Details：Water Jar，Acoma Pueblo，about 1880，Ceramic"
+        },
+        {
+          "url": "https://content.byui.edu/file/6de0c5aa-4c2c-488e-b452-305576828f3d/1/SorensenCollection_CartmillReport_red.pdf",
+          "locator": "印刷第18页Acoma Pottery：bird/flower与geometric两类、鸟侧面与羽；版权页1993",
+          "text": "There are principally two styles of Acoma pottery"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/717564"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-pueblo-waterjars.jpg",
+        "full": "绘画参考资源/例图/world200-objects-pueblo-waterjars.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DP-15303-003.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/717564",
+        "caption": "Acomita polychrome water jar，馆藏编号2018.867.5；实物年代：ca. 1790；馆方族属：Acoma, Native American；材质：Clay and pigment；尺寸：10 1/2 × 12 in. (26.7 × 30.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Charles and Valerie Diker Collection of Native American Art, Gift of Charles and Valerie Diker, 2018",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3896
+      }
+    ],
+    "topic": {
+      "scope": "以阿科马/Acomita水罐形制及装饰类别为范围，古例与现代研究记录分别标年。",
+      "common": [
+        {
+          "title": "陶体贮水",
+          "text": "这些陶罐以开口、颈、鼓腹和下腹构成容器，盛水器身份来自机构记录。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "早期外形",
+          "text": "最早Acomita水罐以短而不饰的颈、丰满中腹和深色凹形下腹识别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "鸟与植物纹",
+          "feature": "大学阿科马研究以侧面鸟、弯喙、尾羽与植物纹说明具象装饰一类。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "几何纹型",
+          "feature": "同一研究把纯几何布局与鸟纹式区分；这是器表装饰分型而非两种盛水用途。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "传统普韦布洛观念将鸟和羽毛与祈雨、萌发和繁殖相联，器表纹样可关联用水主题。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "“可能抽象鸟”是机构对1790年图像的保留解释，不能把旋纹直接等同后期侧面鸟纹。",
+        "1993年是研究出版年；装饰分类不能独立判断制作年代，本文不证明完整演变线。"
+      ],
+      "drawing": "画短颈与大腹的比例转折，留意下腹凹面；图案顺着弧面展开而不是贴平花纹。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Acomita polychrome water jar — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/717564",
+          "locator": "正文earliest Acomita型共性、可能鸟及观念；Date:ca.1790"
+        },
+        {
+          "id": "s2",
+          "title": "Water Jar — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/318293",
+          "locator": "Artwork Details：Water Jar，Acoma Pueblo，about 1880，Ceramic"
+        },
+        {
+          "id": "s3",
+          "title": "Sorensen Artifact Collection research report — Ricks College / BYU-Idaho",
+          "url": "https://content.byui.edu/file/6de0c5aa-4c2c-488e-b452-305576828f3d/1/SorensenCollection_CartmillReport_red.pdf",
+          "locator": "印刷第18页Acoma Pottery：bird/flower与geometric两类、鸟侧面与羽；版权页1993"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-pomo-baskets",
+    "module": "objects",
+    "category": "vessels",
+    "name": "加利福尼亚波莫篮：绞编与盘绕的食物工具",
+    "region": "美国（加利福尼亚）",
+    "period": "约1900年例；机构传统工艺综述",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/exhibitions/jules-tavernier/visiting-guide",
+    "content": "研究波莫食物采集、储放、筛分和烹饪篮的编织结构，并保留市场品的适用边界。",
+    "use": "先画骨架方向，再画编条交叉；收口与篮沿另有绑绕结构，别画成平面织布。",
+    "caution": "配图大篮的体量和保存状况让机构推测它为市场或私人委托所作，不能保证曾采集使用。",
+    "find": "加利福尼亚波莫篮：绞编与盘绕的食物工具 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（加利福尼亚）",
+      "era": "约1900年例；机构传统工艺综述",
+      "start": 1895,
+      "end": 1905,
+      "dateLabel": "约1900年例；机构传统工艺综述",
+      "dateBasis": "证据",
+      "notes": [
+        "配图大篮的体量和保存状况让机构推测它为市场或私人委托所作，不能保证曾采集使用。",
+        "此页波莫掌握两大编法的事实不能直接推广到所有美洲民族。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/exhibitions/jules-tavernier/visiting-guide",
+          "locator": "Pomo Basketmaking段：用途与twining/coiling定义",
+          "text": "interlacing supple strands between vertical foundation rods"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/736315",
+          "locator": "正文可能市场/私委托；Artwork Details列willow/sedge/redbud等；Date:ca.1900",
+          "text": "正文可能市场/私委托；Artwork Details列willow/sedge/redbud等；Date:ca.1900"
+        }
+      ],
+      "source": "https://www.metmuseum.org/exhibitions/jules-tavernier/visiting-guide"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-pomo-baskets.jpg",
+        "full": "绘画参考资源/例图/world200-objects-pomo-baskets.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DP-17577-002.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/736315",
+        "caption": "Diagonally twined carrying basket，馆藏编号2016.738.1；实物年代：ca. 1900；馆方族属：Pomo, Native American；材质：Willow shoot foundation, sedge root warp, redbud shoot weft, coiled-on oak rim rod and split wild grape vine rim wrap；尺寸：20 × 18 in. (50.8 × 45.7 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Charles and Valerie Diker, 2016",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3706
+      }
+    ],
+    "topic": {
+      "scope": "研究波莫食物采集、储放、筛分和烹饪篮的编织结构，并保留市场品的适用边界。",
+      "common": [
+        {
+          "title": "植物骨架与柔条",
+          "text": "篮以当地植物材料构筑底骨和编条，材料及编法支持不同用途。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "从收集到供食",
+          "text": "机构说明篮用于捕取、采集、贮存、簸筛、烹饪和上菜，不只是装饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "绞编",
+          "feature": "柔软编条在竖向底骨之间交织；波莫掌握多种具体绞编法。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "盘绕",
+          "feature": "以纤维绕缠横向的骨架，连续盘转形成篮体；与竖骨绞编不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "不同构造形成食物处理所需的容器形态，也服务育儿和礼仪交换。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "配图大篮的体量和保存状况让机构推测它为市场或私人委托所作，不能保证曾采集使用。",
+        "此页波莫掌握两大编法的事实不能直接推广到所有美洲民族。"
+      ],
+      "drawing": "先画骨架方向，再画编条交叉；收口与篮沿另有绑绕结构，别画成平面织布。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Pomo Basketmaking — Met visiting guide",
+          "url": "https://www.metmuseum.org/exhibitions/jules-tavernier/visiting-guide",
+          "locator": "Pomo Basketmaking段：用途与twining/coiling定义"
+        },
+        {
+          "id": "s2",
+          "title": "Diagonally twined carrying basket — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/736315",
+          "locator": "正文可能市场/私委托；Artwork Details列willow/sedge/redbud等；Date:ca.1900"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-arctic-snowgoggles",
+    "module": "objects",
+    "category": "tools",
+    "name": "阿拉斯加与加拿大雪镜：窄缝、内腔与木、象牙材质",
+    "region": "美国（阿拉斯加）、加拿大",
+    "period": "约800—1200年例；机构当代分类说明",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/751542",
+    "content": "研究北极地区不用玻璃镜片的遮光眼具，以Thule象牙例和机构民族学分类对照。",
+    "use": "画窄缝的真实透空和眼窝厚度，绑系方向要服从脸部；不同材料不要混画。",
+    "caution": "本页不是现代太阳镜的医学使用说明，也不把窄缝替成透明镜片。",
+    "find": "阿拉斯加与加拿大雪镜：窄缝、内腔与木、象牙材质 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（阿拉斯加）、加拿大",
+      "era": "约800—1200年例；机构当代分类说明",
+      "start": 800,
+      "end": 1200,
+      "dateLabel": "约800—1200年例；机构当代分类说明",
+      "dateBasis": "证据",
+      "notes": [
+        "本页不是现代太阳镜的医学使用说明，也不把窄缝替成透明镜片。",
+        "配图年代为800—1200年Thule例，现代教育藏品未注明制作年，不能据此替木型断代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/751542",
+          "locator": "正文用途及narrow eye openings；Date:ca.800–1200；Walrus ivory",
+          "text": "the glare of the sun upon the Arctic snow"
+        },
+        {
+          "url": "https://www.historymuseum.ca/teachers-zone/history-box/early-canada/snow-goggles/",
+          "locator": "In-Depth：antler、horn、bone、wood、ivory材料分类；配图早期Baffin Island牙质例",
+          "text": "In-Depth：antler、horn、bone、wood、ivory材料分类；配图早期Baffin Island牙质例"
+        },
+        {
+          "url": "https://www.si.edu/object/wooden-snow-goggles%3Anmnheducation_11020290",
+          "locator": "Notes：Inupiat木例的visor-like brim、two narrow slits、内部眼窝及侧绑绳；未给制作年代",
+          "text": "a prominent visor-like brim above two narrow slits"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/751542"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-arctic-snowgoggles.jpg",
+        "full": "绘画参考资源/例图/world200-objects-arctic-snowgoggles.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DP-15396-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/751542",
+        "caption": "Snow goggles，馆藏编号2019.456.13；实物年代：ca. 800–1200；馆方族属：Thule, Native American；材质：Walrus ivory；尺寸：1 1/8 × 5 in. (2.9 × 12.7 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Charles and Valerie Diker Collection of Native American Art, Gift of Charles and Valerie Diker, 2019",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3119
+      }
+    ],
+    "topic": {
+      "scope": "研究北极地区不用玻璃镜片的遮光眼具，以Thule象牙例和机构民族学分类对照。",
+      "common": [
+        {
+          "title": "以缝控光",
+          "text": "雪镜以狭窄开口减轻雪地日照眩光，也遮挡风吹冰屑。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "贴面并绑系",
+          "text": "机构木例内侧挖出眼窝，侧面绑绳将器体固定在脸前。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "象牙型",
+          "feature": "加拿大博物馆将木、骨、角、象牙列为制材；Met古例以海象牙制成窄眼缝。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "带檐木质型",
+          "feature": "Inupiat教育馆藏的木雪镜有向前突出的檐、两个窄缝和内部椭圆眼窝。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "白天在冰雪上活动需要限制强反光，窄缝与贴面内腔共同形成保护。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本页不是现代太阳镜的医学使用说明，也不把窄缝替成透明镜片。",
+        "配图年代为800—1200年Thule例，现代教育藏品未注明制作年，不能据此替木型断代。"
+      ],
+      "drawing": "画窄缝的真实透空和眼窝厚度，绑系方向要服从脸部；不同材料不要混画。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Snow goggles — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/751542",
+          "locator": "正文用途及narrow eye openings；Date:ca.800–1200；Walrus ivory"
+        },
+        {
+          "id": "s2",
+          "title": "Snow Goggles — Canadian Museum of History",
+          "url": "https://www.historymuseum.ca/teachers-zone/history-box/early-canada/snow-goggles/",
+          "locator": "In-Depth：antler、horn、bone、wood、ivory材料分类；配图早期Baffin Island牙质例"
+        },
+        {
+          "id": "s3",
+          "title": "Wooden Snow Goggles — Smithsonian Natural History Museum",
+          "url": "https://www.si.edu/object/wooden-snow-goggles%3Anmnheducation_11020290",
+          "locator": "Notes：Inupiat木例的visor-like brim、two narrow slits、内部眼窝及侧绑绳；未给制作年代"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-inuit-ulu",
+    "module": "objects",
+    "category": "tools",
+    "name": "北极乌鲁刀：弧刃、上握柄与不同装柄",
+    "region": "加拿大、美国（北极地区）",
+    "period": "19世纪采集及1890年机构分类记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://repository.si.edu/items/00512244-dc6b-473e-b4f2-2f8e99ed43d0",
+    "content": "以Smithsonian乌鲁类别研究和加拿大博物馆图为范围，年代指采集资料而非首次发明。",
+    "use": "画手掌位于刀刃上方，并把刀刃、刃舌和握柄分别连接；别画成匕首侧握。",
+    "caution": "1890年出版物使用的旧称及价值判断不沿用；此页保留结构证据。",
+    "find": "北极乌鲁刀：弧刃、上握柄与不同装柄 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "加拿大、美国（北极地区）",
+      "era": "19世纪采集及1890年机构分类记录",
+      "start": 1800,
+      "end": 1890,
+      "dateLabel": "19世纪采集及1890年机构分类记录",
+      "dateBasis": "证据",
+      "notes": [
+        "1890年出版物使用的旧称及价值判断不沿用；此页保留结构证据。",
+        "图是Thule柄刃例，不能把铜刀材料或19世纪采集年代直接赋给它。"
+      ],
+      "evidence": [
+        {
+          "url": "https://repository.si.edu/items/00512244-dc6b-473e-b4f2-2f8e99ed43d0",
+          "locator": "411–416页与21幅图版：乌鲁共同形制、材料与地区差别；出版年1890",
+          "text": "411–416页与21幅图版：乌鲁共同形制、材料与地区差别；出版年1890"
+        },
+        {
+          "url": "https://collections.si.edu/search/detail/edanmdm:nmnhanthropology_8416936",
+          "locator": "Notes旧标签：象牙柄slot for metal blade without rivets；Accession:1879",
+          "text": "with a slit for insertion of metal blade"
+        },
+        {
+          "url": "https://www.historymuseum.ca/collections/archive/3208138",
+          "locator": "Scope and Content：copper blade/tang/bone handle；1993为摄影出版记录",
+          "text": "Scope and Content：copper blade/tang/bone handle；1993为摄影出版记录"
+        },
+        {
+          "url": "https://www.historymuseum.ca/cmc/vmnf/premieres_nations/en/inuit/waylife5.html",
+          "locator": "图注Thule ulu hand and blade；提供例图身份，未给精确制作年",
+          "text": "图注Thule ulu hand and blade；提供例图身份，未给精确制作年"
+        },
+        {
+          "url": "https://www.historymuseum.ca/cmc/vmnf/premieres_nations/en/inuit/blade.html",
+          "locator": "放大图注材质、地区、馆藏编号；例图年代未知",
+          "text": "Lithic material, District of Franklin, Nunavut."
+        }
+      ],
+      "source": "https://repository.si.edu/items/00512244-dc6b-473e-b4f2-2f8e99ed43d0"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-inuit-ulu.jpg",
+        "full": "绘画参考资源/例图/world200-objects-inuit-ulu.jpg",
+        "original": "https://www.historymuseum.ca/cmc/vmnf/premieres_nations/en/inuit/pics/7178-3272-4502-035_gros.jpg",
+        "source": "https://www.historymuseum.ca/cmc/vmnf/premieres_nations/en/inuit/blade.html",
+        "caption": "Thule乌鲁柄刃IX-C:4351，刃为石质，Franklin District，Nunavut。制作年代未注明，不把19世纪类型资料赋给本件。机构真实放大版302×200。",
+        "provider": "Canadian Museum of History",
+        "credit": "Canadian Museum of History",
+        "license": "依Canadian Museum of History图片使用条款；仅作研究参考",
+        "related": false,
+        "width": 302,
+        "height": 200
+      }
+    ],
+    "topic": {
+      "scope": "以Smithsonian乌鲁类别研究和加拿大博物馆图为范围，年代指采集资料而非首次发明。",
+      "common": [
+        {
+          "title": "弧刃上握",
+          "text": "乌鲁刀以宽弧刃配上方握柄，手的压力从柄传到短刃，与长直刀不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料可变",
+          "text": "机构类型研究以多地石、金属刀刃及骨、象牙柄比较结构和地区差异。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "插槽柄",
+          "feature": "下育空槽让金属刃插入象牙柄，有记录指出不使用铆钉。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "穿柄刃舌",
+          "feature": "铜刃的延伸舌穿过骨柄的槽，构成不同连接轮廓。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "机构将其与衣料、屠宰及食物切割工具比较，装柄使切割动作集中在掌下。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1890年出版物使用的旧称及价值判断不沿用；此页保留结构证据。",
+        "图是Thule柄刃例，不能把铜刀材料或19世纪采集年代直接赋给它。"
+      ],
+      "drawing": "画手掌位于刀刃上方，并把刀刃、刃舌和握柄分别连接；别画成匕首侧握。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The ulu, or woman’s knife — Smithsonian 1890",
+          "url": "https://repository.si.edu/items/00512244-dc6b-473e-b4f2-2f8e99ed43d0",
+          "locator": "411–416页与21幅图版：乌鲁共同形制、材料与地区差别；出版年1890"
+        },
+        {
+          "id": "s2",
+          "title": "Carved Handle to Fish Chopping Knife — Smithsonian",
+          "url": "https://collections.si.edu/search/detail/edanmdm:nmnhanthropology_8416936",
+          "locator": "Notes旧标签：象牙柄slot for metal blade without rivets；Accession:1879"
+        },
+        {
+          "id": "s3",
+          "title": "Ulu, Copper Inuit — Canadian Museum of History",
+          "url": "https://www.historymuseum.ca/collections/archive/3208138",
+          "locator": "Scope and Content：copper blade/tang/bone handle；1993为摄影出版记录"
+        },
+        {
+          "id": "s4",
+          "title": "Inuits’ way of life — Canadian Museum of History",
+          "url": "https://www.historymuseum.ca/cmc/vmnf/premieres_nations/en/inuit/waylife5.html",
+          "locator": "图注Thule ulu hand and blade；提供例图身份，未给精确制作年"
+        },
+        {
+          "id": "s5",
+          "title": "Thule ulu hand and blade — Canadian Museum of History",
+          "url": "https://www.historymuseum.ca/cmc/vmnf/premieres_nations/en/inuit/blade.html",
+          "locator": "放大图注：Catalogue IX-C:4351，Lithic material，District of Franklin, Nunavut；未给制作年；原图302×200"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-haida-bentwood",
+    "module": "objects",
+    "category": "vessels",
+    "name": "加拿大西北海岸弯木箱：单板折角与储藏、煮食",
+    "region": "加拿大（西北海岸）",
+    "period": "1901年或更早的实物；机构当代工艺说明",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/",
+    "content": "以Haida工艺教学的弯木箱共同结构与用途分类为对象，保持每张图的个别年代界限。",
+    "use": "画板的连续木纹、折角槽位和独立底盖，观察彩绘如何跨越面与角。",
+    "caution": "机构为图示器物注明1901年或更早，具体起始年未知，不擅补某一朝代或十年。",
+    "find": "加拿大西北海岸弯木箱：单板折角与储藏、煮食 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "加拿大（西北海岸）",
+      "era": "1901年或更早的实物；机构当代工艺说明",
+      "start": null,
+      "end": 1901,
+      "dateLabel": "1901年或更早的实物；机构当代工艺说明",
+      "dateBasis": "证据",
+      "notes": [
+        "机构为图示器物注明1901年或更早，具体起始年未知，不擅补某一朝代或十年。",
+        "彩绘、盖、尺寸和用途并非每个弯木箱一律相同；此页不概括全加拿大木器。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/",
+          "locator": "正文单板、kerf/steam/corner alignment及多种用途；教学分类页",
+          "text": "made from a single piece of wood"
+        },
+        {
+          "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/bentwood-box-2/",
+          "locator": "Details：Date 1901 or earlier；材料cedar、cedar bark、operculum shells；Historical Context绳跨盖作提手、贮存运输用途",
+          "text": "Details：Date 1901 or earlier；材料cedar、cedar bark、operculum shells；Historical Context绳跨盖作提手、贮存运输用途"
+        }
+      ],
+      "source": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-haida-bentwood.jpg",
+        "full": "绘画参考资源/例图/world200-objects-haida-bentwood.jpg",
+        "original": "https://www.historymuseum.ca/wp-teachers-zone/wp-content/uploads/2021/02/Bentwood-Box-2_S94-6759-copy-scaled.jpg",
+        "source": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/bentwood-box-2/",
+        "caption": "1901年或更早的Haida弯木箱VII-B-929，雪松、雪松树皮及贝厣；绳跨盖作提手，用于贮藏运输。不能以它证明煮食场景。",
+        "provider": "Canadian Museum of History",
+        "credit": "Canadian Museum of History",
+        "license": "Canadian Museum of History教学页面图片；依机构使用条款",
+        "related": false,
+        "width": 1707,
+        "height": 2560
+      }
+    ],
+    "topic": {
+      "scope": "以Haida工艺教学的弯木箱共同结构与用途分类为对象，保持每张图的个别年代界限。",
+      "common": [
+        {
+          "title": "单板箱壁",
+          "text": "西北海岸弯木箱的箱壁以一块木板通过切槽、蒸汽和折弯形成。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "技术决定角部",
+          "text": "折角需精确切槽并对齐，箱壁与底板、盖的关系不同于四板钉箱。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "储物箱",
+          "feature": "机构将湿、干物品和礼仪服饰的贮存列为用途，带盖箱要表现盖沿与箱口。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "煮食容器",
+          "feature": "相关类型可用来烹调，画法需依据使用说明而不是将每个彩绘箱都画在火上。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "单板折成箱壁减少接缝，熟练木工技术使箱体承担不同生活和礼仪用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构为图示器物注明1901年或更早，具体起始年未知，不擅补某一朝代或十年。",
+        "彩绘、盖、尺寸和用途并非每个弯木箱一律相同；此页不概括全加拿大木器。"
+      ],
+      "drawing": "画板的连续木纹、折角槽位和独立底盖，观察彩绘如何跨越面与角。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Bentwood Boxes — Canadian Museum of History",
+          "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/",
+          "locator": "正文单板、kerf/steam/corner alignment及多种用途；教学分类页"
+        },
+        {
+          "id": "s2",
+          "title": "Bentwood Box 2 — Canadian Museum of History",
+          "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/bentwood-box-2/",
+          "locator": "Details：Date 1901 or earlier；材料cedar、cedar bark、operculum shells；Historical Context绳跨盖作提手、贮存运输用途"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-andean-panpipes",
+    "module": "objects",
+    "category": "music",
+    "name": "古代秘鲁排箫：并列闭管与芦管、银质器",
+    "region": "秘鲁",
+    "period": "8世纪—16世纪中叶金属例；11—12世纪微型例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/music-in-the-ancient-andes",
+    "content": "以Met古安第斯音乐综述和银排箫实物作材料比较，微型器不当作演奏规格。",
+    "use": "画管口的成列关系及长短轮廓，嘴部对着管口；微型器要明确尺度。",
+    "caution": "银质微型例的身份不能证明其像大芦管一样在日常演奏中使用。",
+    "find": "古代秘鲁排箫：并列闭管与芦管、银质器 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "秘鲁",
+      "era": "8世纪—16世纪中叶金属例；11—12世纪微型例",
+      "start": 700,
+      "end": 1550,
+      "dateLabel": "8世纪—16世纪中叶金属例；11—12世纪微型例",
+      "dateBasis": "证据",
+      "notes": [
+        "银质微型例的身份不能证明其像大芦管一样在日常演奏中使用。",
+        "西班牙殖民后传入的弦乐器不能倒放进本页古代排箫场景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/music-in-the-ancient-andes",
+          "locator": "开头史料骨/芦/陶笛排箫及后半日常、仪式用途",
+          "text": "flutes and panpipes made of bone, reed, and fired clay"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/309155",
+          "locator": "Artwork Details：hammered silver, gilt；8th–mid-16th century；5.4厘米",
+          "text": "Artwork Details：hammered silver, gilt；8th–mid-16th century；5.4厘米"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/308737",
+          "locator": "Artwork Details：Miniature Panpipe，Silver，11th–12th century；4.8厘米",
+          "text": "Artwork Details：Miniature Panpipe，Silver，11th–12th century；4.8厘米"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/music-in-the-ancient-andes"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-andean-panpipes.jpg",
+        "full": "绘画参考资源/例图/world200-objects-andean-panpipes.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ao/original/vs64_228_629.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/309155",
+        "caption": "Hammered Silver Panpipe，馆藏编号64.228.629；实物年代：8th–mid-16th century；馆方族属：Peru; north coast (?)；材质：Silver (hammered), gilt；尺寸：H x W: 2 1/8 x 13/16 in. (5.4 x 2 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mr. and Mrs. Nathan Cummings, 1964",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 772,
+        "height": 1203
+      }
+    ],
+    "topic": {
+      "scope": "以Met古安第斯音乐综述和银排箫实物作材料比较，微型器不当作演奏规格。",
+      "common": [
+        {
+          "title": "成列管发声",
+          "text": "排箫以并列的不同管段组织音高，形态区别于带侧孔的单管笛。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料可变",
+          "text": "机构记载古安第斯笛、排箫可由骨、芦与烧制陶土制作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "植物管型",
+          "feature": "芦管等材质是古安第斯音乐文献记录的一类，需要另核实每件实物。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "金属与微型型",
+          "feature": "馆藏有锤银、鎏金小排箫及Chancay银质微型排箫，尺寸只有数厘米。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "音乐参与日常劳动、娱乐和仪式；排箫及其他吹管结构支持不同演奏组合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "银质微型例的身份不能证明其像大芦管一样在日常演奏中使用。",
+        "西班牙殖民后传入的弦乐器不能倒放进本页古代排箫场景。"
+      ],
+      "drawing": "画管口的成列关系及长短轮廓，嘴部对着管口；微型器要明确尺度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Music in the Ancient Andes — Met",
+          "url": "https://www.metmuseum.org/essays/music-in-the-ancient-andes",
+          "locator": "开头史料骨/芦/陶笛排箫及后半日常、仪式用途"
+        },
+        {
+          "id": "s2",
+          "title": "Hammered Silver Panpipe — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/309155",
+          "locator": "Artwork Details：hammered silver, gilt；8th–mid-16th century；5.4厘米"
+        },
+        {
+          "id": "s3",
+          "title": "Miniature Panpipe — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/308737",
+          "locator": "Artwork Details：Miniature Panpipe，Silver，11th–12th century；4.8厘米"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-maya-whistles",
+    "module": "objects",
+    "category": "music",
+    "name": "玛雅陶质发声器：直接吹奏哨与双腔注水鸣器",
+    "region": "墨西哥、危地马拉",
+    "period": "公元400—500年注水鸣器例；玛雅考古类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/310542",
+    "content": "比较具有可见陶体及内部空腔的哨与容器，区分吹气和注水激发声音的方式。",
+    "use": "画前先分清可拆盖、固定造型和中空桥，注水场景要显示真正进水的一腔。",
+    "caution": "双腔例鸟侧盖为固定假盖、人物侧盖可取下，不能画两边都能打开。",
+    "find": "玛雅陶质发声器：直接吹奏哨与双腔注水鸣器 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "墨西哥、危地马拉",
+      "era": "公元400—500年注水鸣器例；玛雅考古类型",
+      "start": 400,
+      "end": 500,
+      "dateLabel": "公元400—500年注水鸣器例；玛雅考古类型",
+      "dateBasis": "证据",
+      "notes": [
+        "双腔例鸟侧盖为固定假盖、人物侧盖可取下，不能画两边都能打开。",
+        "机构只说可能属于三件系列；不能编出固定产量或推广为所有玛雅陶器。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/310542",
+          "locator": "正文L10–16：双腔、灰红胎黑衣、鸟内哨、固定/可拆盖；Date:400–500 CE",
+          "text": "two identical cylindrical chambers connected by a central hollow bridge"
+        },
+        {
+          "url": "https://emuseum.as.miami.edu/objects/4667/whistle",
+          "locator": "馆藏分类Whistle，Maya；陶质哨实物作为类型对照",
+          "text": "馆藏分类Whistle，Maya；陶质哨实物作为类型对照"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/310542"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-maya-whistles.jpg",
+        "full": "绘画参考资源/例图/world200-objects-maya-whistles.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ao/original/DP-23468-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/310542",
+        "caption": "Whistling vessel，馆藏编号1978.412.90a, b；实物年代：400–500 CE；馆方族属：Maya；材质：Ceramic；尺寸：H. 11 7/8 x W. 7 3/4 x D. 5 1/4 in. (30.2 x 19.7 x 13.3 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1963",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 3078,
+        "height": 4000
+      }
+    ],
+    "topic": {
+      "scope": "比较具有可见陶体及内部空腔的哨与容器，区分吹气和注水激发声音的方式。",
+      "common": [
+        {
+          "title": "陶体藏气腔",
+          "text": "鸣器在人物、鸟兽造型内设置发声空腔，外观不能替代内部结构判断。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "造型与礼仪",
+          "text": "精制容器和哨可关联特定表演、宴会或丧葬，不能假定都是儿童玩具。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "直接吹奏哨",
+          "feature": "玛雅人物哨以吹口和气腔发声，属于小型陶制吹奏物。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "双腔注水型",
+          "feature": "两圆筒腔经中空桥连接，往一腔倒水，使另一侧鸟头内的哨鸣响。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "空腔及流动的气、水使雕塑容器获得声音，观看、盛液和听觉可一起参与礼仪。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "双腔例鸟侧盖为固定假盖、人物侧盖可取下，不能画两边都能打开。",
+        "机构只说可能属于三件系列；不能编出固定产量或推广为所有玛雅陶器。"
+      ],
+      "drawing": "画前先分清可拆盖、固定造型和中空桥，注水场景要显示真正进水的一腔。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Whistling vessel — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/310542",
+          "locator": "正文L10–16：双腔、灰红胎黑衣、鸟内哨、固定/可拆盖；Date:400–500 CE"
+        },
+        {
+          "id": "s2",
+          "title": "Whistle — Lowe Art Museum, University of Miami",
+          "url": "https://emuseum.as.miami.edu/objects/4667/whistle",
+          "locator": "馆藏分类Whistle，Maya；陶质哨实物作为类型对照"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-andean-claydrums",
+    "module": "objects",
+    "category": "music",
+    "name": "秘鲁帕拉卡斯陶鼓：鼓颈、鼓腹与大小用途边界",
+    "region": "秘鲁（南海岸）",
+    "period": "公元前300年—公元60年实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/506721",
+    "content": "研究帕拉卡斯及其后纳斯卡共有的陶质鼓形，依据不同尺寸与膜面位置对照。",
+    "use": "画鼓颈和膨腹连接，敲击面应在覆膜开口；大鼓例的演奏姿态需依倒置说明。",
+    "caution": "大鼓仪式用途及小鼓腰绑都带推测性，不能写成已经证实的唯一玩法。",
+    "find": "秘鲁帕拉卡斯陶鼓：鼓颈、鼓腹与大小用途边界 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "秘鲁（南海岸）",
+      "era": "公元前300年—公元60年实物",
+      "start": -300,
+      "end": 60,
+      "dateLabel": "公元前300年—公元60年实物",
+      "dateBasis": "证据",
+      "notes": [
+        "大鼓仪式用途及小鼓腰绑都带推测性，不能写成已经证实的唯一玩法。",
+        "配图存世皮膜可能缺失，不能把敞口当作花瓶口或保证膜仍在原位。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/506721",
+          "locator": "正文共有形制、皮膜、大小与推测腰绑；Date:300–200 BCE",
+          "text": "cylindrical collar covered by a skin membrane"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/313290",
+          "locator": "正文鼓膜口、倒置演奏、日常和政治宗教用途；Date:200 BCE–60 CE",
+          "text": "正文鼓膜口、倒置演奏、日常和政治宗教用途；Date:200 BCE–60 CE"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/506721"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-andean-claydrums.jpg",
+        "full": "绘画参考资源/例图/world200-objects-andean-claydrums.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP237015.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/506721",
+        "caption": "Drum，馆藏编号2010.172.1；实物年代：300–200 BCE；馆方族属：Paracas；材质：Ceramic, polychrome；尺寸：8 1/4 × 4 1/2 × 4 1/2 in. (21 × 11.4 × 11.4 cm)。只示本件结构，不能代替全文各分型。原图并列呈现馆方讨论的一对小鼓；21厘米为本馆藏编号对应件高度。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Frederick M. Lehman Bequest, 2010",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 3000
+      }
+    ],
+    "topic": {
+      "scope": "研究帕拉卡斯及其后纳斯卡共有的陶质鼓形，依据不同尺寸与膜面位置对照。",
+      "common": [
+        {
+          "title": "陶腹加皮膜",
+          "text": "圆柱鼓颈的口覆皮膜，向下连膨大的空腹，最末端收成封闭尖部。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "形制跨文化",
+          "text": "机构说明帕拉卡斯与纳斯卡共有这种特别的陶鼓，但彩绘和使用情境可不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "较大装饰型",
+          "feature": "15—18英寸高的例常有刻线、多色人物或神怪图像，被推测为仪式用。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "较小成对型",
+          "feature": "小例可能另有用途，图像证据暗示可绑成一对并系在腰上。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "大鼓与小鼓可能服务不同演奏场景，陶身和覆膜共同提供敲击共鸣。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "大鼓仪式用途及小鼓腰绑都带推测性，不能写成已经证实的唯一玩法。",
+        "配图存世皮膜可能缺失，不能把敞口当作花瓶口或保证膜仍在原位。"
+      ],
+      "drawing": "画鼓颈和膨腹连接，敲击面应在覆膜开口；大鼓例的演奏姿态需依倒置说明。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Drum — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/506721",
+          "locator": "正文共有形制、皮膜、大小与推测腰绑；Date:300–200 BCE"
+        },
+        {
+          "id": "s2",
+          "title": "Drum — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/313290",
+          "locator": "正文鼓膜口、倒置演奏、日常和政治宗教用途；Date:200 BCE–60 CE"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-andean-keros",
+    "module": "objects",
+    "category": "vessels",
+    "name": "秘鲁印加至殖民期酒杯：成对木杯与几何、图像装饰",
+    "region": "秘鲁",
+    "period": "15—18世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/316839",
+    "content": "以用于玉米酒礼仪的kero木杯为范围，对照印加刻线与殖民时期树脂图像、柄形变化。",
+    "use": "画两只对应木杯时保持大小和纹饰一致；殖民例再分别核实柄和图像布局。",
+    "caution": "殖民时期延续杯名但语境和图像改变，不能把殖民人物纹样直接画进印加国家。",
+    "find": "秘鲁印加至殖民期酒杯：成对木杯与几何、图像装饰 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "秘鲁",
+      "era": "15—18世纪",
+      "start": 1400,
+      "end": 1799,
+      "dateLabel": "15—18世纪",
+      "dateBasis": "证据",
+      "notes": [
+        "殖民时期延续杯名但语境和图像改变，不能把殖民人物纹样直接画进印加国家。",
+        "成对是印加礼仪常规，不等于每件存世木杯都保存着原来的配对。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/316839",
+          "locator": "正文kero/aquilla、成对及2–4分带；Date:15th–early 16th century",
+          "text": "Both vessels had the same size, shape, and decoration"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/316851",
+          "locator": "正文树脂图像、猫科柄及殖民构图；Date:17th–18th century",
+          "text": "正文树脂图像、猫科柄及殖民构图；Date:17th–18th century"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/313267",
+          "locator": "正文chicha礼仪与殖民延续；Date:1400–1535 CE",
+          "text": "正文chicha礼仪与殖民延续；Date:1400–1535 CE"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/316839"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-andean-keros.jpg",
+        "full": "绘画参考资源/例图/world200-objects-andean-keros.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ao/original/1979.206.1074.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/313267",
+        "caption": "Kero，馆藏编号1979.206.1074；实物年代：1400–1535 CE；馆方族属：Inca；材质：Wood；尺寸：H. 6 1/8 × Diam. 4 3/4 in. (15.6 × 12.1 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 1944,
+        "height": 1952
+      }
+    ],
+    "topic": {
+      "scope": "以用于玉米酒礼仪的kero木杯为范围，对照印加刻线与殖民时期树脂图像、柄形变化。",
+      "common": [
+        {
+          "title": "成对交换",
+          "text": "印加礼仪使用同尺寸、形制、纹饰的一对杯，敬酒联系社区与政治关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "木杯与金属杯分名",
+          "text": "木质称kero，金银器称aquilla，不能只凭相同轮廓混记材料。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "印加几何刻线",
+          "feature": "细刻线形成方、三角或菱形，通常分作二至四横带。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "殖民树脂图像型",
+          "feature": "木上嵌彩色树脂，有人物、植物、鸟及猫科柄等设计变化。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "共同饮酒和成对赠送建立关系，使杯的配套、纹样和展示面都参与礼仪。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "殖民时期延续杯名但语境和图像改变，不能把殖民人物纹样直接画进印加国家。",
+        "成对是印加礼仪常规，不等于每件存世木杯都保存着原来的配对。"
+      ],
+      "drawing": "画两只对应木杯时保持大小和纹饰一致；殖民例再分别核实柄和图像布局。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Kero — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/316839",
+          "locator": "正文kero/aquilla、成对及2–4分带；Date:15th–early 16th century"
+        },
+        {
+          "id": "s2",
+          "title": "Kero — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/316851",
+          "locator": "正文树脂图像、猫科柄及殖民构图；Date:17th–18th century"
+        },
+        {
+          "id": "s3",
+          "title": "Kero (beaker) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/313267",
+          "locator": "正文chicha礼仪与殖民延续；Date:1400–1535 CE"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-maori-kete",
+    "module": "objects",
+    "category": "vessels",
+    "name": "毛利kete编篮：食物疏孔与细编纹样袋",
+    "region": "新西兰",
+    "period": "1800—1833年例及1997年制作记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.kotuia.org.nz/kete-sets/exploring-types-of-kete/",
+    "content": "以kete袋篮用途和编织类型为范围，细编旧例与现代闭合袋的年代分别说明。",
+    "use": "区分疏孔篮与密编纹袋，先画叶条方向，再画口沿和承重提手。",
+    "caution": "1800—1833年旧袋的iwi来源未知，不能擅指定族群。",
+    "find": "毛利kete编篮：食物疏孔与细编纹样袋 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰",
+      "era": "1800—1833年例及1997年制作记录",
+      "start": 1800,
+      "end": 1997,
+      "dateLabel": "1800—1833年例及1997年制作记录",
+      "dateBasis": "证据",
+      "notes": [
+        "1800—1833年旧袋的iwi来源未知，不能擅指定族群。",
+        "1997年例的木扣、棉衬和盖是当代实物记录，不能回填到所有旧kete。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kotuia.org.nz/kete-sets/exploring-types-of-kete/",
+          "locator": "各kete类别及用途；kete kai孔隙排水去土",
+          "text": "enabling water or dirt to escape through the holes"
+        },
+        {
+          "url": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/maori/maori-weaving",
+          "locator": "Types of weaving：raranga；Kete whakairo图注1800–1833及来源未知",
+          "text": "Types of weaving：raranga；Kete whakairo图注1800–1833及来源未知"
+        },
+        {
+          "url": "https://collections.tepapa.govt.nz/object/539659",
+          "locator": "Overview：1997年平底、盖、木扣、棉衬袋",
+          "text": "Overview：1997年平底、盖、木扣、棉衬袋"
+        }
+      ],
+      "source": "https://www.kotuia.org.nz/kete-sets/exploring-types-of-kete/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-maori-kete.jpg",
+        "full": "绘画参考资源/例图/world200-objects-maori-kete.jpg",
+        "original": "https://tepapa.govt.nz/assets/76067/1692743482-ma_i531577_tepapa_kete-whakairo-patterned-bag.jpg",
+        "source": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/maori/maori-weaving",
+        "caption": "1800—1833年kete whakairo，制作者与iwi来源未知；仅示细编纹样袋，不能证明食物疏孔篮。",
+        "provider": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "license": "按Te Papa图像页权利声明与研究使用条件；注明Te Papa ME013967",
+        "related": false,
+        "width": 1192,
+        "height": 864
+      }
+    ],
+    "topic": {
+      "scope": "以kete袋篮用途和编织类型为范围，细编旧例与现代闭合袋的年代分别说明。",
+      "common": [
+        {
+          "title": "植物条构体",
+          "text": "kete可由harakeke等传统纤维编成，raranga用叶条形成袋篮。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "编法服从用途",
+          "text": "篮的编织形式与原来用途关联，食物篮的孔隙让水、泥土漏出。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "食物疏孔篮",
+          "feature": "kete kai按收集食物选择孔隙，排水、去土与通风不同于密闭布袋。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "细编纹样袋",
+          "feature": "旧kete whakairo以细编植物条及黑、黄褐色组织图案；现代还可加底、盖及纽扣。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "篮既用于食物采集也可做精细袋，孔隙与口沿、提手共同配合搬运和收纳。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1800—1833年旧袋的iwi来源未知，不能擅指定族群。",
+        "1997年例的木扣、棉衬和盖是当代实物记录，不能回填到所有旧kete。"
+      ],
+      "drawing": "区分疏孔篮与密编纹袋，先画叶条方向，再画口沿和承重提手。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Exploring types of kete — Kōtuia ngā Kete",
+          "url": "https://www.kotuia.org.nz/kete-sets/exploring-types-of-kete/",
+          "locator": "各kete类别及用途；kete kai孔隙排水去土"
+        },
+        {
+          "id": "s2",
+          "title": "Māori weaving — Te Papa",
+          "url": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/maori/maori-weaving",
+          "locator": "Types of weaving：raranga；Kete whakairo图注1800–1833及来源未知"
+        },
+        {
+          "id": "s3",
+          "title": "Kete (bag) — Te Papa",
+          "url": "https://collections.tepapa.govt.nz/object/539659",
+          "locator": "Overview：1997年平底、盖、木扣、棉衬袋"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-maori-hinaki",
+    "module": "objects",
+    "category": "tools",
+    "name": "毛利鳗鱼笼：内翻入口与植物、金属材料",
+    "region": "新西兰",
+    "period": "1850—1900年例及2000年制作记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.tepapa.govt.nz/about/past-exhibitions/hinaki-contemplation-form",
+    "content": "以捕鳗笼而非整套捕鱼风俗为范围，结构证据来自Te Papa类型展览和馆藏博文。",
+    "use": "画入口回收的漏斗、外笼编架和绑结；透空方向要能让观看者理解进得去的通路。",
+    "caution": "展览2023—2024年是展期，不能当传统笼的制作时间。",
+    "find": "毛利鳗鱼笼：内翻入口与植物、金属材料 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰",
+      "era": "1850—1900年例及2000年制作记录",
+      "start": 1850,
+      "end": 2000,
+      "dateLabel": "1850—1900年例及2000年制作记录",
+      "dateBasis": "证据",
+      "notes": [
+        "展览2023—2024年是展期，不能当传统笼的制作时间。",
+        "当代银、铜丝艺术作品与实用捕鳗笼要分别标注，不能用雕塑推断古代金属笼。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tepapa.govt.nz/about/past-exhibitions/hinaki-contemplation-form",
+          "locator": "He pūkenga段植物材料、内翻入口、hīnaki waharua；英文简介及L146",
+          "text": "the eels enter the inverted openings"
+        },
+        {
+          "url": "https://blog.tepapa.govt.nz/2022/06/30/stars-of-the-matariki-cluster-waiti/",
+          "locator": "hīnaki段现代steel/iron；图注1850/1900与John Puketapu July2000",
+          "text": "hīnaki段现代steel/iron；图注1850/1900与John Puketapu July2000"
+        }
+      ],
+      "source": "https://www.tepapa.govt.nz/about/past-exhibitions/hinaki-contemplation-form"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-maori-hinaki.jpg",
+        "full": "绘画参考资源/例图/world200-objects-maori-hinaki.jpg",
+        "original": "https://blog.tepapa.govt.nz/wp-content/uploads/2022/07/MA_I010546.3988x3408.jpg",
+        "source": "https://blog.tepapa.govt.nz/2022/06/30/stars-of-the-matariki-cluster-waiti/",
+        "caption": "1850—1900年植物材质鳗鱼/鱼笼，作者未知，Te Papa ME011844；不以它证明当代金属笼。",
+        "provider": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "license": "按Te Papa博文及对象图像的权利声明；机构研究参考图",
+        "related": false,
+        "width": 1500,
+        "height": 1282
+      }
+    ],
+    "topic": {
+      "scope": "以捕鳗笼而非整套捕鱼风俗为范围，结构证据来自Te Papa类型展览和馆藏博文。",
+      "common": [
+        {
+          "title": "内翻入口",
+          "text": "笼设诱饵并放在水流或河底，鱼从内翻口入笼后不易逃出。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "强植物编架",
+          "text": "传统制作使用强韧植物材料，如mangemange茎、kiekie根、藤及mānuka枝。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "双口型",
+          "feature": "hīnaki waharua的名称指两处入口，构造不能画成普通开口篮。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "现代金属型",
+          "feature": "Te Papa记录钢或铁制现代鳗笼仍常使用，与植物编架有不同材质。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "漏斗式入口与水流布置配合捕鳗；编材和结构来自具体河流环境的知识。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "展览2023—2024年是展期，不能当传统笼的制作时间。",
+        "当代银、铜丝艺术作品与实用捕鳗笼要分别标注，不能用雕塑推断古代金属笼。"
+      ],
+      "drawing": "画入口回收的漏斗、外笼编架和绑结；透空方向要能让观看者理解进得去的通路。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Hīnaki: Contemplation of a Form — Te Papa",
+          "url": "https://www.tepapa.govt.nz/about/past-exhibitions/hinaki-contemplation-form",
+          "locator": "He pūkenga段植物材料、内翻入口、hīnaki waharua；英文简介及L146"
+        },
+        {
+          "id": "s2",
+          "title": "Stars of Matariki: Waitī — Te Papa",
+          "url": "https://blog.tepapa.govt.nz/2022/06/30/stars-of-the-matariki-cluster-waiti/",
+          "locator": "hīnaki段现代steel/iron；图注1850/1900与John Puketapu July2000"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-pacific-kava-set",
+    "module": "objects",
+    "category": "vessels",
+    "name": "汤加与萨摩亚、斐济卡瓦器：大木碗与椰壳饮杯",
+    "region": "汤加、萨摩亚或斐济",
+    "period": "19世纪实物；机构当代用途记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/",
+    "content": "以制备碗与饮杯的器物组合为范围，地域与每件馆藏归属分开记录。",
+    "use": "画碗旁制备与递杯动作，区分大木内腔和椰壳小杯，人物手势服从尺寸。",
+    "caution": "Met例族属为Samoa or Fiji；不可删去“或”而硬指为单一国家。",
+    "find": "汤加与萨摩亚、斐济卡瓦器：大木碗与椰壳饮杯 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "汤加、萨摩亚或斐济",
+      "era": "19世纪实物；机构当代用途记录",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "19世纪实物；机构当代用途记录",
+      "dateBasis": "证据",
+      "notes": [
+        "Met例族属为Samoa or Fiji；不可删去“或”而硬指为单一国家。",
+        "汤加的用途记录不能证明各太平洋群体有同一人数、程序或椰壳杯式。"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/",
+          "locator": "正文木碗制备、formal serving in coconut shell cups；图注1800s",
+          "text": "formal serving of kava in coconut shell cups"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/313657",
+          "locator": "Artwork Details：Samoa or Fiji，19th century，Wood, fiber",
+          "text": "Artwork Details：Samoa or Fiji，19th century，Wood, fiber"
+        }
+      ],
+      "source": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-pacific-kava-set.jpg",
+        "full": "绘画参考资源/例图/world200-objects-pacific-kava-set.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ao/original/vs1979_206_1469.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/313657",
+        "caption": "Kava Bowl，馆藏编号1979.206.1469；实物年代：19th century；馆方族属：Samoa or Fiji；材质：Wood, fiber；尺寸：H. 7 x Diam. 24 3/8  in. (17.8 x 61.9 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 1675,
+        "height": 1228
+      }
+    ],
+    "topic": {
+      "scope": "以制备碗与饮杯的器物组合为范围，地域与每件馆藏归属分开记录。",
+      "common": [
+        {
+          "title": "大碗制备",
+          "text": "汤加kumete木碗用于将卡瓦根粉与水混合，器口和内腔承担操作。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "饮具另有分工",
+          "text": "正式供饮用椰子壳杯，大木碗不是每个人轮流直接举起饮用的小杯。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "木质制备碗",
+          "feature": "机构汤加19世纪kumete及Met萨摩亚或斐济19世纪木、纤维碗可作对照。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "椰壳饮杯",
+          "feature": "在正式敬客、会面及仪式中盛出饮液，杯体材料和尺寸与制备碗不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "制备与分饮需要两类容器，会议、重要来客和社交圈赋予组合明确用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "Met例族属为Samoa or Fiji；不可删去“或”而硬指为单一国家。",
+        "汤加的用途记录不能证明各太平洋群体有同一人数、程序或椰壳杯式。"
+      ],
+      "drawing": "画碗旁制备与递杯动作，区分大木内腔和椰壳小杯，人物手势服从尺寸。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Kava drinking and Tongan culture — Te Papa",
+          "url": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/",
+          "locator": "正文木碗制备、formal serving in coconut shell cups；图注1800s"
+        },
+        {
+          "id": "s2",
+          "title": "Kava Bowl — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/313657",
+          "locator": "Artwork Details：Samoa or Fiji，19th century，Wood, fiber"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-melanesian-slitgongs",
+    "module": "objects",
+    "category": "music",
+    "name": "美拉尼西亚裂缝鼓：中空木身、横置与立式",
+    "region": "巴布亚新几内亚、瓦努阿图",
+    "period": "19世纪及1960年代中后期实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/311262",
+    "content": "比较Iatmul与Ambrym地区裂缝鼓的共同发声结构和摆放差异。",
+    "use": "画裂缝厚边与木身空腔关系，选择横置或竖立后再定人物和槌的位置。",
+    "caution": "公开可见的大鼓与隐藏的waken仪式组须分辨，不能把全部裂缝鼓写成秘密器。",
+    "find": "美拉尼西亚裂缝鼓：中空木身、横置与立式 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "巴布亚新几内亚、瓦努阿图",
+      "era": "19世纪及1960年代中后期实物",
+      "start": 1800,
+      "end": 1969,
+      "dateLabel": "19世纪及1960年代中后期实物",
+      "dateBasis": "证据",
+      "notes": [
+        "公开可见的大鼓与隐藏的waken仪式组须分辨，不能把全部裂缝鼓写成秘密器。",
+        "不同地区横置、立置不能互换；1960年代创作不能冒充19世纪旧物。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/311262",
+          "locator": "正文大木、狭缝、槌、横置/上下层与秘密组；Date:19th century",
+          "text": "hollowed out to create a resonating chamber"
+        },
+        {
+          "url": "https://www.metmuseum.org/de/-/media/files/learn/family-map-and-guides/NewYorkSpectacular_Brochure.pdf",
+          "locator": "Tin Mweleun slit gong图注与木槌敲竖缝；mid to late1960s，Vanuatu，Ambrym",
+          "text": "Tin Mweleun slit gong图注与木槌敲竖缝；mid to late1960s，Vanuatu，Ambrym"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/311262"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-melanesian-slitgongs.jpg",
+        "full": "绘画参考资源/例图/world200-objects-melanesian-slitgongs.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ao/original/DP-20791-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/311262",
+        "caption": "Sacred Slit Gong，馆藏编号1978.412.1536；实物年代：19th century；馆方族属：Iatmul people；材质：Wood；尺寸：H. 15 1/4 x W. 152 x D. 18 1/2 in. (38.7 x 386.1 x 47 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1968",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 4000,
+        "height": 1674
+      }
+    ],
+    "topic": {
+      "scope": "比较Iatmul与Ambrym地区裂缝鼓的共同发声结构和摆放差异。",
+      "common": [
+        {
+          "title": "整木中空",
+          "text": "粗木干内部掏空，狭长裂缝通入共鸣腔，木槌敲缝边发出声音。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "造型连社会身份",
+          "text": "两端或上部可雕祖先、动物或氏族标识，不能只看作无纹木桶。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "横置Iatmul型",
+          "feature": "大鼓可沿男子仪式屋下层地面纵向成对摆放；部分秘密用例存于上层。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "立式Ambrym型",
+          "feature": "瓦努阿图1960年代例高大竖立，脸位于顶部，纵缝下延。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "部分仪式将鼓声视为超自然者的声音，空间位置和雕刻形象因此参与发声意义。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "公开可见的大鼓与隐藏的waken仪式组须分辨，不能把全部裂缝鼓写成秘密器。",
+        "不同地区横置、立置不能互换；1960年代创作不能冒充19世纪旧物。"
+      ],
+      "drawing": "画裂缝厚边与木身空腔关系，选择横置或竖立后再定人物和槌的位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Sacred Slit Gong (Waken) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/311262",
+          "locator": "正文大木、狭缝、槌、横置/上下层与秘密组；Date:19th century"
+        },
+        {
+          "id": "s2",
+          "title": "New York Spectacular Family Guide — Met",
+          "url": "https://www.metmuseum.org/de/-/media/files/learn/family-map-and-guides/NewYorkSpectacular_Brochure.pdf",
+          "locator": "Tin Mweleun slit gong图注与木槌敲竖缝；mid to late1960s，Vanuatu，Ambrym"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-hawaii-gourd-drums",
+    "module": "objects",
+    "category": "music",
+    "name": "夏威夷葫芦鼓：单葫芦与双葫芦接体",
+    "region": "美国（夏威夷）",
+    "period": "19世纪实物；机构延续工艺记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/501369",
+    "content": "以ipu hula葫芦鼓的硬壳构造和单、双葫芦类型为对象，尺寸与具体王室例分开说明。",
+    "use": "画接缝、顶部孔和布垫，动作场景中区分落地与离地侧击，别加皮膜鼓面。",
+    "caution": "单葫芦和双葫芦是结构类型，击奏方法不能据此任意硬分为两种用途。",
+    "find": "夏威夷葫芦鼓：单葫芦与双葫芦接体 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "美国（夏威夷）",
+      "era": "19世纪实物；机构延续工艺记录",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "19世纪实物；机构延续工艺记录",
+      "dateBasis": "证据",
+      "notes": [
+        "单葫芦和双葫芦是结构类型，击奏方法不能据此任意硬分为两种用途。",
+        "配图是Kamehameha IV王室组合中的19世纪例，不证明每位普通舞者持同样大小鼓。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/501369",
+          "locator": "正文two ipu、胶、圆孔、地垫/三四指击奏、王室例；Date:19th century",
+          "text": "a smaller one forming the top and a larger one the lower portion"
+        },
+        {
+          "url": "https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2675",
+          "locator": "Contextual Associations单/双葫芦与gallery1/2；Description及Player-Instrument Interface硬壳、触地和侧击",
+          "text": "comes in single- and double-gourd varieties"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/501369"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-hawaii-gourd-drums.jpg",
+        "full": "绘画参考资源/例图/world200-objects-hawaii-gourd-drums.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP218832.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/501369",
+        "caption": "Ipu Hula，馆藏编号89.4.754；实物年代：19th century；馆方族属：Hawai'i；材质：Gourd, tapa cloth, breadfruit gum；尺寸：H. 76.2 cm (30 in.); Diam. 30.5 cm (12 in.)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 3020,
+        "height": 4000
+      }
+    ],
+    "topic": {
+      "scope": "以ipu hula葫芦鼓的硬壳构造和单、双葫芦类型为对象，尺寸与具体王室例分开说明。",
+      "common": [
+        {
+          "title": "硬壳发声",
+          "text": "葫芦鼓以空心植物硬壳本身发声，底部触地与手掌、手指侧击形成两种音色。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "title": "选形与去瓤",
+          "text": "葫芦专门培育成所需形状，收获后切开、去除内容物只留硬壳。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "单葫芦型",
+          "feature": "ipu heke ʻole仅用一个葫芦，大学器物分类以第二张实例图明确区分。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "双葫芦型",
+          "feature": "小葫芦倒扣粘在大葫芦开口上，上有圆孔；接体形成上下两段的轮廓。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同一硬壳鼓以地面接触和指击形成不同声音，用来支持吟唱和hula节奏。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "单葫芦和双葫芦是结构类型，击奏方法不能据此任意硬分为两种用途。",
+        "配图是Kamehameha IV王室组合中的19世纪例，不证明每位普通舞者持同样大小鼓。"
+      ],
+      "drawing": "画接缝、顶部孔和布垫，动作场景中区分落地与离地侧击，别加皮膜鼓面。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Ipu Hula (gourd drum) — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/501369",
+          "locator": "正文two ipu、胶、圆孔、地垫/三四指击奏、王室例；Date:19th century"
+        },
+        {
+          "id": "s2",
+          "title": "ipu — Grinnell College Musical Instrument Collection",
+          "url": "https://omeka-s.grinnell.edu/s/MusicalInstruments/item/2675",
+          "locator": "Contextual Associations单/双葫芦与gallery1/2；Description及Player-Instrument Interface硬壳、触地和侧击"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-objects-maori-putorino",
+    "module": "objects",
+    "category": "music",
+    "name": "毛利pūtōrino吹管：剖木绑合、中央孔与吹法边界",
+    "region": "新西兰",
+    "period": "约1800—1820年及19世纪后期实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/502136",
+    "content": "以木制pūtōrino的共同构造和中央孔轮廓为范围，旧吹法保留机构的不确定判断。",
+    "use": "画绑合线、侧面厚度和中央孔，先依据实物选择孔形，再确定有依据的演奏动作。",
+    "caution": "机构明确说原来如何演奏并不完全确定，不能确定所有古例都按现代横笛吹奏。",
+    "find": "毛利pūtōrino吹管：剖木绑合、中央孔与吹法边界 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰",
+      "era": "约1800—1820年及19世纪后期实物",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "约1800—1820年及19世纪后期实物",
+      "dateBasis": "证据",
+      "notes": [
+        "机构明确说原来如何演奏并不完全确定，不能确定所有古例都按现代横笛吹奏。",
+        "带pāua贝壳的19世纪后期例与1800—1820年木纤维例应分开标年代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/502136",
+          "locator": "正文matai木、剖/挖/绑合、蛾茧及笛/喇叭疑问；Date:late19th century",
+          "text": "正文matai木、剖/挖/绑合、蛾茧及笛/喇叭疑问；Date:late19th century"
+        },
+        {
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/sounding-the-pacific/photo-gallery",
+          "locator": "Flute (Pūtōrino)段：端孔、figure-eight/oval中央孔，原吹法不确定",
+          "text": "a figure-eight-shaped or oval hole at the center"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/313818",
+          "locator": "Artwork Details：ca.1800–1820，Wood, fiber",
+          "text": "Artwork Details：ca.1800–1820，Wood, fiber"
+        },
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/502301",
+          "locator": "Artwork Details：late19th century，木、纤维、pāua；图同时示两件",
+          "text": "Artwork Details：late19th century，木、纤维、pāua；图同时示两件"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/502136"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-objects-maori-putorino.jpg",
+        "full": "绘画参考资源/例图/world200-objects-maori-putorino.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/midp89.4.1561 (2).jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/502136",
+        "caption": "Pūtōrino，馆藏编号89.4.1561；实物年代：late 19th century；馆方族属：Maori people；材质：matai (Podocarpus spicatus) wood, cord；尺寸：17 7/8 × 2 × 1 in. (45.4 × 5.1 × 2.5 cm)。只示本件结构，不能代替全文各分型。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889",
+        "license": "CC0；Met Open Access，公开领域实物原图",
+        "related": false,
+        "width": 451,
+        "height": 720
+      }
+    ],
+    "topic": {
+      "scope": "以木制pūtōrino的共同构造和中央孔轮廓为范围，旧吹法保留机构的不确定判断。",
+      "common": [
+        {
+          "title": "剖木再绑",
+          "text": "以整块木料剖开、挖空，再用藤或纤维绑回，造型仿袋蛾的茧。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "端孔加中央孔",
+          "text": "顶部一孔与中央孔共同形成气路；中央口不应当作普通装饰镂空。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "8字中央孔",
+          "feature": "机构展览说明中央孔可呈8字形，雕刻脸可围绕开口安排。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "椭圆中央孔",
+          "feature": "同一类也见椭圆中央孔，须按具体实物外形区分。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "报告中出现笛、唇振喇叭及改变人声的用途，形制与声音解释不能只套一种西式笛法。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "机构明确说原来如何演奏并不完全确定，不能确定所有古例都按现代横笛吹奏。",
+        "带pāua贝壳的19世纪后期例与1800—1820年木纤维例应分开标年代。"
+      ],
+      "drawing": "画绑合线、侧面厚度和中央孔，先依据实物选择孔形，再确定有依据的演奏动作。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Pūtōrino — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/502136",
+          "locator": "正文matai木、剖/挖/绑合、蛾茧及笛/喇叭疑问；Date:late19th century"
+        },
+        {
+          "id": "s2",
+          "title": "Sounding the Pacific photo gallery — Met",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/sounding-the-pacific/photo-gallery",
+          "locator": "Flute (Pūtōrino)段：端孔、figure-eight/oval中央孔，原吹法不确定"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏器物 — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/313818",
+          "locator": "Artwork Details：ca.1800–1820，Wood, fiber"
+        },
+        {
+          "id": "s4",
+          "title": "Pūtōrino — The Metropolitan Museum of Art",
+          "url": "https://www.metmuseum.org/art/collection/search/502301",
+          "locator": "Artwork Details：late19th century，木、纤维、pāua；图同时示两件"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c1",
+    "module": "people",
+    "category": "interaction",
+    "name": "不丹洛萨新年：节日宴饮、馈赠与射箭",
+    "region": "不丹",
+    "period": "2008—2013年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2013/losar-community-building-and-the-bhutanese-new-year",
+    "content": "不丹洛萨新年：节日宴饮、馈赠与射箭，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画节日聚会时搭配餐桌、游戏空地与围观者，按具体活动安排人物动作。",
+    "caution": "1637年的庆祝是文章所述现代不丹庆祝形式的节点，不能当作所有洛萨传统的起源。",
+    "find": "不丹洛萨新年：节日宴饮、馈赠与射箭 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "不丹",
+      "era": "2008—2013年记录；传统起源未定",
+      "start": 2008,
+      "end": 2013,
+      "dateLabel": "2008—2013年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "1637年的庆祝是文章所述现代不丹庆祝形式的节点，不能当作所有洛萨传统的起源。",
+        "配图是2008年美国文化节的演奏与射箭现场，并非新年当天实录。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2013/losar-community-building-and-the-bhutanese-new-year",
+          "locator": "Losar正文：饮食、射箭与游戏；传统宴请与社会变化；配图说明。",
+          "text": "2008—2013年记录；传统起源未定；不丹洛萨新年：节日宴饮、馈赠与射箭，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2013/losar-community-building-and-the-bhutanese-new-year"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c1-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c1-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/700_sff2008_lw_7-06_0099.jpg?itok=Kwik6qc5",
+        "source": "https://festival.si.edu/blog/2013/losar-community-building-and-the-bhutanese-new-year",
+        "caption": "2008年史密森尼文化节的不丹演奏现场；辅助了解参与者与乐器，不等同洛萨仪式。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c1-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c1-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/700_sff2008_lw_6-26_0185.jpg?itok=IFheYkZe",
+        "source": "https://festival.si.edu/blog/2013/losar-community-building-and-the-bhutanese-new-year",
+        "caption": "2008年文化节射箭演示。摄影：Laraine Weschler。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Laraine Weschler。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "exhibition"
+      }
+    ],
+    "topic": {
+      "scope": "不丹洛萨新年：节日宴饮、馈赠与射箭，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "新年按阴历落在二至三月，围绕亲友团聚、供献与祝愿来年展开。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "不同地区食物和仪式有差别，作者也区分旧式贵族宴请依附者与当代亲友交往。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "宴饮",
+          "feature": "日出时的早饭、中午正餐和下午点心；节日食物兼有吉祥含义。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "游戏与表演",
+          "feature": "射箭、飞镖、歌舞和野餐与团聚并行，不只是寺院宗教仪式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "分享食品和馈赠重新确认家庭及社区关系；1950年代以后的社会改变也改变了旧式等级宴请的意义。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1637年的庆祝是文章所述现代不丹庆祝形式的节点，不能当作所有洛萨传统的起源。",
+        "配图是2008年美国文化节的演奏与射箭现场，并非新年当天实录。"
+      ],
+      "drawing": "画节日聚会时搭配餐桌、游戏空地与围观者，按具体活动安排人物动作。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Losar: Community Building and the Bhutanese New Year | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2013/losar-community-building-and-the-bhutanese-new-year",
+          "locator": "Losar正文：饮食、射箭与游戏；传统宴请与社会变化；配图说明。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c2",
+    "module": "people",
+    "category": "interaction",
+    "name": "亚美尼亚婚礼：祝福物、入门礼与集体舞",
+    "region": "亚美尼亚",
+    "period": "2018年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/rituals-symbols-armenian-wedding-celebration",
+    "content": "亚美尼亚婚礼：祝福物、入门礼与集体舞，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画新人、围舞者、祝酒者与食物道具的关系，依具体环节布置动作。",
+    "caution": "本文及配图是2018年文化节重现，部分角色临场协商，不是所有婚礼固定流程。",
+    "find": "亚美尼亚婚礼：祝福物、入门礼与集体舞 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "亚美尼亚",
+      "era": "2018年记录；传统起源未定",
+      "start": 2018,
+      "end": 2018,
+      "dateLabel": "2018年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本文及配图是2018年文化节重现，部分角色临场协商，不是所有婚礼固定流程。",
+        "不可把美国观众的日常衣装当作亚美尼亚历史婚服。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/rituals-symbols-armenian-wedding-celebration",
+          "locator": "Hopa! Rituals and Symbols：地区差异、shabash/yarkhushta、各祝福物；Gallery第1图。",
+          "text": "2018年记录；传统起源未定；亚美尼亚婚礼：祝福物、入门礼与集体舞，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/rituals-symbols-armenian-wedding-celebration"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c2-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c2-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/sff2018_07-05_sp0641.jpg?itok=Mo6RY7oL",
+        "source": "https://festival.si.edu/blog/rituals-symbols-armenian-wedding-celebration",
+        "caption": "2018年文化节的亚美尼亚婚礼重现；演示参与者与观众共同庆祝。摄影：Sonya Pencheva。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Sonya Pencheva。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c2-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c2-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2018_07-05_sp1094.jpg?itok=d1Cd6ej_",
+        "source": "https://festival.si.edu/blog/rituals-symbols-armenian-wedding-celebration",
+        "caption": "婚礼重现中向新人喂蜂蜜的环节。摄影：Sonya Pencheva。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Sonya Pencheva。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      }
+    ],
+    "topic": {
+      "scope": "亚美尼亚婚礼：祝福物、入门礼与集体舞，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "婚礼将祝酒、音乐、舞蹈和多种祝福物结合，各地区形式略异。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "长辈、伴郎、乐师与宾客承担不同角色，舞队可围绕新人或穿行宾客之间。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "食物祝福",
+          "feature": "薄饼搭肩、蜂蜜与核桃、甜糕分别承载富足与甜蜜生活的祝愿。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "舞蹈与入门",
+          "feature": "撒钱的shabash、成对击掌舞与入新家前摔盘属于不同环节。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "仪式让两个家庭和参与者公开确认新关系；赠送手工作品也展示家庭投入与照顾。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文及配图是2018年文化节重现，部分角色临场协商，不是所有婚礼固定流程。",
+        "不可把美国观众的日常衣装当作亚美尼亚历史婚服。"
+      ],
+      "drawing": "画新人、围舞者、祝酒者与食物道具的关系，依具体环节布置动作。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Hopa! Rituals and Symbols of an Armenian Wedding | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/rituals-symbols-armenian-wedding-celebration",
+          "locator": "Hopa! Rituals and Symbols：地区差异、shabash/yarkhushta、各祝福物；Gallery第1图。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c3",
+    "module": "people",
+    "category": "work",
+    "name": "亚美尼亚薄饼实践：邻里协作、土炉与过冬储粮",
+    "region": "亚美尼亚",
+    "period": "2018年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/on-the-lavash-trail-in-armenia",
+    "content": "亚美尼亚薄饼实践：邻里协作、土炉与过冬储粮，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画土炉周围分工、晾饼屋顶与储粮房，区分家庭和销售作坊。",
+    "caution": "研究来自GUM市场、Yeghvard及Argel访问，不代表所有村庄相同。",
+    "find": "亚美尼亚薄饼实践：邻里协作、土炉与过冬储粮 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "亚美尼亚",
+      "era": "2018年记录；传统起源未定",
+      "start": 2018,
+      "end": 2018,
+      "dateLabel": "2018年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "研究来自GUM市场、Yeghvard及Argel访问，不代表所有村庄相同。",
+        "文章发表于2018年；传统的最初出现时间未由该文确定。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/on-the-lavash-trail-in-armenia",
+          "locator": "On the Lavash Trail：GUM、Yeghvard、Argel段及原图图注。",
+          "text": "2018年记录；传统起源未定；亚美尼亚薄饼实践：邻里协作、土炉与过冬储粮，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/on-the-lavash-trail-in-armenia"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c3-10.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c3-10.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/lavash-drying-on-the-roof-in-yeghvard.jpg?itok=0rn-_Upc",
+        "source": "https://festival.si.edu/blog/on-the-lavash-trail-in-armenia",
+        "caption": "Yeghvard屋顶晾晒薄饼，2018年文章配图。摄影：John Lee。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "John Lee。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c3-12.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c3-12.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/tonir-fire-in-yeghvard.jpg?itok=7DQEseLQ",
+        "source": "https://festival.si.edu/blog/on-the-lavash-trail-in-armenia",
+        "caption": "Yeghvard户外tonir土炉的火口。摄影：John Lee。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "John Lee。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 250,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "亚美尼亚薄饼实践：邻里协作、土炉与过冬储粮，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "薄饼制作由揉面、分剂、擀拉、贴炉烘烤和取饼等任务协作完成。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "传统tonir土炉将饼贴在内壁，干饼可储存并用少量水恢复柔软。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "家庭储粮",
+          "feature": "Yeghvard的邻里秋季集中烤制，晾干后叠放储藏，以供冬季自用。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "村庄经营",
+          "feature": "Argel的作坊另有售卖与记账岗位，批量供给转售者。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "集中劳动分担繁重工作，干燥储存配合季节；贴壁烘烤也解释了手工饼的不规则焦斑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "研究来自GUM市场、Yeghvard及Argel访问，不代表所有村庄相同。",
+        "文章发表于2018年；传统的最初出现时间未由该文确定。"
+      ],
+      "drawing": "画土炉周围分工、晾饼屋顶与储粮房，区分家庭和销售作坊。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "On the Lavash Trail in Armenia | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/on-the-lavash-trail-in-armenia",
+          "locator": "On the Lavash Trail：GUM、Yeghvard、Argel段及原图图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c4",
+    "module": "people",
+    "category": "interaction",
+    "name": "阿联酋待客咖啡：烘豆、分壶与斟饮礼仪",
+    "region": "阿联酋",
+    "period": "2022年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/coffee-culture-in-the-uae",
+    "content": "阿联酋待客咖啡：烘豆、分壶与斟饮礼仪，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画跪坐制备、不同大小咖啡壶的排列，以及手臂斟壶的动作。",
+    "caution": "以2022年文化节参与者的说明为范围，不能把三壶方案当作全西亚唯一标准。",
+    "find": "阿联酋待客咖啡：烘豆、分壶与斟饮礼仪 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "阿联酋",
+      "era": "2022年记录；传统起源未定",
+      "start": 2022,
+      "end": 2022,
+      "dateLabel": "2022年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "以2022年文化节参与者的说明为范围，不能把三壶方案当作全西亚唯一标准。",
+        "图片为美国文化节演示，不能据背景推定阿联酋传统住宅内部。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/coffee-culture-in-the-uae",
+          "locator": "The Welcoming Drink：Ahmed Al Shimmari所述器具、三壶功能、服务礼仪。",
+          "text": "2022年记录；传统起源未定；阿联酋待客咖啡：烘豆、分壶与斟饮礼仪，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/coffee-culture-in-the-uae"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c4-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c4-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/20220702_uae-coffee_by-yijo-shen_8.jpg?itok=VXoYKE6w",
+        "source": "https://festival.si.edu/blog/coffee-culture-in-the-uae",
+        "caption": "2022年文化节研磨阿拉伯咖啡演示。摄影：Yijo Shen。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Yijo Shen。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c4-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c4-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/20220702_uae-coffee_by-yijo-shen_1.jpg?itok=wkumUv8q",
+        "source": "https://festival.si.edu/blog/coffee-culture-in-the-uae",
+        "caption": "制备中将咖啡倒入较小壶。摄影：Yijo Shen。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Yijo Shen。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 268,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "阿联酋待客咖啡：烘豆、分壶与斟饮礼仪，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "gahwa不只是饮料，研磨的声音也邀请邻里来访，与椰枣等一起待客。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "文中示范者将烘焙、冷却、研磨、调香和过滤斟饮分成连续步骤。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "制备岗位",
+          "feature": "炉具与搅拌片烘豆，编篮冷却，臼杵研磨；地区调香方法有差别。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "分壶斟饮",
+          "feature": "大壶煮水，中壶浸泡，小壶服务；斟饮者先试饮，再用小杯待客。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "分工器具让接待和制备衔接；家庭传承及咖啡训练中心延续待客知识。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "以2022年文化节参与者的说明为范围，不能把三壶方案当作全西亚唯一标准。",
+        "图片为美国文化节演示，不能据背景推定阿联酋传统住宅内部。"
+      ],
+      "drawing": "画跪坐制备、不同大小咖啡壶的排列，以及手臂斟壶的动作。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Welcoming Drink: Coffee Culture in the UAE | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/coffee-culture-in-the-uae",
+          "locator": "The Welcoming Drink：Ahmed Al Shimmari所述器具、三壶功能、服务礼仪。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c5",
+    "module": "people",
+    "category": "interaction",
+    "name": "伊拉克节庆糕点：开斋节馈赠与侨居家庭协作",
+    "region": "伊拉克／阿联酋",
+    "period": "2020年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/kleicha-iraqi-date-cookies-gifts-of-memory",
+    "content": "归纳伊拉克kleicha节庆糕点的馈赠、待客与夹馅分型，使用馆方节俗概述和El Mutwalli侨居家庭实例，区分普遍习俗与该家配方。",
+    "use": "画家庭厨房协作、糕点批次和送礼动作；历史场景另核器具年代。",
+    "caution": "家传配方与成形建议是实例；该家最高500公斤的批量、奶酪变化和年年换盒不代表普通家庭标准。",
+    "find": "伊拉克节庆糕点：开斋节馈赠与侨居家庭协作 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊拉克／阿联酋",
+      "era": "2020年记录；传统起源未定",
+      "start": 2020,
+      "end": 2020,
+      "dateLabel": "2020年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "家传配方与成形建议是实例；该家最高500公斤的批量、奶酪变化和年年换盒不代表普通家庭标准。",
+        "2020年疫情使该家暂停送礼；文章所称远古渊源未给确切考古断代，本题不以此复原巴比伦糕点。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/kleicha-iraqi-date-cookies-gifts-of-memory",
+          "locator": "Kleicha: Gifts of Memory：家庭访谈、Eid访问、馅料及礼盒图注。",
+          "text": "2020年记录；传统起源未定；归纳伊拉克kleicha节庆糕点的馈赠、待客与夹馅分型，使用馆方节俗概述和El Mutwalli侨居家庭实例，区分普遍习俗与该家配方。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/kleicha-iraqi-date-cookies-gifts-of-memory"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c5-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c5-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/kleicha-piles.jpg?itok=w5lErEKl",
+        "source": "https://festival.si.edu/blog/kleicha-iraqi-date-cookies-gifts-of-memory",
+        "caption": "El Mutwalli家庭制作的kleicha与礼盒，2020年文章配图。摄影：Reem El Mutwalli。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Reem El Mutwalli。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c5-10.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c5-10.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/mutwalli.jpg?itok=Or-ukm8q",
+        "source": "https://festival.si.edu/blog/kleicha-iraqi-date-cookies-gifts-of-memory",
+        "caption": "家庭成员共同准备糕点。摄影：Reem El Mutwalli。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Reem El Mutwalli。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "归纳伊拉克kleicha节庆糕点的馈赠、待客与夹馅分型，使用馆方节俗概述和El Mutwalli侨居家庭实例，区分普遍习俗与该家配方。",
+      "common": [
+        {
+          "title": "节日待客",
+          "text": "开斋节访问亲友、交换祝福和点心；馆方说明阿拉伯家庭以咖啡、茶、椰枣、甜食和丰盛食物表达招待。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "共享传统与家传差异",
+          "text": "伊拉克不同民族和宗教群体在特殊场合食用kleicha；椰枣或坚果夹馅、玫瑰水及黑种草香味常见，但家传配方不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "椰枣与坚果夹馅",
+          "feature": "本题家庭实例用椰枣馅卷成长段再切块，开心果包成球，核桃包半月；这些形状是区分馅料的建议，不能视作全国定式。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "家庭备制与节日馈赠",
+          "feature": "揉面、夹馅、烘烤、装盒由多人分担；礼盒设计及该家的咸奶酪版本属于具体家庭做法。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "重复的味道和礼物把侨居生活与祖籍记忆联系起来，也维持节日访问的待客关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "家传配方与成形建议是实例；该家最高500公斤的批量、奶酪变化和年年换盒不代表普通家庭标准。",
+        "2020年疫情使该家暂停送礼；文章所称远古渊源未给确切考古断代，本题不以此复原巴比伦糕点。"
+      ],
+      "drawing": "画家庭厨房协作、糕点批次和送礼动作；历史场景另核器具年代。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Kleicha: Gifts of Memory | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/kleicha-iraqi-date-cookies-gifts-of-memory",
+          "locator": "Kleicha: Gifts of Memory：家庭访谈、Eid访问、馅料及礼盒图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c6",
+    "module": "people",
+    "category": "interaction",
+    "name": "犹太节日生活：逾越节家宴、住棚节与计日祝祷",
+    "region": "西班牙／美国／犹太社区",
+    "period": "约1300年西班牙文献与2021年美国实践记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/perspectives/sukkot",
+    "content": "比较逾越节家宴、住棚节户外棚屋用餐与数俄梅珥的日常祝祷；约1300年西班牙文献和2021年美国合住家庭分别作为历史文本与当代实践例证。",
+    "use": "先确定画的是家宴、棚屋用餐还是计日祝祷，再补具体年代的空间、服饰与桌面器具。",
+    "caution": "本题比较节日功能，具体教派、地区与家庭规则仍需分开核对。",
+    "find": "犹太节日生活：逾越节家宴、住棚节与计日祝祷 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "跨地区",
+      "country": "西班牙／美国／犹太社区",
+      "era": "约1300年西班牙文献与2021年美国实践记录；传统起源未定",
+      "start": 1300,
+      "end": 2021,
+      "dateLabel": "约1300年西班牙文献与2021年美国实践记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本题比较节日功能，具体教派、地区与家庭规则仍需分开核对。",
+        "当代共餐照片是合住家庭个案，历史文献为文本实物；二者都不能复原古代献祭、住棚形制或统一服饰。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/jewish-omer",
+          "locator": "Jewish Omer：49天祝祷、教派差异、海报与糖果的家庭创新。",
+          "text": "约1300年西班牙文献与2021年美国实践记录；传统起源未定；比较逾越节家宴、住棚节户外棚屋用餐与数俄梅珥的日常祝祷；约1300年西班牙文献和2021年美国合住家庭分别作为历史文本与当代实践例证。"
+        },
+        {
+          "url": "https://www.metmuseum.org/perspectives/sukkot",
+          "locator": "2016年Elizabeth Eisenberg正文：Seder与Hallel、临时棚屋用餐、朝圣节；Prato Haggadah图注约1300年。",
+          "text": "约1300年西班牙文献与2021年美国实践记录；传统起源未定；比较逾越节家宴、住棚节户外棚屋用餐与数俄梅珥的日常祝祷；约1300年西班牙文献和2021年美国合住家庭分别作为历史文本与当代实践例证。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/perspectives/sukkot"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c6-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c6-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/jewish-coop-housemates.jpg?itok=1ro1mtUX",
+        "source": "https://festival.si.edu/blog/jewish-omer",
+        "caption": "本文犹太合住家庭的当代共餐合影。摄影：Francesca Rubinson。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Francesca Rubinson。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 357,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c6met.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c6met.jpg",
+        "original": "https://cdn.sanity.io/images/cctd4ker/production/6d23226e0871c613b13f7e06bf7b5722ec730d92-720x1010.jpg?auto=format&fit=max&q=75&w=3840",
+        "source": "https://www.metmuseum.org/perspectives/sukkot",
+        "caption": "约1300年西班牙Prato Haggadah第33r页：节庆赞美诗Hallel。文献实物，不能据此复原家庭或棚屋。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Courtesy of The Library of The Jewish Theological Seminary, New York；The Met配图",
+        "license": "单张照片使用条件见The Met及纽约犹太神学院图书馆；未另行确认开放许可",
+        "width": 720,
+        "height": 1010,
+        "related": false,
+        "kind": "historical"
+      }
+    ],
+    "topic": {
+      "scope": "比较逾越节家宴、住棚节户外棚屋用餐与数俄梅珥的日常祝祷；约1300年西班牙文献和2021年美国合住家庭分别作为历史文本与当代实践例证。",
+      "common": [
+        {
+          "title": "节序与记忆",
+          "text": "逾越节家宴纪念出埃及，住棚节用临时棚屋中的户外用餐纪念旷野庇护；食事与宗教记忆相连。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "title": "跨节日赞美",
+          "text": "Hallel赞美诗在逾越节家宴结束及住棚节等不同节日诵唱；共同文本不表示所有节日活动相同。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "逾越节家宴",
+          "feature": "Haggadah规定Seder的叙事与仪式文本；本题历史文献例证约1300年，不能直接据装饰画推断餐桌配置。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "住棚节用餐",
+          "feature": "用临时棚屋中的户外用餐纪念庇护；具体棚屋尺寸与地区式样需另查，文献配图不是建筑测绘。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "数俄梅珥",
+          "feature": "逾越节与Shavuot之间49天计日祝祷；2021年合住者用海报和糖果提醒，是家庭创新而非统一传统物。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "共同文本、节序与重复实践传递宗教记忆；当代不同教派的共同生活还要协商饮食及日常规则。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "本题比较节日功能，具体教派、地区与家庭规则仍需分开核对。",
+        "当代共餐照片是合住家庭个案，历史文献为文本实物；二者都不能复原古代献祭、住棚形制或统一服饰。"
+      ],
+      "drawing": "先确定画的是家宴、棚屋用餐还是计日祝祷，再补具体年代的空间、服饰与桌面器具。",
+      "sources": [
+        {
+          "id": "s2",
+          "title": "The Met · A Haggadah for Sukkot",
+          "url": "https://www.metmuseum.org/perspectives/sukkot",
+          "locator": "2016年Elizabeth Eisenberg正文：Seder与Hallel、临时棚屋用餐、朝圣节；Prato Haggadah图注约1300年。"
+        },
+        {
+          "id": "s1",
+          "title": "How My Jewish Co-op Counted the Omer... with Cheesecake M&Ms | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/jewish-omer",
+          "locator": "Jewish Omer：49天祝祷、教派差异、海报与糖果的家庭创新。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c7",
+    "module": "people",
+    "category": "sequence",
+    "name": "印度婆罗多舞传承：足部节奏、舞姿与家中教学",
+    "region": "印度／美国侨居社区",
+    "period": "2017年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/love-of-life-as-survival-malini-srinivasan-and-bharatanatyam-dance",
+    "content": "印度婆罗多舞传承：足部节奏、舞姿与家中教学，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "配对准备、踏步和屈膝舞姿，画出踝铃位置与身体重心。",
+    "caution": "范围为Malini Srinivasan一家与2017年演出，不能据此概括所有婆罗多舞流派。",
+    "find": "印度婆罗多舞传承：足部节奏、舞姿与家中教学 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度／美国侨居社区",
+      "era": "2017年记录；传统起源未定",
+      "start": 2017,
+      "end": 2017,
+      "dateLabel": "2017年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "范围为Malini Srinivasan一家与2017年演出，不能据此概括所有婆罗多舞流派。",
+        "动作解释限于本文观察，不把姿势随意标成特定神祇或固定手印。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/love-of-life-as-survival-malini-srinivasan-and-bharatanatyam-dance",
+          "locator": "Love of Life as Survival：开篇动作观察、家庭课堂及传承访谈。",
+          "text": "2017年记录；传统起源未定；印度婆罗多舞传承：足部节奏、舞姿与家中教学，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/love-of-life-as-survival-malini-srinivasan-and-bharatanatyam-dance"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c7-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c7-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2017_7-07_jbw_0186.jpg?itok=o19x-WUh",
+        "source": "https://festival.si.edu/blog/love-of-life-as-survival-malini-srinivasan-and-bharatanatyam-dance",
+        "caption": "2017年文化节舞者准备踝铃。摄影：JB Weilepp。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "JB Weilepp。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c7-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c7-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2017_7-07_jbw_0207.jpg?itok=KJ5Qlyq-",
+        "source": "https://festival.si.edu/blog/love-of-life-as-survival-malini-srinivasan-and-bharatanatyam-dance",
+        "caption": "Malini Srinivasan在2017年文化节表演。摄影：JB Weilepp。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "JB Weilepp。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 250,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "印度婆罗多舞传承：足部节奏、舞姿与家中教学，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "舞者用屈膝、脚跟和脚掌击地配合踝铃，手臂与身体在不同姿势间转换。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "本文追踪三代女性舞者的家庭教学，练习空间也承担社区聚会和音乐活动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "演出与准备",
+          "feature": "踝铃、姿态与踏步在舞台上形成可见节奏；准备动作与演出动作应分开。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "教学与社交",
+          "feature": "家中课堂和社区演出延续技能；教师还会邀请其他专长者补充教学。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "反复身体练习连接家庭记忆和社区；舞蹈既是专业表演，也是传承关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "范围为Malini Srinivasan一家与2017年演出，不能据此概括所有婆罗多舞流派。",
+        "动作解释限于本文观察，不把姿势随意标成特定神祇或固定手印。"
+      ],
+      "drawing": "配对准备、踏步和屈膝舞姿，画出踝铃位置与身体重心。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Love of Life as Survival: Malini Srinivasan and Bharatanatyam Dance | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/love-of-life-as-survival-malini-srinivasan-and-bharatanatyam-dance",
+          "locator": "Love of Life as Survival：开篇动作观察、家庭课堂及传承访谈。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c8",
+    "module": "people",
+    "category": "interaction",
+    "name": "中国端午实践：龙舟、护身物与地区食物",
+    "region": "中国",
+    "period": "2014年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2014/commemoration-and-competition-celebrating-dragon-boat-festival-in-china",
+    "content": "中国端午实践：龙舟、护身物与地区食物，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画划桨同步、岸边观看和家庭节物，另核所画时代的船体结构。",
+    "caution": "本文包含作者家庭经验，不能把每种做法推广到全部地区。",
+    "find": "中国端午实践：龙舟、护身物与地区食物 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "2014年记录；传统起源未定",
+      "start": 2014,
+      "end": 2014,
+      "dateLabel": "2014年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本文包含作者家庭经验，不能把每种做法推广到全部地区。",
+        "图片是现代香港竞舟及当代五色线，不作为古代船材、腕饰形制的唯一证据。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2014/commemoration-and-competition-celebrating-dragon-boat-festival-in-china",
+          "locator": "Commemoration and Competition：Races、Health、Food三节及图注。",
+          "text": "2014年记录；传统起源未定；中国端午实践：龙舟、护身物与地区食物，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2014/commemoration-and-competition-celebrating-dragon-boat-festival-in-china"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c8-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c8-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2014/05/2_dragonboat_courtesyhongkongsar.jpg?itok=HCBSfm6d",
+        "source": "https://festival.si.edu/blog/2014/commemoration-and-competition-celebrating-dragon-boat-festival-in-china",
+        "caption": "现代香港龙舟比赛。图片由香港特别行政区提供。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c8-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c8-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2014/05/img_0033.jpg?itok=r2OJ9b8s",
+        "source": "https://festival.si.edu/blog/2014/commemoration-and-competition-celebrating-dragon-boat-festival-in-china",
+        "caption": "当代五色线手环。摄影：Sojin Kim。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Sojin Kim。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "中国端午实践：龙舟、护身物与地区食物，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "端午关联纪念、竞舟、护身物与节日饮食，不宜只画成一场龙舟竞赛。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "龙舟多人同向划桨，船首尾作龙形；现代船材与传统船材不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "公共竞舟",
+          "feature": "船队、岸边观众和水域组成节庆场景，现代船型和人数有变化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "家庭节物",
+          "feature": "五色线、香囊、艾草与粽子用于祈愿健康；粽馅具有南北及家庭差异。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "公共纪念与家庭求安相结合，食物和护身物把节日落实到日常生活。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文包含作者家庭经验，不能把每种做法推广到全部地区。",
+        "图片是现代香港竞舟及当代五色线，不作为古代船材、腕饰形制的唯一证据。"
+      ],
+      "drawing": "画划桨同步、岸边观看和家庭节物，另核所画时代的船体结构。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Commemoration and Competition: Celebrating Dragon Boat Festival in China | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2014/commemoration-and-competition-celebrating-dragon-boat-festival-in-china",
+          "locator": "Commemoration and Competition：Races、Health、Food三节及图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c9",
+    "module": "people",
+    "category": "interaction",
+    "name": "韩国春节家庭礼：祭祖餐桌、拜年与共食",
+    "region": "韩国",
+    "period": "1982—2015年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2015/lunar-new-year-in-south-korea",
+    "content": "韩国春节家庭礼：祭祖餐桌、拜年与共食，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "分开画祭祖、拜年及围桌共食，留意跪拜者与长辈之间的空间。",
+    "caution": "以作者家庭经验为主，不将父系先访或某一桌次当作所有韩国家庭规则。",
+    "find": "韩国春节家庭礼：祭祖餐桌、拜年与共食 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "韩国",
+      "era": "1982—2015年记录；传统起源未定",
+      "start": 1982,
+      "end": 2015,
+      "dateLabel": "1982—2015年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "以作者家庭经验为主，不将父系先访或某一桌次当作所有韩国家庭规则。",
+        "1982年图是文化节教学演示，2015年餐桌为当代家庭照片。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2015/lunar-new-year-in-south-korea",
+          "locator": "Lunar New Year in South Korea：charea、saebae、家庭差异及两张图注。",
+          "text": "1982—2015年记录；传统起源未定；韩国春节家庭礼：祭祖餐桌、拜年与共食，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2015/lunar-new-year-in-south-korea"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c9-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c9-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2015/02/seollal-dinner-700x494.jpg?itok=S_V7GpaS",
+        "source": "https://festival.si.edu/blog/2015/lunar-new-year-in-south-korea",
+        "caption": "当代Seollal节日晚餐桌，2015年文章配图。摄影：Jennifer Suh。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Jennifer Suh。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 353,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c9-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c9-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2015/02/faf1982_korea_tinsley_04-copy-700x462.jpg?itok=UEKNW3Ct",
+        "source": "https://festival.si.edu/blog/2015/lunar-new-year-in-south-korea",
+        "caption": "1982年史密森尼文化节韩国家庭习俗教学场景。摄影：Jeff Tinsley。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Jeff Tinsley。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 330,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "韩国春节家庭礼：祭祖餐桌、拜年与共食，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Seollal以亲属团聚为重，餐食与礼仪先后形成一天的家庭节奏。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "祭祖桌摆放规矩随地区和家族变化，有些家庭因信仰或备制负担不再举行。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "祭祖与共食",
+          "feature": "准备肉鱼、蔬果、酒及年糕汤，礼毕再共食，不是普通餐桌随意摆放。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "向长辈拜年",
+          "feature": "年轻者以saebae礼表达尊重，长辈给予祝福与钱礼；不同亲属家的安排会变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "亲族会面与代际拜礼延续关系；现代宗教和生活条件也改变旧有惯例。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "以作者家庭经验为主，不将父系先访或某一桌次当作所有韩国家庭规则。",
+        "1982年图是文化节教学演示，2015年餐桌为当代家庭照片。"
+      ],
+      "drawing": "分开画祭祖、拜年及围桌共食，留意跪拜者与长辈之间的空间。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Lunar New Year in South Korea | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2015/lunar-new-year-in-south-korea",
+          "locator": "Lunar New Year in South Korea：charea、saebae、家庭差异及两张图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c11",
+    "module": "people",
+    "category": "interaction",
+    "name": "巴斯克苹果酒聚会：酒桶取饮与集体社交",
+    "region": "西班牙／法国巴斯克地区",
+    "period": "2016年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2016/txotx-a-basque-ciderhouse-experience",
+    "content": "巴斯克苹果酒聚会：酒桶取饮与集体社交，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画桶前俯身接酒、等待者与聊天小群，核对时代后再使用阀门和室内陈设。",
+    "caution": "图片为2016年华盛顿的合作活动，不是巴斯克原乡旧时代酒屋。",
+    "find": "巴斯克苹果酒聚会：酒桶取饮与集体社交 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙／法国巴斯克地区",
+      "era": "2016年记录；传统起源未定",
+      "start": 2016,
+      "end": 2016,
+      "dateLabel": "2016年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "图片为2016年华盛顿的合作活动，不是巴斯克原乡旧时代酒屋。",
+        "现代阀门、衣装和场地不能直接移入历史场景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2016/txotx-a-basque-ciderhouse-experience",
+          "locator": "Txotx! A Basque Ciderhouse Experience：开桶动作、发酵习惯与侨居聚会。",
+          "text": "2016年记录；传统起源未定；巴斯克苹果酒聚会：酒桶取饮与集体社交，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2016/txotx-a-basque-ciderhouse-experience"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c11-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c11-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2016/05/txotx.jpg?itok=X-o_yADQ",
+        "source": "https://festival.si.edu/blog/2016/txotx-a-basque-ciderhouse-experience",
+        "caption": "2016年美国Txotx活动的桶前轮流接饮。摄影：Greyson Harris。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Greyson Harris。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 321,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "巴斯克苹果酒聚会：酒桶取饮与集体社交，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "txotx以打开酒桶并轮流承接酒流为核心，取酒者俯身排队以杯接住喷流。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "苹果季节采收、榨汁与木桶发酵和聚会相连，传统口味不靠人工增甜或充气。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "取饮",
+          "feature": "桶边形成轮流接饮的队列，承接距离和杯角度影响动作。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "音乐与社交",
+          "feature": "酒屋聚会也有聊天、乐器与地方社交；文章展示侨居社区的活动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "开桶让农作成果成为社区共享的场合；喷流带入空气，也改变饮用时的体验。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图片为2016年华盛顿的合作活动，不是巴斯克原乡旧时代酒屋。",
+        "现代阀门、衣装和场地不能直接移入历史场景。"
+      ],
+      "drawing": "画桶前俯身接酒、等待者与聊天小群，核对时代后再使用阀门和室内陈设。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Txotx! A Basque Ciderhouse Experience | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2016/txotx-a-basque-ciderhouse-experience",
+          "locator": "Txotx! A Basque Ciderhouse Experience：开桶动作、发酵习惯与侨居聚会。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c13",
+    "module": "people",
+    "category": "daily",
+    "name": "乌克兰及东欧酸汤：家常食物、节庆与侨居变化",
+    "region": "乌克兰／东欧",
+    "period": "2023年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/a-brief-history-of-borshch",
+    "content": "乌克兰及东欧酸汤：家常食物、节庆与侨居变化，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "用食物、家庭共餐及节庆桌面的差异表现背景，按地区另查餐具。",
+    "caution": "来源讨论多地区变体，不能将一种配方归给整个东欧。",
+    "find": "乌克兰及东欧酸汤：家常食物、节庆与侨居变化 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "乌克兰／东欧",
+      "era": "2023年记录；传统起源未定",
+      "start": 2023,
+      "end": 2023,
+      "dateLabel": "2023年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "来源讨论多地区变体，不能将一种配方归给整个东欧。",
+        "配图是当代汤品，不可据瓷碗或摆盘推定历史餐具与普及率。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/a-brief-history-of-borshch",
+          "locator": "A Brief History of Borshch：地区变化、婚宴、kashrut与季节食材。",
+          "text": "2023年记录；传统起源未定；乌克兰及东欧酸汤：家常食物、节庆与侨居变化，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/a-brief-history-of-borshch"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c13-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c13-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/events/borshch.jpg?itok=bDLtveHP",
+        "source": "https://festival.si.edu/blog/a-brief-history-of-borshch",
+        "caption": "当代甜菜酸汤与酸奶油示例；原页标为Creative Commons，未完整显示摄影署名。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "乌克兰及东欧酸汤：家常食物、节庆与侨居变化，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "borshch有不同配方，乌克兰甜菜型的红色最常被辨认，却不代表所有地区都同料。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "便于利用可储存根菜的家庭食物，也进入婚宴、宗教节日与移民生活。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "肉汤型",
+          "feature": "肉汤与蔬菜组合，本文举出鸡肉、卷心菜、甜菜等版本。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "犹太素汤型",
+          "feature": "为避免肉奶混食，阿什肯纳兹版本常省去肉汤，再配酸奶油。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "可得食材、季节储存与饮食规矩推动分型；迁移使菜肴承载祖籍记忆。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "来源讨论多地区变体，不能将一种配方归给整个东欧。",
+        "配图是当代汤品，不可据瓷碗或摆盘推定历史餐具与普及率。"
+      ],
+      "drawing": "用食物、家庭共餐及节庆桌面的差异表现背景，按地区另查餐具。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "A Brief History of Borshch | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/a-brief-history-of-borshch",
+          "locator": "A Brief History of Borshch：地区变化、婚宴、kashrut与季节食材。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c16",
+    "module": "people",
+    "category": "interaction",
+    "name": "秘鲁安第斯供献：帕查玛玛、家传织物与多人准备",
+    "region": "秘鲁",
+    "period": "2015年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2015/an-offering-to-pachamama",
+    "content": "秘鲁安第斯供献：帕查玛玛、家传织物与多人准备，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画多人围绕织物准备与献叶，保持物件层级和供献者的持物动作。",
+    "caution": "不能把这一社区的叙述扩成所有安第斯民族的统一步骤。",
+    "find": "秘鲁安第斯供献：帕查玛玛、家传织物与多人准备 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "秘鲁",
+      "era": "2015年记录；传统起源未定",
+      "start": 2015,
+      "end": 2015,
+      "dateLabel": "2015年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "不能把这一社区的叙述扩成所有安第斯民族的统一步骤。",
+        "宗教观念以来源人物所述呈现，未定起源年；图片为当代实践。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2015/an-offering-to-pachamama",
+          "locator": "An Offering to the Pachamama：Rufino Turpo叙述、织物铺设、分区与kintus。",
+          "text": "2015年记录；传统起源未定；秘鲁安第斯供献：帕查玛玛、家传织物与多人准备，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2015/an-offering-to-pachamama"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c16-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c16-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2015/06/ceremony1.jpg?itok=H9JKDB7w",
+        "source": "https://festival.si.edu/blog/2015/an-offering-to-pachamama",
+        "caption": "当代安第斯供献参与者，2015年文章配图。摄影：Roger Valencia。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Roger Valencia。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 335,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c16-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c16-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2015/06/photo-by-roger.jpg?itok=nK-bYnKl",
+        "source": "https://festival.si.edu/blog/2015/an-offering-to-pachamama",
+        "caption": "铺设织物和供献物的场景。摄影：Roger Valencia。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Roger Valencia。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 499,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "秘鲁安第斯供献：帕查玛玛、家传织物与多人准备，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "供献将家传织物、仪式小物、花瓣与古柯叶等按特定关系布置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "本文是一位Ausangate地区实践者的第一人称叙述，供献者与家族及山灵关系相连。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "铺设与分区",
+          "feature": "外层披巾、内层小毯和仪式物分层放置；花瓣划分上下及男女区域。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "共同献叶",
+          "feature": "参与者选取三片一组的古柯叶，供献和自用各有安排。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "供献表达对土地和维持生活力量的尊重，也通过祖父、父亲传下的物件延续关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不能把这一社区的叙述扩成所有安第斯民族的统一步骤。",
+        "宗教观念以来源人物所述呈现，未定起源年；图片为当代实践。"
+      ],
+      "drawing": "画多人围绕织物准备与献叶，保持物件层级和供献者的持物动作。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "An Offering to the Pachamama | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2015/an-offering-to-pachamama",
+          "locator": "An Offering to the Pachamama：Rufino Turpo叙述、织物铺设、分区与kintus。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c17",
+    "module": "people",
+    "category": "work",
+    "name": "伯利兹加里富纳饮食：鱼汤、捣蕉与家庭分享",
+    "region": "伯利兹／加里富纳社区",
+    "period": "2022年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/garifuna-hudut-fish-stew-recipe",
+    "content": "伯利兹加里富纳饮食：鱼汤、捣蕉与家庭分享，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画捣蕉、搅汤、分装和共食的连续劳动，按年代选锅具与炉灶。",
+    "caution": "不能把演示中的替代鱼种当成古老固定配方。",
+    "find": "伯利兹加里富纳饮食：鱼汤、捣蕉与家庭分享 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "伯利兹／加里富纳社区",
+      "era": "2022年记录；传统起源未定",
+      "start": 2022,
+      "end": 2022,
+      "dateLabel": "2022年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "不能把演示中的替代鱼种当成古老固定配方。",
+        "本文讨论的是Garifuna菜肴及一户家庭，不能代表全部伯利兹民族。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/garifuna-hudut-fish-stew-recipe",
+          "locator": "Traditional Garifuna Recipe: Hudut：家庭聚餐、传统组合与演示替换。",
+          "text": "2022年记录；传统起源未定；伯利兹加里富纳饮食：鱼汤、捣蕉与家庭分享，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/garifuna-hudut-fish-stew-recipe"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c17-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c17-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/cf_dscn7277.jpg?itok=irbjOEeJ",
+        "source": "https://festival.si.edu/blog/garifuna-hudut-fish-stew-recipe",
+        "caption": "2022年文化节hudut烹调演示。摄影：Craig Fergus。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Craig Fergus。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c17-10.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c17-10.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/cf_dscn7305.jpg?itok=UhiReZlE",
+        "source": "https://festival.si.edu/blog/garifuna-hudut-fish-stew-recipe",
+        "caption": "Veronica Tun将鱼汤分装入碗。摄影：Craig Fergus。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Craig Fergus。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "伯利兹加里富纳饮食：鱼汤、捣蕉与家庭分享，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "hudut以椰奶鱼汤配捣食蕉；备制声音与共餐能吸引扩大家庭聚集。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "本文记录当地渔民家庭及文化节实践，把取鱼、烹调和生态变化联系起来。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "家庭常例",
+          "feature": "用当地鱼类、椰奶和食蕉分开备制，再组合上桌。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "文化节改编",
+          "feature": "2022年演示改用狮子鱼，作者明确这并非该实践者此前的日常用鱼。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "家庭食物连接渔业生计与亲属关系；对入侵鱼的替换展示传统对当代环境的适应。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不能把演示中的替代鱼种当成古老固定配方。",
+        "本文讨论的是Garifuna菜肴及一户家庭，不能代表全部伯利兹民族。"
+      ],
+      "drawing": "画捣蕉、搅汤、分装和共食的连续劳动，按年代选锅具与炉灶。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Traditional Garifuna Recipe: Hudut (Coconut Fish Stew and Mashed Plantains) | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/garifuna-hudut-fish-stew-recipe",
+          "locator": "Traditional Garifuna Recipe: Hudut：家庭聚餐、传统组合与演示替换。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c18",
+    "module": "people",
+    "category": "work",
+    "name": "切罗基当代饮食传承：葡萄面团、植物饮料与共同试味",
+    "region": "美国／切罗基社区",
+    "period": "2024年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/nico-albert-williams-cherokee-foodways",
+    "content": "切罗基当代饮食传承：葡萄面团、植物饮料与共同试味，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画备料、揉团、煮食和讲解的手部关系，历史场景应另核食材及工具。",
+    "caution": "范围为Nico Albert Williams的教学和家族经验，不是全体切罗基的标准菜单。",
+    "find": "切罗基当代饮食传承：葡萄面团、植物饮料与共同试味 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国／切罗基社区",
+      "era": "2024年记录；传统起源未定",
+      "start": 2024,
+      "end": 2024,
+      "dateLabel": "2024年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "范围为Nico Albert Williams的教学和家族经验，不是全体切罗基的标准菜单。",
+        "照片为2024年文化节；手套、瓶装汁和示范厨房属于当代环境。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/nico-albert-williams-cherokee-foodways",
+          "locator": "Seeds of Food Sovereignty：葡萄团子变迁、植物饮料和种子知识。",
+          "text": "2024年记录；传统起源未定；切罗基当代饮食传承：葡萄面团、植物饮料与共同试味，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/nico-albert-williams-cherokee-foodways"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c18-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c18-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2024_06-26_co_0145.jpg?itok=niZX0uDV",
+        "source": "https://festival.si.edu/blog/nico-albert-williams-cherokee-foodways",
+        "caption": "2024年文化节葡萄团子备制，现代瓶装葡萄汁也在画面中。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c18-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c18-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2024_06-28_sp_1065.jpg?itok=oNPLylfY",
+        "source": "https://festival.si.edu/blog/nico-albert-williams-cherokee-foodways",
+        "caption": "Nico Albert Williams讲解植物饮料。摄影：Sonya Pencheva。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Sonya Pencheva。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "切罗基当代饮食传承：葡萄面团、植物饮料与共同试味，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "食物传承涉及栽种、种子、土地知识与厨艺，不能只理解成菜谱。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "本文实践者通过反复试味和亲友交流修改葡萄团子，并分享植物饮料的知识。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "葡萄团子",
+          "feature": "面团在葡萄汁中煮成甜食；原有野葡萄和玉米料与现代替代须区分。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "植物饮料",
+          "feature": "黑莓、鼠尾草和yaupon等进入演示，强调食材来源与知识的延续。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "食品自主与祖传植物知识相连；分享制作过程使族群记忆在当代继续被学习。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "范围为Nico Albert Williams的教学和家族经验，不是全体切罗基的标准菜单。",
+        "照片为2024年文化节；手套、瓶装汁和示范厨房属于当代环境。"
+      ],
+      "drawing": "画备料、揉团、煮食和讲解的手部关系，历史场景应另核食材及工具。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Seeds of Food Sovereignty with Cherokee Chef Nico Albert Williams | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/nico-albert-williams-cherokee-foodways",
+          "locator": "Seeds of Food Sovereignty：葡萄团子变迁、植物饮料和种子知识。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c19",
+    "module": "people",
+    "category": "work",
+    "name": "卡尼恩凯哈卡玉米文化：扬净、灰水处理与语言传承",
+    "region": "加拿大／美国卡尼恩凯哈卡社区",
+    "period": "2025年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/kanienkehaka-corn-culture",
+    "content": "卡尼恩凯哈卡玉米文化：扬净、灰水处理与语言传承，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画双手倾倒、多人观摩和器篮使用，把加工步骤与所需容器配对。",
+    "caution": "记录的是2025年语言复兴组织的公开演示，不概括全部易洛魁民族。",
+    "find": "卡尼恩凯哈卡玉米文化：扬净、灰水处理与语言传承 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "加拿大／美国卡尼恩凯哈卡社区",
+      "era": "2025年记录；传统起源未定",
+      "start": 2025,
+      "end": 2025,
+      "dateLabel": "2025年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "记录的是2025年语言复兴组织的公开演示，不概括全部易洛魁民族。",
+        "配图的塑料桶和现代炉台为演示用品，不能倒推古代常用材质。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/kanienkehaka-corn-culture",
+          "locator": "Raising Crops and Reclaiming Language：winnowing、洗玉米篮、三姊妹汤和玉米糊。",
+          "text": "2025年记录；传统起源未定；卡尼恩凯哈卡玉米文化：扬净、灰水处理与语言传承，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/kanienkehaka-corn-culture"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c19-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c19-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sofia-little-corn-winnowing.jpg?itok=PGifGRyh",
+        "source": "https://festival.si.edu/blog/kanienkehaka-corn-culture",
+        "caption": "2025年文化节白玉米扬净演示。摄影：Mary Linn。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Mary Linn。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c19-12.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c19-12.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2025_07-07_aev_0037.jpg?itok=GhxUreBo",
+        "source": "https://festival.si.edu/blog/kanienkehaka-corn-culture",
+        "caption": "玉米糊和灰水处理教学现场。摄影：Abigail Ventura。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Abigail Ventura。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "卡尼恩凯哈卡玉米文化：扬净、灰水处理与语言传承，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "白玉米可鲜食，也会晾干保存；处理和烹食同时联系语言与口述故事。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "扬净、灰水处理和编篮不是无关道具，分别服务去杂、处理籽粒与清洗。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "籽粒处理",
+          "feature": "两容器间倾倒借风扬去杂物，再以灰水处理干玉米并清洗。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "食物分型",
+          "feature": "三姊妹汤结合玉米、豆与南瓜；玉米糊则用玉米粉，现代可加水果和枫糖。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "农业、处理技术和祖传语言在共同劳动中延续；器篮结构与特定清洗需要相配。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "记录的是2025年语言复兴组织的公开演示，不概括全部易洛魁民族。",
+        "配图的塑料桶和现代炉台为演示用品，不能倒推古代常用材质。"
+      ],
+      "drawing": "画双手倾倒、多人观摩和器篮使用，把加工步骤与所需容器配对。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Raising Crops and Reclaiming Language: Corn in Kanien’kehá:ka Culture | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/kanienkehaka-corn-culture",
+          "locator": "Raising Crops and Reclaiming Language：winnowing、洗玉米篮、三姊妹汤和玉米糊。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c22",
+    "module": "people",
+    "category": "interaction",
+    "name": "非裔古巴音乐：宗教鼓乐与世俗舞台的区别",
+    "region": "古巴／美国侨居社区",
+    "period": "1937—2016年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2016/filosofia-caribena-transmitting-afro-cuban-sacred-traditions-through-song",
+    "content": "非裔古巴音乐：宗教鼓乐与世俗舞台的区别，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画乐队成员和歌者的配合时，先确定是舞台还是仪式，再配置服装与鼓具。",
+    "caution": "本题梳理来源明说的神圣／世俗区别，不给未公开仪式补造动作。",
+    "find": "非裔古巴音乐：宗教鼓乐与世俗舞台的区别 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "古巴／美国侨居社区",
+      "era": "1937—2016年记录；传统起源未定",
+      "start": 1937,
+      "end": 2016,
+      "dateLabel": "1937—2016年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本题梳理来源明说的神圣／世俗区别，不给未公开仪式补造动作。",
+        "图片为2016年公共舞台，并非私密宗教典礼。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2016/filosofia-caribena-transmitting-afro-cuban-sacred-traditions-through-song",
+          "locator": "Filosofía Caribeña：1937年公开合作、Santos访谈、商业鼓图注。",
+          "text": "1937—2016年记录；传统起源未定；非裔古巴音乐：宗教鼓乐与世俗舞台的区别，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2016/filosofia-caribena-transmitting-afro-cuban-sacred-traditions-through-song"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c22-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c22-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2016/08/sff2016_jw_7-09_0094.jpg?itok=FaHiODEe",
+        "source": "https://festival.si.edu/blog/2016/filosofia-caribena-transmitting-afro-cuban-sacred-traditions-through-song",
+        "caption": "2016年John Santos Sextet公共演出；商业制造batá鼓不用于神圣仪式。摄影：Josh Weilepp。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Josh Weilepp。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 332,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "非裔古巴音乐：宗教鼓乐与世俗舞台的区别，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "batá等节奏与Yoruba Lucumí宗教传承相连，后来也进入公开演出和爵士改编。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "仪式知识、鼓的身份与使用场合有关，不能凭外形相似就认为都是宗教用品。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "神圣语境",
+          "feature": "仪式中的节奏、祈祷和歌曲有特定传承与实践者关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "世俗改编",
+          "feature": "1937年公开合作及后来爵士演出扩大听众；图中商业鼓专用于大众表演。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "交流与音乐创作推动公开传播，同时也产生谁能分享神圣传统的讨论。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本题梳理来源明说的神圣／世俗区别，不给未公开仪式补造动作。",
+        "图片为2016年公共舞台，并非私密宗教典礼。"
+      ],
+      "drawing": "画乐队成员和歌者的配合时，先确定是舞台还是仪式，再配置服装与鼓具。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Filosofía Caribeña: Transmitting Afro-Cuban Sacred Traditions through Song | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2016/filosofia-caribena-transmitting-afro-cuban-sacred-traditions-through-song",
+          "locator": "Filosofía Caribeña：1937年公开合作、Santos访谈、商业鼓图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c23",
+    "module": "people",
+    "category": "interaction",
+    "name": "夏威夷传统呼拉：吟唱、舞校与森林材料",
+    "region": "美国／夏威夷",
+    "period": "1989—2024年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/halau-o-kekuhi-hula-culture",
+    "content": "夏威夷传统呼拉：吟唱、舞校与森林材料，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画吟唱者、坐姿鼓手与舞者的配合，把叶环和动作放回具体舞校语境。",
+    "caution": "范围为该舞校的kahiko传统，不等同所有夏威夷舞蹈或当代商业演出。",
+    "find": "夏威夷传统呼拉：吟唱、舞校与森林材料 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "美国／夏威夷",
+      "era": "1989—2024年记录；传统起源未定",
+      "start": 1989,
+      "end": 2024,
+      "dateLabel": "1989—2024年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "范围为该舞校的kahiko传统，不等同所有夏威夷舞蹈或当代商业演出。",
+        "文章所述10世纪溯源不能据演出照片验证；本题不设统一起源年。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/halau-o-kekuhi-hula-culture",
+          "locator": "Hālau o Kekuhi Hula Culture：kumu、kahiko、葫芦鼓、Hilo采集材料与图注。",
+          "text": "1989—2024年记录；传统起源未定；夏威夷传统呼拉：吟唱、舞校与森林材料，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/halau-o-kekuhi-hula-culture"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c23-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c23-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2024_06-28_btd_0055.jpg?itok=krYzKLDR",
+        "source": "https://festival.si.edu/blog/halau-o-kekuhi-hula-culture",
+        "caption": "Hālau o Kekuhi在2024年文化节的群舞。摄影：Bill Douthitt。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Bill Douthitt。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c23-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c23-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/89-17852.jpg?itok=BpNJr13v",
+        "source": "https://festival.si.edu/blog/halau-o-kekuhi-hula-culture",
+        "caption": "1989年文化节坐姿葫芦鼓伴奏场景，按原页图注。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "夏威夷传统呼拉：吟唱、舞校与森林材料，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "呼拉同时联系mele吟唱、舞蹈、教师和舞校，而不只是面向游客的娱乐。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "Hālau o Kekuhi用葫芦鼓伴奏，舞者的叶环、动作和叙事联系Hilo森林与火山环境。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "叙事舞蹈",
+          "feature": "吟唱保存Pele等祖传故事，舞者以屈身、旋转和踏步配合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "教学与制作",
+          "feature": "舞校传授舞蹈及相关工艺，采集、制作叶环也需要维持森林材料来源。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "动作、语言和植物工艺共同延续祖先记忆；环境也是舞蹈材料与意象的来源。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "范围为该舞校的kahiko传统，不等同所有夏威夷舞蹈或当代商业演出。",
+        "文章所述10世纪溯源不能据演出照片验证；本题不设统一起源年。"
+      ],
+      "drawing": "画吟唱者、坐姿鼓手与舞者的配合，把叶环和动作放回具体舞校语境。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Dancing with Fire: Hālau o Kekuhi Kindles Its Culture’s Dreams | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/halau-o-kekuhi-hula-culture",
+          "locator": "Hālau o Kekuhi Hula Culture：kumu、kahiko、葫芦鼓、Hilo采集材料与图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c24",
+    "module": "people",
+    "category": "interaction",
+    "name": "密克罗尼西亚社区交流：席上编作、口述与仪式饮品",
+    "region": "密克罗尼西亚／夏威夷侨居社区",
+    "period": "2025—2026年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/celebrate-micronesia",
+    "content": "密克罗尼西亚社区交流：席上编作、口述与仪式饮品，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画席地编作、观察学习与小组讲述，先选具体岛群，避免混搭全部岛民服饰。",
+    "caution": "主题限定为该社区活动方案与实践，不能制造一种统一的密克罗尼西亚仪式。",
+    "find": "密克罗尼西亚社区交流：席上编作、口述与仪式饮品 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "密克罗尼西亚／夏威夷侨居社区",
+      "era": "2025—2026年记录；传统起源未定",
+      "start": 2025,
+      "end": 2026,
+      "dateLabel": "2025—2026年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "主题限定为该社区活动方案与实践，不能制造一种统一的密克罗尼西亚仪式。",
+        "照片拍摄于2025年活动；2026年方案所述饮品和座位不能据图全部验证。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/celebrate-micronesia",
+          "locator": "How We Celebrate Micronesia：观看学习、多岛群差异、We Hold These Truths会场。",
+          "text": "2025—2026年记录；传统起源未定；密克罗尼西亚社区交流：席上编作、口述与仪式饮品，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/celebrate-micronesia"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c24-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c24-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/celebrate-micronesia-mat-gathering.jpg?itok=YFw_9kze",
+        "source": "https://festival.si.edu/blog/celebrate-micronesia",
+        "caption": "2025年Celebrate Micronesia活动的席上花冠与手作交流。图片：Bishop Museum。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c24-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c24-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/celebrate-micronesia-basketweaver.jpg?itok=kpNKCAV1",
+        "source": "https://festival.si.edu/blog/celebrate-micronesia",
+        "caption": "查莫罗编篮匠James Bamba演示棕榈叶编作。图片：Bishop Museum。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      }
+    ],
+    "topic": {
+      "scope": "密克罗尼西亚社区交流：席上编作、口述与仪式饮品，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "社区传承强调观看、聆听与长辈关系，技艺、讲述和集体交流彼此联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "2026年社区活动聚集多个岛群；组织者明确它们具有不同语言与政治历史。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "席上技艺交流",
+          "feature": "编篮、花冠及文化物件可与交谈同时进行，参与者通过观看学习。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "共同讲述",
+          "feature": "会场用大小相连的座位群容纳交流，并引入波纳佩传统sakau饮品。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "文化节为侨居社区保持代际记忆和岛群间联系提供空间，同时表达各自经验。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "主题限定为该社区活动方案与实践，不能制造一种统一的密克罗尼西亚仪式。",
+        "照片拍摄于2025年活动；2026年方案所述饮品和座位不能据图全部验证。"
+      ],
+      "drawing": "画席地编作、观察学习与小组讲述，先选具体岛群，避免混搭全部岛民服饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "How We Celebrate Micronesia | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/celebrate-micronesia",
+          "locator": "How We Celebrate Micronesia：观看学习、多岛群差异、We Hold These Truths会场。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c26",
+    "module": "people",
+    "category": "interaction",
+    "name": "肯尼亚斯瓦希里斋月：晨餐、开斋与邻里分享",
+    "region": "肯尼亚／斯瓦希里海岸",
+    "period": "2014年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2014/fasting-for-ramadan-from-a-kenyan-cooks-perspective",
+    "content": "肯尼亚斯瓦希里斋月：晨餐、开斋与邻里分享，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画日落后的围餐、分送食盘和白日备制，结合具体地点的光线时刻。",
+    "caution": "限于受访者习惯，不把一种咖啡或点心顺序当作所有穆斯林的固定规则。",
+    "find": "肯尼亚斯瓦希里斋月：晨餐、开斋与邻里分享 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "肯尼亚／斯瓦希里海岸",
+      "era": "2014年记录；传统起源未定",
+      "start": 2014,
+      "end": 2014,
+      "dateLabel": "2014年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "限于受访者习惯，不把一种咖啡或点心顺序当作所有穆斯林的固定规则。",
+        "原文人物的健康信念不是医学依据；此题只整理生活安排与文化含义。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2014/fasting-for-ramadan-from-a-kenyan-cooks-perspective",
+          "locator": "Fasting for Ramadan：suhoor、iftar、邀请与送食；人物自述和图注。",
+          "text": "2014年记录；传统起源未定；肯尼亚斯瓦希里斋月：晨餐、开斋与邻里分享，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2014/fasting-for-ramadan-from-a-kenyan-cooks-perspective"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c26-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c26-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2014/06/sff2014_ab_6-26_0011.jpg?itok=egE3xOu8",
+        "source": "https://festival.si.edu/blog/2014/fasting-for-ramadan-from-a-kenyan-cooks-perspective",
+        "caption": "2014年文化节斯瓦希里料理演示，厨师Fatma Ali Busaidy在斋月中备餐。摄影：Akea Brown。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Akea Brown。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 366,
+        "kind": "exhibition"
+      }
+    ],
+    "topic": {
+      "scope": "肯尼亚斯瓦希里斋月：晨餐、开斋与邻里分享，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "斋月饮食安排依日出前与日落后组织；家庭准备超出自用的份量与他人分享。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "本文记录Lamu厨师及2014年文化节参与者，迁居地的日照长度影响作息。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "晨餐",
+          "feature": "suhoor在黎明前吃，食物选择因个人而变；白天仍可能劳动和备餐。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "开斋与馈赠",
+          "feature": "日落后先饮食与祈祷，再围坐大餐；亲邻及无家人陪伴者可被邀请。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "厨师把实践解释为学习同情与共同生活；食物分送把宗教月份转成邻里关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "限于受访者习惯，不把一种咖啡或点心顺序当作所有穆斯林的固定规则。",
+        "原文人物的健康信念不是医学依据；此题只整理生活安排与文化含义。"
+      ],
+      "drawing": "画日落后的围餐、分送食盘和白日备制，结合具体地点的光线时刻。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Fasting for Ramadan from a Kenyan Cook's Perspective | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2014/fasting-for-ramadan-from-a-kenyan-cooks-perspective",
+          "locator": "Fasting for Ramadan：suhoor、iftar、邀请与送食；人物自述和图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c28",
+    "module": "people",
+    "category": "interaction",
+    "name": "贝宁音乐与社区：祖灵表演、赞歌和牧民传统",
+    "region": "贝宁",
+    "period": "1972—2019年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/sonic-landscape-of-benin-music-smithsonian-folkways",
+    "content": "贝宁音乐与社区：祖灵表演、赞歌和牧民传统，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画特定乐队与场合，区分祖灵表演、宫廷乐人和日常歌唱，不将器乐任意混组。",
+    "caution": "来源是1970—1980年代录音的2019年导读，不能当作全国各社区现状的统计。",
+    "find": "贝宁音乐与社区：祖灵表演、赞歌和牧民传统 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "贝宁",
+      "era": "1972—2019年记录；传统起源未定",
+      "start": 1972,
+      "end": 2019,
+      "dateLabel": "1972—2019年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "来源是1970—1980年代录音的2019年导读，不能当作全国各社区现状的统计。",
+        "部分旧录音用旧称或缺演奏者姓名；按文章说明保留这一局限。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/sonic-landscape-of-benin-music-smithsonian-folkways",
+          "locator": "The Sonic Landscape of Benin：Yoruba、Fulani、Bariba/Somba段与录音年代说明。",
+          "text": "1972—2019年记录；传统起源未定；贝宁音乐与社区：祖灵表演、赞歌和牧民传统，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/sonic-landscape-of-benin-music-smithsonian-folkways"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c28-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c28-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/egungun-cotonou.jpg?itok=i-TgTXNc",
+        "source": "https://festival.si.edu/blog/sonic-landscape-of-benin-music-smithsonian-folkways",
+        "caption": "贝宁科托努Egungun当代表演场景，拍摄年未注明。摄影：Rebecca Fenton。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Rebecca Fenton。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-c28-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c28-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/dundun-drum.jpg?itok=EyBQltO-",
+        "source": "https://festival.si.edu/blog/sonic-landscape-of-benin-music-smithsonian-folkways",
+        "caption": "dundun鼓馆藏原图，仅作器具外形参考。图片：史密森尼自然历史博物馆人类学部。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 300,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "贝宁音乐与社区：祖灵表演、赞歌和牧民传统，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "不同社区音乐用于宗教、口述传承、劳动和社交，不存在单一的贝宁统一风格。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "文献还区分专业传承者与开放参与，演奏资格和听众随场合变化。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "约鲁巴传统",
+          "feature": "dundun可模拟声调语音；batá与某些orisha及Egungun祖灵庆典相关。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "北部传统",
+          "feature": "富拉尼音乐联系牧民生活与赞歌；Baatɔmbu宫廷赞歌则体现贵族与专门乐人的关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "节奏、歌词与演奏关系表达地方身份；便携器乐与移动生活相配，宫廷音乐体现社会职责。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "来源是1970—1980年代录音的2019年导读，不能当作全国各社区现状的统计。",
+        "部分旧录音用旧称或缺演奏者姓名；按文章说明保留这一局限。"
+      ],
+      "drawing": "画特定乐队与场合，区分祖灵表演、宫廷乐人和日常歌唱，不将器乐任意混组。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Sonic Landscape of Benin: Music from Smithsonian Folkways | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/sonic-landscape-of-benin-music-smithsonian-folkways",
+          "locator": "The Sonic Landscape of Benin：Yoruba、Fulani、Bariba/Somba段与录音年代说明。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-c30",
+    "module": "people",
+    "category": "interaction",
+    "name": "巴斯克冬季铃队：行进、领队信号与角色装束",
+    "region": "西班牙／巴斯克地区",
+    "period": "2016年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2016/the-joaldunak-from-head-to-toe",
+    "content": "巴斯克冬季铃队：行进、领队信号与角色装束，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画队列同步、熊与牧人的距离及重铃绑缚，避免把附带装饰当功能零件。",
+    "caution": "作者明确传统开始时间仍不清楚，不能标成可靠的史前年代。",
+    "find": "巴斯克冬季铃队：行进、领队信号与角色装束 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙／巴斯克地区",
+      "era": "2016年记录；传统起源未定",
+      "start": 2016,
+      "end": 2016,
+      "dateLabel": "2016年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "作者明确传统开始时间仍不清楚，不能标成可靠的史前年代。",
+        "图片为2016年美国表演；原文附画稿未收作本题配图。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2016/the-joaldunak-from-head-to-toe",
+          "locator": "The Joaldunak from Head to Toe：队伍角色、铃、牛角、服装与起源未定。",
+          "text": "2016年记录；传统起源未定；巴斯克冬季铃队：行进、领队信号与角色装束，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2016/the-joaldunak-from-head-to-toe"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-c30-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-c30-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2016/07/sff2016_larrimore_7-04_0123-1.jpg?itok=FQf5nUDZ",
+        "source": "https://festival.si.edu/blog/2016/the-joaldunak-from-head-to-toe",
+        "caption": "2016年文化节Joaldunak的熊角色与铃队行进。摄影：Walter Larrimore。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Walter Larrimore。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 304,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "巴斯克冬季铃队：行进、领队信号与角色装束，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Joaldunak在一月底结队行走，用背上的大铃产生整齐节奏，迎接狂欢节。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "队伍含铃队、牧人和熊角色；吹牛角与拂尘等动作协助带动行进。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "铃队",
+          "feature": "羊毛衣保暖，大背铃响动；肩上小铃可只是装饰，不能全部当发声部位。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "熊与牧人",
+          "feature": "熊角色在队伍中快速移动、靠近观众，牧人控制其往返关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "冬季服装和重铃适应本地行进；祖辈传授延续传统，现代女性也参与。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "作者明确传统开始时间仍不清楚，不能标成可靠的史前年代。",
+        "图片为2016年美国表演；原文附画稿未收作本题配图。"
+      ],
+      "drawing": "画队列同步、熊与牧人的距离及重铃绑缚，避免把附带装饰当功能零件。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Joaldunak from Head to Toe | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2016/the-joaldunak-from-head-to-toe",
+          "locator": "The Joaldunak from Head to Toe：队伍角色、铃、牛角、服装与起源未定。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-castells",
+    "module": "people",
+    "category": "interaction",
+    "name": "加泰罗尼亚人塔：底座支撑、层数与音乐信号",
+    "region": "西班牙／加泰罗尼亚",
+    "period": "2018年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/i-think-i-am-addicted-the-human-tower-experience",
+    "content": "加泰罗尼亚人塔：底座支撑、层数与音乐信号，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画手臂接触点、底座密度与逐层遮挡；用同一塔型作比例参考。",
+    "caution": "依据2018年两支Valls团队的展示，不以这些塔型代表完整人塔谱系。",
+    "find": "加泰罗尼亚人塔：底座支撑、层数与音乐信号 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙／加泰罗尼亚",
+      "era": "2018年记录；传统起源未定",
+      "start": 2018,
+      "end": 2018,
+      "dateLabel": "2018年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "依据2018年两支Valls团队的展示，不以这些塔型代表完整人塔谱系。",
+        "原图为公开文化节，不可据游客和建筑背景推定传统节庆环境。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/i-think-i-am-addicted-the-human-tower-experience",
+          "locator": "The Human Tower Experience：quatre de set amb agulla、cinc de set、pinya与pilar。",
+          "text": "2018年记录；传统起源未定；加泰罗尼亚人塔：底座支撑、层数与音乐信号，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/i-think-i-am-addicted-the-human-tower-experience"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-castells-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-castells-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/sff2018_07-06_sp_1438.jpg?itok=0alSTdjy",
+        "source": "https://festival.si.edu/blog/i-think-i-am-addicted-the-human-tower-experience",
+        "caption": "Colla Vella的四人一层七层塔，2018年文化节。摄影：Sonya Pencheva。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Sonya Pencheva。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 250,
+        "height": 375,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-castells-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-castells-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/colla-joves-tower.jpg?itok=gAmdVIJH",
+        "source": "https://festival.si.edu/blog/i-think-i-am-addicted-the-human-tower-experience",
+        "caption": "Colla Joves的五人一层七层塔，2018年文化节。摄影：Caroline Diemer。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Caroline Diemer。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 250,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "加泰罗尼亚人塔：底座支撑、层数与音乐信号，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "人塔由大量底座支撑者、逐层攀登者和顶端儿童配合完成，承重关系比单人造型更关键。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "gralla与鼓声提示搭建进展，顶端儿童示意后观众才欢呼。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "多人每层",
+          "feature": "本文两队分别展示四人、五人一层的七层塔，形体宽度和攀登路线不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "单列pilar",
+          "feature": "一人一层的柱塔较窄，周围多双手稳定底部与上层参与者。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "合作、压力分担与音乐提示维系塔体；队服和腰带也体现团队归属与身体支撑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "依据2018年两支Valls团队的展示，不以这些塔型代表完整人塔谱系。",
+        "原图为公开文化节，不可据游客和建筑背景推定传统节庆环境。"
+      ],
+      "drawing": "画手臂接触点、底座密度与逐层遮挡；用同一塔型作比例参考。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "“I Think I Am Addicted”: The Human Tower Experience | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/i-think-i-am-addicted-the-human-tower-experience",
+          "locator": "The Human Tower Experience：quatre de set amb agulla、cinc de set、pinya与pilar。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-supra",
+    "module": "people",
+    "category": "interaction",
+    "name": "格鲁吉亚宴席：祝酒主持、庆祝与慰问",
+    "region": "格鲁吉亚",
+    "period": "当代记录的延续传统；起源年代未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://georgia.travel/georgian-traditions-and-rituals/georgian-supra",
+    "content": "格鲁吉亚宴席：祝酒主持、庆祝与慰问，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画主持人与席间回应者、菜盘覆盖及多人共享，按喜庆或悼念确定情绪。",
+    "caution": "来源为当代国家旅游管理局说明，未给出可统一排序的历史起源。",
+    "find": "格鲁吉亚宴席：祝酒主持、庆祝与慰问 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "格鲁吉亚",
+      "era": "当代记录的延续传统；起源年代未定",
+      "start": null,
+      "end": null,
+      "dateLabel": "当代记录的延续传统；起源年代未定",
+      "dateBasis": "文献提供传统的当代或实物记录；没有可靠的统一起止年，保持年代未定。",
+      "notes": [
+        "来源为当代国家旅游管理局说明，未给出可统一排序的历史起源。",
+        "配图是食物示例，不显示所有祝酒动作，也不代表每家菜单。"
+      ],
+      "evidence": [
+        {
+          "url": "https://georgia.travel/georgian-traditions-and-rituals/georgian-supra",
+          "locator": "Georgian Supra：Art and Ritual、tamada、地区／场合差异与alaverdi。",
+          "text": "当代记录的延续传统；起源年代未定；格鲁吉亚宴席：祝酒主持、庆祝与慰问，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://georgia.travel/georgian-traditions-and-rituals/georgian-supra"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-supra-13.webp",
+        "full": "绘画参考资源/例图/world200-culture-supra-13.webp",
+        "original": "https://storage.georgia.travel/images/supra-in-georgia.webp",
+        "source": "https://georgia.travel/georgian-traditions-and-rituals/georgian-supra",
+        "caption": "当代格鲁吉亚宴食示例；未注明拍摄年与对应摄影者。图片：格鲁吉亚国家旅游管理局。",
+        "provider": "格鲁吉亚国家旅游管理局",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 1920,
+        "height": 1080,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "格鲁吉亚宴席：祝酒主持、庆祝与慰问，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "supra围绕共享饭食与酒展开，菜序和祝酒次序依地区及举办原因变化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "受尊重且善表达的tamada主持祝酒，让故事、诗歌与歌唱纳入宴席。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "欢庆宴席",
+          "feature": "餐食与祝酒表达喜悦及尊重，桌上可能同时呈现多种菜肴。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "慰问与纪念",
+          "feature": "同样围坐共享，但语气与菜单随场合调整；宾客可被邀请延展前一祝酒。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "主持者组织有次序的共同表达，让就餐成为建立与维系人际关系的仪式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "来源为当代国家旅游管理局说明，未给出可统一排序的历史起源。",
+        "配图是食物示例，不显示所有祝酒动作，也不代表每家菜单。"
+      ],
+      "drawing": "画主持人与席间回应者、菜盘覆盖及多人共享，按喜庆或悼念确定情绪。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Georgian Supra | Georgia Travel",
+          "url": "https://georgia.travel/georgian-traditions-and-rituals/georgian-supra",
+          "locator": "Georgian Supra：Art and Ritual、tamada、地区／场合差异与alaverdi。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-matariki",
+    "module": "people",
+    "category": "interaction",
+    "name": "毛利新年实践：追念、冬宴与向星辰献食",
+    "region": "新西兰／毛利社区",
+    "period": "2022年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/matariki-maori-new-year",
+    "content": "毛利新年实践：追念、冬宴与向星辰献食，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画黎明献食蒸汽和冬季共餐，按具体社区另核主持者、餐食与服饰。",
+    "caution": "当代博物馆建议不是每个iwi的固定仪式；源文强调做法可不同。",
+    "find": "毛利新年实践：追念、冬宴与向星辰献食 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰／毛利社区",
+      "era": "2022年记录；传统起源未定",
+      "start": 2022,
+      "end": 2022,
+      "dateLabel": "2022年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "当代博物馆建议不是每个iwi的固定仪式；源文强调做法可不同。",
+        "2022年图片记录首个全国公共假期的活动，不是习俗起源年。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/matariki-maori-new-year",
+          "locator": "Matariki主页的2022年献食图及分类；具体方式另见补充文章。",
+          "text": "2022年记录；传统起源未定；毛利新年实践：追念、冬宴与向星辰献食，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/matariki-maori-new-year"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-matariki-11.jpg",
+        "full": "绘画参考资源/例图/world200-culture-matariki-11.jpg",
+        "original": "https://www.tepapa.govt.nz/assets/76067/1695769250-rangi-jacinda-800x533_0.jpg?ar=1.3333333333&fit=crop&auto=format",
+        "source": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/matariki-maori-new-year",
+        "caption": "2022年Matariki hautapu献食场景，原页明确年份；当代照片。",
+        "provider": "新西兰国立博物馆 Te Papa",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 711,
+        "height": 533,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "毛利新年实践：追念、冬宴与向星辰献食，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Matariki联系回顾过去、共享当季储粮和展望来年，家族及社区可用多种方式参与。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "博物馆说明区分追念逝者、冬宴、观星与向星辰致谢，不能缩成一个舞台表演。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "追念与献食",
+          "feature": "呼出逝者名字，hautapu献食以蒸汽表达与星辰和环境的联系。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "共享与娱乐",
+          "feature": "亲友围食、音乐、游戏和故事同样属于活动；具体家庭安排并不一致。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "冬季储存食物的共享及祖先追念，使季节观察与家庭、土地关系结合。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "当代博物馆建议不是每个iwi的固定仪式；源文强调做法可不同。",
+        "2022年图片记录首个全国公共假期的活动，不是习俗起源年。"
+      ],
+      "drawing": "画黎明献食蒸汽和冬季共餐，按具体社区另核主持者、餐食与服饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Matariki – the Māori New Year | Te Papa",
+          "url": "https://www.tepapa.govt.nz/discover-collections/read-watch-play/matariki-maori-new-year",
+          "locator": "Matariki主页的2022年献食图及分类；具体方式另见补充文章。"
+        },
+        {
+          "id": "s2",
+          "title": "毛利新年实践：追念、冬宴与向星辰献食 · 补充依据",
+          "url": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/matariki-maori-new-year/how-celebrate-matariki/how-celebrate",
+          "locator": "How to celebrate Matariki at home：Remember、Feast、Whāngai i te hautapu、Entertainment。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-rotuma",
+    "module": "people",
+    "category": "interaction",
+    "name": "罗图马卡瓦典礼：分工斟饮、吟诵与席位层次",
+    "region": "斐济／罗图马",
+    "period": "1890—2020年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://blog.tepapa.govt.nz/2020/05/11/rotumas-kava-ceremony/",
+    "content": "罗图马卡瓦典礼：分工斟饮、吟诵与席位层次，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画席上高低、分工奉杯与手势，保持罗图马具体礼制和材料层级。",
+    "caution": "历史照片是1890—1910年婚礼相关场景，不可把照片中每个动作都解释成文中所述流程。",
+    "find": "罗图马卡瓦典礼：分工斟饮、吟诵与席位层次 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "斐济／罗图马",
+      "era": "1890—2020年记录；传统起源未定",
+      "start": 1890,
+      "end": 2020,
+      "dateLabel": "1890—2020年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "历史照片是1890—1910年婚礼相关场景，不可把照片中每个动作都解释成文中所述流程。",
+        "当代做法有所改变，例如部分头饰不再佩用；仪式不可泛化到整个太平洋。"
+      ],
+      "evidence": [
+        {
+          "url": "https://blog.tepapa.govt.nz/2020/05/11/rotumas-kava-ceremony/",
+          "locator": "Rotuma’s kava ceremony：fakpeje、päega席层、三位女性职责与历史照片图注。",
+          "text": "1890—2020年记录；传统起源未定；罗图马卡瓦典礼：分工斟饮、吟诵与席位层次，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://blog.tepapa.govt.nz/2020/05/11/rotumas-kava-ceremony/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-rotuma-4.jpg",
+        "full": "绘画参考资源/例图/world200-culture-rotuma-4.jpg",
+        "original": "https://i0.wp.com/blog.tepapa.govt.nz/wp-content/uploads/2020/04/MA_I025091_TePapa_Rotuman-Marriage.jpg?resize=465%2C339&ssl=1",
+        "source": "https://blog.tepapa.govt.nz/2020/05/11/rotumas-kava-ceremony/",
+        "caption": "Rotuman Marriage，1890—1910年历史照片。摄影：Thomas Andrew；Te Papa O.001003。",
+        "provider": "新西兰国立博物馆 Te Papa",
+        "credit": "Thomas Andrew；Te Papa O.001003。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 465,
+        "height": 339,
+        "kind": "historical"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-rotuma-5.jpg",
+        "full": "绘画参考资源/例图/world200-culture-rotuma-5.jpg",
+        "original": "https://i0.wp.com/blog.tepapa.govt.nz/wp-content/uploads/2020/05/Hatamara-Shaw-with-Apei-rotated-1.jpeg?resize=375%2C500&ssl=1",
+        "source": "https://blog.tepapa.govt.nz/2020/05/11/rotumas-kava-ceremony/",
+        "caption": "2020年Hatamara Shaw与apei席、monuma上衣。摄影：Ravai Titifanue。",
+        "provider": "新西兰国立博物馆 Te Papa",
+        "credit": "Ravai Titifanue。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 375,
+        "height": 500,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "罗图马卡瓦典礼：分工斟饮、吟诵与席位层次，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "卡瓦典礼包括吟诵fakpeje及其起止呼声，叙事联系迁航与祖先。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "来源说明三位年轻女性分别混调过滤、加水装杯、奉杯，形成明确协作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "制备与奉饮",
+          "feature": "三位参与者围绕卡瓦碗分担连续任务，与受饮者的礼仪关系相配。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "礼席与身份",
+          "feature": "高起的päega荣誉席可用多类垫席层叠，apei位于上层，组合由主家决定。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "饮品、诗叙和席位一起表达社区及酋长关系；共享历史也在侨居群体中延续。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "历史照片是1890—1910年婚礼相关场景，不可把照片中每个动作都解释成文中所述流程。",
+        "当代做法有所改变，例如部分头饰不再佩用；仪式不可泛化到整个太平洋。"
+      ],
+      "drawing": "画席上高低、分工奉杯与手势，保持罗图马具体礼制和材料层级。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Rotuma’s kava ceremony | Te Papa’s Blog",
+          "url": "https://blog.tepapa.govt.nz/2020/05/11/rotumas-kava-ceremony/",
+          "locator": "Rotuma’s kava ceremony：fakpeje、päega席层、三位女性职责与历史照片图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-powhiri",
+    "module": "people",
+    "category": "interaction",
+    "name": "毛利集会空间的礼仪职能：迎宾、归还与共同记忆",
+    "region": "新西兰／毛利社区",
+    "period": "2016—2022年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/what-happens-on-marae-te-papa",
+    "content": "毛利集会空间的礼仪职能：迎宾、归还与共同记忆，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画入口行列、发言人与坐听者，区分迎宾、纪念或公开课堂。",
+    "caution": "本文明确是Te Papa当代marae案例，不将它当作所有地方集会屋的普遍布局。",
+    "find": "毛利集会空间的礼仪职能：迎宾、归还与共同记忆 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰／毛利社区",
+      "era": "2016—2022年记录；传统起源未定",
+      "start": 2016,
+      "end": 2022,
+      "dateLabel": "2016—2022年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本文明确是Te Papa当代marae案例，不将它当作所有地方集会屋的普遍布局。",
+        "照片中2016年归还仪式的假人上披的是复制品，真披风平放，不能混淆。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/what-happens-on-marae-te-papa",
+          "locator": "What happens on the marae at Te Papa：功能列表、2022年迎宾与2016年归还图注。",
+          "text": "2016—2022年记录；传统起源未定；毛利集会空间的礼仪职能：迎宾、归还与共同记忆，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/what-happens-on-marae-te-papa"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-powhiri-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-powhiri-8.jpg",
+        "original": "https://www.tepapa.govt.nz/assets/76067/1695768272-iwi_delegation_arrive_on_to_rongomaraeroa_carrying_the_tupuna_and_karapuna_through_and_the_waha_roa_and_ranginui_doors_at_te_papas_repatriation_powhiri_1.jpg",
+        "source": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/what-happens-on-marae-te-papa",
+        "caption": "2022年奥地利归还后的迎宾进场，代表团穿过入口。图片：Te Papa。",
+        "provider": "新西兰国立博物馆 Te Papa",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 800,
+        "height": 534,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-powhiri-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-powhiri-9.jpg",
+        "original": "https://www.tepapa.govt.nz/assets/76067/1693368214-hawaiian-cloak-powhiri-83-800x533.jpg",
+        "source": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/what-happens-on-marae-te-papa",
+        "caption": "2016年夏威夷披风归还仪式；假人披复制品，真物平放。图片：Te Papa。",
+        "provider": "新西兰国立博物馆 Te Papa",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 800,
+        "height": 533,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "毛利集会空间的礼仪职能：迎宾、归还与共同记忆，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "marae承担会面、讨论、欢迎、纪念和学习，博物馆中的Rongomaraeroa仍是实际运作的礼仪空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "开放参观与举行正式礼仪时的空间使用有区别，入口与进场关系随活动被启用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "迎宾与归还",
+          "feature": "pōwhiri欢迎来访者，也用于祖先或taonga返回家园的会面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "纪念与公众活动",
+          "feature": "新年、藏品赠送、辩论、学校学习和表演是不同用途，不能互换布景。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "空间通过共同责任与亲族联系组织欢迎和记忆；建筑职能需要从真实活动理解。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文明确是Te Papa当代marae案例，不将它当作所有地方集会屋的普遍布局。",
+        "照片中2016年归还仪式的假人上披的是复制品，真披风平放，不能混淆。"
+      ],
+      "drawing": "画入口行列、发言人与坐听者，区分迎宾、纪念或公开课堂。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "What happens on the marae at Te Papa | Te Papa",
+          "url": "https://www.tepapa.govt.nz/about/our-buildings/rongomaraeroa-our-marae/what-happens-on-marae-te-papa",
+          "locator": "What happens on the marae at Te Papa：功能列表、2022年迎宾与2016年归还图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-samoa",
+    "module": "people",
+    "category": "interaction",
+    "name": "萨摩亚交换礼：细席、婚葬馈赠与正式道歉",
+    "region": "萨摩亚",
+    "period": "2007—2020年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.tepapa.govt.nz/about/press-and-media/press-releases/2020-media-releases/te-papa-acquires-le-lau-taamu-tafea-sacred",
+    "content": "萨摩亚交换礼：细席、婚葬馈赠与正式道歉，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画呈递、展开与接收时突出双方关系；不要把细席放成随意踩踏的地毯。",
+    "caution": "使用场合依据馆方细席专题；2020年特定赠藏事件只作延续传统例证。",
+    "find": "萨摩亚交换礼：细席、婚葬馈赠与正式道歉 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "萨摩亚",
+      "era": "2007—2020年记录；传统起源未定",
+      "start": 2007,
+      "end": 2020,
+      "dateLabel": "2007—2020年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "使用场合依据馆方细席专题；2020年特定赠藏事件只作延续传统例证。",
+        "配图为Le Lau Ta’amu Tafea的局部，不能据一张照片重建完整交换队列。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.tepapa.govt.nz/about/press-and-media/press-releases/2020-media-releases/te-papa-acquires-le-lau-taamu-tafea-sacred",
+          "locator": "2020年赠藏说明：最高等级交换物与家族、国家间流转；普遍用途见补充专题。",
+          "text": "2007—2020年记录；传统起源未定；萨摩亚交换礼：细席、婚葬馈赠与正式道歉，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://www.tepapa.govt.nz/about/press-and-media/press-releases/2020-media-releases/te-papa-acquires-le-lau-taamu-tafea-sacred"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-samoa-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-samoa-7.jpg",
+        "original": "https://www.tepapa.govt.nz/assets/76067/1693363141-le-lau-taamu-tafea-ie-toga-800.jpg?auto=format&fit=fill",
+        "source": "https://www.tepapa.govt.nz/about/press-and-media/press-releases/2020-media-releases/te-papa-acquires-le-lau-taamu-tafea-sacred",
+        "caption": "Le Lau Ta’amu Tafea细席羽饰局部，2020年馆方资料配图。图片：Te Papa。",
+        "provider": "新西兰国立博物馆 Te Papa",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 800,
+        "height": 533,
+        "kind": "museum"
+      }
+    ],
+    "topic": {
+      "scope": "萨摩亚交换礼：细席、婚葬馈赠与正式道歉，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "‘ie tōga细席承载家族财富与历史，属于礼仪交换物，不当普通铺地席使用。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "赠席、回礼与再分配维持扩大家庭关系，席的经历会影响其礼仪价值。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "婚葬与庆典",
+          "feature": "婚礼由双方家族交换赠物；葬礼、建筑祝福等也会赠席与食物。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "正式道歉",
+          "feature": "ifoga以珍贵细席表达补偿和关系修复，不能等同一般商品交易。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "长期制作与流转历史让席成为关系的见证，礼仪强调互相承认而非仅计算市场价格。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "使用场合依据馆方细席专题；2020年特定赠藏事件只作延续传统例证。",
+        "配图为Le Lau Ta’amu Tafea的局部，不能据一张照片重建完整交换队列。"
+      ],
+      "drawing": "画呈递、展开与接收时突出双方关系；不要把细席放成随意踩踏的地毯。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Te Papa acquires Le Lau Ta’amu Tafea, a sacred ‘ie tōga (finemat) from Sāmoa | Te Papa",
+          "url": "https://www.tepapa.govt.nz/about/press-and-media/press-releases/2020-media-releases/te-papa-acquires-le-lau-taamu-tafea-sacred",
+          "locator": "2020年赠藏说明：最高等级交换物与家族、国家间流转；普遍用途见补充专题。"
+        },
+        {
+          "id": "s2",
+          "title": "萨摩亚交换礼：细席、婚葬馈赠与正式道歉 · 补充依据",
+          "url": "https://collections.tepapa.govt.nz/topic/1099",
+          "locator": "馆方‘ie tōga专题：婚礼、葬礼、建筑祝福、ifoga、再分配与不铺地规则。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-welsh",
+    "module": "people",
+    "category": "interaction",
+    "name": "威尔士恋人节：祝卡、聚会与地方歌曲",
+    "region": "英国／威尔士",
+    "period": "2009—2013年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2013/dydd-santes-dwynwen-an-icy-day-for-lovers",
+    "content": "威尔士恋人节：祝卡、聚会与地方歌曲，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画贺卡交换或地方歌唱时核对具体年代；歌曲场景可参考乐人互动。",
+    "caution": "圣人生活的5世纪叙述属于传说，不作为这个节日已完整形成的年代。",
+    "find": "威尔士恋人节：祝卡、聚会与地方歌曲 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国／威尔士",
+      "era": "2009—2013年记录；传统起源未定",
+      "start": 2009,
+      "end": 2013,
+      "dateLabel": "2009—2013年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "圣人生活的5世纪叙述属于传说，不作为这个节日已完整形成的年代。",
+        "图为2009年文化节歌唱录像画面，非1月25日实际节日现场。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2013/dydd-santes-dwynwen-an-icy-day-for-lovers",
+          "locator": "Dydd Santes Dwynwen：多个传说版本、当代贺卡／聚会及2009年录像。",
+          "text": "2009—2013年记录；传统起源未定；威尔士恋人节：祝卡、聚会与地方歌曲，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2013/dydd-santes-dwynwen-an-icy-day-for-lovers"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-welsh-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-welsh-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/orchard/festival/media/default/blog/cfv10201.jpg",
+        "source": "https://festival.si.edu/blog/2013/dydd-santes-dwynwen-an-icy-day-for-lovers",
+        "caption": "2009年文化节威尔士爱情歌曲演出录像封面，非节日当天纪实。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 1200,
+        "height": 672,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "威尔士恋人节：祝卡、聚会与地方歌曲，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Dydd Santes Dwynwen在1月25日庆祝，使用地方圣人传说与威尔士语言表达恋人祝愿。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "当代活动可包含音乐会、聚会和贺卡，地方节日在近年复兴，但并非人人都胜过情人节庆祝。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "礼物与聚会",
+          "feature": "祝卡与共同活动表达亲密关系，并不必然附固定礼服或仪式器具。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "音乐与传说",
+          "feature": "爱情歌曲用于地方认同；Dwynwen传说有多个版本，不是可验证人物动作史。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "共享语言、歌曲与故事让恋人节成为地域身份的表达。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "圣人生活的5世纪叙述属于传说，不作为这个节日已完整形成的年代。",
+        "图为2009年文化节歌唱录像画面，非1月25日实际节日现场。"
+      ],
+      "drawing": "画贺卡交换或地方歌唱时核对具体年代；歌曲场景可参考乐人互动。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Dydd Santes Dwynwen: An Icy Day for Lovers | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2013/dydd-santes-dwynwen-an-icy-day-for-lovers",
+          "locator": "Dydd Santes Dwynwen：多个传说版本、当代贺卡／聚会及2009年录像。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-obon",
+    "module": "people",
+    "category": "interaction",
+    "name": "日裔与墨西哥裔社区圆舞：FandangObon的共同参与",
+    "region": "美国／日裔与墨西哥裔社区",
+    "period": "2016年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2016/a-thousand-things-connected-fandangobon-at-the-festival",
+    "content": "日裔与墨西哥裔社区圆舞：FandangObon的共同参与，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画外围观看者、圆舞人与伴奏之间的距离，明确采用当代融合项目语境。",
+    "caution": "这是当代跨社区项目，不能倒推为日本或墨西哥历史仪式的标准形式。",
+    "find": "日裔与墨西哥裔社区圆舞：FandangObon的共同参与 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国／日裔与墨西哥裔社区",
+      "era": "2016年记录；传统起源未定",
+      "start": 2016,
+      "end": 2016,
+      "dateLabel": "2016年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "这是当代跨社区项目，不能倒推为日本或墨西哥历史仪式的标准形式。",
+        "图为2016年文化节录像画面；人物衣装按当代参与者理解。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2016/a-thousand-things-connected-fandangobon-at-the-festival",
+          "locator": "A Thousand Things Connected：项目创建者、两类音乐／舞蹈与观众参与。",
+          "text": "2016年记录；传统起源未定；日裔与墨西哥裔社区圆舞：FandangObon的共同参与，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2016/a-thousand-things-connected-fandangobon-at-the-festival"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-obon-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-obon-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/orchard/festival/media/default/blog/cfv10855.jpg",
+        "source": "https://festival.si.edu/blog/2016/a-thousand-things-connected-fandangobon-at-the-festival",
+        "caption": "2016年FandangObon共同舞蹈演示的录像封面。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 1271,
+        "height": 714,
+        "kind": "exhibition"
+      }
+    ],
+    "topic": {
+      "scope": "日裔与墨西哥裔社区圆舞：FandangObon的共同参与，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "洛杉矶FandangObon由两类社区艺术家共同创造，让舞者、乐人与观众参与。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "它连接Veracruz的son jarocho和fandango与日本佛教Obon／bon odori，而不宣称是古老统一传统。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "墨西哥传统元素",
+          "feature": "jarana弦乐与zapateado踏步强调音乐和足部节奏的配合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "日本传统元素",
+          "feature": "尺八和bon odori进入合作演出，圆舞及观看都被允许。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "共同学习与参与形成社区交流平台；不同传承保持来源，也通过合作产生新形式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是当代跨社区项目，不能倒推为日本或墨西哥历史仪式的标准形式。",
+        "图为2016年文化节录像画面；人物衣装按当代参与者理解。"
+      ],
+      "drawing": "画外围观看者、圆舞人与伴奏之间的距离，明确采用当代融合项目语境。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "A Thousand Things Connected: FandangObon at the Festival | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2016/a-thousand-things-connected-fandangobon-at-the-festival",
+          "locator": "A Thousand Things Connected：项目创建者、两类音乐／舞蹈与观众参与。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-gracia",
+    "module": "people",
+    "category": "work",
+    "name": "巴塞罗那街区节：邻里装饰、公共空间与集体制作",
+    "region": "西班牙／加泰罗尼亚",
+    "period": "1817年起的地方节庆；本题配图为2017年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/the-surreal-streets-of-festa-major-de-gracia",
+    "content": "巴塞罗那街区节：邻里装饰、公共空间与集体制作，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画临时装饰如何围住真实街道、设置入口及遮挡人群，而不是把仿屋画成永久房屋。",
+    "caution": "2017年主题是当年设计，不是固定民俗符号或1817年的装饰形制。",
+    "find": "巴塞罗那街区节：邻里装饰、公共空间与集体制作 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙／加泰罗尼亚",
+      "era": "1817年起的地方节庆；本题配图为2017年",
+      "start": 1817,
+      "end": 2017,
+      "dateLabel": "1817年起的地方节庆；本题配图为2017年",
+      "dateBasis": "文章明确1817年始办；本题照片为2017年，主题装饰不可倒推。",
+      "notes": [
+        "2017年主题是当年设计，不是固定民俗符号或1817年的装饰形制。",
+        "临时仿建筑与真实居住建筑要区分，不能当原建筑实测资料。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/the-surreal-streets-of-festa-major-de-gracia",
+          "locator": "The Surreal Streets：1817年沿革、协会竞赛、材料和2017年图注。",
+          "text": "1817年起的地方节庆；本题配图为2017年；巴塞罗那街区节：邻里装饰、公共空间与集体制作，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/the-surreal-streets-of-festa-major-de-gracia"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-gracia-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-gracia-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/fiesta-de-gracia-2017-6.jpg?itok=qIpVz98a",
+        "source": "https://festival.si.edu/blog/the-surreal-streets-of-festa-major-de-gracia",
+        "caption": "2017年Gràcia街区节Flower Power主题装饰。摄影：Stephanie Echeveste。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Stephanie Echeveste。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-gracia-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-gracia-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/fiesta-de-gracia-2017-2.jpg?itok=ixh2jfAp",
+        "source": "https://festival.si.edu/blog/the-surreal-streets-of-festa-major-de-gracia",
+        "caption": "广场的纸云临时装饰，2017年。摄影：Stephanie Echeveste。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Stephanie Echeveste。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "巴塞罗那街区节：邻里装饰、公共空间与集体制作，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "街区节在8月15日起举办一周，居民协会共同装饰街巷和广场并安排文化活动。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "各街采用不同主题竞赛，回收材料由多种职业居民分工制作成临时景观。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "装饰空间",
+          "feature": "纸云、塑瓶花、纸浆动物或临时市场等主题改变街道入口与上空。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "公共活动",
+          "feature": "音乐、戏剧、人塔和跨代聚会使用装饰后的街区，布景服务共同活动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "自1817年的本地庆祝逐渐成为城市社区节，持续的共同制作体现邻里协作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "2017年主题是当年设计，不是固定民俗符号或1817年的装饰形制。",
+        "临时仿建筑与真实居住建筑要区分，不能当原建筑实测资料。"
+      ],
+      "drawing": "画临时装饰如何围住真实街道、设置入口及遮挡人群，而不是把仿屋画成永久房屋。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Surreal Streets of Festa Major de Gràcia | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/the-surreal-streets-of-festa-major-de-gracia",
+          "locator": "The Surreal Streets：1817年沿革、协会竞赛、材料和2017年图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-pickling",
+    "module": "people",
+    "category": "work",
+    "name": "亚美尼亚季节保存：蔬菜腌制、果饮与集体厨房",
+    "region": "亚美尼亚／美国侨居社区",
+    "period": "2018年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/armenian-pickling-the-preservation-of-memories",
+    "content": "亚美尼亚季节保存：蔬菜腌制、果饮与集体厨房，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画多人切配、装罐、煮液的操作台分工；历史场景另核罐具材料。",
+    "caution": "本题依据2018年文化节工作人员的实践，不是古代厨房实录或全国食谱调查。",
+    "find": "亚美尼亚季节保存：蔬菜腌制、果饮与集体厨房 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "亚美尼亚／美国侨居社区",
+      "era": "2018年记录；传统起源未定",
+      "start": 2018,
+      "end": 2018,
+      "dateLabel": "2018年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本题依据2018年文化节工作人员的实践，不是古代厨房实录或全国食谱调查。",
+        "步骤只用于文化和动作理解；不将文章简述当作食品保存安全指导。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/armenian-pickling-the-preservation-of-memories",
+          "locator": "Armenian Pickling：厨房分工、蔬菜与compote、六张图注与侨居记忆。",
+          "text": "2018年记录；传统起源未定；亚美尼亚季节保存：蔬菜腌制、果饮与集体厨房，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/armenian-pickling-the-preservation-of-memories"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-pickling-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-pickling-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/compote-19.jpg?itok=JVRgdLy6",
+        "source": "https://festival.si.edu/blog/armenian-pickling-the-preservation-of-memories",
+        "caption": "2018年工作人员准备水果compote的演示过程。摄影：Emma Cregan。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Emma Cregan。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "exhibition"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-pickling-13.jpg",
+        "full": "绘画参考资源/例图/world200-culture-pickling-13.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/compote-77.jpg?itok=T2VcNOd4",
+        "source": "https://festival.si.edu/blog/armenian-pickling-the-preservation-of-memories",
+        "caption": "共同厨房备制现场。摄影：Emma Cregan。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Emma Cregan。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "亚美尼亚季节保存：蔬菜腌制、果饮与集体厨房，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "季节食物保存将蔬菜腌制和水果加工分开，各有容器与分工。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "洗切、备液、整理罐具和装填可由多人协作，同时交流家族记忆。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "咸味保存",
+          "feature": "蔬菜组合进入腌罐；不同家庭或食谱的用料不完全相同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "甜味果饮",
+          "feature": "水果与糖水加工成compote，与蔬菜酸咸保存不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "夏季备制与冬季储粮相配，侨居群体也通过共同味道保存关系和记忆。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本题依据2018年文化节工作人员的实践，不是古代厨房实录或全国食谱调查。",
+        "步骤只用于文化和动作理解；不将文章简述当作食品保存安全指导。"
+      ],
+      "drawing": "画多人切配、装罐、煮液的操作台分工；历史场景另核罐具材料。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Armenian Pickling: The Preservation of Memories | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/armenian-pickling-the-preservation-of-memories",
+          "locator": "Armenian Pickling：厨房分工、蔬菜与compote、六张图注与侨居记忆。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-swahilifood",
+    "module": "people",
+    "category": "work",
+    "name": "肯尼亚拉穆宴食：椰奶鱼料理与节庆备餐",
+    "region": "肯尼亚／拉穆",
+    "period": "2014年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2014/foodways-friday-swahili-fish-with-creamy-coconut-sauce",
+    "content": "肯尼亚拉穆宴食：椰奶鱼料理与节庆备餐，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画倒椰奶、搅锅和分装，结合斋月或婚礼的其他来源补充就餐人数与环境。",
+    "caution": "这篇给出一道料理及使用场合，未覆盖全部斯瓦希里菜肴；普遍分享关系另见斋月专题。",
+    "find": "肯尼亚拉穆宴食：椰奶鱼料理与节庆备餐 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "肯尼亚／拉穆",
+      "era": "2014年记录；传统起源未定",
+      "start": 2014,
+      "end": 2014,
+      "dateLabel": "2014年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "这篇给出一道料理及使用场合，未覆盖全部斯瓦希里菜肴；普遍分享关系另见斋月专题。",
+        "现代炉灶、锅具和演示帐篷不可用作古代拉穆厨房原样。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2014/foodways-friday-swahili-fish-with-creamy-coconut-sauce",
+          "locator": "Foodways Friday: Swahili Fish：拉穆、婚礼／斋月使用场合、备制与原图。",
+          "text": "2014年记录；传统起源未定；肯尼亚拉穆宴食：椰奶鱼料理与节庆备餐，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2014/foodways-friday-swahili-fish-with-creamy-coconut-sauce"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-swahilifood-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-swahilifood-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2014/08/coconutfish.jpg?itok=XqtYO26m",
+        "source": "https://festival.si.edu/blog/2014/foodways-friday-swahili-fish-with-creamy-coconut-sauce",
+        "caption": "2014年文化节Fatma Ali Busaidy倒椰奶的料理演示。摄影：Hermine Dreyfuss。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Hermine Dreyfuss。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 476,
+        "height": 375,
+        "kind": "exhibition"
+      }
+    ],
+    "topic": {
+      "scope": "肯尼亚拉穆宴食：椰奶鱼料理与节庆备餐，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "鱼与椰奶结合的料理见于拉穆特殊场合，例如婚礼，也在斋月较常见。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "厨师先处理鱼再准备调味液与椰奶，分阶段控制烹调和装盘。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "特殊场合",
+          "feature": "婚礼或斋月会使厨房劳动与集体就餐衔接，并非每次都对应同一菜单。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "示范作业",
+          "feature": "在2014年文化节，厨师以现代锅具讲解本地料理，动作可观察但场地已改变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "沿海鱼类和椰奶进入地方宴食；共同备餐使烹调者在节庆中承担实际服务职责。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这篇给出一道料理及使用场合，未覆盖全部斯瓦希里菜肴；普遍分享关系另见斋月专题。",
+        "现代炉灶、锅具和演示帐篷不可用作古代拉穆厨房原样。"
+      ],
+      "drawing": "画倒椰奶、搅锅和分装，结合斋月或婚礼的其他来源补充就餐人数与环境。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Foodways Friday: Swahili Fish with Creamy Coconut Sauce | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2014/foodways-friday-swahili-fish-with-creamy-coconut-sauce",
+          "locator": "Foodways Friday: Swahili Fish：拉穆、婚礼／斋月使用场合、备制与原图。"
+        },
+        {
+          "id": "s2",
+          "title": "肯尼亚拉穆宴食：椰奶鱼料理与节庆备餐 · 补充依据",
+          "url": "https://festival.si.edu/blog/2014/fasting-for-ramadan-from-a-kenyan-cooks-perspective",
+          "locator": "斯瓦希里家庭斋月备餐、邻里邀请与分送食物。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-kenyarole",
+    "module": "people",
+    "category": "interaction",
+    "name": "肯尼亚卢奥集体舞：鸟类动作、领舞信号与场合变化",
+    "region": "肯尼亚／卢奥社区",
+    "period": "2014年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2014/a-ramogi-dancer-from-head-to-toe",
+    "content": "肯尼亚卢奥集体舞：鸟类动作、领舞信号与场合变化，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画领舞与队员看向的关系、起落重心、踝响器及背部随动作摆动的装饰。",
+    "caution": "本文以Homa Bay舞团为范围，不能当作全部肯尼亚民族舞蹈。",
+    "find": "肯尼亚卢奥集体舞：鸟类动作、领舞信号与场合变化 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "肯尼亚／卢奥社区",
+      "era": "2014年记录；传统起源未定",
+      "start": 2014,
+      "end": 2014,
+      "dateLabel": "2014年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "本文以Homa Bay舞团为范围，不能当作全部肯尼亚民族舞蹈。",
+        "照片为2014年美国文化节，羽饰和兽皮身份按图注，不任意替换材种。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2014/a-ramogi-dancer-from-head-to-toe",
+          "locator": "A Ramogi Dancer from Head to Toe：Movements、Flywhisk、Ankle Shakers和Community Role。",
+          "text": "2014年记录；传统起源未定；肯尼亚卢奥集体舞：鸟类动作、领舞信号与场合变化，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2014/a-ramogi-dancer-from-head-to-toe"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-kenyarole-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-kenyarole-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2014/07/14534630001_6cd7970535_k.jpg?itok=79vaTKjZ",
+        "source": "https://festival.si.edu/blog/2014/a-ramogi-dancer-from-head-to-toe",
+        "caption": "2014年文化节Homa Bay的Ramogi舞者。摄影：Patti Heck。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Patti Heck。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-kenyarole-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-kenyarole-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2014/07/sff2014_mk_07-03_0081.jpg?itok=InR5Uqfk",
+        "source": "https://festival.si.edu/blog/2014/a-ramogi-dancer-from-head-to-toe",
+        "caption": "John Ooyi与羽饰、拂尘，2014年。摄影：Kate Mankowski。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Kate Mankowski。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 248,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "肯尼亚卢奥集体舞：鸟类动作、领舞信号与场合变化，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Ramogi舞包括受鸟类起飞与盘旋启发的动作，踝响器配合整体节奏。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "领舞者以拂尘作视觉提示；舞者可按喜好制自己的颜色组合，而非一成不变制服。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "旧有仪礼",
+          "feature": "来源指出这种舞与葬礼及祖灵有关，不是单纯装饰性舞步。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "公共庆祝",
+          "feature": "当代舞团将它带入婚礼、外交与独立日活动，语境会改变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "身体动作、领队信号和响器帮助配合；传统技能也成为当代卢奥文化的公共表达。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文以Homa Bay舞团为范围，不能当作全部肯尼亚民族舞蹈。",
+        "照片为2014年美国文化节，羽饰和兽皮身份按图注，不任意替换材种。"
+      ],
+      "drawing": "画领舞与队员看向的关系、起落重心、踝响器及背部随动作摆动的装饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "A Ramogi Dancer from Head to Toe | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2014/a-ramogi-dancer-from-head-to-toe",
+          "locator": "A Ramogi Dancer from Head to Toe：Movements、Flywhisk、Ankle Shakers和Community Role。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-dan",
+    "module": "people",
+    "category": "interaction",
+    "name": "丹族宴仪与女性主持：共享粮食、舞巡及地域差异",
+    "region": "利比里亚／科特迪瓦丹族社区",
+    "period": "当代记录的延续传统；起源年代未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.clevelandart.org/articles/honoring-women",
+    "content": "丹族宴仪与女性主持：共享粮食、舞巡及地域差异，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画女主持、助手与受食者关系；器物握法和舞巡另结合来源的现场记录。",
+    "caution": "资料来自1930年代起的田野及后续研究，不将器物年代当作习俗起始年。",
+    "find": "丹族宴仪与女性主持：共享粮食、舞巡及地域差异 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "利比里亚／科特迪瓦丹族社区",
+      "era": "当代记录的延续传统；起源年代未定",
+      "start": null,
+      "end": null,
+      "dateLabel": "当代记录的延续传统；起源年代未定",
+      "dateBasis": "文献提供传统的当代或实物记录；没有可靠的统一起止年，保持年代未定。",
+      "notes": [
+        "资料来自1930年代起的田野及后续研究，不将器物年代当作习俗起始年。",
+        "配图是晚19至早20世纪礼勺馆藏，未展示实际舞巡或宴会规模。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clevelandart.org/articles/honoring-women",
+          "locator": "Honoring Women：wunkirle、Feast of Merit、科特迪瓦成年礼差异及田野局限。",
+          "text": "当代记录的延续传统；起源年代未定；丹族宴仪与女性主持：共享粮食、舞巡及地域差异，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://www.clevelandart.org/articles/honoring-women"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-dan-3.jpg",
+        "full": "绘画参考资源/例图/world200-culture-dan-3.jpg",
+        "original": "https://web-drupal-cms-prod.clevelandart.org/sites/default/files/09-10HW_A.jpg",
+        "source": "https://www.clevelandart.org/articles/honoring-women",
+        "caption": "晚19世纪—早20世纪丹族礼勺实物，CMA 2013.52；作为仪式道具例证。图片：克利夫兰艺术博物馆。",
+        "provider": "克利夫兰艺术博物馆",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 750,
+        "height": 719,
+        "kind": "museum"
+      }
+    ],
+    "topic": {
+      "scope": "丹族宴仪与女性主持：共享粮食、舞巡及地域差异，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "获尊重的女性主持大型宴会，为本地和远来宾客备餐，礼仪勺象征其社会职责。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "本文对比利比里亚丹族与科特迪瓦丹族田野记录，同形器具未必对应同一仪式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "功绩宴",
+          "feature": "女性主持者与助手舞巡，持勺分发米粒、花生或钱币，呈现慷慨与地位。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "成年礼相关",
+          "feature": "另一地区记录中，母亲在长子完成成年礼后用礼勺喂食，表达重新进入社会。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "供食劳动、精神助力与亲族关系共同赋予女性威望；地区差异决定具体解释。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "资料来自1930年代起的田野及后续研究，不将器物年代当作习俗起始年。",
+        "配图是晚19至早20世纪礼勺馆藏，未展示实际舞巡或宴会规模。"
+      ],
+      "drawing": "画女主持、助手与受食者关系；器物握法和舞巡另结合来源的现场记录。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Honoring Women | Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/articles/honoring-women",
+          "locator": "Honoring Women：wunkirle、Feast of Merit、科特迪瓦成年礼差异及田野局限。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-oro",
+    "module": "people",
+    "category": "interaction",
+    "name": "约鲁巴面具仪礼分型：祖灵纪念与实际葬礼",
+    "region": "尼日利亚／约鲁巴社区",
+    "period": "当代记录的延续传统；起源年代未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.clevelandart.org/art/1969.5",
+    "content": "约鲁巴面具仪礼分型：祖灵纪念与实际葬礼，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "先选清楚葬礼或祖灵纪念，再找对应协会的公开现场图，不把相似头盔互换。",
+    "caution": "以馆方说明的区分为限，不推定所有约鲁巴社区协会均相同。",
+    "find": "约鲁巴面具仪礼分型：祖灵纪念与实际葬礼 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "尼日利亚／约鲁巴社区",
+      "era": "当代记录的延续传统；起源年代未定",
+      "start": null,
+      "end": null,
+      "dateLabel": "当代记录的延续传统；起源年代未定",
+      "dateBasis": "文献提供传统的当代或实物记录；没有可靠的统一起止年，保持年代未定。",
+      "notes": [
+        "以馆方说明的区分为限，不推定所有约鲁巴社区协会均相同。",
+        "图为晚19世纪—早20世纪木头盔实物，不呈现完整服装或秘密仪式动作。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.clevelandart.org/art/1969.5",
+          "locator": "CMA Helmet 1969.5：Description对Egungun/Oro的场合区分与组织职责。",
+          "text": "当代记录的延续传统；起源年代未定；约鲁巴面具仪礼分型：祖灵纪念与实际葬礼，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://www.clevelandart.org/art/1969.5"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-oro-0.jpg",
+        "full": "绘画参考资源/例图/world200-culture-oro-0.jpg",
+        "original": "https://piction.clevelandart.org/cma/ump.di?e=52D16EC555A4089A053395E322C493DEB0FBB5C6CA29C2ECCFF16D31DFA8CF92&s=24247294&se=399313166&v=1&f=\\d7689\\u219276890\\1969.5_o5.jpg",
+        "source": "https://www.clevelandart.org/art/1969.5",
+        "caption": "Oro协会相关木头盔，晚19世纪—早20世纪；CMA 1969.5。图片：克利夫兰艺术博物馆；Public Domain。",
+        "provider": "克利夫兰艺术博物馆",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 351,
+        "height": 600,
+        "kind": "museum"
+      }
+    ],
+    "topic": {
+      "scope": "约鲁巴面具仪礼分型：祖灵纪念与实际葬礼，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Oro头盔类面具容易与Egungun相混，馆方依据使用场合区分，不能仅凭外形判断。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "面具的公开程度和组织职责有差异；脱离活动语境的馆藏不能直接等同完整表演。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "Egungun",
+          "feature": "主要用于纪念个体的祖先，强调祖灵关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "Oro",
+          "feature": "与约鲁巴人的实际葬礼相连；组织另有执行社会规约的职责。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "不同协会承担纪念、葬礼与社会管理任务，决定相似面具类型的不同用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "以馆方说明的区分为限，不推定所有约鲁巴社区协会均相同。",
+        "图为晚19世纪—早20世纪木头盔实物，不呈现完整服装或秘密仪式动作。"
+      ],
+      "drawing": "先选清楚葬礼或祖灵纪念，再找对应协会的公开现场图，不把相似头盔互换。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Helmet | Cleveland Museum of Art",
+          "url": "https://www.clevelandart.org/art/1969.5",
+          "locator": "CMA Helmet 1969.5：Description对Egungun/Oro的场合区分与组织职责。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-sande",
+    "module": "people",
+    "category": "interaction",
+    "name": "门德女性协会仪礼：成年教育、面具舞与公共事件",
+    "region": "塞拉利昂／利比里亚门德社区",
+    "period": "20世纪面具实物与当代馆方研究；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.brooklynmuseum.org/objects/4809",
+    "content": "门德女性协会仪礼：成年教育、面具舞与公共事件，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "搭配公开实物与机构现场记录画全身遮蔽、伴奏和陪从关系，区分活动场合。",
+    "caution": "依馆方所述门德及邻近社区，不把这种女性面具实践推广到全非洲。",
+    "find": "门德女性协会仪礼：成年教育、面具舞与公共事件 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "非洲",
+      "country": "塞拉利昂／利比里亚门德社区",
+      "era": "20世纪面具实物与当代馆方研究；传统起源未定",
+      "start": 1900,
+      "end": 1999,
+      "dateLabel": "20世纪面具实物与当代馆方研究；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "依馆方所述门德及邻近社区，不把这种女性面具实践推广到全非洲。",
+        "20世纪馆藏头盔不展示完整身体遮蔽或现场流程，不能据它补造秘密活动。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.brooklynmuseum.org/objects/4809",
+          "locator": "Brooklyn Icon、Object Label：成年教育、黑色遮蔽、葬礼／首领就职及社会合作。",
+          "text": "20世纪面具实物与当代馆方研究；传统起源未定；门德女性协会仪礼：成年教育、面具舞与公共事件，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://www.brooklynmuseum.org/objects/4809"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-sande-0.jpg",
+        "full": "绘画参考资源/例图/world200-culture-sande-0.jpg",
+        "original": "https://imgsrv.brooklynmuseum.org/collections/objects/69.39.2_edited_SL1.jpg?quality=75&width=3840",
+        "source": "https://www.brooklynmuseum.org/objects/4809",
+        "caption": "Vani Sona所作Sande society mask，20世纪；Brooklyn Museum 69.39.2，馆藏原图。",
+        "provider": "布鲁克林博物馆",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 1157,
+        "height": 1536,
+        "kind": "museum"
+      }
+    ],
+    "topic": {
+      "scope": "门德女性协会仪礼：成年教育、面具舞与公共事件，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "Sande协会由女性掌管，木面具搭配黑色植物纤维和布遮住身体，舞蹈与音乐共同呈现。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "头盔面具并非只挡在脸前；面部、发式与黑色表面表达协会重视的行为及美。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "成年教育",
+          "feature": "面具舞与乐人、陪从者配合，向年轻女性传达道德与生活知识。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "公共事件",
+          "feature": "面具也代表守护精神参与葬礼或首领就职等活动，场合与教育有别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "女性协会通过共同仪礼形成社会与政治联系，复杂发式也体现彼此协助。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "依馆方所述门德及邻近社区，不把这种女性面具实践推广到全非洲。",
+        "20世纪馆藏头盔不展示完整身体遮蔽或现场流程，不能据它补造秘密活动。"
+      ],
+      "drawing": "搭配公开实物与机构现场记录画全身遮蔽、伴奏和陪从关系，区分活动场合。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Sande society mask (sowei) · Brooklyn Museum",
+          "url": "https://www.brooklynmuseum.org/objects/4809",
+          "locator": "Brooklyn Icon、Object Label：成年教育、黑色遮蔽、葬礼／首领就职及社会合作。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-hungary2",
+    "module": "people",
+    "category": "interaction",
+    "name": "喀尔巴阡盆地民间舞：圈舞、独舞与双人即兴",
+    "region": "匈牙利／罗马尼亚",
+    "period": "2013年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/2013/hungarian-heritage/music-and-dance/smithsonian",
+    "content": "喀尔巴阡盆地民间舞：圈舞、独舞与双人即兴，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "先选圈舞、单人或双人关系，画清握手、转向、间距和伴奏位置。",
+    "caution": "五类为该官方导读的概括，不能囊括所有罗姆及邻近民族的完整舞谱。",
+    "find": "喀尔巴阡盆地民间舞：圈舞、独舞与双人即兴 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "匈牙利／罗马尼亚",
+      "era": "2013年记录；传统起源未定",
+      "start": 2013,
+      "end": 2013,
+      "dateLabel": "2013年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "五类为该官方导读的概括，不能囊括所有罗姆及邻近民族的完整舞谱。",
+        "配图是当代乐队及舞者，不能当作统一历史服饰标准。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/2013/hungarian-heritage/music-and-dance/smithsonian",
+          "locator": "Music and Dance：五种舞类、地区变化、即兴及舞会复兴。",
+          "text": "2013年记录；传统起源未定；喀尔巴阡盆地民间舞：圈舞、独舞与双人即兴，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/2013/hungarian-heritage/music-and-dance/smithsonian"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-hungary2-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-hungary2-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/2013/hungarian_heritage/music_dance_1.jpg?itok=wpBgRqoh",
+        "source": "https://festival.si.edu/2013/hungarian-heritage/music-and-dance/smithsonian",
+        "caption": "Parno Graszt罗姆乐队，当代照片。图片由Parno Graszt提供。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-hungary2-9.jpg",
+        "full": "绘画参考资源/例图/world200-culture-hungary2-9.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/2013/hungarian_heritage/music_dance_2.jpg?itok=qbyhvtD0",
+        "source": "https://festival.si.edu/2013/hungarian-heritage/music-and-dance/smithsonian",
+        "caption": "舞者Dezső Fitos与Enikő Kocsis，当代照片。图片由两位舞者提供。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 247,
+        "height": 375,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "喀尔巴阡盆地民间舞：圈舞、独舞与双人即兴，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "馆方按圈舞、跳舞、男子独舞、快慢双人舞和棍舞五类归纳，地区各有变化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "独舞与双人舞常允许即兴组合；音乐传承也通过城市táncház舞会继续。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "单人与集体",
+          "feature": "圈舞形成群体关系；legényes男子舞强调技巧和个人变化，不能画成同一队列。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "双人与棍舞",
+          "feature": "csárdás可含绕转、分开和追逐；botoló保留器械舞传统，需要按类型选动作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "地区传统与舞会复兴使音乐和身体技法继续被学习；即兴空间让动作不拘单一姿势。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "五类为该官方导读的概括，不能囊括所有罗姆及邻近民族的完整舞谱。",
+        "配图是当代乐队及舞者，不能当作统一历史服饰标准。"
+      ],
+      "drawing": "先选圈舞、单人或双人关系，画清握手、转向、间距和伴奏位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Music and Dance | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/2013/hungarian-heritage/music-and-dance/smithsonian",
+          "locator": "Music and Dance：五种舞类、地区变化、即兴及舞会复兴。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-peruchristmas",
+    "module": "people",
+    "category": "interaction",
+    "name": "秘鲁卡鲁马斯圣周：斋食、广场圈舞与返乡团聚",
+    "region": "秘鲁／卡鲁马斯",
+    "period": "2015年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/2015/holy-week-celebrations-in-carumas",
+    "content": "秘鲁卡鲁马斯圣周：斋食、广场圈舞与返乡团聚，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画小舞圈向广场移动，区分男女分工及观众、乐人与舞者位置。",
+    "caution": "以Moquegua地区Carumas实践为限，不能推广为全秘鲁统一圣周活动。",
+    "find": "秘鲁卡鲁马斯圣周：斋食、广场圈舞与返乡团聚 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "美洲",
+      "country": "秘鲁／卡鲁马斯",
+      "era": "2015年记录；传统起源未定",
+      "start": 2015,
+      "end": 2015,
+      "dateLabel": "2015年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "以Moquegua地区Carumas实践为限，不能推广为全秘鲁统一圣周活动。",
+        "2015年文章未确定节庆起源年，不能把“自古”换成具体古代断代。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/2015/holy-week-celebrations-in-carumas",
+          "locator": "Holy Week Celebrations in Carumas：斋食、圈舞人数、charango与返乡传承。",
+          "text": "2015年记录；传统起源未定；秘鲁卡鲁马斯圣周：斋食、广场圈舞与返乡团聚，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/2015/holy-week-celebrations-in-carumas"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-peruchristmas-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-peruchristmas-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/blog/images/2015/04/sarawja-700x467.jpg?itok=Za98o-ym",
+        "source": "https://festival.si.edu/blog/2015/holy-week-celebrations-in-carumas",
+        "caption": "Carumas的sarawja圈舞，当代照片，2015年文章配图。摄影：Deisi Rivadeneira。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Deisi Rivadeneira。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "秘鲁卡鲁马斯圣周：斋食、广场圈舞与返乡团聚，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "圣周包含忏悔和食物限制，复活节后街道与广场转为集体庆祝。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "sarawja由成对参与者围成圆圈，在广场角落舞蹈；男子奏charango、吹哨踏步，女性歌唱。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "圣周备食",
+          "feature": "耶稣受难日汤食与地方木炉面包联系节期饮食，而非任意丰盛肉宴。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "复活节圈舞",
+          "feature": "五至十对组成舞圈，逐步进入广场；青年竞赛帮助延续音乐与舞蹈。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "邻镇参加和迁居者返乡使宗教节庆同时维系地方归属与代际传承。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "以Moquegua地区Carumas实践为限，不能推广为全秘鲁统一圣周活动。",
+        "2015年文章未确定节庆起源年，不能把“自古”换成具体古代断代。"
+      ],
+      "drawing": "画小舞圈向广场移动，区分男女分工及观众、乐人与舞者位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Holy Week Celebrations in Carumas | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/2015/holy-week-celebrations-in-carumas",
+          "locator": "Holy Week Celebrations in Carumas：斋食、圈舞人数、charango与返乡传承。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-armenianchristmas",
+    "module": "people",
+    "category": "interaction",
+    "name": "亚美尼亚冬季节序：新年宴席、烛光与水祝福",
+    "region": "亚美尼亚",
+    "period": "2018年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/its-still-christmas-in-armenia",
+    "content": "亚美尼亚冬季节序：新年宴席、烛光与水祝福，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "分开画家宴、教会烛光与访墓，核对节期当天活动和人物情绪。",
+    "caution": "以文章家族访谈和教会背景为范围，不把每个仪式当成所有家庭必做。",
+    "find": "亚美尼亚冬季节序：新年宴席、烛光与水祝福 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "亚洲",
+      "country": "亚美尼亚",
+      "era": "2018年记录；传统起源未定",
+      "start": 2018,
+      "end": 2018,
+      "dateLabel": "2018年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "以文章家族访谈和教会背景为范围，不把每个仪式当成所有家庭必做。",
+        "烛光及城市装饰照片是当代记录，不能据此推定301年的庆祝场景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/its-still-christmas-in-armenia",
+          "locator": "It’s Still Christmas in Armenia：节期、tarehats、祝福水、追念及苏联影响。",
+          "text": "2018年记录；传统起源未定；亚美尼亚冬季节序：新年宴席、烛光与水祝福，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/its-still-christmas-in-armenia"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-armenianchristmas-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-armenianchristmas-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/christmas-armenia-1.jpg?itok=y6SGqlUT",
+        "source": "https://festival.si.edu/blog/its-still-christmas-in-armenia",
+        "caption": "当代埃里温冬季节日灯饰。图片：Tumo Center for Creative Technologies。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "来源机构；对应图片署名见原页",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-armenianchristmas-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-armenianchristmas-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/christmas-armenia-2.jpg?itok=MmZflFXq",
+        "source": "https://festival.si.edu/blog/its-still-christmas-in-armenia",
+        "caption": "Alaverdi教堂中的烛光。摄影：Stephanie Moore。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Stephanie Moore。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "亚美尼亚冬季节序：新年宴席、烛光与水祝福，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "从12月31日至1月13日，家族访问、礼物与宴席把新年和圣诞等节期串联。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "宗教实践曾受苏联时期影响，1991年后一些做法重新公开恢复。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "家庭新年",
+          "feature": "丰盛宴食、含豆或钱币的tarehats节饼以及向儿童送礼，家庭形式可不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "教会与追念",
+          "feature": "1月5日点烛，圣诞日分享祝福水；之后追念逝者、访墓与讲述记忆。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "家庭招待与宗教节序共同表达新开始和代际关系，社会制度变化也改变公开程度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "以文章家族访谈和教会背景为范围，不把每个仪式当成所有家庭必做。",
+        "烛光及城市装饰照片是当代记录，不能据此推定301年的庆祝场景。"
+      ],
+      "drawing": "分开画家宴、教会烛光与访墓，核对节期当天活动和人物情绪。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "It’s Still Christmas in Armenia | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/its-still-christmas-in-armenia",
+          "locator": "It’s Still Christmas in Armenia：节期、tarehats、祝福水、追念及苏联影响。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-world200-culture-france",
+    "module": "people",
+    "category": "work",
+    "name": "加泰罗尼亚面包生活：甜薄饼、咸薄饼与共享烘作",
+    "region": "西班牙／加泰罗尼亚",
+    "period": "2018年记录；传统起源未定",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/blog/catalan-recipe-coca-bread",
+    "content": "加泰罗尼亚面包生活：甜薄饼、咸薄饼与共享烘作，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+    "use": "画整形手势、出炉托盘和分食，按甜咸类型配置表面配料。",
+    "caution": "以2018年受邀面包师的示范及官方类型说明为准，不能当作所有年代统一配方。",
+    "find": "加泰罗尼亚面包生活：甜薄饼、咸薄饼与共享烘作 世界民族扩充200_20261003 世界民族",
+    "collect": "共同特征、分型、用途与机构原图",
+    "check": "2026年10月3日：核对机构正文、来源图注和地区年代范围。",
+    "organization": {
+      "region": "欧洲",
+      "country": "西班牙／加泰罗尼亚",
+      "era": "2018年记录；传统起源未定",
+      "start": 2018,
+      "end": 2018,
+      "dateLabel": "2018年记录；传统起源未定",
+      "dateBasis": "用于排列的是本文据实物图注、事件或文献所述的记录时间范围，绝非传统起源或始终连续存在的证明。",
+      "notes": [
+        "以2018年受邀面包师的示范及官方类型说明为准，不能当作所有年代统一配方。",
+        "图中文化节烤盘和服装为当代环境；食物本体不证明传统炉具形制。"
+      ],
+      "evidence": [
+        {
+          "url": "https://festival.si.edu/blog/catalan-recipe-coca-bread",
+          "locator": "Coca Bread：甜咸分型、食用场合、烘焙劳动与图注。",
+          "text": "2018年记录；传统起源未定；加泰罗尼亚面包生活：甜薄饼、咸薄饼与共享烘作，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。"
+        }
+      ],
+      "source": "https://festival.si.edu/blog/catalan-recipe-coca-bread"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/world200-culture-france-7.jpg",
+        "full": "绘画参考资源/例图/world200-culture-france-7.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/media/default/blog/sff2018_7-05_pa_0363.jpg?itok=YGzYkcr7",
+        "source": "https://festival.si.edu/blog/catalan-recipe-coca-bread",
+        "caption": "2018年文化节coca de forner薄饼示例。摄影：Pruitt Allen。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Pruitt Allen。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 333,
+        "kind": "wear"
+      },
+      {
+        "src": "绘画参考资源/例图/world200-culture-france-8.jpg",
+        "full": "绘画参考资源/例图/world200-culture-france-8.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile/public/orchard/festival/images/blog/angel_zamora.jpg?itok=nxs2TutZ",
+        "source": "https://festival.si.edu/blog/catalan-recipe-coca-bread",
+        "caption": "面包师Àngel Zamora准备coca。摄影：Daniel Gonzalez Martinez。",
+        "provider": "史密森尼民俗与文化遗产中心",
+        "credit": "Daniel Gonzalez Martinez。",
+        "license": "遵循来源机构及图片署名者的使用条件",
+        "related": false,
+        "width": 500,
+        "height": 334,
+        "kind": "wear"
+      }
+    ],
+    "topic": {
+      "scope": "加泰罗尼亚面包生活：甜薄饼、咸薄饼与共享烘作，限定于原文涉及的社区、地点与记录，不视作整个国家各时代的统一习俗。",
+      "common": [
+        {
+          "title": "共同特征",
+          "text": "coca是地方薄饼类食物，甜咸形式与不同食用时间配合；面包也出现在社区歌唱与交往。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "实践方式",
+          "text": "制作经过揉面、发酵、整形和烘烤，糖及茴香酒的使用依具体类型改变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "coca de forner",
+          "feature": "甜薄饼烤后以茴香酒形成表面糖层，常作早餐或点心。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "coca de recapte",
+          "feature": "咸薄饼搭烤蔬菜、鱼或香肠，具体配料可据家庭条件调整。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "日常食物与烘焙劳动在共同尝食时形成交往，类型差异反映使用场合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "以2018年受邀面包师的示范及官方类型说明为准，不能当作所有年代统一配方。",
+        "图中文化节烤盘和服装为当代环境；食物本体不证明传统炉具形制。"
+      ],
+      "drawing": "画整形手势、出炉托盘和分食，按甜咸类型配置表面配料。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Catalan Recipe: Coca Bread for Breakfast, Lunch, and Dinner | Smithsonian Folklife Festival",
+          "url": "https://festival.si.edu/blog/catalan-recipe-coca-bread",
+          "locator": "Coca Bread：甜咸分型、食用场合、烘焙劳动与图注。"
+        }
+      ],
+      "examples": []
+    }
   }
 ];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月3日";})();

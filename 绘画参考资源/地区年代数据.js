@@ -7730,5 +7730,1313 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony"
+  },
+  "topic-world200-architecture-moroccan-ksar": {
+    "region": "非洲",
+    "country": "摩洛哥（前撒哈拉山谷）",
+    "era": "17世纪以来的现存土筑建筑例证",
+    "start": 1601,
+    "end": null,
+    "dateLabel": "17世纪以来的现存土筑建筑例证",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "17世纪是现存最早建筑的谨慎界限，不是传统的起源年。",
+      "这里的ksar是多户堡村，不可与单一家族独占的城堡混为一类。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/444/",
+        "locator": "Brief synthesis：modest and small urban castles、not earlier than 17th、community areas；Criterion iv。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/444/"
+  },
+  "topic-world200-architecture-mozabite": {
+    "region": "非洲",
+    "country": "阿尔及利亚（姆扎卜谷地）",
+    "era": "11—14世纪堡村建立；传统建造持续沿用",
+    "start": 1012,
+    "end": 1350,
+    "dateLabel": "11—14世纪堡村建立；传统建造持续沿用",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "11—14世纪是五个堡村创建范围，不给每幢存世房屋统一断代。",
+      "白墙尖塔的官方配图为公共宗教节点，不能推定全部住宅都有同样塔顶。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/188/",
+        "locator": "Brief synthesis：1012 and 1350、11th century；Criteria iii、v：ksar cemetery palm grove summer citadel。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/188/"
+  },
+  "topic-world200-architecture-ghadames": {
+    "region": "非洲",
+    "country": "利比亚（加达梅斯绿洲）",
+    "era": "中世纪延续的土筑住宅传统；单宅始建年未细分",
+    "start": null,
+    "end": null,
+    "dateLabel": "中世纪延续的土筑住宅传统；单宅始建年未细分",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "这是一种住宅层级对照，不是当地正式命名的两种房型。",
+      "现今旧城没有永久居民，但仍用于聚会；不要标为全天候常住现状。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/362/",
+        "locator": "Description：vertical division；Brief synthesis：medieval traditions；Authenticity：no resident dwells permanently。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/362/"
+  },
+  "topic-world200-architecture-takienta": {
+    "region": "非洲",
+    "country": "多哥、贝宁（库塔玛库）",
+    "era": "延续至今的地方建造传统；单宅始建年未细分",
+    "start": null,
+    "end": null,
+    "dateLabel": "延续至今的地方建造传统；单宅始建年未细分",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "屋顶差别来自机构说明，不是按国家划分的固定样式。",
+      "6世纪为贝宁部分地区占居史，不是照片住宅的建造年代。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1140/",
+        "locator": "Brief synthesis：circular elliptical、family dwelling；UNESCO WHV document128607：two storeys、granaries、flat/conical roofs。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      },
+      {
+        "url": "https://whc.unesco.org/document/128607",
+        "locator": "正文第一段：两层、近球形粮仓、平顶与锥形草顶。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1140/"
+  },
+  "topic-world200-architecture-lamu-houses": {
+    "region": "非洲",
+    "country": "肯尼亚（拉穆岛）",
+    "era": "延续七百余年的聚落；现存各屋分期未逐项给出",
+    "start": null,
+    "end": null,
+    "dateLabel": "延续七百余年的聚落；现存各屋分期未逐项给出",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "连续七百年说明聚落史，不能当每座现存房屋的年龄。",
+      "海滨阳台和内街壁龛不应强制装到所有东非沿海住房上。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1055/",
+        "locator": "Brief synthesis：700 years、coral lime mangrove poles、seafront arcades verandas、madaka zidaka。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1055/"
+  },
+  "topic-world200-architecture-zanzibar": {
+    "region": "非洲",
+    "country": "坦桑尼亚（桑给巴尔石城）",
+    "era": "18—19世纪主要历史建筑",
+    "start": 1701,
+    "end": 1900,
+    "dateLabel": "18—19世纪主要历史建筑",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "18—19世纪是主要建筑范围，不代表城中每一结构。",
+      "配图海滨大建筑只说明一个体量层级，不能单凭照片判定内部庭院。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/173/",
+        "locator": "Brief synthesis：coralline ragstone、two storey courtyard houses、ground floor Swahili houses、Indian shops；18th 19th。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/173/"
+  },
+  "topic-world200-architecture-ethiopian-rock": {
+    "region": "非洲",
+    "country": "埃塞俄比亚（拉利贝拉）",
+    "era": "12—13世纪教堂营建传统；具体遗存解释有差别",
+    "start": 1101,
+    "end": 1300,
+    "dateLabel": "12—13世纪教堂营建传统；具体遗存解释有差别",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "12与13世纪分别见正文及简介，范围不缩成一个精确建成年。",
+      "部分建筑可能原为王室住处，不把每个室内功能都断言为最初礼拜。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/18/",
+        "locator": "Description：13th-century；Brief synthesis：12th century、five aisles、cruciform、trenches、possible residences。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/18/"
+  },
+  "topic-world200-architecture-baganda": {
+    "region": "非洲",
+    "country": "乌干达（布干达王国）",
+    "era": "传统自13世纪发展；卡苏比宫殿1882年、转墓1884年",
+    "start": 1882,
+    "end": 1884,
+    "dateLabel": "传统自13世纪发展；卡苏比宫殿1882年、转墓1884年",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "1882—1884只说明此例宫转墓阶段，传统本身更早。",
+      "2010年火灾后重建；未载日期旧配图不可标为重建后2026年现状。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1022/",
+        "locator": "Brief synthesis：gatehouse courtyard main building、13th century、1882 1884；Protection：recreation main tomb。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1022/"
+  },
+  "topic-world200-architecture-ghana-forts": {
+    "region": "非洲",
+    "country": "加纳（克塔至贝因海岸）",
+    "era": "1482—1786年建立的交易堡垒系列",
+    "start": 1482,
+    "end": 1786,
+    "dateLabel": "1482—1786年建立的交易堡垒系列",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "现存多个阶段叠加，不把1482年套给全部堡垒。",
+      "遗址的后期炮台、用途改造与海蚀缺损不能倒推为最初格局。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/34/",
+        "locator": "Brief synthesis：1482-1786、three Castles 15 Forts、square rectangle four corners、gold slave trade。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/34/"
+  },
+  "topic-world200-architecture-agadez": {
+    "region": "非洲",
+    "country": "尼日尔（阿加德兹）",
+    "era": "15—16世纪城市建立，土筑传统延续至今",
+    "start": 1401,
+    "end": 1600,
+    "dateLabel": "15—16世纪城市建立，土筑传统延续至今",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "15—16世纪是建城阶段，不是照片所有住宅的建造年份。",
+      "宣礼塔的27米高度是特定公共建筑例证，不能应用于全部土屋。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1268/",
+        "locator": "Description、Brief synthesis：15th 16th、former encampments、11 quarters、housing palatial religious。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1268/"
+  },
+  "topic-world200-architecture-dogon": {
+    "region": "非洲",
+    "country": "马里（班迪亚加拉地区）",
+    "era": "15世纪以来多贡聚落；各房屋年代未细分",
+    "start": 1401,
+    "end": null,
+    "dateLabel": "15世纪以来多贡聚落；各房屋年代未细分",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "15世纪说明多贡避难聚落阶段，不能覆盖全部史前居住遗迹。",
+      "未作室内或性别粮仓复原；仅凭封面不能推断隐蔽祭仪细节。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/516/",
+        "locator": "Brief synthesis：three regions、15th century refuge；Description：houses granaries sanctuaries Togu Na；document155137。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      },
+      {
+        "url": "https://whc.unesco.org/document/155137",
+        "locator": "正文management aims：houses、granaries、sanctuaries与toguna。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/516/"
+  },
+  "topic-world200-architecture-mozambique": {
+    "region": "非洲",
+    "country": "莫桑比克（莫桑比克岛）",
+    "era": "16世纪以来持续的地方与港口建造传统",
+    "start": 1501,
+    "end": null,
+    "dateLabel": "16世纪以来持续的地方与港口建造传统",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "16世纪是持续建造传统的范围，不是每座房屋的精确年代。",
+      "官方封面是石灰城一侧公共建筑，不能拿它代表南部草顶房屋。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/599/",
+        "locator": "Description：since 16th；Brief synthesis：two types dwellings、stone lime north、macuti south。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/599/"
+  },
+  "topic-world200-architecture-pueblo-adobe": {
+    "region": "美洲",
+    "country": "美国（新墨西哥）",
+    "era": "13世纪末—14世纪初形成的聚落传统；现存持续维护",
+    "start": 1201,
+    "end": 1400,
+    "dateLabel": "13世纪末—14世纪初形成的聚落传统；现存持续维护",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "高度层级是绘画比较维度，不冒充机构的正式家屋类别。",
+      "20世纪有限引入框架门窗；照片不能原样用于13世纪复原。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/492/",
+        "locator": "Brief synthesis：late13 early14、terraced tiers five storeys；Authenticity：replastering、20th doors windows。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/492/"
+  },
+  "topic-world200-architecture-chiloe-wooden": {
+    "region": "美洲",
+    "country": "智利（奇洛埃群岛）",
+    "era": "17—19世纪持续发展的教堂传统；存世各教堂分期有别",
+    "start": 1601,
+    "end": 1900,
+    "dateLabel": "17—19世纪持续发展的教堂传统；存世各教堂分期有别",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "17—19世纪指传统发展，不能给照片单栋教堂统一定年。",
+      "曾有草顶、后来木瓦及修复变化；绘画须核对所选教堂阶段。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/971/",
+        "locator": "Nomination971.pdf第11页：three naves、barrel vault、Achao Rilan；Description17th19th。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      },
+      {
+        "url": "https://whc.unesco.org/uploads/nominations/971.pdf",
+        "locator": "第11页：三纵向内殿、木柱、筒顶、Achao与Rilán变体、塔楼航海用途。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/971/"
+  },
+  "topic-world200-architecture-chimu-compounds": {
+    "region": "美洲",
+    "country": "秘鲁（北海岸）",
+    "era": "15世纪奇穆王国鼎盛时期；建筑遗存多期",
+    "start": 1401,
+    "end": 1500,
+    "dateLabel": "15世纪奇穆王国鼎盛时期；建筑遗存多期",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "15世纪为王国鼎盛，不是每段墙面的确切施工日期。",
+      "遗址因气候风化与保护修复改变，图中残墙不是建筑当时完整高度。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/366/",
+        "locator": "Brief synthesis：nine rectangular compounds、32 semi monumental、four production sectors、15th。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/366/"
+  },
+  "topic-world200-architecture-guarani-missions": {
+    "region": "美洲",
+    "country": "阿根廷、巴西（瓜拉尼地区）",
+    "era": "17—18世纪耶稣会传教聚落",
+    "start": 1601,
+    "end": 1800,
+    "dateLabel": "17—18世纪耶稣会传教聚落",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "不是瓜拉尼人所有时期的传统住宅类型。",
+      "只据正文说明网络和用途，未确认的广场尺寸、住房排数不作复原断言。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/275/",
+        "locator": "Brief synthesis：17th18th、30 settlements、ranches mate trails waterways、smaller structures；Criterion iv。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/275/"
+  },
+  "topic-world200-architecture-cuban-houses": {
+    "region": "美洲",
+    "country": "古巴（特立尼达）",
+    "era": "18—19世纪住宅街区；制糖繁盛18世纪末—19世纪末",
+    "start": 1701,
+    "end": 1900,
+    "dateLabel": "18—19世纪住宅街区；制糖繁盛18世纪末—19世纪末",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "此条研究城市家居，不能照富宅复原被奴役劳动者的营房。",
+      "城市16世纪建立不意味着现存所有住宅都建于16世纪。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/460/",
+        "locator": "Brief synthesis：early18 Andalusian Moorish、19 neoclassical traditional spatial、modest luxurious；sugar slavery。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/460/"
+  },
+  "topic-world200-architecture-antiguan-baroque": {
+    "region": "美洲",
+    "country": "危地马拉（安提瓜）",
+    "era": "17—18世纪存世宗教建筑；1773年地震后多留废墟",
+    "start": 1601,
+    "end": 1800,
+    "dateLabel": "17—18世纪存世宗教建筑；1773年地震后多留废墟",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "这里只讨论安提瓜地方类型，不给全中美洲建筑套同一抗震样式。",
+      "许多照片为1773年后废墟或修复；建造期不等于保存状态。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/65/",
+        "locator": "Brief synthesis：17th18th、Barroco antigueño、stucco low bell towers earthquakes；Criterion iv：churches monasteries。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/65/"
+  },
+  "topic-world200-architecture-yucatan-monuments": {
+    "region": "美洲",
+    "country": "墨西哥（尤卡坦）",
+    "era": "6—10世纪普克阶段；10世纪后玛雅与中墨西哥融合",
+    "start": 501,
+    "end": 1300,
+    "dateLabel": "6—10世纪普克阶段；10世纪后玛雅与中墨西哥融合",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "机构叙述包含后期史料传统，不能把传说的攻城年当作精确施工年。",
+      "13世纪以后无主要新建筑的判断不等于所有使用活动终止。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/483/",
+        "locator": "Brief synthesis：6th10th Puuc、10th blending、major monuments after13th；Criterion ii iii。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/483/"
+  },
+  "topic-world200-architecture-micronesian-islets": {
+    "region": "大洋洲",
+    "country": "密克罗尼西亚联邦（波纳佩）",
+    "era": "公元1200—1500年社会与聚落重组阶段",
+    "start": 1200,
+    "end": 1500,
+    "dateLabel": "公元1200—1500年社会与聚落重组阶段",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "1200—1500为主要社会发展阶段，不是每块巨石安置年份。",
+      "现为遗址并有植被影响，不能把照片残墙当作古代所有建筑完整状态。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1503/",
+        "locator": "Brief synthesis：100 islets palaces temples mortuaries residential、1200-1500；Criterion i header-stretcher。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1503/"
+  },
+  "topic-world200-architecture-polynesian-marae": {
+    "region": "大洋洲",
+    "country": "法属波利尼西亚（赖阿特阿）",
+    "era": "14—18世纪mā'ohi礼仪建筑",
+    "start": 1301,
+    "end": 1800,
+    "dateLabel": "14—18世纪mā'ohi礼仪建筑",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "marae遍布波利尼西亚，但本条四边院台形式限定社会群岛。",
+      "部分场地修复，14—18世纪不表示照片全部石块都原位原状。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1529/",
+        "locator": "Decision41COM8B23：14th18th、quadrilateral ahu、upland marae、coastal alliance；正文Some restored。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      },
+      {
+        "url": "https://whc.unesco.org/en/decisions/6895",
+        "locator": "Brief synthesis、Criterion iv：14—18世纪，山谷旧marae与滨海联盟中心。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1529/"
+  },
+  "topic-world200-architecture-pacific-port": {
+    "region": "大洋洲",
+    "country": "斐济（莱武卡）",
+    "era": "1820年代起发展，19世纪后期港口形态",
+    "start": 1820,
+    "end": 1900,
+    "dateLabel": "1820年代起发展，19世纪后期港口形态",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "这是19世纪后期太平洋港口例证，不是全部斐济传统乡村住房。",
+      "1874年割让与1882年迁都属于政治阶段，不是所有建筑的建造年。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1399/",
+        "locator": "Brief synthesis：1820s、single two storied timber weatherboard corrugated、hipped gable、shops and institutions。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1399/"
+  },
+  "topic-world200-architecture-tulou": {
+    "region": "亚洲",
+    "country": "中国（福建西南）",
+    "era": "15—20世纪；本专题以列入遗产的46座土楼为样本",
+    "start": 1401,
+    "end": 2000,
+    "dateLabel": "15—20世纪；本专题以列入遗产的46座土楼为样本",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "限定福建遗产样本，不等同所有客家或闽南住宅。",
+      "现存修缮照片不能直接恢复每一世纪的材料表面。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1113/",
+        "locator": "Description：15th and 20th centuries、circular or square；Outstanding Universal Value：communal response。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1113/"
+  },
+  "topic-world200-architecture-diaolou": {
+    "region": "亚洲",
+    "country": "中国（广东开平）",
+    "era": "19世纪末—20世纪初；碉楼传统可追溯明代",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19世纪末—20世纪初；碉楼传统可追溯明代",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "不是全部广东村落的普通住房模型。",
+      "年代取建筑繁盛阶段；明代起源不代表照片中的塔都建于明代。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1112/",
+        "locator": "Description：three forms、late 19th and early 20th centuries；Criterion iii：banditry。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1112/"
+  },
+  "topic-world200-architecture-naxi": {
+    "region": "亚洲",
+    "country": "中国（云南丽江）",
+    "era": "明清住宅街区；白沙更早的宋元阶段另计",
+    "start": 1368,
+    "end": 1911,
+    "dateLabel": "明清住宅街区；白沙更早的宋元阶段另计",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "只覆盖丽江遗产住房群，不能代表所有纳西村寨。",
+      "经历地震和修复；照片中的旅游店面不可直接搬入明清场景。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/811/",
+        "locator": "Brief synthesis：two-storeyed timber-framed houses；Criteria ii、iv、v；Authenticity：Ming and Qing。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/811/"
+  },
+  "topic-world200-architecture-hoian": {
+    "region": "亚洲",
+    "country": "越南（会安）",
+    "era": "17—18世纪现存木构街景；港口活跃于15—19世纪",
+    "start": 1601,
+    "end": 1800,
+    "dateLabel": "17—18世纪现存木构街景；港口活跃于15—19世纪",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "限定会安商港；不是所有越南住宅共有前街后河。",
+      "官方封面为日本桥，属交通宗教建筑例证，不能当商住平面照片。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/948/",
+        "locator": "Brief synthesis：1107 timber frame buildings、front streets backs river；surviving 17th and 18th centuries。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/948/"
+  },
+  "topic-world200-architecture-lao": {
+    "region": "亚洲",
+    "country": "老挝（琅勃拉邦）",
+    "era": "19—20世纪融合街景；寺院与聚落另有早期阶段",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19—20世纪融合街景；寺院与聚落另有早期阶段",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "仅为琅勃拉邦城市融合实例，不能推作老挝乡村统一样式。",
+      "19—20世纪是融合阶段，不是每座寺院的建造年份。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/479/",
+        "locator": "Brief synthesis：each with its temple、colonial morphology；Criterion ii：19th and 20th century。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/479/"
+  },
+  "topic-world200-architecture-caravanserai": {
+    "region": "亚洲",
+    "country": "伊朗（多省历史道路）",
+    "era": "公元前5世纪—20世纪初的建筑传统；各遗存分期不同",
+    "start": -500,
+    "end": 1925,
+    "dateLabel": "公元前5世纪—20世纪初的建筑传统；各遗存分期不同",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "本页提供地域与使用差别，具体平面需继续核对各驿站资料。",
+      "古代传统起点不等于全部54座建筑始建年；照片可能是遗迹。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1668/",
+        "locator": "Brief synthesis：roadside inns、different climate and geographical locations；Criterion iii：5th century BC to early 20th。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1668/"
+  },
+  "topic-world200-architecture-persian-garden": {
+    "region": "亚洲",
+    "country": "伊朗（九省园林系列）",
+    "era": "传统根源为公元前6世纪；现存九园分属不同时期",
+    "start": -600,
+    "end": null,
+    "dateLabel": "传统根源为公元前6世纪；现存九园分属不同时期",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "四分原则并不要求每园尺寸、植栽或亭阁位置相同。",
+      "起源年代只说明设计传统；不可给照片中的建筑标公元前6世纪。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1372/",
+        "locator": "Description：6th century BC、four sectors；Brief synthesis；Criterion iii：private residences、palaces、religious institutions。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1372/"
+  },
+  "topic-world200-architecture-qanat": {
+    "region": "亚洲",
+    "country": "伊朗（干旱地区）",
+    "era": "延续数世纪的传统水利；本页未逐一给出始建年",
+    "start": null,
+    "end": null,
+    "dateLabel": "延续数世纪的传统水利；本页未逐一给出始建年",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "年代未逐井确认，数字范围保留空值。",
+      "机构图片是系统关联建筑例证，不能据地面外观复原看不见的全部隧道。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1506/",
+        "locator": "Brief synthesis：mother well、shafts、hamams reservoirs watermills；全文未逐井始建年。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1506/"
+  },
+  "topic-world200-architecture-yazd": {
+    "region": "亚洲",
+    "country": "伊朗（亚兹德）",
+    "era": "传统住宅持续改建；部分为萨法维、卡扎尔时期",
+    "start": null,
+    "end": null,
+    "dateLabel": "传统住宅持续改建；部分为萨法维、卡扎尔时期",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "不把所有亚兹德住宅都画成大商人宅。",
+      "个别住宅年代未逐项确认，拍摄2009年不等于建造2009年。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1544/",
+        "locator": "Brief synthesis：courtyards below ground、wind catchers；Integrity：modest to very large houses；Supplementary Information住宅分期。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1544/"
+  },
+  "topic-world200-architecture-nepal-sacred": {
+    "region": "亚洲",
+    "country": "尼泊尔（加德满都谷地）",
+    "era": "多时期宗教传统；各塔寺年代须分别确认",
+    "start": null,
+    "end": null,
+    "dateLabel": "多时期宗教传统；各塔寺年代须分别确认",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "不能把谷地七处遗产当成一座统一平面的寺庙。",
+      "昌古纳拉扬5世纪铭文年代不可套在图中其他佛塔上。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/121/",
+        "locator": "Brief synthesis：seven zones、Swayambhu、Bauddhanath、Pashupati、Changu Narayan；第五世纪为铭文。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/121/"
+  },
+  "topic-world200-architecture-bukhara": {
+    "region": "亚洲",
+    "country": "乌兹别克斯坦（布哈拉）",
+    "era": "16—17世纪公共建筑为主；早期遗存另计",
+    "start": 1501,
+    "end": 1700,
+    "dateLabel": "16—17世纪公共建筑为主；早期遗存另计",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "没有把10世纪陵墓的日期用于16—17世纪学院。",
+      "遗产封面只作建筑群外观例证；具体学院或商场平面需逐栋核对。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/602/",
+        "locator": "Brief synthesis：Sheibani period、medresseh、Taki Sarafon、Taki-Tilpak-Furushan；1652学院。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/602/"
+  },
+  "topic-world200-architecture-anhui": {
+    "region": "亚洲",
+    "country": "中国（安徽黟县）",
+    "era": "14—20世纪保存的地域村落形态",
+    "start": 1301,
+    "end": 2000,
+    "dateLabel": "14—20世纪保存的地域村落形态",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "两村布局变体不是徽州全部住宅的正式分类。",
+      "建筑样本14—20世纪，不以聚落传说或某张拍摄日期替代房屋分期。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1002/",
+        "locator": "Brief synthesis：14th and 20th centuries、returning merchants、Xidi streams、Hongcun pools。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1002/"
+  },
+  "topic-world200-architecture-hadrami": {
+    "region": "亚洲",
+    "country": "也门（希巴姆）",
+    "era": "16—19世纪城市住宅传统",
+    "start": 1501,
+    "end": 1900,
+    "dateLabel": "16—19世纪城市住宅传统",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "这里按高度作绘画对照，不冒充机构的正式住宅分型。",
+      "城内清真寺和城堡更早，不能把整座城所有建筑都标16世纪。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/192/",
+        "locator": "Brief synthesis：up to seven storeys、1532-3 flood；Criteria iii、iv：16th to 19th、no ground fenestration。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/192/"
+  },
+  "topic-world200-architecture-bazaar": {
+    "region": "亚洲",
+    "country": "伊朗（大不里士）",
+    "era": "18世纪地震后存世建筑；传统贸易活动12—18世纪",
+    "start": 1780,
+    "end": 1800,
+    "dateLabel": "18世纪地震后存世建筑；传统贸易活动12—18世纪",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "这里只说明功能分区，不能据总述编造每个厅堂平面。",
+      "现存结构反映1780年地震后营建，不等于全部出自13世纪。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1346/",
+        "locator": "Brief synthesis：commercial social educational religious；Integrity and Authenticity：constructed after 1780 earthquake。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1346/"
+  },
+  "topic-world200-architecture-pearling-houses": {
+    "region": "亚洲",
+    "country": "巴林（穆哈拉格）",
+    "era": "19世纪末—20世纪初采珠业繁盛期",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19世纪末—20世纪初采珠业繁盛期",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "传统采珠从古代延续，不表示现存商宅也始建于公元2世纪。",
+      "图像为2009年保存状态；不可直接宣称所有现存建筑未经重建。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1364/",
+        "locator": "Brief synthesis、Integrity：late 19th early 20th；Description：residences shops storehouses；Maps：Majlis。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1364/"
+  },
+  "topic-world200-architecture-oasis-fortified": {
+    "region": "亚洲",
+    "country": "伊朗（巴姆地区）",
+    "era": "7—11世纪繁盛期；遗存多期，2003年地震后修复",
+    "start": 601,
+    "end": 1100,
+    "dateLabel": "7—11世纪繁盛期；遗存多期，2003年地震后修复",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "7—11世纪是繁盛阶段，不是所有墙体的统一建造期。",
+      "2003年地震造成严重破坏；官方旧图不应标成2026年现状。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1208/",
+        "locator": "Brief synthesis：governor quarters fortified residential、chineh khesht；Description：7th to 11th；Integrity：earthquake。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1208/"
+  },
+  "topic-world200-architecture-trulli": {
+    "region": "欧洲",
+    "country": "意大利（伊特里亚谷地）",
+    "era": "14世纪中期以来的现存传统；18世纪城镇扩展",
+    "start": 1350,
+    "end": 1800,
+    "dateLabel": "14世纪中期以来的现存传统；18世纪城镇扩展",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "本专题限定伊特里亚地方传统，不把地中海全部石棚都叫trullo。",
+      "中期14世纪是现存传统样本下限，不等于所有石顶房子的具体年。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/787/",
+        "locator": "Brief synthesis：mid-14th、temporary field shelters storehouses permanent dwellings、double skin、corbelled slabs。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/787/"
+  },
+  "topic-world200-architecture-matera": {
+    "region": "欧洲",
+    "country": "意大利（马泰拉）",
+    "era": "8世纪后居住扩展；15—18世纪持续增层",
+    "start": 701,
+    "end": 1800,
+    "dateLabel": "8世纪后居住扩展；15—18世纪持续增层",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "史前首次占居不能当作照片洞居的建造年。",
+      "1950年代迁出、1980年代恢复使用；保存场景不能直接复制成连续不变的生活史。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/670/",
+        "locator": "Brief synthesis：8th century cave occupation、simple caves enclosed blocks、houses churches workshops；Authenticity迁出恢复。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/670/"
+  },
+  "topic-world200-architecture-roros": {
+    "region": "欧洲",
+    "country": "挪威（勒罗斯）",
+    "era": "1646年矿城形成；1679年后重建至20世纪矿业延续",
+    "start": 1646,
+    "end": 1977,
+    "dateLabel": "1646年矿城形成；1679年后重建至20世纪矿业延续",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "黑化木立面不代表中世纪建造，正文明确现城1646年后形成。",
+      "一层两层是有据尺度对照，不能据此编造全部住宅的内部平面。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/55/",
+        "locator": "Description：one and two storey houses、rebuilt after1679；Brief synthesis：1646、winter route；1977终止矿业。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/55/"
+  },
+  "topic-world200-architecture-malopolska": {
+    "region": "欧洲",
+    "country": "波兰（小波兰南部）",
+    "era": "中世纪哥特式木建造传统；各教堂分期需单独核对",
+    "start": null,
+    "end": null,
+    "dateLabel": "中世纪哥特式木建造传统；各教堂分期需单独核对",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。单体建造期未确认，未知边界保留空值。",
+    "notes": [
+      "中世纪传统不等于所有现存彩绘同年，后期装饰须另核。",
+      "只覆盖小波兰罗马天主教类型，不套给所有东欧木教堂。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1053/",
+        "locator": "Description：medieval log construction；Integrity：tower post and beam、tripartite except towerless Lipnica、paintings。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1053/"
+  },
+  "topic-world200-architecture-slovak-wooden": {
+    "region": "欧洲",
+    "country": "斯洛伐克（喀尔巴阡山区）",
+    "era": "16—18世纪八座木教堂系列",
+    "start": 1501,
+    "end": 1800,
+    "dateLabel": "16—18世纪八座木教堂系列",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "正文归类教派，不提供每间室内完整尺寸；具体平面仍需单栋资料。",
+      "16—18世纪是系列建造范围，不是每座现存修复部件都属此时。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1273/",
+        "locator": "Outstanding Universal Value：eight、Roman Catholic Protestant Greek Orthodox、16th18th、typological variations。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1273/"
+  },
+  "topic-world200-architecture-fortified-church": {
+    "region": "欧洲",
+    "country": "罗马尼亚（南特兰西瓦尼亚）",
+    "era": "13—16世纪教堂形式；村落组织保留中世纪晚期特征",
+    "start": 1201,
+    "end": 1600,
+    "dateLabel": "13—16世纪教堂形式；村落组织保留中世纪晚期特征",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "本条按用途划分建筑组构成，不宣称为机构给出的两种正式房式。",
+      "这里只使用机构给定共性，围墙层数和军防细节不能照一村复制到所有村。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/596/",
+        "locator": "Description：seven Saxon villages、family farmstead、fortified churches 13th16th；系列共性。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/596/"
+  },
+  "topic-world200-architecture-russian-pogost": {
+    "region": "欧洲",
+    "country": "俄罗斯（卡累利阿）",
+    "era": "18—19世纪教区建筑；显圣容教堂木料测年为1713—1714年后，钟楼1862年",
+    "start": 1714,
+    "end": 1862,
+    "dateLabel": "18—19世纪教区建筑；显圣容教堂木料测年为1713—1714年后，钟楼1862年",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "这是北方地方教区组合例证，不是全部俄罗斯教堂的统一标准。",
+      "19世纪覆板白漆和金属穹面在20世纪修复中改变；照片不能代表所有历史阶段。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/544/",
+        "locator": "Description：18th wooden churches19th belltower；Brief synthesis：1714 1764；Authenticity：1949-59 restoration。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      },
+      {
+        "url": "https://whc.unesco.org/document/153718",
+        "locator": "第43页：较大的北侧夏季教堂、南侧冬季教堂；北方分散教区建筑组合。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/544/"
+  },
+  "topic-world200-architecture-swedish-festive": {
+    "region": "欧洲",
+    "country": "瑞典（海尔辛兰及相邻地区）",
+    "era": "18—19世纪农庄；重要室内装饰1800—1870年",
+    "start": 1800,
+    "end": 1870,
+    "dateLabel": "18—19世纪农庄；重要室内装饰1800—1870年",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "不是全体瑞典农民住房都拥有精装宴庆套间。",
+      "1800—1870是重要装饰房间范围，不表示各农庄全部房屋同年建成。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1282/",
+        "locator": "Brief synthesis：Herrstuga or rooms main house、festivities、flax woodland；Authenticity：1800-1870 key rooms。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1282/"
+  },
+  "topic-world200-architecture-porticoes": {
+    "region": "欧洲",
+    "country": "意大利（博洛尼亚）",
+    "era": "12—21世纪持续建造的柱廊系列",
+    "start": 1101,
+    "end": 2026,
+    "dateLabel": "12—21世纪持续建造的柱廊系列",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "不是全意大利城市都执行博洛尼亚相同的柱廊制度。",
+      "12—21世纪是系列延续范围；现代梁柱不能随意放入中世纪街景。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1650/",
+        "locator": "Description：12th to present、wood stone brick concrete、Barca；Brief synthesis：1288 statute、public use。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1650/"
+  },
+  "topic-world200-architecture-mill-village": {
+    "region": "欧洲",
+    "country": "英国（苏格兰）",
+    "era": "18世纪末—19世纪初工厂村类型",
+    "start": 1701,
+    "end": 1900,
+    "dateLabel": "18世纪末—19世纪初工厂村类型",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "这里只从整体体系分类，厂房机械和家屋平面不能由总述编造。",
+      "此例带有特定雇主管理制度，不代表所有英国产业工人都享有同样设施。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/429/",
+        "locator": "Description：18th village19th community、cotton mills housing institute school；Brief synthesis：Falls Clyde。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/429/"
+  },
+  "topic-world200-architecture-saltaire": {
+    "region": "欧洲",
+    "country": "英国（英格兰西约克郡）",
+    "era": "19世纪中叶及后半叶工业村建筑",
+    "start": 1850,
+    "end": 1900,
+    "dateLabel": "19世纪中叶及后半叶工业村建筑",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "不是每个工厂村都包含全部服务设施；这里是特定规划模型。",
+      "19世纪中叶不是所有后期附属设施的精确建成年，现存建筑有持续维护。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/1028/",
+        "locator": "Brief synthesis：second half19th、hierarchical employees housing、Dining Room hospital school institute park。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/1028/"
+  },
+  "topic-world200-architecture-bohemian-farms": {
+    "region": "欧洲",
+    "country": "捷克（南波希米亚）",
+    "era": "18—19世纪地方建筑；地块格局沿用中世纪基础",
+    "start": 1701,
+    "end": 1900,
+    "dateLabel": "18—19世纪地方建筑；地块格局沿用中世纪基础",
+    "dateBasis": "年代取机构正文给出的建筑、传统或发展阶段；世纪起止仅作该时段的编排包络。不将申遗年或摄影年用作施工年。",
+    "notes": [
+      "中世纪是村庄布局基础，不是现存全部彩饰立面的建造年代。",
+      "部分室内经历明显改造，现存外观不能证明古代各间用途完整保留。"
+    ],
+    "evidence": [
+      {
+        "url": "https://whc.unesco.org/en/list/861/",
+        "locator": "Brief synthesis：23 farmsteads、U-shaped、village green、smaller houses、18th19th；Authenticity：interior changes。",
+        "text": "建筑共性、用途与年代依据；图像日期不作建筑施工年。"
+      }
+    ],
+    "source": "https://whc.unesco.org/en/list/861/"
+  },
+  "topic-world200-objects-hookah-bases": {
+    "region": "亚洲",
+    "country": "印度",
+    "era": "约1750—1800年及19世纪初实物",
+    "start": 1750,
+    "end": 1830,
+    "dateLabel": "约1750—1800年及19世纪初实物",
+    "dateBasis": "证据",
+    "notes": [
+      "部分倒蕾形器需手持或另用支架，不能把所有金属底座都画成自立。",
+      "bidri各地工艺不同，黑地银纹不能一概称为同一种嵌银手法。"
+    ],
+    "evidence": [
+      {
+        "url": "https://collections.lacma.org/object/43879",
+        "locator": "正文连接口、手持/支架、bidri合金与银饰技术",
+        "text": "separate spouts for connecting the combustion bowl"
+      },
+      {
+        "url": "https://collections.lacma.org/object/463",
+        "locator": "正文球形支环、平底出现与18世纪普及；记录年代",
+        "text": "正文球形支环、平底出现与18世纪普及；记录年代"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/74672",
+        "locator": "正文宫廷用途和银、bidri、彩玻璃的材料；图为19世纪设计稿",
+        "text": "正文宫廷用途和银、bidri、彩玻璃的材料；图为19世纪设计稿"
+      }
+    ],
+    "source": "https://collections.lacma.org/object/43879"
+  },
+  "topic-world200-objects-kuba-cups": {
+    "region": "非洲",
+    "country": "刚果民主共和国",
+    "era": "19—20世纪",
+    "start": 1800,
+    "end": 1999,
+    "dateLabel": "19—20世纪",
+    "dateBasis": "证据",
+    "notes": [
+      "精英委托的华丽杯不代表每户日常都使用同样的木雕。",
+      "Cleveland图像登记为Kuba-style maker；风格归属不能擅改为已知作者或确定族群。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/310070",
+        "locator": "正文L13–19：纹样、精英、棕榈酒及仿鼓；Date:19th–20th century",
+        "text": "used a wide variety of unique vessels to drink palm wine"
+      },
+      {
+        "url": "https://high.org/collection/cup-2/",
+        "locator": "正文full figures or human heads及库巴发式",
+        "text": "正文full figures or human heads及库巴发式"
+      },
+      {
+        "url": "https://www.clevelandart.org/art/1954.374",
+        "locator": "Wood、early 1900s、Kuba-style maker；提供例图年代与材料",
+        "text": "Wood、early 1900s、Kuba-style maker；提供例图年代与材料"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/310070"
+  },
+  "topic-world200-objects-pueblo-waterjars": {
+    "region": "美洲",
+    "country": "美国（新墨西哥）",
+    "era": "约1790年实物；1993年机构分类记录",
+    "start": 1790,
+    "end": 1993,
+    "dateLabel": "约1790年实物；1993年机构分类记录",
+    "dateBasis": "证据",
+    "notes": [
+      "“可能抽象鸟”是机构对1790年图像的保留解释，不能把旋纹直接等同后期侧面鸟纹。",
+      "1993年是研究出版年；装饰分类不能独立判断制作年代，本文不证明完整演变线。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/717564",
+        "locator": "正文earliest Acomita型共性、可能鸟及观念；Date:ca.1790",
+        "text": "short, undecorated necks, bulbous mid-bodies"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/318293",
+        "locator": "Artwork Details：Water Jar，Acoma Pueblo，about 1880，Ceramic",
+        "text": "Artwork Details：Water Jar，Acoma Pueblo，about 1880，Ceramic"
+      },
+      {
+        "url": "https://content.byui.edu/file/6de0c5aa-4c2c-488e-b452-305576828f3d/1/SorensenCollection_CartmillReport_red.pdf",
+        "locator": "印刷第18页Acoma Pottery：bird/flower与geometric两类、鸟侧面与羽；版权页1993",
+        "text": "There are principally two styles of Acoma pottery"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/717564"
+  },
+  "topic-world200-objects-pomo-baskets": {
+    "region": "美洲",
+    "country": "美国（加利福尼亚）",
+    "era": "约1900年例；机构传统工艺综述",
+    "start": 1895,
+    "end": 1905,
+    "dateLabel": "约1900年例；机构传统工艺综述",
+    "dateBasis": "证据",
+    "notes": [
+      "配图大篮的体量和保存状况让机构推测它为市场或私人委托所作，不能保证曾采集使用。",
+      "此页波莫掌握两大编法的事实不能直接推广到所有美洲民族。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/exhibitions/jules-tavernier/visiting-guide",
+        "locator": "Pomo Basketmaking段：用途与twining/coiling定义",
+        "text": "interlacing supple strands between vertical foundation rods"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/736315",
+        "locator": "正文可能市场/私委托；Artwork Details列willow/sedge/redbud等；Date:ca.1900",
+        "text": "正文可能市场/私委托；Artwork Details列willow/sedge/redbud等；Date:ca.1900"
+      }
+    ],
+    "source": "https://www.metmuseum.org/exhibitions/jules-tavernier/visiting-guide"
+  },
+  "topic-world200-objects-haida-bentwood": {
+    "region": "美洲",
+    "country": "加拿大（西北海岸）",
+    "era": "1901年或更早的实物；机构当代工艺说明",
+    "start": null,
+    "end": 1901,
+    "dateLabel": "1901年或更早的实物；机构当代工艺说明",
+    "dateBasis": "证据",
+    "notes": [
+      "机构为图示器物注明1901年或更早，具体起始年未知，不擅补某一朝代或十年。",
+      "彩绘、盖、尺寸和用途并非每个弯木箱一律相同；此页不概括全加拿大木器。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/",
+        "locator": "正文单板、kerf/steam/corner alignment及多种用途；教学分类页",
+        "text": "made from a single piece of wood"
+      },
+      {
+        "url": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/bentwood-box-2/",
+        "locator": "Details：Date 1901 or earlier；材料cedar、cedar bark、operculum shells；Historical Context绳跨盖作提手、贮存运输用途",
+        "text": "Details：Date 1901 or earlier；材料cedar、cedar bark、operculum shells；Historical Context绳跨盖作提手、贮存运输用途"
+      }
+    ],
+    "source": "https://www.historymuseum.ca/teachers-zone/haida-arts-and-technologies/bentwood-boxes/"
+  },
+  "topic-world200-objects-andean-keros": {
+    "region": "美洲",
+    "country": "秘鲁",
+    "era": "15—18世纪",
+    "start": 1400,
+    "end": 1799,
+    "dateLabel": "15—18世纪",
+    "dateBasis": "证据",
+    "notes": [
+      "殖民时期延续杯名但语境和图像改变，不能把殖民人物纹样直接画进印加国家。",
+      "成对是印加礼仪常规，不等于每件存世木杯都保存着原来的配对。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/316839",
+        "locator": "正文kero/aquilla、成对及2–4分带；Date:15th–early 16th century",
+        "text": "Both vessels had the same size, shape, and decoration"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/316851",
+        "locator": "正文树脂图像、猫科柄及殖民构图；Date:17th–18th century",
+        "text": "正文树脂图像、猫科柄及殖民构图；Date:17th–18th century"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/313267",
+        "locator": "正文chicha礼仪与殖民延续；Date:1400–1535 CE",
+        "text": "正文chicha礼仪与殖民延续；Date:1400–1535 CE"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/316839"
+  },
+  "topic-world200-objects-maori-kete": {
+    "region": "大洋洲",
+    "country": "新西兰",
+    "era": "1800—1833年例及1997年制作记录",
+    "start": 1800,
+    "end": 1997,
+    "dateLabel": "1800—1833年例及1997年制作记录",
+    "dateBasis": "证据",
+    "notes": [
+      "1800—1833年旧袋的iwi来源未知，不能擅指定族群。",
+      "1997年例的木扣、棉衬和盖是当代实物记录，不能回填到所有旧kete。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.kotuia.org.nz/kete-sets/exploring-types-of-kete/",
+        "locator": "各kete类别及用途；kete kai孔隙排水去土",
+        "text": "enabling water or dirt to escape through the holes"
+      },
+      {
+        "url": "https://www.tepapa.govt.nz/digital-museum/explore-digital-museum/maori/maori-weaving",
+        "locator": "Types of weaving：raranga；Kete whakairo图注1800–1833及来源未知",
+        "text": "Types of weaving：raranga；Kete whakairo图注1800–1833及来源未知"
+      },
+      {
+        "url": "https://collections.tepapa.govt.nz/object/539659",
+        "locator": "Overview：1997年平底、盖、木扣、棉衬袋",
+        "text": "Overview：1997年平底、盖、木扣、棉衬袋"
+      }
+    ],
+    "source": "https://www.kotuia.org.nz/kete-sets/exploring-types-of-kete/"
+  },
+  "topic-world200-objects-pacific-kava-set": {
+    "region": "大洋洲",
+    "country": "汤加、萨摩亚或斐济",
+    "era": "19世纪实物；机构当代用途记录",
+    "start": 1800,
+    "end": 1899,
+    "dateLabel": "19世纪实物；机构当代用途记录",
+    "dateBasis": "证据",
+    "notes": [
+      "Met例族属为Samoa or Fiji；不可删去“或”而硬指为单一国家。",
+      "汤加的用途记录不能证明各太平洋群体有同一人数、程序或椰壳杯式。"
+    ],
+    "evidence": [
+      {
+        "url": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/",
+        "locator": "正文木碗制备、formal serving in coconut shell cups；图注1800s",
+        "text": "formal serving of kava in coconut shell cups"
+      },
+      {
+        "url": "https://www.metmuseum.org/art/collection/search/313657",
+        "locator": "Artwork Details：Samoa or Fiji，19th century，Wood, fiber",
+        "text": "Artwork Details：Samoa or Fiji，19th century，Wood, fiber"
+      }
+    ],
+    "source": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/"
   }
 };
