@@ -20431,5 +20431,719 @@
       ],
       "examples": []
     }
+  },
+  {
+    "id": "topic-east2-qing-study",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "清宫书房分型：教育、顾问、阅览与修养",
+    "region": "中国",
+    "period": "清（1644—1911年）；北京宫廷",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/subject_study/know.html",
+    "content": "按故宫研究的四种用途比较清宫书房，区分读书授课、词臣入值、集中藏书与私人修养。",
+    "use": "先定授课、召对、取书或私人赏玩，再安排书架、桌案、坐席与参与者。",
+    "caution": "限定北京清宫，不代表民间书斋。",
+    "find": "清宫书房分型：教育、顾问、阅览与修养 东亚古代续编20261003 东亚古代",
+    "collect": "共同特征、用途分型、地区年代与机构原图",
+    "check": "2026年10月3日核对正文及原图；逐项依据见专题。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "清（1644—1911年）；北京宫廷",
+      "start": 1644,
+      "end": 1911,
+      "dateLabel": "清（1644—1911年）；北京宫廷",
+      "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+      "notes": [
+        "限定北京清宫，不代表民间书斋。",
+        "照片是保存、修缮后的现状；文渊阁实例不能代表全部清宫书房。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dpm.org.cn/subject_study/know.html",
+          "locator": "教育、顾问、阅览、修养四类及分期。",
+          "text": "研究范围、分型与功能依据。"
+        },
+        {
+          "url": "https://www.dpm.org.cn/explore/building/236513.html",
+          "locator": "藏书、层次与内景图注。",
+          "text": "研究范围、分型与功能依据。"
+        },
+        {
+          "url": "https://www.dpm.org.cn/explore/building/236531.html",
+          "locator": "春秋经筵用途及建筑现状。",
+          "text": "研究范围、分型与功能依据。"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/subject_study/know.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east2-cn_wenyuan-5.jpg",
+        "full": "绘画参考资源/例图/east2-cn_wenyuan-5.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/1538%5B1024%5D.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236513.html",
+        "caption": "文渊阁三层内景保存现状；阅览与藏书空间例证。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1024,
+        "height": 679
+      },
+      {
+        "src": "绘画参考资源/例图/east2-cn_wenyuan-8.jpg",
+        "full": "绘画参考资源/例图/east2-cn_wenyuan-8.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/1537%5B1024%5D.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236513.html",
+        "caption": "文渊阁一层中间内景保存现状；非清代活动现场。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1024,
+        "height": 717
+      },
+      {
+        "src": "绘画参考资源/例图/east2-cn_wenhua-5.jpg",
+        "full": "绘画参考资源/例图/east2-cn_wenhua-5.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/2020/07/03/s5efefcc7102ae.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236531.html",
+        "caption": "文华殿外部保存现状；经筵建筑实例，非历史讲学现场。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1000,
+        "height": 666
+      }
+    ],
+    "topic": {
+      "scope": "按故宫研究的四种用途比较清宫书房，区分读书授课、词臣入值、集中藏书与私人修养。",
+      "common": [
+        {
+          "title": "功能有别",
+          "text": "书房名称不等于相同用途；寝居、办公和阅读空间可处在同一建筑区域。",
+          "refs": [
+            "cn_bookrooms"
+          ]
+        },
+        {
+          "title": "设置分期",
+          "text": "早期集中于若干政寝区域，乾隆朝大量增设，不是一张从清初到清末不变的布局。",
+          "refs": [
+            "cn_bookrooms"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "教育类",
+          "feature": "皇子授课与皇帝经筵的地点、参加者不同。",
+          "refs": [
+            "cn_bookrooms",
+            "cn_wenhua"
+          ]
+        },
+        {
+          "name": "顾问类",
+          "feature": "词臣入值供召对，与私人读书场景不同。",
+          "refs": [
+            "cn_bookrooms"
+          ]
+        },
+        {
+          "name": "阅览与修养",
+          "feature": "文渊阁等集中藏书，私人书房另兼收藏及文事活动。",
+          "refs": [
+            "cn_bookrooms",
+            "cn_wenyuan"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "教育、咨议、编书收藏和文事活动的需求，使书房形成不同规模和陈设。",
+          "refs": [
+            "cn_bookrooms"
+          ]
+        }
+      ],
+      "limits": [
+        "限定北京清宫，不代表民间书斋。",
+        "照片是保存、修缮后的现状；文渊阁实例不能代表全部清宫书房。"
+      ],
+      "drawing": "先定授课、召对、取书或私人赏玩，再安排书架、桌案、坐席与参与者。",
+      "sources": [
+        {
+          "id": "cn_bookrooms",
+          "title": "故宫博物院 · 紫禁书房知多少",
+          "url": "https://www.dpm.org.cn/subject_study/know.html",
+          "locator": "教育、顾问、阅览、修养四类及分期。"
+        },
+        {
+          "id": "cn_wenyuan",
+          "title": "故宫博物院 · 文渊阁",
+          "url": "https://www.dpm.org.cn/explore/building/236513.html",
+          "locator": "藏书、层次与内景图注。"
+        },
+        {
+          "id": "cn_wenhua",
+          "title": "故宫博物院 · 文华殿",
+          "url": "https://www.dpm.org.cn/explore/building/236531.html",
+          "locator": "春秋经筵用途及建筑现状。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east2-japan-functional-buildings",
+    "module": "architecture",
+    "category": "houses",
+    "name": "19世纪日本民间功能建筑：歌舞伎舞台与高床仓库",
+    "region": "日本",
+    "period": "19世纪（1857—1900年研究范围）；跨江户末期与明治",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nihonminkaen.jp/other_english.html",
+    "content": "比较三重县舞台与鹿儿岛县仓库的原址、用途及结构，区分表演、准备和储存的空间需求。",
+    "use": "先定建筑职能及地区，再画入口、台面与附属间；避免把住宅平面套入仓库或舞台。",
+    "caution": "只是两地区的功能建筑比较，不代表全部日本仓库或戏台。",
+    "find": "19世纪日本民间功能建筑：歌舞伎舞台与高床仓库 东亚古代续编20261003 东亚古代",
+    "collect": "共同特征、用途分型、地区年代与机构原图",
+    "check": "2026年10月3日核对正文及原图；逐项依据见专题。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "19世纪（1857—1900年研究范围）；跨江户末期与明治",
+      "start": 1857,
+      "end": 1900,
+      "dateLabel": "19世纪（1857—1900年研究范围）；跨江户末期与明治",
+      "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+      "notes": [
+        "只是两地区的功能建筑比较，不代表全部日本仓库或戏台。",
+        "照片为移筑保存后的现状；仓库属于19世纪后期，不能移用于较早江户场景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nihonminkaen.jp/other_english.html",
+          "locator": "12号高床仓库、20号船越歌舞伎舞台的原址、形式、尺度及年代。",
+          "text": "研究范围、分型与功能依据。"
+        }
+      ],
+      "source": "https://www.nihonminkaen.jp/other_english.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east2-jp_workbuild-7.jpg",
+        "full": "绘画参考资源/例图/east2-jp_workbuild-7.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/20_kabuki_stage.jpg",
+        "source": "https://www.nihonminkaen.jp/other_english.html",
+        "caption": "三重县船越歌舞伎舞台，1857年；移筑保存现状，图中活动为现代展示。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "src": "绘画参考资源/例图/east2-jp_workbuild-6.jpg",
+        "full": "绘画参考资源/例图/east2-jp_workbuild-6.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/12_warehouse_on_stilts.jpg",
+        "source": "https://www.nihonminkaen.jp/other_english.html",
+        "caption": "鹿儿岛县高床仓库，19世纪后期；移筑保存现状。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "topic": {
+      "scope": "比较三重县舞台与鹿儿岛县仓库的原址、用途及结构，区分表演、准备和储存的空间需求。",
+      "common": [
+        {
+          "title": "用途先于外观",
+          "text": "仓库与舞台的屋顶、体量、入口和附属空间有明显区别。",
+          "refs": [
+            "jp_workbuild"
+          ]
+        },
+        {
+          "title": "地区不能混用",
+          "text": "舞台来自三重县志摩，仓库来自鹿儿岛县大岛郡，不是同一村落的通用两栋建筑。",
+          "refs": [
+            "jp_workbuild"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "高床仓库",
+          "feature": "19世纪后期实例，茅草攒脊式四坡屋顶，长宽约2.7×2.5米。",
+          "refs": [
+            "jp_workbuild"
+          ]
+        },
+        {
+          "name": "歌舞伎舞台",
+          "feature": "1857年实例，前后屋顶不同，两侧有凸出空间，左侧另附更衣室。",
+          "refs": [
+            "jp_workbuild"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "据用途比较：表演建筑需要舞台及演出准备空间，储藏建筑以储物空间为主；此项为馆方记录的归纳。",
+          "refs": [
+            "jp_workbuild"
+          ]
+        }
+      ],
+      "limits": [
+        "只是两地区的功能建筑比较，不代表全部日本仓库或戏台。",
+        "照片为移筑保存后的现状；仓库属于19世纪后期，不能移用于较早江户场景。"
+      ],
+      "drawing": "先定建筑职能及地区，再画入口、台面与附属间；避免把住宅平面套入仓库或舞台。",
+      "sources": [
+        {
+          "id": "jp_workbuild",
+          "title": "川崎市立日本民家园 · Other buildings",
+          "url": "https://www.nihonminkaen.jp/other_english.html",
+          "locator": "12号高床仓库、20号船越歌舞伎舞台的原址、形式、尺度及年代。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east2-song-jian-tea",
+    "module": "objects",
+    "category": "vessels",
+    "name": "宋代建窑茶碗：器形、黑釉纹理与饮茶用途",
+    "region": "中国",
+    "period": "宋；11—12世纪建窑茶碗",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/perspectives/chinese-ceramics",
+    "content": "以博物馆茶碗研究比较福建建窑黑釉茶碗的用途和表面效果，并区分其中国生产与后来的日本收藏使用。",
+    "use": "画器皿组时把茶碗与水罐、贮茶器分开；兔毫随釉面处理，不画成规则刻线。",
+    "caution": "范围为11—12世纪建窑茶碗，不涵盖全部宋瓷、茶具及饮茶方式。",
+    "find": "宋代建窑茶碗：器形、黑釉纹理与饮茶用途 东亚古代续编20261003 东亚古代",
+    "collect": "共同特征、用途分型、地区年代与机构原图",
+    "check": "2026年10月3日核对正文及原图；逐项依据见专题。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "宋；11—12世纪建窑茶碗",
+      "start": 1001,
+      "end": 1200,
+      "dateLabel": "宋；11—12世纪建窑茶碗",
+      "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+      "notes": [
+        "范围为11—12世纪建窑茶碗，不涵盖全部宋瓷、茶具及饮茶方式。",
+        "图例只代表一件；金缮等后世修补不能回推为宋代制造特征。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/perspectives/chinese-ceramics",
+          "locator": "建窑生产、富铁黑釉及后来的日本收藏和修补。",
+          "text": "研究范围、分型与功能依据。"
+        },
+        {
+          "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+          "locator": "11—12世纪中国建窑茶碗图注及中国旧器再使用。",
+          "text": "研究范围、分型与功能依据。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/perspectives/chinese-ceramics"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east2-cn_tea-0.jpg",
+        "full": "绘画参考资源/例图/east2-cn_tea-0.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42455/1551585/main-image",
+        "source": "https://www.metmuseum.org/perspectives/chinese-ceramics",
+        "caption": "中国建窑兔毫釉茶碗，11—12世纪；观察器形与釉面。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1200,
+        "height": 901
+      }
+    ],
+    "topic": {
+      "scope": "以博物馆茶碗研究比较福建建窑黑釉茶碗的用途和表面效果，并区分其中国生产与后来的日本收藏使用。",
+      "common": [
+        {
+          "title": "生产集中",
+          "text": "研究将建窑与茶碗生产联系起来；不能因此说宋代所有茶具都出自建窑。",
+          "refs": [
+            "cn_tea"
+          ]
+        },
+        {
+          "title": "釉纹有材料基础",
+          "text": "富铁釉可呈深褐至黑色和兔毫等效果，不是统一绘上去的花纹。",
+          "refs": [
+            "cn_tea"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "茶碗",
+          "feature": "先看口、腹、足和内壁，再观察黑釉条纹。",
+          "refs": [
+            "cn_tea",
+            "jp_tea"
+          ]
+        },
+        {
+          "name": "再使用与修补",
+          "feature": "后来的收藏及修补属于器物经历，不能当成宋代原始装饰。",
+          "refs": [
+            "cn_tea"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "饮茶需求与对碗内色泽的关注，影响茶碗的选择；部分中国旧器后来进入日本茶事。",
+          "refs": [
+            "cn_tea",
+            "jp_tea"
+          ]
+        }
+      ],
+      "limits": [
+        "范围为11—12世纪建窑茶碗，不涵盖全部宋瓷、茶具及饮茶方式。",
+        "图例只代表一件；金缮等后世修补不能回推为宋代制造特征。"
+      ],
+      "drawing": "画器皿组时把茶碗与水罐、贮茶器分开；兔毫随釉面处理，不画成规则刻线。",
+      "sources": [
+        {
+          "id": "cn_tea",
+          "title": "Met · If Tea Bowls Could Talk",
+          "url": "https://www.metmuseum.org/perspectives/chinese-ceramics",
+          "locator": "建窑生产、富铁黑釉及后来的日本收藏和修补。"
+        },
+        {
+          "id": "jp_tea",
+          "title": "Met · The Japanese Tea Ceremony",
+          "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+          "locator": "11—12世纪中国建窑茶碗图注及中国旧器再使用。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east2-japan-tea-utensils",
+    "module": "objects",
+    "category": "vessels",
+    "name": "16—18世纪日本茶事器具：茶碗、水罐与茶入的用途分型",
+    "region": "日本",
+    "period": "16—18世纪；17世纪原图重点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+    "content": "从器物功能和选择方式理解茶事组合，比较茶碗、储水器和贮茶器，区分产地、材质和工艺。",
+    "use": "先分准备、贮存和饮用器具，再按年代与窑场选外形、材质和光泽。",
+    "caution": "研究范围16—18世纪，图例集中17世纪；不是固定的一套标准茶具。",
+    "find": "16—18世纪日本茶事器具：茶碗、水罐与茶入的用途分型 东亚古代续编20261003 东亚古代",
+    "collect": "共同特征、用途分型、地区年代与机构原图",
+    "check": "2026年10月3日核对正文及原图；逐项依据见专题。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "16—18世纪；17世纪原图重点",
+      "start": 1501,
+      "end": 1800,
+      "dateLabel": "16—18世纪；17世纪原图重点",
+      "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+      "notes": [
+        "研究范围16—18世纪，图例集中17世纪；不是固定的一套标准茶具。",
+        "茶事文化不能代表所有日本家庭日常饮茶的陈设。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+          "locator": "16世纪兴起、选器、跨地区器物及乐烧、备前等生产。",
+          "text": "研究范围、分型与功能依据。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east2-jp_tea-0.jpg",
+        "full": "绘画参考资源/例图/east2-jp_tea-0.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/62898/184176/main-image",
+        "source": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+        "caption": "黑乐茶碗，17世纪初；茶碗类型例证。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "src": "绘画参考资源/例图/east2-jp_tea-1.jpg",
+        "full": "绘画参考资源/例图/east2-jp_tea-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/63103/184181/main-image",
+        "source": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+        "caption": "备前水罐与漆盖，约1625年；储水器例证。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "src": "绘画参考资源/例图/east2-jp_tea-2.jpg",
+        "full": "绘画参考资源/例图/east2-jp_tea-2.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/53832/183160/main-image",
+        "source": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+        "caption": "野野村仁清茶入“Seitaka”，17世纪后半叶；贮茶器例证。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 900,
+        "height": 1200
+      }
+    ],
+    "topic": {
+      "scope": "从器物功能和选择方式理解茶事组合，比较茶碗、储水器和贮茶器，区分产地、材质和工艺。",
+      "common": [
+        {
+          "title": "用途各有分工",
+          "text": "茶碗、水罐、茶入和花器不是同一种容器；主人按聚会选器。",
+          "refs": [
+            "jp_tea"
+          ]
+        },
+        {
+          "title": "来源并不统一",
+          "text": "组合可包含中国旧器、朝鲜器和日本不同窑场产品。",
+          "refs": [
+            "jp_tea"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "茶碗",
+          "feature": "乐烧以手塑而非轮制为特点之一。",
+          "refs": [
+            "jp_tea"
+          ]
+        },
+        {
+          "name": "水罐",
+          "feature": "备前等窑的器物进入茶事，器形与表面不能套用乐茶碗。",
+          "refs": [
+            "jp_tea"
+          ]
+        },
+        {
+          "name": "茶入",
+          "feature": "小型贮茶器有专门用途，不能把水罐直接缩小代替。",
+          "refs": [
+            "jp_tea"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "茶人的选择与审美促使旧日用器重新被评价，也推动专门茶器的生产。",
+          "refs": [
+            "jp_tea"
+          ]
+        }
+      ],
+      "limits": [
+        "研究范围16—18世纪，图例集中17世纪；不是固定的一套标准茶具。",
+        "茶事文化不能代表所有日本家庭日常饮茶的陈设。"
+      ],
+      "drawing": "先分准备、贮存和饮用器具，再按年代与窑场选外形、材质和光泽。",
+      "sources": [
+        {
+          "id": "jp_tea",
+          "title": "Met · The Japanese Tea Ceremony",
+          "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+          "locator": "16世纪兴起、选器、跨地区器物及乐烧、备前等生产。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east2-edo-food-work",
+    "module": "people",
+    "category": "work",
+    "name": "江户城市餐饮职业：走售小贩、摊位与料理店",
+    "region": "日本",
+    "period": "江户（1657—1868年城市餐饮研究）；1838—1854年图例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/gourmet/page1-1.html",
+    "content": "比较街头餐饮到固定料理店的经营层次，整理售卖、备餐、服务、顾客与店面的关系。",
+    "use": "先定售卖形式和任务，再配挑担、摊位、餐具、坐席与服务人物。",
+    "caution": "限定江户城市餐饮，不代表全日本农村饮食。",
+    "find": "江户城市餐饮职业：走售小贩、摊位与料理店 东亚古代续编20261003 东亚古代",
+    "collect": "共同特征、用途分型、地区年代与机构原图",
+    "check": "2026年10月3日核对正文及原图；逐项依据见专题。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户（1657—1868年城市餐饮研究）；1838—1854年图例",
+      "start": 1657,
+      "end": 1868,
+      "dateLabel": "江户（1657—1868年城市餐饮研究）；1838—1854年图例",
+      "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+      "notes": [
+        "限定江户城市餐饮，不代表全日本农村饮食。",
+        "配图是历史版画，不能量化人数或直接恢复餐馆完整平面。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/gourmet/page1-1.html",
+          "locator": "走售、摊位、料理店及城市需求。",
+          "text": "研究范围、分型与功能依据。"
+        },
+        {
+          "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/modal/index.html?d=5372",
+          "locator": "1848—1854年歌川芳艶料理题材图及说明。",
+          "text": "研究范围、分型与功能依据。"
+        },
+        {
+          "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/modal/index.html?d=6129",
+          "locator": "1838年广重料理店版画及原址说明。",
+          "text": "研究范围、分型与功能依据。"
+        }
+      ],
+      "source": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/gourmet/page1-1.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east2-jp_food_restaurant-0.jpg",
+        "full": "绘画参考资源/例图/east2-jp_food_restaurant-0.jpg",
+        "original": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/0451-C023.jpg",
+        "source": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/modal/index.html?d=6129",
+        "caption": "歌川广重《白山庆性岳坊》，1838年；料理店与顾客的艺术表现。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1891,
+        "height": 1232
+      },
+      {
+        "src": "绘画参考资源/例图/east2-jp_food_detail-0.jpg",
+        "full": "绘画参考资源/例图/east2-jp_food_detail-0.jpg",
+        "original": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/upimage/big/024.jpg",
+        "source": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/modal/index.html?d=5372",
+        "caption": "歌川芳艶料理题材比较图，1848—1854年；不能据此当作全部菜品清单。",
+        "provider": "来源机构",
+        "credit": "原作、藏品及摄影署名见机构来源页",
+        "license": "遵循机构原图使用条款",
+        "related": false,
+        "width": 1628,
+        "height": 2296
+      }
+    ],
+    "topic": {
+      "scope": "比较街头餐饮到固定料理店的经营层次，整理售卖、备餐、服务、顾客与店面的关系。",
+      "common": [
+        {
+          "title": "营业形式不同",
+          "text": "走售小贩、摊位与固定店铺的人员和设施安排不同。",
+          "refs": [
+            "jp_food"
+          ]
+        },
+        {
+          "title": "城市需求推动餐饮",
+          "text": "馆方讨论武士家属、男性劳动人口等与外食需求的联系，不能据此说所有居民不在家做饭。",
+          "refs": [
+            "jp_food"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "走售与摊位",
+          "feature": "区分携行售卖与在一定位置备餐售卖。",
+          "refs": [
+            "jp_food"
+          ]
+        },
+        {
+          "name": "料理店",
+          "feature": "堂食、服务人员与固定营业空间形成不同场景。",
+          "refs": [
+            "jp_food",
+            "jp_food_restaurant"
+          ]
+        },
+        {
+          "name": "餐饮题材图",
+          "feature": "料理比较版画可查器具与活动，画面有编排和艺术处理。",
+          "refs": [
+            "jp_food_detail"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "城市人口、劳动及餐饮消费需求，使售卖形式形成多个层次。",
+          "refs": [
+            "jp_food"
+          ]
+        }
+      ],
+      "limits": [
+        "限定江户城市餐饮，不代表全日本农村饮食。",
+        "配图是历史版画，不能量化人数或直接恢复餐馆完整平面。"
+      ],
+      "drawing": "先定售卖形式和任务，再配挑担、摊位、餐具、坐席与服务人物。",
+      "sources": [
+        {
+          "id": "jp_food",
+          "title": "东京都立图书馆 · 江户餐饮",
+          "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/gourmet/page1-1.html",
+          "locator": "走售、摊位、料理店及城市需求。"
+        },
+        {
+          "id": "jp_food_detail",
+          "title": "东京都立图书馆 · 料理比较图",
+          "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/modal/index.html?d=5372",
+          "locator": "1848—1854年歌川芳艶料理题材图及说明。"
+        },
+        {
+          "id": "jp_food_restaurant",
+          "title": "东京都立图书馆 · 白山庆性岳坊",
+          "url": "https://www.library.metro.tokyo.lg.jp/portals/0/edo/tokyo_library/english/modal/index.html?d=6129",
+          "locator": "1838年广重料理店版画及原址说明。"
+        }
+      ],
+      "examples": []
+    }
   }
 ];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月3日";})();

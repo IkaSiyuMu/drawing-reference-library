@@ -7631,5 +7631,104 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758"
+  },
+  "topic-east2-qing-study": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "清（1644—1911年）；北京宫廷",
+    "start": 1644,
+    "end": 1911,
+    "dateLabel": "清（1644—1911年）；北京宫廷",
+    "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+    "notes": [
+      "限定北京清宫，不代表民间书斋。",
+      "照片是保存、修缮后的现状；文渊阁实例不能代表全部清宫书房。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.dpm.org.cn/subject_study/know.html",
+        "locator": "教育、顾问、阅览、修养四类及分期。",
+        "text": "研究范围、分型与功能依据。"
+      },
+      {
+        "url": "https://www.dpm.org.cn/explore/building/236513.html",
+        "locator": "藏书、层次与内景图注。",
+        "text": "研究范围、分型与功能依据。"
+      },
+      {
+        "url": "https://www.dpm.org.cn/explore/building/236531.html",
+        "locator": "春秋经筵用途及建筑现状。",
+        "text": "研究范围、分型与功能依据。"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/subject_study/know.html"
+  },
+  "topic-east2-japan-functional-buildings": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "19世纪（1857—1900年研究范围）；跨江户末期与明治",
+    "start": 1857,
+    "end": 1900,
+    "dateLabel": "19世纪（1857—1900年研究范围）；跨江户末期与明治",
+    "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+    "notes": [
+      "只是两地区的功能建筑比较，不代表全部日本仓库或戏台。",
+      "照片为移筑保存后的现状；仓库属于19世纪后期，不能移用于较早江户场景。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nihonminkaen.jp/other_english.html",
+        "locator": "12号高床仓库、20号船越歌舞伎舞台的原址、形式、尺度及年代。",
+        "text": "研究范围、分型与功能依据。"
+      }
+    ],
+    "source": "https://www.nihonminkaen.jp/other_english.html"
+  },
+  "topic-east2-song-jian-tea": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "宋；11—12世纪建窑茶碗",
+    "start": 1001,
+    "end": 1200,
+    "dateLabel": "宋；11—12世纪建窑茶碗",
+    "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+    "notes": [
+      "范围为11—12世纪建窑茶碗，不涵盖全部宋瓷、茶具及饮茶方式。",
+      "图例只代表一件；金缮等后世修补不能回推为宋代制造特征。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/perspectives/chinese-ceramics",
+        "locator": "建窑生产、富铁黑釉及后来的日本收藏和修补。",
+        "text": "研究范围、分型与功能依据。"
+      },
+      {
+        "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+        "locator": "11—12世纪中国建窑茶碗图注及中国旧器再使用。",
+        "text": "研究范围、分型与功能依据。"
+      }
+    ],
+    "source": "https://www.metmuseum.org/perspectives/chinese-ceramics"
+  },
+  "topic-east2-japan-tea-utensils": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "16—18世纪；17世纪原图重点",
+    "start": 1501,
+    "end": 1800,
+    "dateLabel": "16—18世纪；17世纪原图重点",
+    "dateBasis": "专题研究时段用于地区年代排列；照片为文物或建筑保存现状，个别年代见图注。",
+    "notes": [
+      "研究范围16—18世纪，图例集中17世纪；不是固定的一套标准茶具。",
+      "茶事文化不能代表所有日本家庭日常饮茶的陈设。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony",
+        "locator": "16世纪兴起、选器、跨地区器物及乐烧、备前等生产。",
+        "text": "研究范围、分型与功能依据。"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/the-japanese-tea-ceremony"
   }
 };
