@@ -7423,5 +7423,213 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://norskfolkemuseum.no/teak-tv-og-tenaringer-1965"
+  },
+  "topic-east1-song-yuan-lacquer": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "宋—元（960—1368年）；13—14世纪雕漆重点",
+    "start": 960,
+    "end": 1368,
+    "dateLabel": "宋—元（960—1368年）；13—14世纪雕漆重点",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "配图为14世纪雕漆例证，不代表宋元全部日用漆器或各阶层的普及程度。",
+      "研究年代覆盖技术变化；不能把元代作品纹样直接移到北宋场景。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+        "locator": "中国段落：宋代螺钿、南宋厚漆与13—15世纪雕漆；术语 carved lacquer。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia"
+  },
+  "topic-east1-ming-qing-palace-functions": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "明—清（1420—1911年）；北京外朝",
+    "start": 1420,
+    "end": 1911,
+    "dateLabel": "明—清（1420—1911年）；北京外朝",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "专题限定北京紫禁城外朝，不代表所有朝代、所有地区的宫殿格局。",
+      "照片为保存修缮后的现状；太和殿现有形制经康熙重建，不能作为明初原貌。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.dpm.org.cn/explore/building/236465.html",
+        "locator": "建筑形制、庆典用途及1789年殿试转移记载。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.dpm.org.cn/explore/building/236464.html",
+        "locator": "建筑形制、小憩、受礼、阅祝文及亲耕器具。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.dpm.org.cn/explore/building/236434.html",
+        "locator": "明清用途差异；除夕宴饮、殿试和临时居住记载。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/explore/building/236465.html"
+  },
+  "topic-east1-edo-regional-houses": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "江户时期；17世纪末—19世纪前期实例",
+    "start": 1601,
+    "end": 1850,
+    "dateLabel": "江户时期；17世纪末—19世纪前期实例",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "照片为原建筑移筑保存后的现状；选入的渔业头领、村长等住宅不能代表最贫困住户。",
+      "17—19世纪是所选实例的跨度，具体构件和分期以各栋资料为准。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nihonminkaen.jp/kantou_english.html",
+        "locator": "作田、广濑、太田家：原址、住户类型、分栋及年代。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.nihonminkaen.jp/shinetsu_english.html",
+        "locator": "江向、山田等家：合掌式、三层、原址与建造年代。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.nihonminkaen.jp/leaflet_english.html",
+        "locator": "17—19世纪民居的移筑保存；照片应理解为现代保存状态。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.nihonminkaen.jp/kantou_english.html"
+  },
+  "topic-east1-edo-commercial-buildings": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "江户时期；17世纪末—19世纪中叶实例",
+    "start": 1651,
+    "end": 1850,
+    "dateLabel": "江户时期；17世纪末—19世纪中叶实例",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "实例来自不同地区和年代，不构成一条同时存在的街道；当前照片均为移筑保存状态。",
+      "馆方给出建筑类型与形式，未完整给出各时期室内陈列；不要自行补成确定布局。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nihonminkaen.jp/shukuba_english.html",
+        "locator": "铃木、井冈、三泽家原址、原用途、屋顶形式与建造年代。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.nihonminkaen.jp/shukuba_english.html"
+  },
+  "topic-east1-edo-lacquer": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "桃山—江户前期；16世纪末—17世纪前期",
+    "start": 1573,
+    "end": 1650,
+    "dateLabel": "桃山—江户前期；16世纪末—17世纪前期",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "配图为17世纪初精工器例，不代表所有阶层的日用器具。",
+      "时间范围是研究选段；两件实例的装饰不能倒推为所有桃山漆器的共同图案。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+        "locator": "日本段落与术语 maki-e；17世纪初酒壶、文箱的材料和年代。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia"
+  },
+  "topic-east1-goryeo-celadon": {
+    "region": "亚洲",
+    "country": "朝鲜半岛（国家未细分）",
+    "era": "高丽；12—14世纪重点",
+    "start": 1101,
+    "end": 1392,
+    "dateLabel": "高丽；12—14世纪重点",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "配图为12—13世纪精工器；不据此推定所有平民的餐具配置。",
+      "高丽朝代为918—1392年，专题聚焦12—14世纪；不同年代和用途不能拼成一套确证餐具。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.metmuseum.org/essays/goryeo-celadon",
+        "locator": "原料、烧成、装饰类型；12世纪中叶变化与扶安、康津；配图年代。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/goryeo-celadon"
+  },
+  "topic-east1-joseon-house-zones": {
+    "region": "亚洲",
+    "country": "朝鲜半岛（国家未细分）",
+    "era": "朝鲜王朝（1392—1910年）；上层住宅类型",
+    "start": 1392,
+    "end": 1910,
+    "dateLabel": "朝鲜王朝（1392—1910年）；上层住宅类型",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "该分区尤其针对上层住宅，不代表所有平民韩屋；来源是传统类型概括，未给出每一世纪的变化。",
+      "照片为馆方选用的建筑现状照，未注明具体建造年，不能作为朝代断代证据。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+        "locator": "温突、木地大厅、上层男女空间与进入资格。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+        "locator": "男子读书与会客的用途。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+        "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en"
+  },
+  "topic-east1-joseon-scholar-furniture": {
+    "region": "亚洲",
+    "country": "朝鲜半岛（国家未细分）",
+    "era": "朝鲜王朝（1392—1910年）；士人书房类型",
+    "start": 1392,
+    "end": 1910,
+    "dateLabel": "朝鲜王朝（1392—1910年）；士人书房类型",
+    "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+    "notes": [
+      "配图为博物馆复原陈列，不是朝鲜王朝原房摄影；家具个体年代未在该说明中逐件给出。",
+      "专题限定士人书房类型，不能代表女性内宅、商人铺面或所有平民住家。"
+    ],
+    "evidence": [
+      {
+        "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758",
+        "locator": "Seoan、Inkstone Table、book shelf及书房讨论用途；明确展示为reproduction。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+        "locator": "文房用品、科举理想和书房用途。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      },
+      {
+        "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+        "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。",
+        "text": "共同特征、用途或研究时段的核对依据。"
+      }
+    ],
+    "source": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758"
   }
 };

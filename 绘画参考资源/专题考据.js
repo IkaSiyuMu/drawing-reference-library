@@ -18572,5 +18572,1864 @@
       ],
       "examples": []
     }
+  },
+  {
+    "id": "topic-east1-han-mingqi",
+    "module": "people",
+    "category": "work",
+    "name": "汉代生活明器：农事、侍奉与娱乐的成组表现",
+    "region": "中国",
+    "period": "汉（公元前206—公元220年）",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials",
+    "content": "从明器研究整理农场设施、服务人员和娱乐用品的分工，比较哪些生活需求被带入墓葬表现。",
+    "use": "先安排生产、储存、服务、娱乐的任务，再查相应设施；不要把墓中缩小模型直接放大成标准住宅。",
+    "caution": "明器是墓葬中的生活表现，不能当成真实农场平面、普通家庭财产清单或人数统计。",
+    "find": "汉代生活明器：农事、侍奉与娱乐的成组表现 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "汉（公元前206—公元220年）",
+      "start": -206,
+      "end": 220,
+      "dateLabel": "汉（公元前206—公元220年）",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "明器是墓葬中的生活表现，不能当成真实农场平面、普通家庭财产清单或人数统计。",
+        "器物尺寸为缩小模型；颜色、动作和比例须与其他考古材料交叉核对。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials",
+          "locator": "Mingqi in the Han Dynasty：成组功能、农场设施与地方差异；本文配图的日期说明。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-cn_mingqi-0.jpg",
+        "full": "绘画参考资源/例图/east1-cn_mingqi-0.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44322/154164/main-image",
+        "source": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials",
+        "caption": "汉代圈舍与人物陶明器，1世纪—3世纪初；墓葬模型，非实景建筑。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1200,
+        "height": 991
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_mingqi-1.jpg",
+        "full": "绘画参考资源/例图/east1-cn_mingqi-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42178/2555879/main-image",
+        "source": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials",
+        "caption": "公元前2世纪女舞俑；表现娱乐角色，不据此推定所有人的日常站姿。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_mingqi-2.jpg",
+        "full": "绘画参考资源/例图/east1-cn_mingqi-2.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/50484/1551588/main-image",
+        "source": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials",
+        "caption": "公元前1世纪—公元1世纪六博棋盘与棋子明器；墓葬用品的机构原照。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1200,
+        "height": 901
+      }
+    ],
+    "topic": {
+      "scope": "从明器研究整理农场设施、服务人员和娱乐用品的分工，比较哪些生活需求被带入墓葬表现。",
+      "common": [
+        {
+          "title": "按用途成组理解",
+          "text": "建筑、工具与人物明器共同表现供给、服务、娱乐和守护。",
+          "refs": [
+            "cn_mingqi"
+          ]
+        },
+        {
+          "title": "生产设施有多种",
+          "text": "研究列举粮仓、水井、望楼等农场设施；地方建筑形态也有差异。",
+          "refs": [
+            "cn_mingqi"
+          ]
+        },
+        {
+          "title": "人物各有任务",
+          "text": "舞者、鼓手与侍者的动作服务不同任务，不能都当成闲站的人。",
+          "refs": [
+            "cn_mingqi"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "农事与储存",
+          "feature": "圈舍、井、粮仓等设施表现生活供给。",
+          "refs": [
+            "cn_mingqi"
+          ]
+        },
+        {
+          "name": "侍奉与娱乐",
+          "feature": "人物俑与游戏用具表现服务及消遣。",
+          "refs": [
+            "cn_mingqi"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "明器服务于来世生活观念，因此生活题材经过丧葬目的的选择和组织。",
+          "refs": [
+            "cn_mingqi"
+          ]
+        }
+      ],
+      "limits": [
+        "明器是墓葬中的生活表现，不能当成真实农场平面、普通家庭财产清单或人数统计。",
+        "器物尺寸为缩小模型；颜色、动作和比例须与其他考古材料交叉核对。"
+      ],
+      "drawing": "先安排生产、储存、服务、娱乐的任务，再查相应设施；不要把墓中缩小模型直接放大成标准住宅。",
+      "sources": [
+        {
+          "id": "cn_mingqi",
+          "title": "Met · 中国早期墓葬明器研究",
+          "url": "https://www.metmuseum.org/essays/the-vibrant-role-of-mingqi-in-early-chinese-burials",
+          "locator": "Mingqi in the Han Dynasty：成组功能、农场设施与地方差异；本文配图的日期说明。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-song-yuan-lacquer",
+    "module": "objects",
+    "category": "vessels",
+    "name": "宋元中国漆器：器胎、表面装饰与雕漆层次",
+    "region": "中国",
+    "period": "宋—元（960—1368年）；13—14世纪雕漆重点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+    "content": "比较漆器的基本形体、表面装饰与厚漆雕刻，帮助辨认同类器皿如何呈现不同的边缘和纹饰深度。",
+    "use": "先画盘沿与器胎，再按镶嵌或雕刻处理纹饰；人物和花鸟纹样按具体作品年代选择。",
+    "caution": "配图为14世纪雕漆例证，不代表宋元全部日用漆器或各阶层的普及程度。",
+    "find": "宋元中国漆器：器胎、表面装饰与雕漆层次 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "宋—元（960—1368年）；13—14世纪雕漆重点",
+      "start": 960,
+      "end": 1368,
+      "dateLabel": "宋—元（960—1368年）；13—14世纪雕漆重点",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "配图为14世纪雕漆例证，不代表宋元全部日用漆器或各阶层的普及程度。",
+        "研究年代覆盖技术变化；不能把元代作品纹样直接移到北宋场景。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+          "locator": "中国段落：宋代螺钿、南宋厚漆与13—15世纪雕漆；术语 carved lacquer。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-cn_lacquer-0.jpg",
+        "full": "绘画参考资源/例图/east1-cn_lacquer-0.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40215/167397/main-image",
+        "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+        "caption": "14世纪朱漆庭院人物托盘；观察花瓣形边沿、器胎与浮雕层次。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_lacquer-1.jpg",
+        "full": "绘画参考资源/例图/east1-cn_lacquer-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/40211/150356/main-image",
+        "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+        "caption": "14世纪中期朱漆花鸟盘，传张成；观察圆盘形体与连续雕花。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1200,
+        "height": 957
+      }
+    ],
+    "topic": {
+      "scope": "比较漆器的基本形体、表面装饰与厚漆雕刻，帮助辨认同类器皿如何呈现不同的边缘和纹饰深度。",
+      "common": [
+        {
+          "title": "漆层依附器胎",
+          "text": "反复薄髹形成表层；器胎轮廓和装饰纹样应分别观察。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        },
+        {
+          "title": "螺钿与雕漆不同",
+          "text": "螺钿以镶嵌片形成图案；雕漆从积厚的漆层中刻出浮雕。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        },
+        {
+          "title": "不能倒推发明年代",
+          "text": "南宋已有足够厚度的雕漆材料，13—15世纪兴盛；技术起源仍不能据此确定。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "表面镶嵌",
+          "feature": "贝片等材料在表面组成图案。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        },
+        {
+          "name": "积厚雕刻",
+          "feature": "漆层浮雕形成纹饰的高低变化。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "制作方式决定纹饰是平面镶嵌还是漆层浮雕，描绘时需要不同的边缘与光影。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        }
+      ],
+      "limits": [
+        "配图为14世纪雕漆例证，不代表宋元全部日用漆器或各阶层的普及程度。",
+        "研究年代覆盖技术变化；不能把元代作品纹样直接移到北宋场景。"
+      ],
+      "drawing": "先画盘沿与器胎，再按镶嵌或雕刻处理纹饰；人物和花鸟纹样按具体作品年代选择。",
+      "sources": [
+        {
+          "id": "cn_lacquer",
+          "title": "Met · 东亚漆器技术综述",
+          "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+          "locator": "中国段落：宋代螺钿、南宋厚漆与13—15世纪雕漆；术语 carved lacquer。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-ming-qing-palace-functions",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "明清北京宫殿：典礼、准备、宴饮与考试空间",
+    "region": "中国",
+    "period": "明—清（1420—1911年）；北京外朝",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/explore/building/236465.html",
+    "content": "把紫禁城外朝殿堂作为一组功能不同的建筑比较，分别整理大典、典礼前准备、宴饮及殿试用途。",
+    "use": "先定活动和年份，再选殿堂；同一建筑不能只因有宝座就安排所有朝政、进餐和考试场景。",
+    "caution": "专题限定北京紫禁城外朝，不代表所有朝代、所有地区的宫殿格局。",
+    "find": "明清北京宫殿：典礼、准备、宴饮与考试空间 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "明—清（1420—1911年）；北京外朝",
+      "start": 1420,
+      "end": 1911,
+      "dateLabel": "明—清（1420—1911年）；北京外朝",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "专题限定北京紫禁城外朝，不代表所有朝代、所有地区的宫殿格局。",
+        "照片为保存修缮后的现状；太和殿现有形制经康熙重建，不能作为明初原貌。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dpm.org.cn/explore/building/236465.html",
+          "locator": "建筑形制、庆典用途及1789年殿试转移记载。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.dpm.org.cn/explore/building/236464.html",
+          "locator": "建筑形制、小憩、受礼、阅祝文及亲耕器具。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.dpm.org.cn/explore/building/236434.html",
+          "locator": "明清用途差异；除夕宴饮、殿试和临时居住记载。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/explore/building/236465.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-cn_taihe-6.jpg",
+        "full": "绘画参考资源/例图/east1-cn_taihe-6.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/2020/04/17/s5e9926e6ea567.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236465.html",
+        "caption": "太和殿及前方广场现状照；典礼建筑与集会空间须一起观察。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1425,
+        "height": 606
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_taihe-12.jpg",
+        "full": "绘画参考资源/例图/east1-cn_taihe-12.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/14498.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236465.html",
+        "caption": "太和殿内景，馆方注明乾隆御笔匾联复原归位；非历史典礼现场。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 400,
+        "height": 267
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_zhonghe-6.jpg",
+        "full": "绘画参考资源/例图/east1-cn_zhonghe-6.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/2020/07/03/s5eff05cd7866d.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236464.html",
+        "caption": "中和殿现状：方形、单檐攒尖顶；与前后大殿比较。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1000,
+        "height": 666
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_baohe-6.jpg",
+        "full": "绘画参考资源/例图/east1-cn_baohe-6.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/2020/07/03/s5efedbf9edae0.jpg",
+        "source": "https://www.dpm.org.cn/explore/building/236434.html",
+        "caption": "保和殿现状：重檐歇山顶；不是明清历次活动的实景记录。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1000,
+        "height": 666
+      }
+    ],
+    "topic": {
+      "scope": "把紫禁城外朝殿堂作为一组功能不同的建筑比较，分别整理大典、典礼前准备、宴饮及殿试用途。",
+      "common": [
+        {
+          "title": "同一组殿堂分工不同",
+          "text": "太和殿承担盛大典礼，中和殿用于典礼前休息和阅视，保和殿另有宴饮等用途。",
+          "refs": [
+            "cn_taihe",
+            "cn_zhonghe",
+            "cn_baohe"
+          ]
+        },
+        {
+          "title": "形式规模不相同",
+          "text": "太和殿重檐庑殿顶，中和殿方形攒尖顶，保和殿重檐歇山顶。",
+          "refs": [
+            "cn_taihe",
+            "cn_zhonghe",
+            "cn_baohe"
+          ]
+        },
+        {
+          "title": "用途会随朝代变化",
+          "text": "保和殿明代用于大典前更衣，清代兼宴饮；1789年起殿试改在保和殿。",
+          "refs": [
+            "cn_baohe",
+            "cn_taihe"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "大典空间",
+          "feature": "以太和殿为例，室内宝座与殿外广场共同服务朝贺。",
+          "refs": [
+            "cn_taihe"
+          ]
+        },
+        {
+          "name": "准备与阅视",
+          "feature": "中和殿还用于检查祝文、亲耕农具及种子。",
+          "refs": [
+            "cn_zhonghe"
+          ]
+        },
+        {
+          "name": "宴饮与考试",
+          "feature": "保和殿的活动须按明清及具体年份区别。",
+          "refs": [
+            "cn_baohe",
+            "cn_taihe"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "典礼规模、准备流程与参加者不同，使相邻建筑具有不同的体量和使用方式。此项为三殿用途的归纳。",
+          "refs": [
+            "cn_taihe",
+            "cn_zhonghe",
+            "cn_baohe"
+          ]
+        }
+      ],
+      "limits": [
+        "专题限定北京紫禁城外朝，不代表所有朝代、所有地区的宫殿格局。",
+        "照片为保存修缮后的现状；太和殿现有形制经康熙重建，不能作为明初原貌。"
+      ],
+      "drawing": "先定活动和年份，再选殿堂；同一建筑不能只因有宝座就安排所有朝政、进餐和考试场景。",
+      "sources": [
+        {
+          "id": "cn_taihe",
+          "title": "故宫博物院 · 太和殿",
+          "url": "https://www.dpm.org.cn/explore/building/236465.html",
+          "locator": "建筑形制、庆典用途及1789年殿试转移记载。"
+        },
+        {
+          "id": "cn_zhonghe",
+          "title": "故宫博物院 · 中和殿",
+          "url": "https://www.dpm.org.cn/explore/building/236464.html",
+          "locator": "建筑形制、小憩、受礼、阅祝文及亲耕器具。"
+        },
+        {
+          "id": "cn_baohe",
+          "title": "故宫博物院 · 保和殿",
+          "url": "https://www.dpm.org.cn/explore/building/236434.html",
+          "locator": "明清用途差异；除夕宴饮、殿试和临时居住记载。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-qing-newyear-rituals",
+    "module": "people",
+    "category": "interaction",
+    "name": "清代宫廷年节：百官朝贺与家宴的参与层次",
+    "region": "中国",
+    "period": "清（1644—1911年）；北京宫廷年节",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/court/system/236364.html",
+    "content": "比较年节大朝与家宴的参与资格、活动次序和空间，整理群像中的主角、执事、乐队与受礼者。",
+    "use": "先区分受礼、引导、宣表、奏乐和等待，再决定人物所在空间；大朝与家宴不要混用座次。",
+    "caution": "范围是清宫年节制度，不能推广为平民过年习惯。",
+    "find": "清代宫廷年节：百官朝贺与家宴的参与层次 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "清（1644—1911年）；北京宫廷年节",
+      "start": 1644,
+      "end": 1911,
+      "dateLabel": "清（1644—1911年）；北京宫廷年节",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "范围是清宫年节制度，不能推广为平民过年习惯。",
+        "配图为遗存设施和仪仗展示照片；不复原某次大朝的实际人数及完整摆放。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.dpm.org.cn/court/system/236364.html",
+          "locator": "准备、百官入位、礼仪和赐茶资格；品级山、仪仗图注。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.dpm.org.cn/lemmas/241609.html",
+          "locator": "除夕与元旦陪宴者、宴桌位置及身份等级。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/court/system/236364.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-cn_newyear-8.jpg",
+        "full": "绘画参考资源/例图/east1-cn_newyear-8.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/1610.jpg",
+        "source": "https://www.dpm.org.cn/court/system/236364.html",
+        "caption": "御路两侧品级山的机构照片；用作官员按品级列位的设施例证。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 346,
+        "height": 400
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_newyear-16.jpg",
+        "full": "绘画参考资源/例图/east1-cn_newyear-16.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/2596.jpg",
+        "source": "https://www.dpm.org.cn/court/system/236364.html",
+        "caption": "皇帝卤簿幡、麾、旌的机构展示照；不是某次年节的全套现场布置。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 539,
+        "height": 443
+      }
+    ],
+    "topic": {
+      "scope": "比较年节大朝与家宴的参与资格、活动次序和空间，整理群像中的主角、执事、乐队与受礼者。",
+      "common": [
+        {
+          "title": "大朝先有准备和排班",
+          "text": "仪仗、乐队和品级山先行陈设，官员按引导入位，不是临时围到宝座前。",
+          "refs": [
+            "cn_newyear"
+          ]
+        },
+        {
+          "title": "饮茶位置也分资格",
+          "text": "朝贺后部分王公勋爵入殿，其余百官在殿外原位就座。",
+          "refs": [
+            "cn_newyear"
+          ]
+        },
+        {
+          "title": "家宴仍有身份层次",
+          "text": "乾清宫家宴按身份安排宴桌，除夕女眷与元旦王子阿哥陪宴有别。",
+          "refs": [
+            "cn_banquet"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "百官大朝",
+          "feature": "广场、殿堂、乐队与执事共同组织朝贺。",
+          "refs": [
+            "cn_newyear"
+          ]
+        },
+        {
+          "name": "皇室家宴",
+          "feature": "参加者和座次不同于百官大朝，家宴也保留等级。",
+          "refs": [
+            "cn_banquet"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "参与资格与礼仪次序使身份关系在位置、站坐和进退中表现出来。",
+          "refs": [
+            "cn_newyear",
+            "cn_banquet"
+          ]
+        }
+      ],
+      "limits": [
+        "范围是清宫年节制度，不能推广为平民过年习惯。",
+        "配图为遗存设施和仪仗展示照片；不复原某次大朝的实际人数及完整摆放。"
+      ],
+      "drawing": "先区分受礼、引导、宣表、奏乐和等待，再决定人物所在空间；大朝与家宴不要混用座次。",
+      "sources": [
+        {
+          "id": "cn_newyear",
+          "title": "故宫博物院 · 元旦大朝",
+          "url": "https://www.dpm.org.cn/court/system/236364.html",
+          "locator": "准备、百官入位、礼仪和赐茶资格；品级山、仪仗图注。"
+        },
+        {
+          "id": "cn_banquet",
+          "title": "故宫博物院 · 乾清宫家宴",
+          "url": "https://www.dpm.org.cn/lemmas/241609.html",
+          "locator": "除夕与元旦陪宴者、宴桌位置及身份等级。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-edo-regional-houses",
+    "module": "architecture",
+    "category": "houses",
+    "name": "江户日本地方民居：分栋式、普通农舍与合掌造",
+    "region": "日本",
+    "period": "江户时期；17世纪末—19世纪前期实例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nihonminkaen.jp/kantou_english.html",
+    "content": "以川崎市立日本民家园保存的不同地区建筑，比较主屋、土间栋和多层屋顶空间，不把一种茅顶住宅当成全国样式。",
+    "use": "先定地区、住户职业和建造阶段，再选屋顶、入口与土间；不要把不同地方的结构拼成一座通用古民居。",
+    "caution": "照片为原建筑移筑保存后的现状；选入的渔业头领、村长等住宅不能代表最贫困住户。",
+    "find": "江户日本地方民居：分栋式、普通农舍与合掌造 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户时期；17世纪末—19世纪前期实例",
+      "start": 1601,
+      "end": 1850,
+      "dateLabel": "江户时期；17世纪末—19世纪前期实例",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "照片为原建筑移筑保存后的现状；选入的渔业头领、村长等住宅不能代表最贫困住户。",
+        "17—19世纪是所选实例的跨度，具体构件和分期以各栋资料为准。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nihonminkaen.jp/kantou_english.html",
+          "locator": "作田、广濑、太田家：原址、住户类型、分栋及年代。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.nihonminkaen.jp/shinetsu_english.html",
+          "locator": "江向、山田等家：合掌式、三层、原址与建造年代。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.nihonminkaen.jp/leaflet_english.html",
+          "locator": "17—19世纪民居的移筑保存；照片应理解为现代保存状态。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.nihonminkaen.jp/kantou_english.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-jp_farm-5.jpg",
+        "full": "绘画参考资源/例图/east1-jp_farm-5.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/11_sakuda_house.jpg",
+        "source": "https://www.nihonminkaen.jp/kantou_english.html",
+        "caption": "千叶作田家分栋式住宅的保存现状，主屋17世纪末、土间栋18世纪末。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_farm-6.jpg",
+        "full": "绘画参考资源/例图/east1-jp_farm-6.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/13_hirose_house.jpg",
+        "source": "https://www.nihonminkaen.jp/kantou_english.html",
+        "caption": "山梨广濑家，17世纪末农舍的移筑保存现状；观察山墙和屋顶。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_snow-7.jpg",
+        "full": "绘画参考资源/例图/east1-jp_snow-7.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/07_emukai_house.jpg",
+        "source": "https://www.nihonminkaen.jp/shinetsu_english.html",
+        "caption": "富山江向家，18世纪初合掌造的移筑保存现状；不是江户现场照片。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_snow-8.jpg",
+        "full": "绘画参考资源/例图/east1-jp_snow-8.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/08_yamada_house.jpg",
+        "source": "https://www.nihonminkaen.jp/shinetsu_english.html",
+        "caption": "富山山田家，18世纪初合掌造的保存现状；雪景不作为建造年代证据。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "topic": {
+      "scope": "以川崎市立日本民家园保存的不同地区建筑，比较主屋、土间栋和多层屋顶空间，不把一种茅顶住宅当成全国样式。",
+      "common": [
+        {
+          "title": "住家与工作空间有别",
+          "text": "千叶作田家等分栋式民居，把主屋与土间栋分开，并以有顶空间相连。",
+          "refs": [
+            "jp_farm"
+          ]
+        },
+        {
+          "title": "同为茅顶仍有差异",
+          "text": "山梨广濑家的普通农舍与富山合掌造，在屋顶、入口和层数上不同。",
+          "refs": [
+            "jp_farm",
+            "jp_snow"
+          ]
+        },
+        {
+          "title": "一座住家也可能分期建造",
+          "text": "作田家主屋为17世纪末，土间栋为18世纪末，不能给所有部分同一年代。",
+          "refs": [
+            "jp_farm"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "关东分栋式",
+          "feature": "作田家、太田家将主屋和土间栋分开；前者为渔业头领住宅，后者为村长住宅。",
+          "refs": [
+            "jp_farm"
+          ]
+        },
+        {
+          "name": "山梨农舍",
+          "feature": "广濑家为17世纪末切妻茅顶农舍。",
+          "refs": [
+            "jp_farm"
+          ]
+        },
+        {
+          "name": "富山合掌造",
+          "feature": "江向家、山田家为18世纪初三层茅顶实例。",
+          "refs": [
+            "jp_snow"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "馆方按地域与原住户职能分类；本专题据这些记录比较，不仅凭屋顶外观推断居住者财富。",
+          "refs": [
+            "jp_farm",
+            "jp_snow"
+          ]
+        }
+      ],
+      "limits": [
+        "照片为原建筑移筑保存后的现状；选入的渔业头领、村长等住宅不能代表最贫困住户。",
+        "17—19世纪是所选实例的跨度，具体构件和分期以各栋资料为准。"
+      ],
+      "drawing": "先定地区、住户职业和建造阶段，再选屋顶、入口与土间；不要把不同地方的结构拼成一座通用古民居。",
+      "sources": [
+        {
+          "id": "jp_farm",
+          "title": "日本民家园 · 关东地方村",
+          "url": "https://www.nihonminkaen.jp/kantou_english.html",
+          "locator": "作田、广濑、太田家：原址、住户类型、分栋及年代。"
+        },
+        {
+          "id": "jp_snow",
+          "title": "日本民家园 · 信越地方村",
+          "url": "https://www.nihonminkaen.jp/shinetsu_english.html",
+          "locator": "江向、山田等家：合掌式、三层、原址与建造年代。"
+        },
+        {
+          "id": "jp_guide",
+          "title": "日本民家园 · 保存与移筑说明",
+          "url": "https://www.nihonminkaen.jp/leaflet_english.html",
+          "locator": "17—19世纪民居的移筑保存；照片应理解为现代保存状态。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-edo-commercial-buildings",
+    "module": "architecture",
+    "category": "houses",
+    "name": "江户日本营业建筑：商家、马商旅宿与兼营客栈",
+    "region": "日本",
+    "period": "江户时期；17世纪末—19世纪中叶实例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nihonminkaen.jp/shukuba_english.html",
+    "content": "比较不同地区营业建筑的用途和结构：普通商家、接待马商的旅宿，以及药材批发兼客栈的商家。",
+    "use": "先选营业类型，再找同地区同期室内依据；马厩、住宿和批发储货的空间需求应分别处理。",
+    "caution": "实例来自不同地区和年代，不构成一条同时存在的街道；当前照片均为移筑保存状态。",
+    "find": "江户日本营业建筑：商家、马商旅宿与兼营客栈 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户时期；17世纪末—19世纪中叶实例",
+      "start": 1651,
+      "end": 1850,
+      "dateLabel": "江户时期；17世纪末—19世纪中叶实例",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "实例来自不同地区和年代，不构成一条同时存在的街道；当前照片均为移筑保存状态。",
+        "馆方给出建筑类型与形式，未完整给出各时期室内陈列；不要自行补成确定布局。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nihonminkaen.jp/shukuba_english.html",
+          "locator": "铃木、井冈、三泽家原址、原用途、屋顶形式与建造年代。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.nihonminkaen.jp/shukuba_english.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-jp_town-5.jpg",
+        "full": "绘画参考资源/例图/east1-jp_town-5.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/01_suzuki_house.jpg",
+        "source": "https://www.nihonminkaen.jp/shukuba_english.html",
+        "caption": "铃木家马商旅宿，19世纪初建筑的移筑保存现状，原址福岛。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_town-6.jpg",
+        "full": "绘画参考资源/例图/east1-jp_town-6.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/02_ioka_house.jpg",
+        "source": "https://www.nihonminkaen.jp/shukuba_english.html",
+        "caption": "奈良井冈家商家，17世纪末—18世纪初建筑的保存现状。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_town-8.jpg",
+        "full": "绘画参考资源/例图/east1-jp_town-8.jpg",
+        "original": "https://www.nihonminkaen.jp/images/facilities/04_misawa_house.jpg",
+        "source": "https://www.nihonminkaen.jp/shukuba_english.html",
+        "caption": "长野三泽家，19世纪中叶药材批发兼旅宿建筑的保存现状。",
+        "provider": "川崎市立日本民家园",
+        "credit": "川崎市立日本民家园",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "topic": {
+      "scope": "比较不同地区营业建筑的用途和结构：普通商家、接待马商的旅宿，以及药材批发兼客栈的商家。",
+      "common": [
+        {
+          "title": "营业建筑未必瓦顶",
+          "text": "奈良商家用瓦顶，福岛马商旅宿用茅顶，长野商家使用石压木板屋顶。",
+          "refs": [
+            "jp_town"
+          ]
+        },
+        {
+          "title": "旅宿还要容纳特定需求",
+          "text": "铃木家接待马商，馆方记录其檐下马厩；不能只画一排住宿房间。",
+          "refs": [
+            "jp_town"
+          ]
+        },
+        {
+          "title": "同一栋可以兼营",
+          "text": "三泽家兼药材批发与旅宿，营业职能和住宿不能按单一类型理解。",
+          "refs": [
+            "jp_town"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "奈良商家",
+          "feature": "井冈家，17世纪末—18世纪初，切妻瓦顶、局部两层。",
+          "refs": [
+            "jp_town"
+          ]
+        },
+        {
+          "name": "奥州街道旅宿",
+          "feature": "铃木家，19世纪初，前后屋体和檐下马厩。",
+          "refs": [
+            "jp_town"
+          ]
+        },
+        {
+          "name": "信州兼营商家",
+          "feature": "三泽家，19世纪中叶，药材批发兼旅宿。",
+          "refs": [
+            "jp_town"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "营业对象和兼营用途不同，需要比较相应储放、接待与服务需求；这是依原用途提出的绘画分析方法。",
+          "refs": [
+            "jp_town"
+          ]
+        }
+      ],
+      "limits": [
+        "实例来自不同地区和年代，不构成一条同时存在的街道；当前照片均为移筑保存状态。",
+        "馆方给出建筑类型与形式，未完整给出各时期室内陈列；不要自行补成确定布局。"
+      ],
+      "drawing": "先选营业类型，再找同地区同期室内依据；马厩、住宿和批发储货的空间需求应分别处理。",
+      "sources": [
+        {
+          "id": "jp_town",
+          "title": "日本民家园 · 宿场建筑比较",
+          "url": "https://www.nihonminkaen.jp/shukuba_english.html",
+          "locator": "铃木、井冈、三泽家原址、原用途、屋顶形式与建造年代。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-edo-lacquer",
+    "module": "objects",
+    "category": "vessels",
+    "name": "桃山至江户初期日本漆器：蒔绘表面与不同用途",
+    "region": "日本",
+    "period": "桃山—江户前期；16世纪末—17世纪前期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+    "content": "以蒔绘和金属装饰综述比较漆酒壶与文箱，把器物用途、轮廓与金色表面效果分开阅读。",
+    "use": "先画盛装与开启结构，再区分金粉、金属箔和黑漆；不要把精工酒器用作普通木桶的通用外观。",
+    "caution": "配图为17世纪初精工器例，不代表所有阶层的日用器具。",
+    "find": "桃山至江户初期日本漆器：蒔绘表面与不同用途 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "桃山—江户前期；16世纪末—17世纪前期",
+      "start": 1573,
+      "end": 1650,
+      "dateLabel": "桃山—江户前期；16世纪末—17世纪前期",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "配图为17世纪初精工器例，不代表所有阶层的日用器具。",
+        "时间范围是研究选段；两件实例的装饰不能倒推为所有桃山漆器的共同图案。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+          "locator": "日本段落与术语 maki-e；17世纪初酒壶、文箱的材料和年代。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-cn_lacquer-2.jpg",
+        "full": "绘画参考资源/例图/east1-cn_lacquer-2.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44859/150925/main-image",
+        "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+        "caption": "17世纪初菊、桐纹漆酒壶，平蒔绘与梨地装饰；观察提梁与壶嘴。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 960,
+        "height": 1200
+      },
+      {
+        "src": "绘画参考资源/例图/east1-cn_lacquer-3.jpg",
+        "full": "绘画参考资源/例图/east1-cn_lacquer-3.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/44884/186751/main-image",
+        "source": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+        "caption": "17世纪初高台寺样式文箱，金银箔与金蒔绘；与酒壶比较用途和形体。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1200,
+        "height": 900
+      }
+    ],
+    "topic": {
+      "scope": "以蒔绘和金属装饰综述比较漆酒壶与文箱，把器物用途、轮廓与金色表面效果分开阅读。",
+      "common": [
+        {
+          "title": "先辨用途与器形",
+          "text": "酒壶的提梁、出水口与文箱的盖、盒身属于不同结构。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        },
+        {
+          "title": "蒔绘是表面技术",
+          "text": "金银粉施于未干的漆面，与螺钿镶嵌、厚漆雕刻不同。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        },
+        {
+          "title": "金色也有不同层次",
+          "text": "粉末、金属箔片及不同表面处理会带来不同光泽，不能都画成整块金属。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "酒器",
+          "feature": "提梁、壶嘴和壶体服务于盛放、提携和倒出。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        },
+        {
+          "name": "文箱",
+          "feature": "盒盖与盒身结合，装饰沿不同表面展开。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "漆既可形成表层，又可黏附装饰材料，使表面图案和器物形体相互配合。",
+          "refs": [
+            "cn_lacquer"
+          ]
+        }
+      ],
+      "limits": [
+        "配图为17世纪初精工器例，不代表所有阶层的日用器具。",
+        "时间范围是研究选段；两件实例的装饰不能倒推为所有桃山漆器的共同图案。"
+      ],
+      "drawing": "先画盛装与开启结构，再区分金粉、金属箔和黑漆；不要把精工酒器用作普通木桶的通用外观。",
+      "sources": [
+        {
+          "id": "cn_lacquer",
+          "title": "Met · 东亚漆器技术综述",
+          "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+          "locator": "日本段落与术语 maki-e；17世纪初酒壶、文箱的材料和年代。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-edo-fukagawa-work",
+    "module": "people",
+    "category": "work",
+    "name": "江户末期深川生活：批发、舟运与长屋劳动",
+    "region": "日本",
+    "period": "江户天保年间（1830—1844年）；深川佐贺町",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.kcf.or.jp/fukagawa/josetsu/",
+    "content": "依深川资料馆的社区研究，整理沿河批发、船宿服务、工匠家居与长屋共享设施怎样构成日常活动。",
+    "use": "按批发收货、打水、锯木或送客的任务安排人物与道具；先判断设施是共用还是住户自有。",
+    "caution": "配图是天保年间街区的现代想定复原；住户年龄、家庭和职业为展示设定，不是真实住户逐家复原。",
+    "find": "江户末期深川生活：批发、舟运与长屋劳动 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户天保年间（1830—1844年）；深川佐贺町",
+      "start": 1830,
+      "end": 1844,
+      "dateLabel": "江户天保年间（1830—1844年）；深川佐贺町",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "配图是天保年间街区的现代想定复原；住户年龄、家庭和职业为展示设定，不是真实住户逐家复原。",
+        "专题限定深川佐贺町，不推为全江户或全国平民住宅的标准配置。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.kcf.or.jp/fukagawa/josetsu/",
+          "locator": "大店、共有井、木挽职人、长屋巷道与船宿说明；开头明确为想定复原。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.kcf.or.jp/cms/files/pdf/id37_12462.pdf",
+          "locator": "Permanent Collection Exhibition：天保时期1830—1844年及复原展示性质。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.kcf.or.jp/fukagawa/josetsu/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-jp_fukagawa-3.jpg",
+        "full": "绘画参考资源/例图/east1-jp_fukagawa-3.jpg",
+        "original": "https://www.kcf.or.jp/images/fukagawa/josetsu.jpg",
+        "source": "https://www.kcf.or.jp/fukagawa/josetsu/",
+        "caption": "深川街区现代想定复原的屋顶与仓库外观；不作为当年照片。",
+        "provider": "江东区深川江户资料馆",
+        "credit": "江东区深川江户资料馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 980,
+        "height": 400
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_fukagawa-6.jpg",
+        "full": "绘画参考资源/例图/east1-jp_fukagawa-6.jpg",
+        "original": "https://www.kcf.or.jp/images/fukagawa/jo2.jpg",
+        "source": "https://www.kcf.or.jp/fukagawa/josetsu/",
+        "caption": "长屋共用水井的现代复原展示；观察取水处和通行空间。",
+        "provider": "江东区深川江户资料馆",
+        "credit": "江东区深川江户资料馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 310,
+        "height": 230
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_fukagawa-8.jpg",
+        "full": "绘画参考资源/例图/east1-jp_fukagawa-8.jpg",
+        "original": "https://www.kcf.or.jp/images/fukagawa/jo4.jpg",
+        "source": "https://www.kcf.or.jp/fukagawa/josetsu/",
+        "caption": "木挽职人住家现代复原展示；工具与家庭器具配套，不是真实住户原房。",
+        "provider": "江东区深川江户资料馆",
+        "credit": "江东区深川江户资料馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 310,
+        "height": 230
+      },
+      {
+        "src": "绘画参考资源/例图/east1-jp_fukagawa-10.jpg",
+        "full": "绘画参考资源/例图/east1-jp_fukagawa-10.jpg",
+        "original": "https://www.kcf.or.jp/images/fukagawa/jo6.jpg",
+        "source": "https://www.kcf.or.jp/fukagawa/josetsu/",
+        "caption": "船宿的现代想定复原；用于区分临水服务建筑与长屋。",
+        "provider": "江东区深川江户资料馆",
+        "credit": "江东区深川江户资料馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 310,
+        "height": 230
+      }
+    ],
+    "topic": {
+      "scope": "依深川资料馆的社区研究，整理沿河批发、船宿服务、工匠家居与长屋共享设施怎样构成日常活动。",
+      "common": [
+        {
+          "title": "水运联系仓储和批发",
+          "text": "佐贺町近河口和水运，米、木材以及鱼肥等批发与仓库关系密切。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        },
+        {
+          "title": "住户并非各有整套设施",
+          "text": "长屋住户共享水井、厕所和垃圾堆放处，劳动和往来延伸到巷内。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        },
+        {
+          "title": "工具随住户职业配置",
+          "text": "木场木挽职人的展示配大锯、鳶口等，船宿则服务乘船出游的客人。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "沿街批发商和仓库",
+          "feature": "需要收发与储存货物的场景。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        },
+        {
+          "name": "长屋工匠住家",
+          "feature": "工具、夫妻箱膳和家庭用品共同组织小空间。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        },
+        {
+          "name": "船宿服务",
+          "feature": "服务送迎客人，不等同于所有普通旅馆。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "水路、批发和住户职业影响设施与器具组合；展示以设定住户来解释社区生活。",
+          "refs": [
+            "jp_fukagawa"
+          ]
+        }
+      ],
+      "limits": [
+        "配图是天保年间街区的现代想定复原；住户年龄、家庭和职业为展示设定，不是真实住户逐家复原。",
+        "专题限定深川佐贺町，不推为全江户或全国平民住宅的标准配置。"
+      ],
+      "drawing": "按批发收货、打水、锯木或送客的任务安排人物与道具；先判断设施是共用还是住户自有。",
+      "sources": [
+        {
+          "id": "jp_fukagawa",
+          "title": "深川江户资料馆 · 常设展示研究",
+          "url": "https://www.kcf.or.jp/fukagawa/josetsu/",
+          "locator": "大店、共有井、木挽职人、长屋巷道与船宿说明；开头明确为想定复原。"
+        },
+        {
+          "id": "jp_fukagawa_pdf",
+          "title": "深川江户资料馆 · 英文导览",
+          "url": "https://www.kcf.or.jp/cms/files/pdf/id37_12462.pdf",
+          "locator": "Permanent Collection Exhibition：天保时期1830—1844年及复原展示性质。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-goryeo-celadon",
+    "module": "objects",
+    "category": "vessels",
+    "name": "高丽青瓷：釉色、刻花与象嵌的类型差异",
+    "region": "朝鲜半岛（国家未细分）",
+    "period": "高丽；12—14世纪重点",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/goryeo-celadon",
+    "content": "整理高丽青瓷的色彩与装饰技术，比较刻花、象嵌和不同器形，区分早期借鉴与本地发展。",
+    "use": "先选器形用途，再按刻花或象嵌处理纹饰；云鹤梅瓶与小油瓶的尺度不能画成相同。",
+    "caution": "配图为12—13世纪精工器；不据此推定所有平民的餐具配置。",
+    "find": "高丽青瓷：釉色、刻花与象嵌的类型差异 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "朝鲜半岛（国家未细分）",
+      "era": "高丽；12—14世纪重点",
+      "start": 1101,
+      "end": 1392,
+      "dateLabel": "高丽；12—14世纪重点",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "配图为12—13世纪精工器；不据此推定所有平民的餐具配置。",
+        "高丽朝代为918—1392年，专题聚焦12—14世纪；不同年代和用途不能拼成一套确证餐具。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.metmuseum.org/essays/goryeo-celadon",
+          "locator": "原料、烧成、装饰类型；12世纪中叶变化与扶安、康津；配图年代。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/goryeo-celadon"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-kr_celadon-0.jpg",
+        "full": "绘画参考资源/例图/east1-kr_celadon-0.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39589/189113/main-image",
+        "source": "https://www.metmuseum.org/essays/goryeo-celadon",
+        "caption": "12世纪初葫芦形水禽芦苇纹注壶，刻划装饰在青釉下。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 900,
+        "height": 1200
+      },
+      {
+        "src": "绘画参考资源/例图/east1-kr_celadon-1.jpg",
+        "full": "绘画参考资源/例图/east1-kr_celadon-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/42282/188759/main-image",
+        "source": "https://www.metmuseum.org/essays/goryeo-celadon",
+        "caption": "12世纪末牡丹叶纹油瓶，反象嵌装饰；与注壶比较口、腹和用途。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1200,
+        "height": 900
+      },
+      {
+        "src": "绘画参考资源/例图/east1-kr_celadon-2.jpg",
+        "full": "绘画参考资源/例图/east1-kr_celadon-2.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39590/149658/main-image",
+        "source": "https://www.metmuseum.org/essays/goryeo-celadon",
+        "caption": "13世纪末云鹤象嵌梅瓶；黑白纹样与青釉层次的例证。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 960,
+        "height": 1200
+      }
+    ],
+    "topic": {
+      "scope": "整理高丽青瓷的色彩与装饰技术，比较刻花、象嵌和不同器形，区分早期借鉴与本地发展。",
+      "common": [
+        {
+          "title": "青色并非固定一种",
+          "text": "灰绿及蓝绿等色调受胎釉原料和烧成条件影响，不能统一涂成一种亮绿。",
+          "refs": [
+            "kr_celadon"
+          ]
+        },
+        {
+          "title": "纹样有不同制作法",
+          "text": "素面、刻划、浮雕、模印与象嵌并存，表面深浅关系不同。",
+          "refs": [
+            "kr_celadon"
+          ]
+        },
+        {
+          "title": "象嵌形成黑白纹样",
+          "text": "在胎体刻纹后填黑白泥，再罩透明青釉；12世纪中叶后本地偏好更鲜明。",
+          "refs": [
+            "kr_celadon"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "刻划与雕刻",
+          "feature": "在胎体上形成线或起伏，再施釉。",
+          "refs": [
+            "kr_celadon"
+          ]
+        },
+        {
+          "name": "黑白象嵌",
+          "feature": "纹样填泥位于釉下，不能画成表面粘贴的贝片。",
+          "refs": [
+            "kr_celadon"
+          ]
+        },
+        {
+          "name": "不同盛装器形",
+          "feature": "注壶、油瓶与梅瓶应分别观察口、腹、柄及流。",
+          "refs": [
+            "kr_celadon"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "中国青瓷技术的影响与半岛西南地区窑业发展共同作用，形成高丽的器形和象嵌表达。",
+          "refs": [
+            "kr_celadon"
+          ]
+        }
+      ],
+      "limits": [
+        "配图为12—13世纪精工器；不据此推定所有平民的餐具配置。",
+        "高丽朝代为918—1392年，专题聚焦12—14世纪；不同年代和用途不能拼成一套确证餐具。"
+      ],
+      "drawing": "先选器形用途，再按刻花或象嵌处理纹饰；云鹤梅瓶与小油瓶的尺度不能画成相同。",
+      "sources": [
+        {
+          "id": "kr_celadon",
+          "title": "Met · 高丽青瓷综述",
+          "url": "https://www.metmuseum.org/essays/goryeo-celadon",
+          "locator": "原料、烧成、装饰类型；12世纪中叶变化与扶安、康津；配图年代。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-joseon-house-zones",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "朝鲜王朝住宅类型：温突、木地大厅与内外分区",
+    "region": "朝鲜半岛（国家未细分）",
+    "period": "朝鲜王朝（1392—1910年）；上层住宅类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+    "content": "按民俗博物馆的韩屋类型说明，比较供暖房间、夏季通风大厅及上层家庭的男女生活分区。",
+    "use": "先定季节、住户身份和来客资格，再画房间与进退路线；使用朝代范围筛选后仍须另核对具体年份。",
+    "caution": "该分区尤其针对上层住宅，不代表所有平民韩屋；来源是传统类型概括，未给出每一世纪的变化。",
+    "find": "朝鲜王朝住宅类型：温突、木地大厅与内外分区 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "朝鲜半岛（国家未细分）",
+      "era": "朝鲜王朝（1392—1910年）；上层住宅类型",
+      "start": 1392,
+      "end": 1910,
+      "dateLabel": "朝鲜王朝（1392—1910年）；上层住宅类型",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "该分区尤其针对上层住宅，不代表所有平民韩屋；来源是传统类型概括，未给出每一世纪的变化。",
+        "照片为馆方选用的建筑现状照，未注明具体建造年，不能作为朝代断代证据。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+          "locator": "温突、木地大厅、上层男女空间与进入资格。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+          "locator": "男子读书与会客的用途。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+          "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-kr_house-1.jpg",
+        "full": "绘画参考资源/例图/east1-kr_house-1.jpg",
+        "original": "https://www.nfm.go.kr/k-box/images/kbox/sub/vis_p_05_01.jpg",
+        "source": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+        "caption": "馆方选用的韩屋现状外观；具体建筑及建造年未标明，不作断代证据。",
+        "provider": "韩国国立民俗博物馆",
+        "credit": "韩国国立民俗博物馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1920,
+        "height": 740
+      },
+      {
+        "src": "绘画参考资源/例图/east1-kr_scholar-3.jpg",
+        "full": "绘画参考资源/例图/east1-kr_scholar-3.jpg",
+        "original": "https://www.nfm.go.kr/k-box/images/kbox/sub/vis_p_02_02.jpg",
+        "source": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+        "caption": "舍廊房页面配用的韩屋现状照；观察院落、屋檐和入口，非历史现场照。",
+        "provider": "韩国国立民俗博物馆",
+        "credit": "韩国国立民俗博物馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1920,
+        "height": 740
+      }
+    ],
+    "topic": {
+      "scope": "按民俗博物馆的韩屋类型说明，比较供暖房间、夏季通风大厅及上层家庭的男女生活分区。",
+      "common": [
+        {
+          "title": "暖房与通风空间并用",
+          "text": "温突以火加热地板，木地大厅用于夏季通风；房间功能与季节有关。",
+          "refs": [
+            "kr_house"
+          ]
+        },
+        {
+          "title": "上层住宅分内外",
+          "text": "男子读书会客的舍廊与女性使用的内宅有进入限制，不能直接视作完全开放的现代客厅。",
+          "refs": [
+            "kr_house"
+          ]
+        },
+        {
+          "title": "空间并非同一等级",
+          "text": "馆方指出舍廊的高起安排表达家主地位，门与院落也影响可接近性。",
+          "refs": [
+            "kr_house"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "温突房间",
+          "feature": "关注地板、火与房间使用的联系。",
+          "refs": [
+            "kr_house"
+          ]
+        },
+        {
+          "name": "木地大厅",
+          "feature": "与热季通风有关，不等同于温突暖房。",
+          "refs": [
+            "kr_house"
+          ]
+        },
+        {
+          "name": "舍廊与内宅",
+          "feature": "读书会客与女性生活空间有别。",
+          "refs": [
+            "kr_house",
+            "kr_scholar"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "冷暖季节和上层家庭的社会分工共同作用，形成不同房间用途。",
+          "refs": [
+            "kr_house"
+          ]
+        }
+      ],
+      "limits": [
+        "该分区尤其针对上层住宅，不代表所有平民韩屋；来源是传统类型概括，未给出每一世纪的变化。",
+        "照片为馆方选用的建筑现状照，未注明具体建造年，不能作为朝代断代证据。"
+      ],
+      "drawing": "先定季节、住户身份和来客资格，再画房间与进退路线；使用朝代范围筛选后仍须另核对具体年份。",
+      "sources": [
+        {
+          "id": "kr_house",
+          "title": "国立民俗博物馆 · 韩屋类型",
+          "url": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+          "locator": "温突、木地大厅、上层男女空间与进入资格。"
+        },
+        {
+          "id": "kr_scholar",
+          "title": "国立民俗博物馆 · 舍廊房",
+          "url": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+          "locator": "男子读书与会客的用途。"
+        },
+        {
+          "id": "kr_dynasty",
+          "title": "Met · 朝鲜王朝历史范围",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+          "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-joseon-scholar-furniture",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "朝鲜王朝书房陈设：低书案、砚台桌与开放书架",
+    "region": "朝鲜半岛（国家未细分）",
+    "period": "朝鲜王朝（1392—1910年）；士人书房类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758",
+    "content": "从国立中央博物馆的舍廊房陈设研究，比较阅读书写、文具存放和藏书展示的家具分工。",
+    "use": "把阅读、取砚和取书的任务分别安排；先画不同高度的家具，再放书和文具。",
+    "caution": "配图为博物馆复原陈列，不是朝鲜王朝原房摄影；家具个体年代未在该说明中逐件给出。",
+    "find": "朝鲜王朝书房陈设：低书案、砚台桌与开放书架 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "朝鲜半岛（国家未细分）",
+      "era": "朝鲜王朝（1392—1910年）；士人书房类型",
+      "start": 1392,
+      "end": 1910,
+      "dateLabel": "朝鲜王朝（1392—1910年）；士人书房类型",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "配图为博物馆复原陈列，不是朝鲜王朝原房摄影；家具个体年代未在该说明中逐件给出。",
+        "专题限定士人书房类型，不能代表女性内宅、商人铺面或所有平民住家。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758",
+          "locator": "Seoan、Inkstone Table、book shelf及书房讨论用途；明确展示为reproduction。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+          "locator": "文房用品、科举理想和书房用途。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+          "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-kr_furniture-18.png",
+        "full": "绘画参考资源/例图/east1-kr_furniture-18.png",
+        "original": "https://cdn.museum.go.kr/attach_files/H_20231208095605140_000.png",
+        "source": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758",
+        "caption": "国立中央博物馆舍廊房复原陈列；低案、文具与书架的关系，非历史现场。",
+        "provider": "韩国国立中央博物馆",
+        "credit": "韩国国立中央博物馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 831,
+        "height": 581
+      }
+    ],
+    "topic": {
+      "scope": "从国立中央博物馆的舍廊房陈设研究，比较阅读书写、文具存放和藏书展示的家具分工。",
+      "common": [
+        {
+          "title": "低家具围绕书写安排",
+          "text": "低小书案由案面和足组成，装饰较少；家具尺度不宜直接套用现代桌椅。",
+          "refs": [
+            "kr_furniture"
+          ]
+        },
+        {
+          "title": "文具另有整理位置",
+          "text": "砚台桌与纸、笔、水滴等工具组合，不能把所有用品堆在一张现代书桌上。",
+          "refs": [
+            "kr_furniture"
+          ]
+        },
+        {
+          "title": "书架兼收存与展示",
+          "text": "较高的开放书架放书，也陈设珍爱物件；书房还用于男性来客讨论。",
+          "refs": [
+            "kr_furniture"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "书案",
+          "feature": "阅读书写的主要低案。",
+          "refs": [
+            "kr_furniture"
+          ]
+        },
+        {
+          "name": "砚台桌",
+          "feature": "安排砚及相关书写用品。",
+          "refs": [
+            "kr_furniture"
+          ]
+        },
+        {
+          "name": "开放书架",
+          "feature": "储书和展示器物。",
+          "refs": [
+            "kr_furniture"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "士人的读写、会客和整洁朴素的陈设理想共同组织书房；理想不能等同于全部家庭实况。",
+          "refs": [
+            "kr_furniture",
+            "kr_scholar"
+          ]
+        }
+      ],
+      "limits": [
+        "配图为博物馆复原陈列，不是朝鲜王朝原房摄影；家具个体年代未在该说明中逐件给出。",
+        "专题限定士人书房类型，不能代表女性内宅、商人铺面或所有平民住家。"
+      ],
+      "drawing": "把阅读、取砚和取书的任务分别安排；先画不同高度的家具，再放书和文具。",
+      "sources": [
+        {
+          "id": "kr_furniture",
+          "title": "国立中央博物馆 · 舍廊房复原与家具",
+          "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=27795&schM=view&showHallId=758",
+          "locator": "Seoan、Inkstone Table、book shelf及书房讨论用途；明确展示为reproduction。"
+        },
+        {
+          "id": "kr_scholar",
+          "title": "国立民俗博物馆 · 士人读书会客",
+          "url": "https://www.nfm.go.kr/k-box/ui/sarangbang/dignity.do?lang=en",
+          "locator": "文房用品、科举理想和书房用途。"
+        },
+        {
+          "id": "kr_dynasty",
+          "title": "Met · 朝鲜王朝历史范围",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+          "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-east1-joseon-sewing-tools",
+    "module": "objects",
+    "category": "tools",
+    "name": "朝鲜王朝针线工具：闺中七友与两类熨具",
+    "region": "朝鲜半岛（国家未细分）",
+    "period": "朝鲜王朝（1392—1910年）；传统女性针线工具",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nfm.go.kr/k-box/ui/anbang/sewing.do?lang=en",
+    "content": "按民俗博物馆的成套工具说明，整理量、剪、缝和熨的用途，比较针线工具与两类熨具的区别。",
+    "use": "分别收量裁、穿针和熨缝的手部接触；画熨具时同时确认加热方式和布的承托位置。",
+    "caution": "该页面说明传统女性工具类型，未给出每件展示工具制造年；朝代标签只标明研究范围，不能将它们标成某年出土器。",
+    "find": "朝鲜王朝针线工具：闺中七友与两类熨具 东亚古代扩充20261003 东亚古代",
+    "collect": "共同特征、用途分型与机构原图",
+    "check": "2026年10月3日核对；正文逐项标明依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "朝鲜半岛（国家未细分）",
+      "era": "朝鲜王朝（1392—1910年）；传统女性针线工具",
+      "start": 1392,
+      "end": 1910,
+      "dateLabel": "朝鲜王朝（1392—1910年）；传统女性针线工具",
+      "dateBasis": "研究时段或朝代边界用于分类排序，不表示所有建筑、器物同时存在；单件与照片年代见图注。",
+      "notes": [
+        "该页面说明传统女性工具类型，未给出每件展示工具制造年；朝代标签只标明研究范围，不能将它们标成某年出土器。",
+        "人物使用图为现代演示；不据此复原历史所有女性的服饰、姿态和工作量。"
+      ],
+      "evidence": [
+        {
+          "url": "https://www.nfm.go.kr/k-box/ui/anbang/sewing.do?lang=en",
+          "locator": "七类工具及Indu、indupan弹窗使用说明；配图为机构工具与现代演示。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        },
+        {
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+          "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。",
+          "text": "共同特征、用途或研究时段的核对依据。"
+        }
+      ],
+      "source": "https://www.nfm.go.kr/k-box/ui/anbang/sewing.do?lang=en"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/east1-kr_women-8.jpg",
+        "full": "绘画参考资源/例图/east1-kr_women-8.jpg",
+        "original": "https://www.nfm.go.kr/k-box/images/kbox/sub/cont_p_03_02_01.jpg",
+        "source": "https://www.nfm.go.kr/k-box/ui/anbang/sewing.do?lang=en",
+        "caption": "闺中七友成套工具的机构照片；未标明各件制造年，不当作某次考古出土组合。",
+        "provider": "韩国国立民俗博物馆",
+        "credit": "韩国国立民俗博物馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 1194,
+        "height": 692
+      },
+      {
+        "src": "绘画参考资源/例图/east1-kr_women-11.jpg",
+        "full": "绘画参考资源/例图/east1-kr_women-11.jpg",
+        "original": "https://www.nfm.go.kr/k-box/images/kbox/sub/popup_p_03_00_12.jpg",
+        "source": "https://www.nfm.go.kr/k-box/ui/anbang/sewing.do?lang=en",
+        "caption": "小熨具、承托板与现代使用演示的机构组合原图；不是古代劳动现场照。",
+        "provider": "韩国国立民俗博物馆",
+        "credit": "韩国国立民俗博物馆",
+        "license": "原图作者、权利与再使用条件以机构来源页为准。",
+        "related": false,
+        "width": 720,
+        "height": 580
+      }
+    ],
+    "topic": {
+      "scope": "按民俗博物馆的成套工具说明，整理量、剪、缝和熨的用途，比较针线工具与两类熨具的区别。",
+      "common": [
+        {
+          "title": "成套工具各有任务",
+          "text": "尺、剪、针、线、顶针和两类熨具合称闺中七友。",
+          "refs": [
+            "kr_women"
+          ]
+        },
+        {
+          "title": "小熨具处理局部",
+          "text": "火热的indu用于接缝或衣物边缘，不能只按现代大熨斗理解。",
+          "refs": [
+            "kr_women"
+          ]
+        },
+        {
+          "title": "熨具与承托工具配合",
+          "text": "indupan是板上铺棉并包布的承托工具，需要与加热后的熨具一起观察。",
+          "refs": [
+            "kr_women"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "量裁与缝合",
+          "feature": "尺、剪、针、线和顶针分别承担不同任务。",
+          "refs": [
+            "kr_women"
+          ]
+        },
+        {
+          "name": "两类熨具",
+          "feature": "馆方成套工具中分列两种iron；小熨具与承托板另有使用说明。",
+          "refs": [
+            "kr_women"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "不同手工步骤需要不同器具，成套展示比只看一把剪刀更能理解针线劳动。此为按工具用途作的归纳。",
+          "refs": [
+            "kr_women"
+          ]
+        }
+      ],
+      "limits": [
+        "该页面说明传统女性工具类型，未给出每件展示工具制造年；朝代标签只标明研究范围，不能将它们标成某年出土器。",
+        "人物使用图为现代演示；不据此复原历史所有女性的服饰、姿态和工作量。"
+      ],
+      "drawing": "分别收量裁、穿针和熨缝的手部接触；画熨具时同时确认加热方式和布的承托位置。",
+      "sources": [
+        {
+          "id": "kr_women",
+          "title": "国立民俗博物馆 · 闺中七友",
+          "url": "https://www.nfm.go.kr/k-box/ui/anbang/sewing.do?lang=en",
+          "locator": "七类工具及Indu、indupan弹窗使用说明；配图为机构工具与现代演示。"
+        },
+        {
+          "id": "kr_dynasty",
+          "title": "Met · 朝鲜王朝历史范围",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2009/korean-renaissance",
+          "locator": "展览说明使用1392—1910年作为Joseon dynasty范围；只作朝代分类依据。"
+        }
+      ],
+      "examples": []
+    }
   }
 ];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月3日";})();
