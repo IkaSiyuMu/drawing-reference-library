@@ -9038,5 +9038,1507 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://blog.tepapa.govt.nz/2012/09/04/kava-drinking-and-tongan-culture/"
+  },
+  "topic-daily100-daily-preserve-jars": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "1918—1946年",
+    "start": 1918,
+    "end": 1946,
+    "dateLabel": "1918—1946年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1918—1946年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars"
+      }
+    ],
+    "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars"
+  },
+  "topic-daily100-daily-metal-food-cans": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "1910—1949年",
+    "start": 1910,
+    "end": 1949,
+    "dateLabel": "1910—1949年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1910—1949年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans"
+      }
+    ],
+    "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans"
+  },
+  "topic-daily100-daily-lunch-boxes": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "1950—1959年",
+    "start": 1950,
+    "end": 1959,
+    "dateLabel": "1950—1959年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1950—1959年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+      }
+    ],
+    "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+  },
+  "topic-daily100-daily-modular-fridge-containers": {
+    "region": "跨地区",
+    "country": "德国、美国",
+    "era": "1930—1959年",
+    "start": 1930,
+    "end": 1959,
+    "dateLabel": "1930—1959年",
+    "dateBasis": "机构类级文献和断代器组",
+    "notes": [
+      "美国玻璃器组断代1932—1960，本文重点1930—1950年代；Kubus例证1938，密封塑料碗约1954。"
+    ],
+    "evidence": [
+      {
+        "text": "Illinois State Museum的系列保存器断代1932—1960；Smithsonian述1930年代玻璃冷藏盘及约1954塑料碗。",
+        "url": "https://exhibits.museum.state.il.us/exhibits/athome/1920/objects/refig.htm"
+      },
+      {
+        "text": "Kubus例证1938，多尺寸和叠放用于有限冷藏空间。",
+        "url": "https://www.cooperhewitt.org/2018/11/13/kubus-a-stylish-1930s-fridge-accessory/"
+      }
+    ],
+    "source": "https://exhibits.museum.state.il.us/exhibits/athome/1920/objects/refig.htm"
+  },
+  "topic-daily100-daily-modern-party-ceramics": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "1950—1960年",
+    "start": 1950,
+    "end": 1960,
+    "dateLabel": "1950—1960年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1950—1960年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+      }
+    ],
+    "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+  },
+  "topic-daily100-daily-charcoal-caddies": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "1800—1899年",
+    "start": 1800,
+    "end": 1899,
+    "dateLabel": "1800—1899年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1800—1899年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+      }
+    ],
+    "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+  },
+  "topic-daily100-daily-mingei-table-ceramics": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "1800—1967年",
+    "start": 1800,
+    "end": 1967,
+    "dateLabel": "1800—1967年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1800—1967年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+      }
+    ],
+    "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+  },
+  "topic-daily100-daily-celebratory-food-boxes": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "1800—1999年",
+    "start": 1800,
+    "end": 1999,
+    "dateLabel": "1800—1999年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1800—1999年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.metmuseum.org/art/collection/search/53416"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/53416"
+  },
+  "topic-daily100-daily-onggi": {
+    "region": "亚洲",
+    "country": "韩国",
+    "era": "1971—1982年",
+    "start": 1971,
+    "end": 1982,
+    "dateLabel": "1971—1982年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "1971—1972为田野研究，1982为展演；这些是观察时期，不把它们自动当作全部瓮器制造日期。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1971—1982年；机构所载对象与观察年份详见各图注。1971—1972为田野研究，1982为展演；这些是观察时期，不把它们自动当作全部瓮器制造日期。",
+        "url": "https://festival.si.edu/storied-objects/korean-onggi"
+      }
+    ],
+    "source": "https://festival.si.edu/storied-objects/korean-onggi"
+  },
+  "topic-daily100-daily-soy-containers": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "1800—1961年",
+    "start": 1800,
+    "end": 1961,
+    "dateLabel": "1800—1961年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1800—1961年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://www.kikkoman.com/en/culture/soysaucemuseum/history/"
+      }
+    ],
+    "source": "https://www.kikkoman.com/en/culture/soysaucemuseum/history/"
+  },
+  "topic-daily100-daily-export-storage-jars": {
+    "region": "亚洲",
+    "country": "中国（福建或广东）",
+    "era": "1001—1300年",
+    "start": 1001,
+    "end": 1300,
+    "dateLabel": "1001—1300年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1001—1300年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573"
+      }
+    ],
+    "source": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573"
+  },
+  "topic-daily100-daily-coolamon": {
+    "region": "大洋洲",
+    "country": "澳大利亚（西澳、Kimberley）",
+    "era": "1852—1885年",
+    "start": 1852,
+    "end": 1885,
+    "dateLabel": "1852—1885年",
+    "dateBasis": "机构收藏/观察年代；制作年未定，详见notes",
+    "notes": [
+      "区间来自捐赠记录；器物制作可能早于入藏，本文保留不确定。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1852—1885年；机构所载对象与观察年份详见各图注。区间来自捐赠记录；器物制作可能早于入藏，本文保留不确定。",
+        "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html"
+      }
+    ],
+    "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html"
+  },
+  "topic-daily100-daily-mate-vessels": {
+    "region": "美洲",
+    "country": "阿根廷",
+    "era": "1990—1990年",
+    "start": 1990,
+    "end": 1990,
+    "dateLabel": "1990—1990年",
+    "dateBasis": "机构文献与馆藏年代",
+    "notes": [
+      "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1990—1990年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+        "url": "https://oboculturalheritage.state.gov/setting-table-diplomacy/"
+      }
+    ],
+    "source": "https://oboculturalheritage.state.gov/setting-table-diplomacy/"
+  },
+  "topic-daily100-daily-jebena": {
+    "region": "非洲",
+    "country": "埃塞俄比亚",
+    "era": "1923—1966年",
+    "start": 1923,
+    "end": 1966,
+    "dateLabel": "1923—1966年",
+    "dateBasis": "机构收藏/观察年代；制作年未定，详见notes",
+    "notes": [
+      "研究定位于20世纪机构收藏记录，制作年代各自未载；黑磨光型另见Horniman19.4.66/69。"
+    ],
+    "evidence": [
+      {
+        "text": "研究区间1923—1966年；机构所载对象与观察年份详见各图注。研究定位于20世纪机构收藏记录，制作年代各自未载；黑磨光型另见Horniman19.4.66/69。",
+        "url": "https://www.horniman.ac.uk/object/23.2.65/23/"
+      }
+    ],
+    "source": "https://www.horniman.ac.uk/object/23.2.65/23/"
+  },
+  "topic-daily100-parts-wood-sash": {
+    "region": "跨地区",
+    "country": "英国、美国",
+    "era": "18—20世纪初木制升降窗研究例证",
+    "start": 1701,
+    "end": 1930,
+    "dateLabel": "18—20世纪初木制升降窗研究例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "六格、两格等只是具体窗式，不能把单一格数当作所有18世纪窗。",
+      "照片是修复指南中的现状例证，窗的涂漆、玻璃或绳索可能后配。"
+    ],
+    "evidence": [
+      {
+        "text": "比较上下滑动木窗的框扇构造与玻璃分格，以历史保育指南中的多种住宅窗为证。；18—20世纪初木制升降窗研究例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-09-wood-windows.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-09-wood-windows.pdf"
+  },
+  "topic-daily100-parts-steel-windows": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "19世纪末—20世纪中叶钢窗；1930—1950年代保存例证",
+    "start": 1890,
+    "end": 1960,
+    "dateLabel": "19世纪末—20世纪中叶钢窗；1930—1950年代保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "钢、铸铁和铝窗不可只凭深色外观混同。",
+      "近景显示Guggenheim钢窗修复前凝水状态；后续改为断热钢复制窗，不能把两阶段材料混画。"
+    ],
+    "evidence": [
+      {
+        "text": "研究轧制钢型材窗的共性与开启类型，住宅、工业窗与现代公共建筑窗均纳入。；19世纪末—20世纪中叶钢窗；1930—1950年代保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-13-steel-windows.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-13-steel-windows.pdf"
+  },
+  "topic-daily100-parts-leaded-glazing": {
+    "region": "跨地区",
+    "country": "美国、欧洲",
+    "era": "19世纪—20世纪初日常建筑应用；工艺有更早沿革",
+    "start": 1801,
+    "end": 1930,
+    "dateLabel": "19世纪—20世纪初日常建筑应用；工艺有更早沿革",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "“彩窗”不等于每块玻璃都用同一染色方法。",
+      "NPS照片含历史原窗与保护修复现状；保护层和补片不能倒推原始设计。"
+    ],
+    "evidence": [
+      {
+        "text": "比较由金属槽条连接玻璃片的建筑窗，重心为住宅门边窗、气窗和装饰玻璃，不重复哥特教堂室内概述。；19世纪—20世纪初日常建筑应用；工艺有更早沿革是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf"
+  },
+  "topic-daily100-parts-wood-doors": {
+    "region": "欧洲",
+    "country": "英国",
+    "era": "18—20世纪初住宅木门保存例证",
+    "start": 1701,
+    "end": 1930,
+    "dateLabel": "18—20世纪初住宅木门保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "单门、双门和镶板数不能自动推断屋主等级。",
+      "照片中的油漆、门锁和局部玻璃可能后配，年代仅作为指南研究范围。"
+    ],
+    "evidence": [
+      {
+        "text": "比较日常外门、内门的木构方式及门框收边，以多扇政府指南实物照片为例。；18—20世纪初住宅木门保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf"
+      }
+    ],
+    "source": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf"
+  },
+  "topic-daily100-parts-shutters": {
+    "region": "跨地区",
+    "country": "美国、英国",
+    "era": "18—20世纪初传统木护窗板保存例证",
+    "start": 1701,
+    "end": 1930,
+    "dateLabel": "18—20世纪初传统木护窗板保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "实板与百叶并非各自只属于一种国家或年代。",
+      "NPS建筑报告中的后制复制板须与原件区分；LOC照片记录1940年现状，未给单块护窗板制作年。"
+    ],
+    "evidence": [
+      {
+        "text": "研究铰接于建筑窗框旁的木护窗板，比较封闭木面与留通风缝的百叶；不涉及可移动屏风或布帘。；18—20世纪初传统木护窗板保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/articles/000/weatherization-of-historic-buildings-shading-devices.htm"
+      }
+    ],
+    "source": "https://www.nps.gov/articles/000/weatherization-of-historic-buildings-shading-devices.htm"
+  },
+  "topic-daily100-parts-iron-hinges": {
+    "region": "跨地区",
+    "country": "法国、美国",
+    "era": "13—18世纪门用锻铁铰带研究例证",
+    "start": 1201,
+    "end": 1800,
+    "dateLabel": "13—18世纪门用锻铁铰带研究例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "Met独立门铰保留安装钉盘，V&A木门上繁细铁带兼有加固和装饰；拆离件不一定保留配套门框。",
+      "法国中世纪与美国18世纪例证仅用来对照工艺，不推断两地同一作坊或直接传播。"
+    ],
+    "evidence": [
+      {
+        "text": "以多种门铰比较锻铁条的安装、钉孔和装饰分枝，包含整体门扇与拆下的五金。；13—18世纪门用锻铁铰带研究例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.metmuseum.org/art/collection/search/4323"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/4323"
+  },
+  "topic-daily100-parts-cast-railings": {
+    "region": "美洲",
+    "country": "美国",
+    "era": "19世纪—20世纪初铸铁建筑栏杆例证",
+    "start": 1801,
+    "end": 1920,
+    "dateLabel": "19世纪—20世纪初铸铁建筑栏杆例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "铸铁与锻铁常混用，单靠卷曲花纹无法判断材料。",
+      "Fort Hancock近景属存留栏杆，部分其他外廊已拆除，不能用此图推定所有廊架仍完整。"
+    ],
+    "evidence": [
+      {
+        "text": "研究固定在建筑门廊、阳台和外廊的铸铁围护，以重复铸件及接头比较不同栏面。；19世纪—20世纪初铸铁建筑栏杆例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf"
+  },
+  "topic-daily100-parts-slate-roofs": {
+    "region": "跨地区",
+    "country": "美国、英国",
+    "era": "19—20世纪石板屋面保育例证",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19—20世纪石板屋面保育例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "渐变铺排是板片尺寸变化，不是透视下看起来渐小。",
+      "Thomas House图是2006—2007年换屋面工程，不能把新铺板视为全部19世纪原件。"
+    ],
+    "evidence": [
+      {
+        "text": "比较劈裂天然石板的铺屋面类型，聚焦搭接、檐口与脊部；不重复整栋瑞士农屋概述。；19—20世纪石板屋面保育例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-29-slate-roofs.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-29-slate-roofs.pdf"
+  },
+  "topic-daily100-parts-clay-roofs": {
+    "region": "跨地区",
+    "country": "英国、美国",
+    "era": "12—20世纪陶瓦类型与存世例证",
+    "start": 1101,
+    "end": 2000,
+    "dateLabel": "12—20世纪陶瓦类型与存世例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "NPS提醒同一种瓦名在美欧不总指同一形状，应以断面判断。",
+      "伦敦博物馆图为拆离屋面的中世纪瓦原物，无法单凭它复原整座房屋屋坡。"
+    ],
+    "evidence": [
+      {
+        "text": "比较烧制陶瓦的平面与曲面类型、搭接与脊瓦，不以某座建筑整体风格凑类题。；12—20世纪陶瓦类型与存世例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-30-clay-tile-roofs.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-30-clay-tile-roofs.pdf"
+  },
+  "topic-daily100-parts-tile-floors": {
+    "region": "跨地区",
+    "country": "美国、英国",
+    "era": "19世纪—20世纪初工业陶砖地面研究例证",
+    "start": 1801,
+    "end": 1930,
+    "dateLabel": "19世纪—20世纪初工业陶砖地面研究例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "英语encaustic tile在此指嵌泥成纹陶砖，不是蜡画。",
+      "LOC2017现状地面照片记录1897建成建筑，历次修复与补砖不能都视作1897原件。"
+    ],
+    "evidence": [
+      {
+        "text": "比较烧制陶砖铺地的不同成纹方法，重点是砖缝、图案与通行磨损，不重复荷兰蓝白壁砖专题。；19世纪—20世纪初工业陶砖地面研究例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf"
+      }
+    ],
+    "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf"
+  },
+  "topic-daily100-parts-wood-stairs": {
+    "region": "跨地区",
+    "country": "英国、美国",
+    "era": "18—19世纪楼梯保存例证",
+    "start": 1701,
+    "end": 1900,
+    "dateLabel": "18—19世纪楼梯保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "开放侧梁与转折路线是不同分类轴，可同时出现在一部楼梯上。",
+      "LOC照片拍于1969年；雕刻栏杆与各踏步的制造年未分别确认。"
+    ],
+    "evidence": [
+      {
+        "text": "比较住宅木楼梯的开放侧梁与靠墙转折构造，以建筑调查和真实楼梯摄影为例。；18—19世纪楼梯保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://historicengland.org.uk/research/results/reports/6089/84RavensdowneBerwick-upon-TweedNorthumberland_AnInvestigationandStatementofSignificance"
+      }
+    ],
+    "source": "https://historicengland.org.uk/research/results/reports/6089/84RavensdowneBerwick-upon-TweedNorthumberland_AnInvestigationandStatementofSignificance"
+  },
+  "topic-daily100-parts-fireplaces": {
+    "region": "欧洲",
+    "country": "英国、意大利",
+    "era": "16—20世纪初固定壁炉研究例证",
+    "start": 1501,
+    "end": 1910,
+    "dateLabel": "16—20世纪初固定壁炉研究例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "照片中的拆离壁炉不可视为完整烟囱系统。",
+      "现代展陈与补装不代表原住宅中相同墙色、炉床高度或日常燃料状态。"
+    ],
+    "evidence": [
+      {
+        "text": "比较与墙内烟道相接的固定壁炉及其装饰框，以多件拆离原建筑的馆藏壁炉为例；不写便携炉具。；16—20世纪初固定壁炉研究例证是研究范围，摄影日不作为施工日。",
+        "url": "https://collections.vam.ac.uk/item/O131247/"
+      }
+    ],
+    "source": "https://collections.vam.ac.uk/item/O131247/"
+  },
+  "topic-daily100-parts-shoji": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "桃山—江户以来障子类型；1649年临春阁例证",
+    "start": 1573,
+    "end": 1868,
+    "dateLabel": "桃山—江户以来障子类型；1649年临春阁例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "1649是照片中建筑的年代，不代表全部障子木框或纸为1649原件。",
+      "“障子”历史词义变化，不可把来源中的所有shoji都翻成同一种白纸移门。"
+    ],
+    "evidence": [
+      {
+        "text": "研究建筑轨道内的透光障子，不将可移动家具屏风或所有不透光襖归在一起。；桃山—江户以来障子类型；1649年临春阁例证是研究范围，摄影日不作为施工日。",
+        "url": "https://madoken.jp/terms/36035/"
+      }
+    ],
+    "source": "https://madoken.jp/terms/36035/"
+  },
+  "topic-daily100-parts-amado": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "江户以来雨户类型；17—18世纪掬月亭保存例证",
+    "start": 1601,
+    "end": 1900,
+    "dateLabel": "江户以来雨户类型；17—18世纪掬月亭保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "掬月亭转角系统是具体构造例证，不是所有日式住宅都有。",
+      "图为现状与操作记录，摄影年未载；户板与转角五金的替换年代未分别确认。"
+    ],
+    "evidence": [
+      {
+        "text": "研究建筑外层挡雨木户及其收纳系统，比较沿直轨收入户袋与转角移送方式。；江户以来雨户类型；17—18世纪掬月亭保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://madoken.jp/series/28877/"
+      }
+    ],
+    "source": "https://madoken.jp/series/28877/"
+  },
+  "topic-daily100-parts-ranma": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "桃山—江户时代发展；保存建筑例证",
+    "start": 1573,
+    "end": 1868,
+    "dateLabel": "桃山—江户时代发展；保存建筑例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "下方襖上的绘画不能当作栏间透雕。",
+      "京都御所和二条城图是保存现状，不把摄影时的全部木件或修复涂层视为最初年代。"
+    ],
+    "evidence": [
+      {
+        "text": "比较门上横额与天花之间的固定栏间，分清细棂、透雕与绘画门扇。；桃山—江户时代发展；保存建筑例证是研究范围，摄影日不作为施工日。",
+        "url": "https://madoken.jp/terms/39732/"
+      }
+    ],
+    "source": "https://madoken.jp/terms/39732/"
+  },
+  "topic-daily100-parts-geshan": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "明清建筑类型；清乾隆时期内檐保存例证",
+    "start": 1368,
+    "end": 1911,
+    "dateLabel": "明清建筑类型；清乾隆时期内檐保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "故宫定义和内檐精品不能泛化为所有民居材质或等级。",
+      "玻璃画与紫檀精作是清代特定作品，不应倒推明代或所有格扇都有玻璃。"
+    ],
+    "evidence": [
+      {
+        "text": "研究安装于建筑门框中的格扇组合和透光分区，宫廷精作仅作构件例证，不写整座宫殿。；明清建筑类型；清乾隆时期内檐保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.dpm.org.cn/lemmas/243812.html"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/lemmas/243812.html"
+  },
+  "topic-daily100-parts-zhizhai": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "明清内廷居住建筑保存类型",
+    "start": 1368,
+    "end": 1911,
+    "dateLabel": "明清内廷居住建筑保存类型",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "两种状态是同一机制的使用差异，不据此推断两个独立起源。",
+      "位育斋立面现状有修缮；并未展示每块窗扇实际取下过程，开启示意须另据词条。"
+    ],
+    "evidence": [
+      {
+        "text": "研究窗的上支、下摘机制和季节性透光面，区别于上下滑动的升降窗。；明清内廷居住建筑保存类型是研究范围，摄影日不作为施工日。",
+        "url": "https://www.dpm.org.cn/lemmas/242230.html"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/lemmas/242230.html"
+  },
+  "topic-daily100-parts-door-pivot-stones": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "北魏已有记载；辽—明清及传统建筑保存例证",
+    "start": 386,
+    "end": 1911,
+    "dateLabel": "北魏已有记载；辽—明清及传统建筑保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "辽1087年属于这对馆藏门枕，不是所有狮形门枕的年代。",
+      "不同地区门座名称和固定对象有所不同，不能把每件石狮都推定内部有同样轴窝。"
+    ],
+    "evidence": [
+      {
+        "text": "比较承接门框或门轴的石座与外端雕刻，不把孤立镇宅狮全归为门枕。；北魏已有记载；辽—明清及传统建筑保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.dpm.org.cn/collection/sculpture/233550.html"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/collection/sculpture/233550.html"
+  },
+  "topic-daily100-parts-door-knockers": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "汉至明清沿用；前蜀10世纪实物例证",
+    "start": -206,
+    "end": 1911,
+    "dateLabel": "汉至明清沿用；前蜀10世纪实物例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "前蜀王建墓实物属于墓门具，不能直接套到全部民宅门。",
+      "器皿上的铺首衔环与建筑门环安装方式不同，图像资料中的用途必须核对。"
+    ],
+    "evidence": [
+      {
+        "text": "比较门上兽面铺首的衔环构造与装饰性变化，区分建筑门具和器皿提环。；汉至明清沿用；前蜀10世纪实物例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml"
+      }
+    ],
+    "source": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml"
+  },
+  "topic-daily100-parts-eaves-ends": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "战国—汉代瓦当类型；后世继续使用",
+    "start": -475,
+    "end": 220,
+    "dateLabel": "战国—汉代瓦当类型；后世继续使用",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "青龙瓦当是汉代个例，不代表所有屋檐都使用四神一整套。",
+      "拆离屋面的馆藏原物只能说明端面形体，无法确认某建筑完整檐口的数量与次序。"
+    ],
+    "evidence": [
+      {
+        "text": "研究圆形或半圆端面覆檐构件的功能与成纹，不重复斗栱与重檐屋顶的整体系。；战国—汉代瓦当类型；后世继续使用是研究范围，摄影日不作为施工日。",
+        "url": "https://www.dpm.org.cn/collection/sculpture/233699.html"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/collection/sculpture/233699.html"
+  },
+  "topic-daily100-parts-brick-floors": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "明代金砖实物与清代存留砖地",
+    "start": 1403,
+    "end": 1911,
+    "dateLabel": "明代金砖实物与清代存留砖地",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "寿康宫是清代具体建筑群例证，其调查规格不是全国统一标准。",
+      "图中补色、试验与2015前后修复属于现代保育，不能作为清代制作工艺照片。",
+      "清晰原图显示明代拆离金砖；寿康宫小图保留在研究证据中，未作正式配图。"
+    ],
+    "evidence": [
+      {
+        "text": "比较室内方砖铺地的材料与规格，以寿康宫多个房间的金砖和墁砖调查为证；不把整座宫殿作为专题。；明代金砖实物与清代存留砖地是研究范围，摄影日不作为施工日。",
+        "url": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b7b0ea9fe.pdf"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b7b0ea9fe.pdf"
+  },
+  "topic-daily100-parts-stone-balusters": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "明清建筑石栏杆保存例证",
+    "start": 1368,
+    "end": 1911,
+    "dateLabel": "明清建筑石栏杆保存例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "故宫图版中的精工构件不能推定所有普通民居都有同等级石栏杆。",
+      "图为机构原摄影图版，保持原排版未裁切；多件制作年未逐一确定，现状可含后修。"
+    ],
+    "evidence": [
+      {
+        "text": "研究石栏杆的竖向节点与不同柱头，而非宫殿建筑概述；图版集合多处构件用于比较。；明清建筑石栏杆保存例证是研究范围，摄影日不作为施工日。",
+        "url": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf"
+      }
+    ],
+    "source": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf"
+  },
+  "topic-daily100-parts-jali": {
+    "region": "亚洲",
+    "country": "印度",
+    "era": "16—17世纪莫卧儿石格栅类型",
+    "start": 1501,
+    "end": 1700,
+    "dateLabel": "16—17世纪莫卧儿石格栅类型",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "气候适应不等于所有Jali都能用相同方法量化降温。",
+      "本图是16世纪后半红砂岩几何型，不能充当17世纪白大理石花叶型的材色参照。"
+    ],
+    "evidence": [
+      {
+        "text": "比较用石材透雕而成的固定建筑窗屏，涵盖红砂岩几何格与后期花叶处理，不把单块格栅当作全部传统。；16—17世纪莫卧儿石格栅类型是研究范围，摄影日不作为施工日。",
+        "url": "https://www.metmuseum.org/art/collection/search/453344"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/453344"
+  },
+  "topic-daily100-parts-india-doorframes": {
+    "region": "亚洲",
+    "country": "印度",
+    "era": "6—13世纪石雕门框研究例证",
+    "start": 501,
+    "end": 1300,
+    "dateLabel": "6—13世纪石雕门框研究例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "宗教门框的人物与方位不能不加考证套用于普通住宅。",
+      "6—7世纪Met残件与南印度后期多层门框是跨时段比较，不是同一门框的复原拼合。",
+      "主源针对印度宗教建筑，日常木门及民宅石框不能按此直接复原。"
+    ],
+    "evidence": [
+      {
+        "text": "比较门框的实用内层与套叠装饰层，以早期砂岩残件及穆克特什瓦拉寺研究为证。；6—13世纪石雕门框研究例证是研究范围，摄影日不作为施工日。",
+        "url": "https://ignca.gov.in/the-temple-of-muktesvara-architecture/"
+      }
+    ],
+    "source": "https://ignca.gov.in/the-temple-of-muktesvara-architecture/"
+  },
+  "topic-daily100-parts-mashrabiya": {
+    "region": "非洲",
+    "country": "埃及及阿拉伯地区",
+    "era": "15—19世纪车木窗屏类型",
+    "start": 1401,
+    "end": 1900,
+    "dateLabel": "15—19世纪车木窗屏类型",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "隐私作用不是绝对单向玻璃，光照与观看位置会影响可见程度。",
+      "Met大平屏由大小不同面板组成，其现状组合不能自动等于某住宅整面凸出窗。"
+    ],
+    "evidence": [
+      {
+        "text": "研究由车制小木件组合的建筑格屏，比较中世纪密集作法与奥斯曼时期较大网格，不写移动家具屏风。；15—19世纪车木窗屏类型是研究范围，摄影日不作为施工日。",
+        "url": "https://www.metmuseum.org/art/collection/search/456292"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/456292"
+  },
+  "topic-daily100-parts-plaster-glazing": {
+    "region": "非洲",
+    "country": "埃及、突尼斯",
+    "era": "19世纪石膏彩窗馆藏例证",
+    "start": 1801,
+    "end": 1900,
+    "dateLabel": "19世纪石膏彩窗馆藏例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "两地19世纪例证不能代表所有伊斯兰地区的同一窗式。",
+      "突尼斯图为1883年为展览制作的历史展品，埃及图可能为19世纪开罗制；不能把两图都称为从建筑拆下的原窗。"
+    ],
+    "evidence": [
+      {
+        "text": "比较建筑窗中石膏镂空面与彩玻璃的组合，利用两地馆藏多件材料和图案差异建立类型。；19世纪石膏彩窗馆藏例证是研究范围，摄影日不作为施工日。",
+        "url": "https://collections.vam.ac.uk/item/O117386/"
+      }
+    ],
+    "source": "https://collections.vam.ac.uk/item/O117386/"
+  },
+  "topic-daily100-parts-iran-revetments": {
+    "region": "亚洲",
+    "country": "伊朗",
+    "era": "13—14世纪壁面陶砖类型",
+    "start": 1201,
+    "end": 1400,
+    "dateLabel": "13—14世纪壁面陶砖类型",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "Met组合板把不同宗教、世俗建筑来源的砖后期合并，不能当作一面原墙的纹样顺序。",
+      "具体题铭与建筑来源需要逐砖判断，不凭一块砖推断整座建筑用途。"
+    ],
+    "evidence": [
+      {
+        "text": "研究星形、十字形陶砖如何组合建筑壁面，区分釉上金属光与深蓝贴金工艺，不把博物馆组合板当原墙完整保存。；13—14世纪壁面陶砖类型是研究范围，摄影日不作为施工日。",
+        "url": "https://www.metmuseum.org/art/collection/search/444459"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/444459"
+  },
+  "topic-daily100-parts-zellij": {
+    "region": "非洲",
+    "country": "摩洛哥",
+    "era": "19世纪住宅保存板；工艺有更早传统",
+    "start": 1801,
+    "end": 1900,
+    "dateLabel": "19世纪住宅保存板；工艺有更早传统",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "馆藏板是19世纪Fez住宅构件，1945年回收，不能将回收年当制造年。",
+      "现代传统工坊制作可以说明工艺，但不能替代历史原墙的年代证据。"
+    ],
+    "evidence": [
+      {
+        "text": "研究由切割单色釉砖片拼成的固定壁面装饰，比较星形网格与连续边带，不将彩绘整砖混为同法。；19世纪住宅保存板；工艺有更早传统是研究范围，摄影日不作为施工日。",
+        "url": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en"
+      }
+    ],
+    "source": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en"
+  },
+  "topic-daily100-parts-dogon-doors": {
+    "region": "非洲",
+    "country": "马里",
+    "era": "19世纪末—20世纪例证",
+    "start": 1880,
+    "end": 2000,
+    "dateLabel": "19世纪末—20世纪例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "Princeton门的具体原建筑未确认，只有约20世纪、木铁和锁的资料。",
+      "不能把旅游门板上的每个图像都解释为古老多贡宇宙观。"
+    ],
+    "evidence": [
+      {
+        "text": "比较多贡传统建筑门、粮仓护门与后来面向外地市场的雕刻门板，研究用途和图像边界。；19世纪末—20世纪例证是研究范围，摄影日不作为施工日。",
+        "url": "https://emuseum.cornell.edu/objects/7909/granary-door"
+      }
+    ],
+    "source": "https://emuseum.cornell.edu/objects/7909/granary-door"
+  },
+  "topic-daily100-parts-corrugated-roofs": {
+    "region": "大洋洲",
+    "country": "澳大利亚",
+    "era": "19世纪—20世纪历史屋面保育例证",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19世纪—20世纪历史屋面保育例证",
+    "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+    "notes": [
+      "波纹金属板不一定都是裸铁或同一种镀层。",
+      "指南照片为保存建筑现状，部分板材、油漆与固定件可能替换，不能给每张板统一19世纪年代。"
+    ],
+    "evidence": [
+      {
+        "text": "研究固定建筑屋顶的波纹金属板与拼接，区别传统薄板和现代成型替换板，不写整栋房屋概述。；19世纪—20世纪历史屋面保育例证是研究范围，摄影日不作为施工日。",
+        "url": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf"
+      }
+    ],
+    "source": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf"
+  },
+  "topic-daily100-furniture-cassoni": {
+    "region": "欧洲",
+    "country": "意大利（托斯卡纳、罗马）",
+    "era": "14—16世纪；配图为15—16世纪实物",
+    "start": 1301,
+    "end": 1600,
+    "dateLabel": "14—16世纪；配图为15—16世纪实物",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "对象是富裕家庭的装饰箱，不能当作全部意大利民众的储物方式。",
+      "15世纪配图的盖板是后配；不能将现状全部视为原始制作。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：关注家庭卧房中装衣物、织物与贵重物的cassone箱；婚礼身份展示与收纳功能并存。",
+        "url": "https://www.metmuseum.org/art/collection/search/193194",
+        "locator": "Overview与Artwork Details；制作年代 mid-15th century"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/193194"
+  },
+  "topic-daily100-furniture-windsor": {
+    "region": "欧洲",
+    "country": "英国（泰晤士河谷、英格兰地方产区）",
+    "era": "18—19世纪",
+    "start": 1701,
+    "end": 1900,
+    "dateLabel": "18—19世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "温莎命名不能证明每把椅子在温莎制作。",
+      "背式与腿式有地域和年代交叉，不能仅凭一个弯腿定年。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较温莎椅独立插入厚座板的腿与靠背构件，并区分背架和地方生产；涵盖花园及家庭坐具。",
+        "url": "https://regionalfurnituresociety.org/about-the-rfs/online-articles/the-windsor-chair/the-windsor-chair-full-article/",
+        "locator": "全文：座板、木材、梳背/弓背、18/19世纪及生产中心"
+      }
+    ],
+    "source": "https://regionalfurnituresociety.org/about-the-rfs/online-articles/the-windsor-chair/the-windsor-chair-full-article/"
+  },
+  "topic-daily100-furniture-thonet": {
+    "region": "欧洲",
+    "country": "奥地利（维也纳及摩拉维亚工厂生产）",
+    "era": "1850年代—20世纪初",
+    "start": 1850,
+    "end": 1920,
+    "dateLabel": "1850年代—20世纪初",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "各型号投产与单件制作时间须分别标注。",
+      "不能把所有曲木椅或现代复制椅都归为19世纪Thonet实物。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：以Thonet弯木座具为类，考察蒸汽弯曲、少量部件装配及不同坐具型号。",
+        "url": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+        "locator": "1830s/1855技术、1857工厂、部件与型号；三件座具图注"
+      }
+    ],
+    "source": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture"
+  },
+  "topic-daily100-furniture-aesthetic-storage-wall": {
+    "region": "欧洲",
+    "country": "英国",
+    "era": "1860—1900年",
+    "start": 1860,
+    "end": 1900,
+    "dateLabel": "1860—1900年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "这是特定消费群体的陈设主张，不能代表全部英国民宅。",
+      "装饰风格不是功能类别：餐柜和壁钟应分别画出收纳开口与钟面。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：限唯美主义居家陈设中的轻框储物家具及利用墙面的柜架、镜钟；以时髦中产和上层住宅为范围。",
+        "url": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home",
+        "locator": "Furniture与墙面利用段；Godwin餐柜、Day壁钟图注"
+      }
+    ],
+    "source": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home"
+  },
+  "topic-daily100-furniture-craft-domestic": {
+    "region": "欧洲",
+    "country": "英国（科茨沃尔德等地）",
+    "era": "1890—1910年代初的家用设计",
+    "start": 1890,
+    "end": 1910,
+    "dateLabel": "1890—1910年代初的家用设计",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "不同设计师并不使用同一套腿背式样。",
+      "这些有设计师署名的家具不等于普通家庭都能购买的标准配置。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较衣物收纳与日常坐具中的简洁形体、材料和可见构造；不把运动史代替家具类型。",
+        "url": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home",
+        "locator": "Utility、natural materials、construction；Barnsley衣柜与Gimson扶手椅图注"
+      }
+    ],
+    "source": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home"
+  },
+  "topic-daily100-furniture-regency-tables-chairs": {
+    "region": "欧洲",
+    "country": "英国（伦敦）",
+    "era": "约1800—1830年",
+    "start": 1800,
+    "end": 1830,
+    "dateLabel": "约1800—1830年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "照片是1800年前后实物，不是古罗马或古埃及家具。",
+      "Hope收藏家住宅是特殊案例，不能作为所有摄政住宅的固定布置。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：以Thomas Hope住宅与出版设计为线索，比较靠墙桌、独立桌和椅子的用途形态；限精英住宅。",
+        "url": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style",
+        "locator": "约1800—1830风格、1807出版、家具及图注"
+      }
+    ],
+    "source": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style"
+  },
+  "topic-daily100-furniture-tapestry-furnishings": {
+    "region": "欧洲",
+    "country": "欧洲（尼德兰、布鲁塞尔、英国等）",
+    "era": "14世纪后半—18世纪",
+    "start": 1350,
+    "end": 1800,
+    "dateLabel": "14世纪后半—18世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "这是贵重织物的主要使用范围，不能把平民住宅统一画成满墙挂毯。",
+      "现代展墙悬挂方式及修复状态不一定等于历史安装方法。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：关注富裕住宅使用的织造挂毯、桌椅覆饰等纺织陈设，区别织成图像与画在布上的图像。",
+        "url": "https://www.vam.ac.uk/articles/what-is-tapestry",
+        "locator": "14世纪后半至18世纪；墙毯/桌椅覆饰、羊毛/丝、移动与制作"
+      }
+    ],
+    "source": "https://www.vam.ac.uk/articles/what-is-tapestry"
+  },
+  "topic-daily100-furniture-new-england-seating": {
+    "region": "美洲",
+    "country": "美国（新英格兰）",
+    "era": "1620—1690年传统；配图1640—1700年",
+    "start": 1620,
+    "end": 1700,
+    "dateLabel": "1620—1690年传统；配图1640—1700年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "结构体系不是富穷的绝对对应：保存下来的车木椅也有复杂华丽例证。",
+      "1700以前的年代范围有重叠，不能机械按一个纹样断代。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较移民家庭木座具的两种制作体系；结构与工时差异比单个花纹更有识别价值。",
+        "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+        "locator": "Seventeenth Century部分：joiners/turners与成本、材料"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles"
+  },
+  "topic-daily100-furniture-william-mary-storage": {
+    "region": "美洲",
+    "country": "美国（波士顿等沿海城市）",
+    "era": "1690—1730年",
+    "start": 1690,
+    "end": 1730,
+    "dateLabel": "1690—1730年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "机构指出城市富裕用户先采用新式；乡村普及并不同步。",
+      "贴木与燕尾接合应结合整体结构判断，不能由表面花纹单独确定年代。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：关注William and Mary时期抽屉储物与书写用途的分化，避免仅用风格名称概括家具。",
+        "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+        "locator": "William and Mary部分：专门用途、板箱燕尾和区域采用差异"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles"
+  },
+  "topic-daily100-furniture-federal-dining": {
+    "region": "美洲",
+    "country": "美国（大西洋沿岸城市）",
+    "era": "约1790—1815年",
+    "start": 1790,
+    "end": 1815,
+    "dateLabel": "约1790—1815年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "时期陈设室是博物馆收集与重组的环境，不能默认每件家具原属该屋。",
+      "1810年代后古典装饰又有变化，不能把整个19世纪美国餐柜统一套用此例。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：以家庭餐室的储放、展示与用餐桌面为核心，比较新式餐边柜和可改变面积的餐桌。",
+        "url": "https://www.metmuseum.org/essays/american-federal-era-period-rooms",
+        "locator": "1790—1815；Hepplewhite/Sheraton图案书、贴木/镶嵌、餐室"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/american-federal-era-period-rooms"
+  },
+  "topic-daily100-furniture-shaker-domestic": {
+    "region": "美洲",
+    "country": "美国（新黎巴嫩等Shaker社区）",
+    "era": "19世纪",
+    "start": 1801,
+    "end": 1900,
+    "dateLabel": "19世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "简洁并不等于全部手工或拒绝机器。",
+      "Shaker是特定宗教社区，不是19世纪美国所有乡村家具的总称。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较共同生活中的餐桌、条背椅和就地设置的储物柜，关注劳动、使用与清理。",
+        "url": "https://www.metmuseum.org/essays/shaker-furniture",
+        "locator": "当地木材、动力工具、1860s制椅商业、低背椅/餐桌/固定柜"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/shaker-furniture"
+  },
+  "topic-daily100-furniture-rococo-parlor-seating": {
+    "region": "美洲",
+    "country": "美国（纽约）",
+    "era": "1845—1865年；配图1850—1860年",
+    "start": 1845,
+    "end": 1865,
+    "dateLabel": "1845—1865年；配图1850—1860年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "Met的Whittemore客厅家具是馆方选择的重组陈设；原家庭家具没有确认保存。",
+      "这是19世纪复兴设计，不能视为18世纪法国家具本体；Belter归属保留机构的“归于”。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：限富裕住宅会客厅的成套木框软包座具，比较多人沙发和两人私语椅。",
+        "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-american-wing/period-rooms/rococo-revival-parlor",
+        "locator": "Suite of seating furniture；lamination、castors、tête-à-tête与馆方重组说明"
+      }
+    ],
+    "source": "https://www.metmuseum.org/about-the-met/collection-areas/the-american-wing/period-rooms/rococo-revival-parlor"
+  },
+  "topic-daily100-furniture-chinese-bronze-mirrors": {
+    "region": "亚洲",
+    "country": "中国",
+    "era": "汉至唐代；配图公元前2世纪与8世纪",
+    "start": -200,
+    "end": 900,
+    "dateLabel": "汉至唐代；配图公元前2世纪与8世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "馆藏镜可能来自墓葬，不能据出土语境直接断定生前只用于葬礼。",
+      "后代仿古镜真实存在；仅有“汉式纹样”不足以判定汉代制作。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：围绕照面功能、正反面构造及背部装饰类型；祭祀、馈赠和随葬用途须与日常梳妆区别。",
+        "url": "https://australian.museum/learn/cultures/international-collection/chinese/chinese-bronze-mirrors/",
+        "locator": "正反面、汉圆形、后世形制、日用/仪式与13—14世纪仿汉镜说明"
+      }
+    ],
+    "source": "https://australian.museum/learn/cultures/international-collection/chinese/chinese-bronze-mirrors/"
+  },
+  "topic-daily100-furniture-chinese-ceramic-pillows": {
+    "region": "亚洲",
+    "country": "中国（河北、河南等北方窑口）",
+    "era": "宋金时期，10—13世纪",
+    "start": 960,
+    "end": 1234,
+    "dateLabel": "宋金时期，10—13世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "不据硬度自行推断医学效果、夏季降温或保护发型；此处来源未完整说明。",
+      "某些塑形枕残件已失去上部承托面；清代仿宋枕须另列制作年代。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较头枕承托体的造型与图像施作；从机构比较研究中的磁州、定窑等例证讨论类型，不推断所有人的睡眠习惯。",
+        "url": "https://www.chnmus.net/sitesources/hnbwy/page_pc/WeeklySelection/CizhouWarePillowwithaBoyPlayingCuju/list1.html",
+        "locator": "Comparative Study：多件金代枕、北宋孩儿荷叶枕；陶瓷枕形制与婴戏装饰"
+      }
+    ],
+    "source": "https://www.chnmus.net/sitesources/hnbwy/page_pc/WeeklySelection/CizhouWarePillowwithaBoyPlayingCuju/list1.html"
+  },
+  "topic-daily100-furniture-qing-screens": {
+    "region": "亚洲",
+    "country": "中国（北京及地方制作中心）",
+    "era": "清代，1644—1911年",
+    "start": 1644,
+    "end": 1911,
+    "dateLabel": "清代，1644—1911年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "主要类级研究来自清宫收藏，其规模和材料不能视作普遍民用标准。",
+      "有插屏、折屏、座屏等并行类型，不能全部画成皇帝背后的宝座屏。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较可折叠分区的屏风与安在座架上的插屏；以清宫保存的类型资料为主，不把皇家座屏覆盖全体民间。",
+        "url": "https://www.dpm.org.cn/Uploads/wenhua/E18/index.htm",
+        "locator": "展览类型综述：折屏/插屏与地方工艺"
+      }
+    ],
+    "source": "https://www.dpm.org.cn/Uploads/wenhua/E18/index.htm"
+  },
+  "topic-daily100-furniture-bamboo-imitation": {
+    "region": "亚洲",
+    "country": "中国（江南及北京宫廷）",
+    "era": "明代中晚期至清代",
+    "start": 1500,
+    "end": 1911,
+    "dateLabel": "明代中晚期至清代",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "论文提出苏州竹器与扬州木器是否融合属于推测，不能写成确定起源。",
+      "保存照片含修复过程；补配构件和烫蜡后的状态不是未经干预的清代原状。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：这是用非竹材模仿竹构件形态的家具类型，重点区别轻巧苏作与宽厚宫廷制作，并包括椅、案等用具。",
+        "url": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf",
+        "locator": "印刷pp.149—153：仿竹定义、文献、江南/宫廷形制；pp.154—159修复"
+      }
+    ],
+    "source": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf"
+  },
+  "topic-daily100-furniture-japanese-folding-screens": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "16世纪末—17世纪",
+    "start": 1580,
+    "end": 1700,
+    "dateLabel": "16世纪末—17世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "“谁袖”现存组群作者多无署名，确切定年有讨论，沿用机构分期。",
+      "画在屏面的衣架不能被当作该屏风的真实支架；画面也不是房间实测图。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：以家具功能解释金地折屏，再比较“谁袖”屏风图像中单纯衣架与丰富室内陈设的类型。",
+        "url": "https://www.metmuseum.org/essays/interiors-imagined-folding-screens-garments-and-clothing-stands",
+        "locator": "屏风功能、金地、三类Tagasode；图像年代讨论"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/interiors-imagined-folding-screens-garments-and-clothing-stands"
+  },
+  "topic-daily100-furniture-japanese-tansu": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "江户至大正时期；19—20世纪初为主要参考",
+    "start": 1801,
+    "end": 1926,
+    "dateLabel": "江户至大正时期；19—20世纪初为主要参考",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "不是每件叫tansu的家具都带车轮；阶梯柜等例外需单独考察。",
+      "配图来自2022类型展览，左右古箪笥没有逐件制作年；该展另有现代改造作品，不把它们混为古物。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较季节衣物、商家文书与家庭日用品的收纳柜，强调便于搬移的五金与抽屉组织。",
+        "url": "https://studiojapan.org/articles/what-are-tansu",
+        "locator": "作者正式著作配套研究：移动定义、用途、接合、木材、干式/漆式及江户/明治区别"
+      }
+    ],
+    "source": "https://studiojapan.org/articles/what-are-tansu"
+  },
+  "topic-daily100-furniture-korean-tier-cabinets": {
+    "region": "亚洲",
+    "country": "韩国（朝鲜王朝）",
+    "era": "19世纪参考；类级文字涵盖朝鲜王朝",
+    "start": 1801,
+    "end": 1900,
+    "dateLabel": "19世纪参考；类级文字涵盖朝鲜王朝",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "不要把两层数目本身当作nong判据，应查看贯通侧板与各层把手。",
+      "上层收藏可能更华丽，不等于所有家庭都用同样材质和金属饰件。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：关注妇女内房anbang衣物、布料、棉花收纳，按侧板贯通与分层搬运结构区分柜类。",
+        "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=16595&schM=view&showHallId=758",
+        "locator": "Permanent Exhibition类级说明：anbang、两大柜类、可分层与把手"
+      }
+    ],
+    "source": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=16595&schM=view&showHallId=758"
+  },
+  "topic-daily100-furniture-korean-bandaji": {
+    "region": "亚洲",
+    "country": "韩国（南海郡、江原道等）",
+    "era": "19世纪中叶—20世纪初",
+    "start": 1850,
+    "end": 1920,
+    "dateLabel": "19世纪中叶—20世纪初",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "bandaji被称为“铺盖箱”不意味着内部只装寝具。",
+      "制作年代和地区要由档案确认，不能仅凭铁件大小或木色定位。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：把上前板翻开的bandaji作为家庭储物类别，与顶盖箱及双门层柜区别；比较地方材料与箱板组织。",
+        "url": "https://chuncheon.museum.go.kr/eng/sub02_0105.do",
+        "locator": "Gangwon-do–Style Bandaji，19世纪末—20世纪初；松木、五金、板构与隔棚"
+      }
+    ],
+    "source": "https://chuncheon.museum.go.kr/eng/sub02_0105.do"
+  },
+  "topic-daily100-furniture-korean-soban": {
+    "region": "亚洲",
+    "country": "韩国（海州、统营、罗州、江原道等）",
+    "era": "朝鲜王朝晚期19世纪—20世纪初参考",
+    "start": 1801,
+    "end": 1920,
+    "dateLabel": "朝鲜王朝晚期19世纪—20世纪初参考",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "配图左统营桌制作年代未载；右漆螺钿桌只标朝鲜王朝，不额外定为19世纪。",
+      "现代金属、陶瓷和3D打印复兴桌须另列，不能替代传统木桌。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较在席地生活中兼作托盘和饭桌的soban，强调轻便搬运与地方腿、桌面类型。",
+        "url": "https://jeonju.museum.go.kr/specialBefore.es?act=view&mid=a20201020000&seq=1411",
+        "locator": "2013类型展：用途、桌面形与板腿/四腿、历史图像的限制"
+      }
+    ],
+    "source": "https://jeonju.museum.go.kr/specialBefore.es?act=view&mid=a20201020000&seq=1411"
+  },
+  "topic-daily100-furniture-korean-folding-screens": {
+    "region": "亚洲",
+    "country": "韩国",
+    "era": "朝鲜王朝至20世纪；配图含1945年后延续制作",
+    "start": 1392,
+    "end": 2000,
+    "dateLabel": "朝鲜王朝至20世纪；配图含1945年后延续制作",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "1945年后的鱼纹屏展示延续制作，不能标成朝鲜王朝古物。",
+      "屏面有册架图像不意味着实物是柜；王座日月屏也不能代表全部民居屏风。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：关注折屏阻挡气流、分区与陈设的家庭用途；按放置位置和屏面工艺分型。",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643",
+        "locator": "木框/纸/铰链/足、chimbyeong/subyeong/baeknapbyeong；两图注"
+      }
+    ],
+    "source": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643"
+  },
+  "topic-daily100-furniture-safavid-carpets": {
+    "region": "亚洲",
+    "country": "伊朗",
+    "era": "16—17世纪",
+    "start": 1501,
+    "end": 1700,
+    "dateLabel": "16—17世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "Polonaise是历史误称，这类毯在伊朗制作，不代表波兰生产。",
+      "旧修补、褪色和金属氧化改变现状；现代竖挂或压力装裱属于保育选择，不是历史铺设证据。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较精英住宅、宫殿地面及欧洲贵族陈设中的两类织毯，区分织造结构、使用位置和现代保育展示。",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2017/carpets-for-kings/exhibition-panels",
+        "locator": "Exhibition Sections；Technical Features；Polonaise Carpets：制作、用途与现代保育"
+      }
+    ],
+    "source": "https://www.metmuseum.org/exhibitions/listings/2017/carpets-for-kings/exhibition-panels"
+  },
+  "topic-daily100-furniture-ottoman-ushak": {
+    "region": "亚洲",
+    "country": "土耳其（安纳托利亚、乌沙克）",
+    "era": "15世纪末—17世纪",
+    "start": 1480,
+    "end": 1700,
+    "dateLabel": "15世纪末—17世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "不将地毯在欧洲绘画中的出现年当作实物制作年。",
+      "图样可跨地区传播，产地判断还须核对材料、染料和织法，不能仅凭星纹。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较Ushak织毯的重复星式与中央奖章布局，并把铺地、覆桌及悬挂用途按使用地区区分。",
+        "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+        "locator": "用途、Ottoman Turkey段与年代/产地鉴别限制"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800"
+  },
+  "topic-daily100-furniture-mughal-carpets": {
+    "region": "亚洲",
+    "country": "印度（莫卧儿生产中心）",
+    "era": "16世纪末—18世纪；配图约1600与1650年",
+    "start": 1580,
+    "end": 1800,
+    "dateLabel": "16世纪末—18世纪；配图约1600与1650年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "机构对阿克巴以前产量与气候解释采用推测语气，此处不据此下定论。",
+      "原图残损或褪色不等于原始设计；题材差异不能单独证明某作坊或城市。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：关注皇家作坊织毯及贵族住宅、海外陈设，比较早期波斯关联布局和后来独立花株画面。",
+        "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+        "locator": "Mughal workshops与17世纪图像、国际贸易段"
+      }
+    ],
+    "source": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800"
+  },
+  "topic-daily100-furniture-indo-portuguese-cabinets": {
+    "region": "亚洲",
+    "country": "印度（果阿、古吉拉特）及巴基斯坦信德",
+    "era": "16—18世纪类级范围；配图17、18世纪",
+    "start": 1501,
+    "end": 1800,
+    "dateLabel": "16—18世纪类级范围；配图17、18世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "葡印不是所有南亚柜的笼统名称；配图翻板柜明确保留古吉拉特或信德的不确定归属。",
+      "LACMA柜的黄铜把手及新艺术式背片在18或19世纪欧洲添加，不视作17世纪原装。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较葡印双部分架柜和莫卧儿西海岸翻板抽屉柜，关注文书、贵重小物收纳及跨区域订单。",
+        "url": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en",
+        "locator": "类级16—18世纪制作/文书贵重物、两部分结构；本件果阿18世纪"
+      }
+    ],
+    "source": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en"
+  },
+  "topic-daily100-furniture-akan-stools": {
+    "region": "非洲",
+    "country": "加纳（阿桑特等阿坎群体）",
+    "era": "19—20世纪；配图约1900年",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19—20世纪；配图约1900年",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "照片是具象征雕饰的首领关联实例，不代表最普通家用凳的装饰程度。",
+      "不能把首领凳、黑化祖先凳与阿桑特黄金凳混为一种实物或用途。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：以实际坐具用途起笔，再区别一般家用凳和更大、装饰贵重的首领凳；不是把每张木凳都当宝座。",
+        "url": "https://dia.org/collection/chiefs-throne/96098",
+        "locator": "About the Artwork：家庭通用凳/首领凳的功能尺度区别；Published References p.32"
+      }
+    ],
+    "source": "https://dia.org/collection/chiefs-throne/96098"
+  },
+  "topic-daily100-furniture-ethiopian-headrests": {
+    "region": "非洲",
+    "country": "埃塞俄比亚（Oromo、Gurage、Sidaama等）",
+    "era": "19—20世纪",
+    "start": 1801,
+    "end": 2000,
+    "dateLabel": "19—20世纪",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "东非此组以实用为重点；不能套用中南部非洲某些头枕的占卜、祖先媒介用途。",
+      "圆柱、锥底并非某族或某性别的排他标志；标签年代宽泛时不额外细分。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：限定抬高头颈、保护发型及便于携带的日常头枕；比较跨群体共享构形，不以单件头枕代表一个民族全部家具。",
+        "url": "https://www.metmuseum.org/art/collection/search/314981",
+        "locator": "类级功能、共享类型与东非实用/其他地区仪式的区别；只引文字，不下载该受限图"
+      }
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/314981"
+  },
+  "topic-daily100-furniture-maori-floor-mats": {
+    "region": "大洋洲",
+    "country": "新西兰（毛利群体）",
+    "era": "20世纪馆藏及1998年延续制作参考；保育配图年代未列",
+    "start": 1900,
+    "end": 1998,
+    "dateLabel": "20世纪馆藏及1998年延续制作参考；保育配图年代未列",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "保育指南两张照片未载制作年代，不用指南出版年给古席断代。",
+      "1998是明确的现代延续作品；2007祖先返还仪式是使用年，不等于席子的制作年。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：以居室地面铺设的编织席为类，比较较大地席和重要礼仪中的精织takapau；不把衣物纺织混入家具。",
+        "url": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf",
+        "locator": "印刷p.14：Whāriki/Fine mat及Whāriki takapau/Finely woven floor mat，两张原嵌照片；保管避免卷曲"
+      }
+    ],
+    "source": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf"
+  },
+  "topic-daily100-furniture-maori-treasure-boxes": {
+    "region": "大洋洲",
+    "country": "新西兰（毛利群体）",
+    "era": "19世纪；配图19世纪中后期",
+    "start": 1801,
+    "end": 1900,
+    "dateLabel": "19世纪；配图19世纪中后期",
+    "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+    "notes": [
+      "19世纪中后期有仿欧洲盒式的铰盖和足部，不能当成所有传统悬挂盒的必备结构。",
+      "不能因现代馆藏陈列在桌面上就否定原来悬挂用途；也不能从一个纹样给全部毛利地区定型。"
+    ],
+    "evidence": [
+      {
+        "text": "类级功能与形制依据：比较屋内悬挂的木雕小盒，收纳个人羽饰、梳子和佩饰；家庭传承与饰物神圣性并存。",
+        "url": "https://collections.tepapa.govt.nz/topic/2407",
+        "locator": "Overview：功能、悬挂、典型尺寸、椭圆/矩形地域及19世纪欧洲式改造"
+      }
+    ],
+    "source": "https://collections.tepapa.govt.nz/topic/2407"
   }
 };

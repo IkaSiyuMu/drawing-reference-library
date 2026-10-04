@@ -36758,5 +36758,12344 @@
       ],
       "examples": []
     }
+  },
+  {
+    "id": "topic-daily100-daily-vacuum",
+    "module": "objects",
+    "category": "tools",
+    "name": "1906—1956年西欧家庭吸尘器：手动泵与电动罐体",
+    "region": "法国、英国",
+    "period": "1906—1956年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+    "content": "按抽吸动力和软管附件比较家用除尘器；用1906手动器与约1956Hoover作对照。",
+    "use": "画人力型时保留施力部位；画球形型先定罐体、软管弯曲和低位吸头，再补接缝。",
+    "caution": "图中两件不代表整个欧洲家庭的普及率。",
+    "find": "1906—1956年西欧家庭吸尘器：手动泵与电动罐体 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "法国、英国",
+      "era": "1906—1956年",
+      "start": 1906,
+      "end": 1956,
+      "dateLabel": "1906—1956年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1906—1956年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA"
+        }
+      ],
+      "source": "https://artsandculture.google.com/story/ewURXYN0o9jwKA"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-manual-vacuum-cleaner.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-manual-vacuum-cleaner.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_R89stqG3uVZnYCOsfd9lxaU0x6c_bnBFflCdrdPhRXycbc8FI5AmtQTcdCGSYcQzXtziCoeN0",
+        "source": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+        "caption": "Birum手动吸尘器，1906，法国工艺博物馆；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Musée des arts et métiers",
+        "credit": "Musée des arts et métiers",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 334,
+        "height": 512,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-vacuum.png",
+        "full": "绘画参考资源/例图/daily100-daily-vacuum.png",
+        "original": "https://www.sciencemuseum.org.uk/sites/default/files/2025-02/2025-01-31_SMG_One_Collection_Report.pdf#page=25",
+        "source": "https://www.sciencemuseum.org.uk/sites/default/files/2025-02/2025-01-31_SMG_One_Collection_Report.pdf#page=25",
+        "caption": "Hoover Constellation及附件，约1956，SMG 2025报告印刷48页所刊原照；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Science Museum Group",
+        "credit": "Science Museum Group",
+        "license": "© Science Museum Group；公开报告原嵌图，非CC。",
+        "width": 731,
+        "height": 535,
+        "kind": "historical",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按抽吸动力和软管附件比较家用除尘器；用1906手动器与约1956Hoover作对照。",
+      "common": [
+        {
+          "title": "空气带走尘埃",
+          "text": "吸尘器把除尘动作从反复拍打转成抽吸；机械标准化和家庭供电扩大推动了电动家电生产。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "主机与附件",
+          "text": "主机、软管和吸头分开观察。约1956球形Hoover连附件收存，1906手动器仍需人力驱动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "手动型",
+          "feature": "1906 Birum以人的操作产生抽吸，机体操作部与管路要同时读。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "电动罐体型",
+          "feature": "约1956Hoover Constellation把电机藏入球形外壳，通过软管接清洁附件。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "比较重点是操作所需的手部动作和附件布置，而非给每种吸尘器套同一外壳。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图中两件不代表整个欧洲家庭的普及率。",
+        "SMG报告照片为受版权保护的馆藏影像；不能套用别页CC许可。"
+      ],
+      "drawing": "画人力型时保留施力部位；画球形型先定罐体、软管弯曲和低位吸头，再补接缝。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "法国工艺博物馆：Mécanique机构展览",
+          "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+          "locator": "Univ-AP coffee grinder / Toaster no.70 / Electric toaster / Manual vacuum cleaner；各展项标题、年代与家用电器标准化段落"
+        },
+        {
+          "id": "s2",
+          "title": "Science Museum Group：图示器物与照片出处",
+          "url": "https://www.sciencemuseum.org.uk/sites/default/files/2025-02/2025-01-31_SMG_One_Collection_Report.pdf#page=25",
+          "locator": "图示原物的机构说明、日期和公开原图；具体编号见图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-toasters",
+    "module": "objects",
+    "category": "tools",
+    "name": "1920—1950年前欧洲家用烤面包器：侧开架与竖直容纳",
+    "region": "法国（含美国制造对照）",
+    "period": "1920—1950年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+    "content": "以法国工艺博物馆家电展比较早期电热烤面包器的支承和进出面包方式。",
+    "use": "并排画两种轮廓和面包所在平面；从原图核对把手，不补画现代弹出槽。",
+    "caution": "本文不推断两件都有自动弹出或定时机构。",
+    "find": "1920—1950年前欧洲家用烤面包器：侧开架与竖直容纳 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "法国（含美国制造对照）",
+      "era": "1920—1950年",
+      "start": 1920,
+      "end": 1950,
+      "dateLabel": "1920—1950年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1920—1950年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA"
+        }
+      ],
+      "source": "https://artsandculture.google.com/story/ewURXYN0o9jwKA"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-electric-toaster.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-electric-toaster.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_Q7H3AG0wzrYfDJY3fnJDWZy-Bp9tAbiu4x34lGE-9OlSzQtq5ewnpSKwTS_I1GeW-dg-AxOGSY",
+        "source": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+        "caption": "Proctor & Schwartz电烤面包器，约1920—1930；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Musée des arts et métiers",
+        "credit": "Musée des arts et métiers",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 512,
+        "height": 376,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-toaster-no-70.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-toaster-no-70.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_Sbw57AmrGDprbJldKBftf15Dm62rICTfIEOMX0Wu_ferIOkJ0vkNCGpii8HFzhNQ1buItmATqn",
+        "source": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+        "caption": "Calor No.70烤面包器，1950年前；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Musée des arts et métiers",
+        "credit": "Musée des arts et métiers",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 345,
+        "height": 512,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以法国工艺博物馆家电展比较早期电热烤面包器的支承和进出面包方式。",
+      "common": [
+        {
+          "title": "热源移入器具",
+          "text": "早期电器把供电、热区和面包托架集中到桌面器具；制造件的可靠性与电网扩展是量产条件。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "形体服从取放",
+          "text": "面包在热区周围怎样放入和取出，决定架面、开门方向和把手位置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "封闭双槽型",
+          "feature": "Proctor & Schwartz约1920—1930原图显示两道顶部入片槽与封闭壳体；有无自动弹出未据图推定。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "开放侧架型",
+          "feature": "Calor No.70（1950年前）原图显示竖直热区与两侧外露承架，取放方式不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同为烘烤面包，托持和取放不同会改变使用者站位及伸手方向。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文不推断两件都有自动弹出或定时机构。",
+        "馆藏年代只覆盖对照物，不等于早期电热烤面包器的完整起源。"
+      ],
+      "drawing": "并排画两种轮廓和面包所在平面；从原图核对把手，不补画现代弹出槽。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "法国工艺博物馆：Mécanique机构展览",
+          "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+          "locator": "Univ-AP coffee grinder / Toaster no.70 / Electric toaster / Manual vacuum cleaner；各展项标题、年代与家用电器标准化段落"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-coffee-mills",
+    "module": "objects",
+    "category": "tools",
+    "name": "19世纪中叶—1970年代欧洲家用咖啡磨：固定方式与电动转变",
+    "region": "德国、法国",
+    "period": "1850—1979年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.museum.de/en/audioguide/422/3/EN",
+    "content": "据咖啡磨博物馆类级导览，比较手持、桌式、墙装与电动磨具。",
+    "use": "先画豆斗—磨部—接粉容器的轴线，再画摇柄或电线；固定式补出与桌墙接触的位置。",
+    "caution": "早期电动实例不说明当时普通家庭都已使用电动磨。",
+    "find": "19世纪中叶—1970年代欧洲家用咖啡磨：固定方式与电动转变 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "德国、法国",
+      "era": "1850—1979年",
+      "start": 1850,
+      "end": 1979,
+      "dateLabel": "1850—1979年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1850—1979年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.museum.de/en/audioguide/422/3/EN"
+        }
+      ],
+      "source": "https://www.museum.de/en/audioguide/422/3/EN"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-univ-ap-coffee-grinder.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-univ-ap-coffee-grinder.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_SfWis9Rp-fJABP7zgZsNm9wyXww0SfTA0z2vv9He3BgSBjwsp9wNmbVg_LonDFWXRrlm98aNl5",
+        "source": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+        "caption": "Rotary Univ-AP咖啡磨，约1920—1940；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Musée des arts et métiers",
+        "credit": "Musée des arts et métiers",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 341,
+        "height": 512,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据咖啡磨博物馆类级导览，比较手持、桌式、墙装与电动磨具。",
+      "common": [
+        {
+          "title": "研磨与支承",
+          "text": "手持型靠握住机体，桌式靠桌面或夹具，膝上型夹在两腿之间；稳定方式与摇柄动作相连。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "title": "家庭消费变化",
+          "text": "19世纪中叶咖啡进入更多普通家庭，简单盒形磨具扩展；战后强调实用，1970年代电动型扩大。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "盒形手摇",
+          "feature": "漏斗、摇柄和接粉抽屉形成垂直工作路径，木盒可以夹在腿间。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "name": "电动型",
+          "feature": "1920—1940 Univ-AP是早期电動实例；1970年代筒形刀片器与磨盘器的研磨方式仍有区别。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画磨具时，支承、入豆和收粉位置比外壳花纹更能解释用途。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "早期电动实例不说明当时普通家庭都已使用电动磨。",
+        "机构导览区别切碎与研磨，不能把所有电动器内部都画成同一种刀盘。"
+      ],
+      "drawing": "先画豆斗—磨部—接粉容器的轴线，再画摇柄或电线；固定式补出与桌墙接触的位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Wiernsheim咖啡磨博物馆：磨具类型与技术",
+          "url": "https://www.museum.de/en/audioguide/422/3/EN",
+          "locator": "馆方导览站点3，手持、桌式、墙装、膝上磨与调粗细段落"
+        },
+        {
+          "id": "s2",
+          "title": "Wiernsheim咖啡磨博物馆：20世纪家用咖啡磨",
+          "url": "https://www.museum.com/audioguide/422/17/EN",
+          "locator": "馆方导览站点17，20世纪家庭磨、材料及1970年代电动磨段落"
+        },
+        {
+          "id": "s3",
+          "title": "法国工艺博物馆：Mécanique机构展览",
+          "url": "https://artsandculture.google.com/story/ewURXYN0o9jwKA",
+          "locator": "Univ-AP coffee grinder / Toaster no.70 / Electric toaster / Manual vacuum cleaner；各展项标题、年代与家用电器标准化段落"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-preserve-jars",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1918—1946年美国家庭保存罐：瓶口锁合与分件封盖",
+    "region": "美国",
+    "period": "1918—1946年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars",
+    "content": "据国家农业图书馆保存史展比较玻璃罐盖结构，作为历史厨房器具研究。",
+    "use": "画瓶口剖面的外观关系，尤其盖片、压环和扣丝；原图不清楚的内部细节保留空白。",
+    "caution": "早期出版物不是现行食品安全操作指南。",
+    "find": "1918—1946年美国家庭保存罐：瓶口锁合与分件封盖 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1918—1946年",
+      "start": 1918,
+      "end": 1946,
+      "dateLabel": "1918—1946年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1918—1946年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars"
+        }
+      ],
+      "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-jars1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-jars1.jpg",
+        "original": "https://www.nal.usda.gov/exhibits/ipd/canning/files/fullsize/7521383b68f64e404f5f6b6b22838cdd.jpg",
+        "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars",
+        "caption": "1918年《Successful Canning and Preserving》历史罐型插图；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "USDA National Agricultural Library",
+        "credit": "USDA National Agricultural Library",
+        "license": "美国联邦政府历史出版资料；具体扫描页未单独载授权。",
+        "width": 515,
+        "height": 225,
+        "kind": "historical",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-jars2.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-jars2.jpg",
+        "original": "https://www.nal.usda.gov/exhibits/ipd/canning/files/fullsize/d2edc94cfc3d001e73bbdb3e1e780f07.jpg",
+        "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars",
+        "caption": "1946年家庭肉类保存刊物中的罐盖比较图；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "USDA National Agricultural Library",
+        "credit": "USDA National Agricultural Library",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 304,
+        "height": 151,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据国家农业图书馆保存史展比较玻璃罐盖结构，作为历史厨房器具研究。",
+      "common": [
+        {
+          "title": "重复使用的罐体",
+          "text": "玻璃罐可以跨季节使用，密封部件的维护与替换则另计；透明罐体也让内容物可见。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "瓶口是关键",
+          "text": "螺纹盖、金属压圈和橡胶垫承担不同工作，不宜画成所有盖子都直接旋在瓶口。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "螺纹整盖",
+          "feature": "历史常见瓷衬锌盖，以单个盖组件覆盖瓶口。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "钢丝压扣或两件盖",
+          "feature": "钢丝机构压住玻璃盖；两件金属盖则用盖片、垫圈和旋环分工。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "瓶身近似时，几毫米的盖缘和扣件差异就能识别封合方式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "早期出版物不是现行食品安全操作指南。",
+        "历史图示尺寸较小，无法据此确认玻璃壁厚或品牌。"
+      ],
+      "drawing": "画瓶口剖面的外观关系，尤其盖片、压环和扣丝；原图不清楚的内部细节保留空白。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "美国国家农业图书馆：家庭保存罐的演变",
+          "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/jars",
+          "locator": "Glass Jars小节：历史盖结构与1918、1946资料图"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-metal-food-cans",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1910—1940年代美国家庭金属食品罐：焊封与卷边封合",
+    "region": "美国",
+    "period": "1910—1949年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans",
+    "content": "比较国家农业图书馆所收历史家庭封罐资料里的罐体、盖及封合工具。",
+    "use": "画罐口时保留顶盖、小孔或卷边层次；在封罐场景画稳固台面和摇柄的活动范围。",
+    "caution": "历史保存程序不可作为今天的食用建议。",
+    "find": "1910—1940年代美国家庭金属食品罐：焊封与卷边封合 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1910—1949年",
+      "start": 1910,
+      "end": 1949,
+      "dateLabel": "1910—1949年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1910—1949年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans"
+        }
+      ],
+      "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-tincans1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-tincans1.jpg",
+        "original": "https://www.nal.usda.gov/exhibits/ipd/canning/files/fullsize/49c46e0c07cc8494fff15468ac44a30f.jpg",
+        "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans",
+        "caption": "1918年保存刊物所示金属罐，历史印刷图；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "USDA National Agricultural Library",
+        "credit": "USDA National Agricultural Library",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 505,
+        "height": 273,
+        "kind": "historical",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-tincans3.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-tincans3.jpg",
+        "original": "https://www.nal.usda.gov/exhibits/ipd/canning/files/fullsize/b874656810815f6d5e9628c6e84d6b07.jpg",
+        "source": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans",
+        "caption": "历史《Canning Tomatoes at Home and in Club Work》封罐照片，刊载年份见来源，图页未单载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "USDA National Agricultural Library",
+        "credit": "USDA National Agricultural Library",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 433,
+        "height": 405,
+        "kind": "historical",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较国家农业图书馆所收历史家庭封罐资料里的罐体、盖及封合工具。",
+      "common": [
+        {
+          "title": "罐体与盖分开",
+          "text": "罐头要在装入食品后封合；早期顶盖与小排气孔的处理分两步进行。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "封边转为机械工作",
+          "text": "后来手摇封罐器以两道滚压形成重叠卷边；它改变了工作台和使用者动作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "焊封孔盖型",
+          "feature": "顶盖焊合后还要处理小孔，历史资料称cap-and-hole。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "卷边型",
+          "feature": "盖与罐壁的边缘被滚轮逐步锁成双重卷边，外缘凸圈明显。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "罐盖不能只画成圆片；边缘形状和附近工具才说明历史装罐流程。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "历史保存程序不可作为今天的食用建议。",
+        "该展同时含家庭与社区作坊照片，不能将大设备认成每户厨房配备。"
+      ],
+      "drawing": "画罐口时保留顶盖、小孔或卷边层次；在封罐场景画稳固台面和摇柄的活动范围。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "美国国家农业图书馆：金属罐与封罐方法",
+          "url": "https://www.nal.usda.gov/exhibits/ipd/canning/exhibits/show/equipment/tin-cans",
+          "locator": "Tin Cans小节：cap-and-hole、soldering及double-seam段落与图"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-electric-kettles",
+    "module": "objects",
+    "category": "tools",
+    "name": "1920—1930年代英国家用电壶：传统壶形与金属外壳",
+    "region": "英国",
+    "period": "1920—1939年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.museumoftechnology.org.uk/objects/_expand.php?key=92",
+    "content": "据Museum of Technology的电壶比较说明，研究早期家庭烧水器的材料与握持。",
+    "use": "把提梁握持包覆和接线位置分别画清；光亮镀层与藤、木、电木用不同明暗质感。",
+    "caution": "V&A图示电壶断代为1908—1980，不能据外观精确断成1920年代。",
+    "find": "1920—1930年代英国家用电壶：传统壶形与金属外壳 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国",
+      "era": "1920—1939年",
+      "start": 1920,
+      "end": 1939,
+      "dateLabel": "1920—1939年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1920—1939年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.museumoftechnology.org.uk/objects/_expand.php?key=92"
+        }
+      ],
+      "source": "https://www.museumoftechnology.org.uk/objects/_expand.php?key=92"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-kettle.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-kettle.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006BC5207/full/!768,768/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O324928/",
+        "caption": "V&A镀镍黄铜电壶，馆藏宽断代1908—1980；仅作传统壶形的结构对照；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "Victoria and Albert Museum",
+        "license": "V&A照片用于非商业私人研究；遵守馆方Terms of Use，非CC授权。",
+        "width": 618,
+        "height": 768,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据Museum of Technology的电壶比较说明，研究早期家庭烧水器的材料与握持。",
+      "common": [
+        {
+          "title": "延续烧水壶外形",
+          "text": "1920—1930年代许多电壶仍保留火上壶的铜身、提梁和壶嘴，并用镀镍或搪瓷改变表面。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "材料与加热改变",
+          "text": "馆方介绍浸入水室的金属管加热和较轻铝壶，晚1930年代还出现镀铬流线壳与电木柄。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "铜或镀镍壶",
+          "feature": "圆腹、提梁和侧嘴突出，绝缘握持材料与金属壶身区分。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "轻金属与流线壶",
+          "feature": "1930年代铝壶及晚期镀铬电木柄型把重量和造型作为变化方向。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "早期电壶的轮廓未必明显现代，电接口、热源与握柄的关系更有辨识度。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "V&A图示电壶断代为1908—1980，不能据外观精确断成1920年代。",
+        "馆方浸入式加热年代有留言质疑，本文不采用“首次发明”结论。"
+      ],
+      "drawing": "把提梁握持包覆和接线位置分别画清；光亮镀层与藤、木、电木用不同明暗质感。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Museum of Technology：1920年代电壶与材料变化",
+          "url": "https://www.museumoftechnology.org.uk/objects/_expand.php?key=92",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "kettle",
+          "url": "https://collections.vam.ac.uk/item/O324928/",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-razors",
+    "module": "objects",
+    "category": "tools",
+    "name": "19—20世纪个人剃须器：铰接剃刀与电动网罩",
+    "region": "英国、德国",
+    "period": "1800—1992年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://americanhistory.si.edu/ne/collections/object-groups/health-hygiene-and-beauty/hair-removal",
+    "content": "以Smithsonian剃须器类级研究为背景，用英国约1817直剃刀与德国1992电动器比较个人修整的刃保护、握持和维护；不是美国普及率研究。",
+    "use": "分别画展开、折合及装盒姿态；电器头部画薄网罩与外壳接缝，不画成暴露直刀。",
+    "caution": "约1817剃刀带纪念Charlotte的特殊装饰，不是普遍纹样。",
+    "find": "19—20世纪个人剃须器：铰接剃刀与电动网罩 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "英国、德国",
+      "era": "1800—1992年",
+      "start": 1800,
+      "end": 1992,
+      "dateLabel": "1800—1992年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1992年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.aucklandmuseum.com/collection/object/am_humanhistory-object-585543"
+        }
+      ],
+      "source": "https://www.aucklandmuseum.com/collection/object/am_humanhistory-object-585543"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-razor-manual.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-razor-manual.jpg",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Razor%2C_cut_throat_%28AM_1917.80-1%29.jpg",
+        "source": "https://www.aucklandmuseum.com/collection/object/am_humanhistory-object-585543",
+        "caption": "Milns伦敦直剃刀与木盒，约1817；1917.80为入藏号；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Auckland Museum",
+        "credit": "Auckland Museum",
+        "license": "CC BY 4.0；Auckland Museum原图（经Wikimedia Commons机构发布）。",
+        "width": 3264,
+        "height": 2448,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-razor.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-razor.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006AY5197/full/!768,768/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O145885/",
+        "caption": "Braun Pocket de Luxe电动剃须器，1992；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "Victoria and Albert Museum",
+        "license": "V&A照片用于非商业私人研究；遵守馆方Terms of Use，非CC授权。",
+        "width": 583,
+        "height": 768,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Smithsonian剃须器类级研究为背景，用英国约1817直剃刀与德国1992电动器比较个人修整的刃保护、握持和维护；不是美国普及率研究。",
+      "common": [
+        {
+          "title": "刃口的保护方式",
+          "text": "铰接刀刃可收入长柄并再放盒内；电动器把水平刀头藏在金属网罩下。",
+          "refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        },
+        {
+          "title": "握持与维护集中",
+          "text": "传统剃刀依赖展开后的长刃；便携电器把电池、拆卸刀头和外壳握持集在一体。",
+          "refs": [
+            "s1",
+            "s2",
+            "s4"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "折合直剃刀",
+          "feature": "伦敦Milns约1817实例保留中空磨刃、黑柄与木盒。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "电动网罩器",
+          "feature": "Braun Pocket de Luxe（1992）黑塑料壳、可拆刀头、底部两节AA电池位。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "两种工具的动作距离不同，传统型要露出刃面，电动型接触的是网罩头。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "约1817剃刀带纪念Charlotte的特殊装饰，不是普遍纹样。",
+        "本专题只比较两大工作形式，不据此声称每个年代只有一种剃须方式。"
+      ],
+      "drawing": "分别画展开、折合及装盒姿态；电器头部画薄网罩与外壳接缝，不画成暴露直刀。",
+      "sources": [
+        {
+          "id": "s4",
+          "title": "Smithsonian美国历史博物馆：Hair Removal类级研究",
+          "url": "https://americanhistory.si.edu/ne/collections/object-groups/health-hygiene-and-beauty/hair-removal",
+          "locator": "直剃刀、安全剃刀、可替换刃及1930年代电动剃须器历史段落；不采用全球第一发明说。"
+        },
+        {
+          "id": "s1",
+          "title": "razormanual",
+          "url": "https://www.aucklandmuseum.com/collection/object/am_humanhistory-object-585543",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "razorclass",
+          "url": "https://collections.vam.ac.uk/item/O145885/",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-wick-trimmers",
+    "module": "objects",
+    "category": "tools",
+    "name": "18—19世纪英法蜡烛维护：盒式剪芯器与自修剪灯芯",
+    "region": "英国、法国",
+    "period": "1700—1831年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.soane.org/exhibitions/georgian-illuminations/lighting",
+    "content": "以Soane博物馆英国家用照明综述为背景，并用法国剪芯器及V&A关于自修剪灯芯替代的类级说明，研究蜡烛维护器具的使用与变化。",
+    "use": "画清指环、枢轴及收屑小盒的厚度；配蜡烛时把刀端放在芯上方而非环抱整个烛身。",
+    "caution": "照片器物产地法国，英国家庭维护条件据Soane综述，两者不混同为同一户原状。",
+    "find": "18—19世纪英法蜡烛维护：盒式剪芯器与自修剪灯芯 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国、法国",
+      "era": "1700—1831年",
+      "start": 1700,
+      "end": 1831,
+      "dateLabel": "1700—1831年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1700—1831年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.soane.org/exhibitions/georgian-illuminations/lighting"
+        }
+      ],
+      "source": "https://www.soane.org/exhibitions/georgian-illuminations/lighting"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-wick.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-wick.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2022NG6157/full/!768,768/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O378034/",
+        "caption": "法国18世纪盒式剪芯器，V&A藏，带花鸟装饰；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "Victoria and Albert Museum",
+        "license": "V&A照片用于非商业私人研究；遵守馆方Terms of Use，非CC授权。",
+        "width": 576,
+        "height": 768,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Soane博物馆英国家用照明综述为背景，并用法国剪芯器及V&A关于自修剪灯芯替代的类级说明，研究蜡烛维护器具的使用与变化。",
+      "common": [
+        {
+          "title": "烛芯需要维护",
+          "text": "乔治时代常见牛脂蜡烛燃烧不均，需要燃烧时修整烛芯；蜂蜡器成本较高。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "剪与收合一",
+          "text": "剪芯器的刀口剪下焦芯，盒状部分容纳碎屑；它的用途不同于单纯压灭火焰。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "需剪芯的蜡烛与盒式剪",
+          "feature": "牛脂蜡烛需修剪；专用剪的盒状刀端收存焦芯，避免仅画普通裸刀刃。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "自修剪编织芯",
+          "feature": "V&A说明编织自修剪烛芯逐步替代专用剪的持续维护工作；这是烛芯类型变化，不是第二种剪刀。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "烛光旁的小工具能说明照明需要持续照料，也决定桌面与手部动作。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "照片器物产地法国，英国家庭维护条件据Soane综述，两者不混同为同一户原状。",
+        "V&A装饰型较精细，不能代表全部家庭的剪芯器价位。"
+      ],
+      "drawing": "画清指环、枢轴及收屑小盒的厚度；配蜡烛时把刀端放在芯上方而非环抱整个烛身。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Sir John Soane博物馆：乔治时代家用照明",
+          "url": "https://www.soane.org/exhibitions/georgian-illuminations/lighting",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "wick",
+          "url": "https://collections.vam.ac.uk/item/O378034/",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-waffle-irons",
+    "module": "objects",
+    "category": "tools",
+    "name": "15—20世纪欧美夹合烘饼铁：长柄、炉面与电热板",
+    "region": "意大利、美国",
+    "period": "1481—1940年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.americanhistory.si.edu/explore/stories/pass-syrup-and-enjoy-slice-history-national-waffle-day",
+    "content": "以制度性厨具史比较夹合烘饼器的热源、柄长与压纹，不把薄脆与厚格华夫饼完全等同。",
+    "use": "正侧面同时画出板厚、铰链和柄轴；画炉面型再核对底座是否能翻转。",
+    "caution": "1481器是薄饼夹铁，不能据它恢复现代华夫饼厚度。",
+    "find": "15—20世纪欧美夹合烘饼铁：长柄、炉面与电热板 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "意大利、美国",
+      "era": "1481—1940年",
+      "start": 1481,
+      "end": 1940,
+      "dateLabel": "1481—1940年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1481—1940年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.americanhistory.si.edu/explore/stories/pass-syrup-and-enjoy-slice-history-national-waffle-day"
+        }
+      ],
+      "source": "https://www.americanhistory.si.edu/explore/stories/pass-syrup-and-enjoy-slice-history-national-waffle-day"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-waffle.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-waffle.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006BB2653/full/!768,768/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O102694/",
+        "caption": "意大利薄饼夹铁，1481；刻字与夹合结构；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "Victoria and Albert Museum",
+        "license": "V&A照片用于非商业私人研究；遵守馆方Terms of Use，非CC授权。",
+        "width": 768,
+        "height": 592,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以制度性厨具史比较夹合烘饼器的热源、柄长与压纹，不把薄脆与厚格华夫饼完全等同。",
+      "common": [
+        {
+          "title": "两板夹合",
+          "text": "成对金属板夹住面糊，铰接结构决定翻合方向；压纹可以是文字图案，也可以是格网。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "热源改变柄长",
+          "text": "美国馆藏综述指出炉灶使用缩短了此前伸入开放炉火的长柄，电热器又将热源纳入板体。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "开放炉火长柄",
+          "feature": "1481意大利夹铁是早期薄饼对照；长柄使手部远离热区。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "炉面或电热型",
+          "feature": "19世纪美国炉面器及20世纪电器缩短外伸距离，双板和支座组合更集中。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "先区分热源与使用姿势，再选择板面纹样，避免把所有历史饼铁画成今天的厚格模。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "1481器是薄饼夹铁，不能据它恢复现代华夫饼厚度。",
+        "跨地区对照用于形制变化，不表示一条从意大利直达美国的确定传承链。"
+      ],
+      "drawing": "正侧面同时画出板厚、铰链和柄轴；画炉面型再核对底座是否能翻转。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Smithsonian美国历史博物馆：华夫饼夹铁的演变",
+          "url": "https://www.americanhistory.si.edu/explore/stories/pass-syrup-and-enjoy-slice-history-national-waffle-day",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "waffle",
+          "url": "https://collections.vam.ac.uk/item/O102694/",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-table-forks",
+    "module": "objects",
+    "category": "tools",
+    "name": "17—19世纪西欧餐叉：双齿刺取与弯齿承托",
+    "region": "英国、德国、法国",
+    "period": "1600—1899年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/forks.htm",
+    "content": "据加州科学院餐叉史，用多件17—19世纪馆藏对比食物接触端。",
+    "use": "先画齿端、叉肩和侧面弯度，再画长柄；多叉同图统一尺度后比较。",
+    "caution": "馆藏个别产地有问号，图注保留不确定性。",
+    "find": "17—19世纪西欧餐叉：双齿刺取与弯齿承托 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国、德国、法国",
+      "era": "1600—1899年",
+      "start": 1600,
+      "end": 1899,
+      "dateLabel": "1600—1899年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1600—1899年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/forks.htm"
+        }
+      ],
+      "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/forks.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-fork1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-fork1.jpg",
+        "original": "https://researcharchive.calacademy.org/research/anthropology/utensil/images/fork1.jpg",
+        "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/forks.htm",
+        "caption": "左：19世纪德国？；中：17世纪德国或英国；右：18世纪英国餐叉；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "California Academy of Sciences",
+        "credit": "California Academy of Sciences",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 167,
+        "height": 324,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-fork2.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-fork2.jpg",
+        "original": "https://researcharchive.calacademy.org/research/anthropology/utensil/images/fork2.jpg",
+        "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/forks.htm",
+        "caption": "左：18世纪荷兰或德国；右：19世纪德国餐叉；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "California Academy of Sciences",
+        "credit": "California Academy of Sciences",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 179,
+        "height": 324,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据加州科学院餐叉史，用多件17—19世纪馆藏对比食物接触端。",
+      "common": [
+        {
+          "title": "早期接近切肉叉",
+          "text": "双长齿间距较大，能防肉块在切割时转动，但小块食物容易滑落。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "增加承托面",
+          "text": "晚17世纪法国发展四个弯齿的餐叉，增加承托并减少进食时反复换匙。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "双齿直长型",
+          "feature": "17世纪德或英实例的食物接触部窄，重点是刺取。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "多齿弯曲型",
+          "feature": "18—19世纪英德荷对照中，齿数和弯曲托面共同改变取食方式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "叉头不是同一轮廓上简单增加线条；齿距、纵向弯曲和托面面积要一并改变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "馆藏个别产地有问号，图注保留不确定性。",
+        "早期餐叉常属富裕消费，不能当作所有西欧人的统一餐具。"
+      ],
+      "drawing": "先画齿端、叉肩和侧面弯度，再画长柄；多叉同图统一尺度后比较。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加州科学院：餐叉史",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/forks.htm",
+          "locator": "Forks全文：双齿、晚17世纪四弯齿及CAS0389图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-travel-cutlery",
+    "module": "objects",
+    "category": "tools",
+    "name": "16—19世纪欧洲便携餐具：折合、拆接与个人携带",
+    "region": "德国、法国、英国",
+    "period": "1500—1899年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm",
+    "content": "据加州科学院旅行餐具综述，聚焦旅途进餐用品，比较折合和拆接减少携带体积的方式。",
+    "use": "标明铰轴、卡圈、接缝和配套袋的方向；不要为未载机件补画弹簧锁。",
+    "caution": "资料也谈军旅用途；本专题仅使用进餐和旅行结构段落。",
+    "find": "16—19世纪欧洲便携餐具：折合、拆接与个人携带 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "德国、法国、英国",
+      "era": "1500—1899年",
+      "start": 1500,
+      "end": 1899,
+      "dateLabel": "1500—1899年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1500—1899年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm"
+        }
+      ],
+      "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-port3.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-port3.jpg",
+        "original": "https://researcharchive.calacademy.org/research/anthropology/utensil/images/port3.jpg",
+        "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm",
+        "caption": "上：英国折叉（年代未载）；中：美国折匙（年代未载）；下：18世纪法国折叉，跨区域结构对照；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "California Academy of Sciences",
+        "credit": "California Academy of Sciences",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 324,
+        "height": 244,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据加州科学院旅行餐具综述，聚焦旅途进餐用品，比较折合和拆接减少携带体积的方式。",
+      "common": [
+        {
+          "title": "个人自带",
+          "text": "部分旅馆不提供餐具，旅客自带刀叉匙；套鞘、腰带与小袋构成器具外的携带关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "收纳改变结构",
+          "text": "折柄和互锁柄缩短长度；可拆匙碗与叉齿组合则把餐具共享同一个携带空间。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "铰接折合",
+          "feature": "18世纪法国折叉等在柄部增加转动轴，展开后恢复进餐长度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "组合拆接",
+          "feature": "叉齿滑入可拆匙碗背部的环圈，收合时两件成为紧凑组合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "需同时画使用和收存姿态，否则容易把可折工具误认成断柄器。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "资料也谈军旅用途；本专题仅使用进餐和旅行结构段落。",
+        "不同国家实例年代不齐，不能推断所有旅客自带同样的套装。"
+      ],
+      "drawing": "标明铰轴、卡圈、接缝和配套袋的方向；不要为未载机件补画弹簧锁。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加州科学院：便携餐具",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm",
+          "locator": "Portable Eating Utensils全文：折柄、拆接匙叉、蒙古挂装与日本obi段落及CAS图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-toothbrushes",
+    "module": "objects",
+    "category": "tools",
+    "name": "19—20世纪英国牙刷：骨柄植毛与合成材料",
+    "region": "英国",
+    "period": "1800—1960年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.northlanmuseums.co.uk/SIModes/Detail/22912",
+    "content": "以牙刷博物馆史与1930年代Addis馆藏为依据，研究个人清洁器具的柄和植毛。",
+    "use": "放大画刷毛束的排列和刷头背面，再画细颈与握柄；磨损毛束别画成实心块。",
+    "caution": "不采用“世界第一牙刷”一类起源叙事。",
+    "find": "19—20世纪英国牙刷：骨柄植毛与合成材料 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国",
+      "era": "1800—1960年",
+      "start": 1800,
+      "end": 1960,
+      "dateLabel": "1800—1960年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1960年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.northlanmuseums.co.uk/SIModes/Detail/22912"
+        }
+      ],
+      "source": "https://www.northlanmuseums.co.uk/SIModes/Detail/22912"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-toothbrush.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-toothbrush.jpg",
+        "original": "https://media.northlanmuseums.co.uk/modes_images/NLC-2004-127imgaf.jpg",
+        "source": "https://www.northlanmuseums.co.uk/SIModes/Detail/22912",
+        "caption": "Addis牙刷，1930年代；骨柄、天然刷毛；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "NorthLan Museums",
+        "credit": "NorthLan Museums",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1091,
+        "height": 281,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以牙刷博物馆史与1930年代Addis馆藏为依据，研究个人清洁器具的柄和植毛。",
+      "common": [
+        {
+          "title": "骨柄与毛束",
+          "text": "早期工业牙刷把天然毛束固定在加工后的骨柄头部，刷头孔列与背面处理可见。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "合成材料改变生产",
+          "text": "战后廉价合成材料替代天然材料的趋势，改变手柄成形、色彩和毛束的整齐程度。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "天然材料型",
+          "feature": "1930年代Addis对照是骨柄与天然毛，柄面较细长。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "合成材料型",
+          "feature": "塑料柄与合成刷毛可批量成形，不宜把天然骨纹画到所有20世纪后半叶牙刷上。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "牙刷的细部集中在刷头孔距、毛束和颈部；这些比单纯画一片白色长条更有效。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "不采用“世界第一牙刷”一类起源叙事。",
+        "1930年代骨刷不能代表同一时期全部英国牙刷，年代与材料有重叠。"
+      ],
+      "drawing": "放大画刷毛束的排列和刷头背面，再画细颈与握柄；磨损毛束别画成实心块。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NorthLan Museums：1930年代Addis牙刷",
+          "url": "https://www.northlanmuseums.co.uk/SIModes/Detail/22912",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "Museum of Every Day Life：牙刷的视觉史",
+          "url": "https://museumofeverydaylife.org/exhibitions-collections/previous-exhibitions/toothbrush-from-twig-to-bristle-in-all-its-expedient-beauty/a-visual-history-of-the-toothbrush",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-electric-fans",
+    "module": "objects",
+    "category": "tools",
+    "name": "1902—1924年美国家用电风扇：摇头机构与护网",
+    "region": "美国（含英国品牌型号对照）",
+    "period": "1902—1924年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+    "content": "据创新与科学博物馆电动降温展，比较桌扇送风、摇头与防护的变化。",
+    "use": "画叶片平面、护网深度、机头与底座的偏转；对照原照保留护网稀密。",
+    "caution": "图为历史产品档案，不是现代安全规范示范。",
+    "find": "1902—1924年美国家用电风扇：摇头机构与护网 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（含英国品牌型号对照）",
+      "era": "1902—1924年",
+      "start": 1902,
+      "end": 1924,
+      "dateLabel": "1902—1924年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1902—1924年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en"
+        }
+      ],
+      "source": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-14096-oscillating-fan-1902.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-14096-oscillating-fan-1902.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_RtNhBzey1JcpqAO8bOwU62PJjql1jDcIfx_xf7bdfNu2QBsLoA6Srj8zWKrTXWEcYTmcE-cg",
+        "source": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+        "caption": "GE 14096摇头风扇，1902历史档案影像；历史档案日期见图注；具体拍摄日未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museum of Innovation & Science",
+        "credit": "Museum of Innovation & Science",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 358,
+        "height": 512,
+        "kind": "historical",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-verity-s-aston-12-dc-200-240-volt-oscillating-fan-motor.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-verity-s-aston-12-dc-200-240-volt-oscillating-fan-motor.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_Q_DDiZe-MvCBPc7rwut9BH8Fad3yquBNmJK4fkAiKPFYpn5Qu2arijK9eHkRIOuvgOCQqnpg",
+        "source": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+        "caption": "Verity Aston风扇，1924-02-29历史档案影像；历史档案日期见图注；具体拍摄日未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museum of Innovation & Science",
+        "credit": "Museum of Innovation & Science",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 409,
+        "height": 512,
+        "kind": "historical",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据创新与科学博物馆电动降温展，比较桌扇送风、摇头与防护的变化。",
+      "common": [
+        {
+          "title": "电机带动叶片",
+          "text": "金属叶片、电机和底座把人工扇风变成桌面持续送风。早期器具仍属较昂贵的消费。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "活动与防护",
+          "text": "20世纪初摇头扩大送风方向；护网加密和遮盖外露接线等改变安全外观。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "固定送风型",
+          "feature": "观察早期风扇时先确定叶面、轴线和稳固底座，不默认具有摇头。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "摇头型",
+          "feature": "1902 GE及1924 Verity Aston档案对照展示机头与底座之间的转向关系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "动态机头的轴线可以偏离底座正面，画场景时保留颈部活动空间。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图为历史产品档案，不是现代安全规范示范。",
+        "1924 Verity品牌属英国，对照照片由美国机构收藏；不能全标美国制造。"
+      ],
+      "drawing": "画叶片平面、护网深度、机头与底座的偏转；对照原照保留护网稀密。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "创新与科学博物馆：电动降温用品史",
+          "url": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-room-air-conditioners",
+    "module": "objects",
+    "category": "tools",
+    "name": "1931—1973年美国家庭室内空调：大型装置到窗式紧凑器",
+    "region": "美国",
+    "period": "1931—1973年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+    "content": "根据机构降温展比较室内空调的外形与安置方式，只研究家用降温器具。",
+    "use": "从原档案核对进出风格栅和控制位置；不自行补画压缩机内部或现代遥控器。",
+    "caution": "本文不包含汽车空调。",
+    "find": "1931—1973年美国家庭室内空调：大型装置到窗式紧凑器 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1931—1973年",
+      "start": 1931,
+      "end": 1973,
+      "dateLabel": "1931—1973年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1931—1973年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en"
+        }
+      ],
+      "source": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-ge-air-conditioner-1973.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-ge-air-conditioner-1973.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_T07JXdbyyzD-IYUQq2Z8LQX5qdZAHoj_KTIBHVyPpdSt6I_fdH9FUTH5EBOTPkq4bJ6er8p-0",
+        "source": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+        "caption": "GE家用空调产品，1973历史档案图；历史档案日期见图注；具体拍摄日未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museum of Innovation & Science",
+        "credit": "Museum of Innovation & Science",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 349,
+        "height": 512,
+        "kind": "historical",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "根据机构降温展比较室内空调的外形与安置方式，只研究家用降温器具。",
+      "common": [
+        {
+          "title": "从送风到调节室内",
+          "text": "电风扇主要推动空气，空调装置进一步控制室内空气条件；室内外的安装关系成为必要背景。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "体积与市场",
+          "text": "1920年代商业扩大遭遇经济萧条，1970年代更小、更紧凑的家用与窗用机型出现。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "早期室内装置",
+          "feature": "1931 GE档案显示较早室内产品，不能凭它概括后来窗式器的安装。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "紧凑家用型",
+          "feature": "1973 GE图示可读格栅、机壳和控制区，整体体积趋于集中。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "空调要与墙、窗和通风面一同画，单独一个箱子难以说明它如何工作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文不包含汽车空调。",
+        "机构展文没有给出每个家庭的普及率，也不提供内部管线尺寸。"
+      ],
+      "drawing": "从原档案核对进出风格栅和控制位置；不自行补画压缩机内部或现代遥控器。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "创新与科学博物馆：电动降温用品史",
+          "url": "https://artsandculture.google.com/story/cool-comfort-innovations-in-electric-cooling-museum-of-innovation-and-science/-AUB9kBNfka7LQ?hl=en",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-lunch-boxes",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1954年前后美国上学餐盒：金属盒、提梁与电视图像",
+    "region": "美国",
+    "period": "1950—1959年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+    "content": "以SFO消费史展的两件1954餐盒比较上学携餐用品与量产图像。",
+    "use": "画提梁高度、盒角、盖缝与图像过折边的位置；先完成结构再安排彩色角色。",
+    "caution": "图示的是1950年代商品消费，不代表所有家庭都买角色餐盒。",
+    "find": "1954年前后美国上学餐盒：金属盒、提梁与电视图像 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1950—1959年",
+      "start": 1950,
+      "end": 1959,
+      "dateLabel": "1950—1959年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1950—1959年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+        }
+      ],
+      "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-04-the-modern-consumer-1950s-products-and-style.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-04-the-modern-consumer-1950s-products-and-style.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/04_The_Modern_Consumer_1950s_Products_and_Style.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+        "caption": "两件1954餐盒：Roy Rogers／Dale Evans与Howdy Doody；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum",
+        "credit": "SFO Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以SFO消费史展的两件1954餐盒比较上学携餐用品与量产图像。",
+      "common": [
+        {
+          "title": "带着午餐出门",
+          "text": "盒体、开启缝和上方提梁组成可移动的小容器；图画安排必须服从盒面的折边和开合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "大众文化进入日用品",
+          "text": "1950年代电视角色被印在儿童餐盒上，餐盒同时承担携餐与识别喜好。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "Roy Rogers／Dale Evans型",
+          "feature": "American Thermos 1954餐盒采用电视西部角色图像。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "Howdy Doody型",
+          "feature": "ADCO-Liberty 1954盒以另一儿童节目形象装饰，基本携带逻辑相近。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "类型比较以制造商、图像和盒面布置为准，不把角色不同等同于完全不同机构。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图示的是1950年代商品消费，不代表所有家庭都买角色餐盒。",
+        "原图未载内部保温部件，不能自添瓶架或隔格。"
+      ],
+      "drawing": "画提梁高度、盒角、盖缝与图像过折边的位置；先完成结构再安排彩色角色。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "SFO Museum：1950年代消费用品",
+          "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+          "locator": "Roy Rogers/Dale Evans与Howdy Doody lunch boxes / Comedy and Tragedy TV lamp / California dinnerware展项及相邻说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-television-lamps",
+    "module": "objects",
+    "category": "lighting",
+    "name": "1950年代美国电视旁台灯：陶瓷造型与背向光",
+    "region": "美国",
+    "period": "1950—1959年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+    "content": "以机构1950年代消费展对电视灯的类级说明，研究家庭观看电视时的局部照明。",
+    "use": "画陶瓷正面与背部灯位关系；如画光效，保留电视屏幕和背景墙的相对位置。",
+    "caution": "当时关于护眼的消费观念不是今天的医学结论。",
+    "find": "1950年代美国电视旁台灯：陶瓷造型与背向光 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1950—1959年",
+      "start": 1950,
+      "end": 1959,
+      "dateLabel": "1950—1959年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1950—1959年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+        }
+      ],
+      "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-11-the-modern-consumer-1950s-products-and-style-1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-11-the-modern-consumer-1950s-products-and-style-1.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/11_The_Modern_Consumer_1950s_Products_and_Style_1.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+        "caption": "Hedi Schoop Comedy and Tragedy电视灯，约1950，Hollywood；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum",
+        "credit": "SFO Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以机构1950年代消费展对电视灯的类级说明，研究家庭观看电视时的局部照明。",
+      "common": [
+        {
+          "title": "摆放位置决定光向",
+          "text": "电视灯放在电视旁或上方，通常把光投向后面，减少暗室观看时对眼睛的担忧。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "陶瓷造型兼作陈设",
+          "text": "人物、动物和其他造型可作为灯体，线材、灯泡和反射方向隐藏在造型背后。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "面具造型",
+          "feature": "约1950 Comedy and Tragedy灯以两个面具组成陶瓷灯体。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "动物等造型",
+          "feature": "馆方综述指出动物造型也常见；只采用其类级说明，不补充未配图的具体型号。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画电视场景时应让主要光落在背景，器物正面造型和发光方向要分开。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "当时关于护眼的消费观念不是今天的医学结论。",
+        "仅用实物图确认面具型，其他造型不作细部复原。"
+      ],
+      "drawing": "画陶瓷正面与背部灯位关系；如画光效，保留电视屏幕和背景墙的相对位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "SFO Museum：1950年代消费用品",
+          "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+          "locator": "Roy Rogers/Dale Evans与Howdy Doody lunch boxes / Comedy and Tragedy TV lamp / California dinnerware展项及相邻说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-food-molds",
+    "module": "objects",
+    "category": "tools",
+    "name": "1960年代美国家庭食物模具：环形主体与替换形样",
+    "region": "美国",
+    "period": "1960—1969年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.cooperhewitt.org/2015/12/29/aunt-bethanys-jell-o-mold/",
+    "content": "据Cooper Hewitt的Tupperware模具研究，整理家庭凝胶食物成形器与配件。",
+    "use": "采用俯视画环形凹腔及配件轮廓，侧视补出模深；不把盖子直接画成食品。",
+    "caution": "图是1960年代套件，不能概括所有时期金属或陶模。",
+    "find": "1960年代美国家庭食物模具：环形主体与替换形样 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1960—1969年",
+      "start": 1960,
+      "end": 1969,
+      "dateLabel": "1960—1969年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1960—1969年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.cooperhewitt.org/2015/12/29/aunt-bethanys-jell-o-mold/"
+        }
+      ],
+      "source": "https://www.cooperhewitt.org/2015/12/29/aunt-bethanys-jell-o-mold/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-mold.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-mold.jpg",
+        "original": "https://images.collection.cooperhewitt.org/115952_475b127b6dd02038_b.jpg",
+        "source": "https://www.cooperhewitt.org/2015/12/29/aunt-bethanys-jell-o-mold/",
+        "caption": "Tupperware食物模具套件，1960年代；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Cooper Hewitt, Smithsonian Design Museum",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1024,
+        "height": 644,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据Cooper Hewitt的Tupperware模具研究，整理家庭凝胶食物成形器与配件。",
+      "common": [
+        {
+          "title": "盛装也是成形",
+          "text": "模具的凹腔决定脱模后食品的轮廓，甜点和咸味凝胶菜都可借此形成整齐形状。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "套件与家庭销售",
+          "text": "配件形样与主模同属一套；家庭聚会式销售将器具使用与招待客人联系起来。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "环形主模",
+          "feature": "中空中心与环形凹腔产生环状食品，要区分内壁、外壁和底部。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "星形与树形配件",
+          "feature": "图示星、树等形样给同套器具提供不同的成形表面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "模具是凹形，完成食品是相应凸形；描画时先分清从器具看还是从食物看。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图是1960年代套件，不能概括所有时期金属或陶模。",
+        "本文不照搬展文里电影玩笑，也不把营销话语当全体家庭习惯。"
+      ],
+      "drawing": "采用俯视画环形凹腔及配件轮廓，侧视补出模深；不把盖子直接画成食品。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Cooper Hewitt：食物模具与Tupperware家庭消费",
+          "url": "https://www.cooperhewitt.org/2015/12/29/aunt-bethanys-jell-o-mold/",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-modular-fridge-containers",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1930—1950年代欧美冷藏保存容器：带盖玻璃器与模块叠放",
+    "region": "德国、美国",
+    "period": "1930—1959年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.cooperhewitt.org/2018/11/13/kubus-a-stylish-1930s-fridge-accessory/",
+    "content": "研究冰箱中用于剩食、乳酪和饮料的带盖容器；以德国Kubus为模块型例证，并与美国多厂牌玻璃浅盘、黄油盒和带盖壶比较，重点是冷藏、盖合、透明度与空间组织。",
+    "use": "比较单个浅盘、带盖壶与组合模块的轮廓；透明和不透明玻璃分别处理，平盖叠放与塑料扣盖不要画成相同接缝。",
+    "caution": "照片仅展示Kubus玻璃模块型，其他两型依权威类级说明，不作未配图细部复原。",
+    "find": "1930—1950年代欧美冷藏保存容器：带盖玻璃器与模块叠放 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "德国、美国",
+      "era": "1930—1959年",
+      "start": 1930,
+      "end": 1959,
+      "dateLabel": "1930—1959年",
+      "dateBasis": "机构类级文献和断代器组",
+      "notes": [
+        "美国玻璃器组断代1932—1960，本文重点1930—1950年代；Kubus例证1938，密封塑料碗约1954。"
+      ],
+      "evidence": [
+        {
+          "text": "Illinois State Museum的系列保存器断代1932—1960；Smithsonian述1930年代玻璃冷藏盘及约1954塑料碗。",
+          "url": "https://exhibits.museum.state.il.us/exhibits/athome/1920/objects/refig.htm"
+        },
+        {
+          "text": "Kubus例证1938，多尺寸和叠放用于有限冷藏空间。",
+          "url": "https://www.cooperhewitt.org/2018/11/13/kubus-a-stylish-1930s-fridge-accessory/"
+        }
+      ],
+      "source": "https://exhibits.museum.state.il.us/exhibits/athome/1920/objects/refig.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-kubus.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-kubus.jpg",
+        "original": "https://images.collection.cooperhewitt.org/10706_50c314d59e406dbb_b.jpg",
+        "source": "https://www.cooperhewitt.org/2018/11/13/kubus-a-stylish-1930s-fridge-accessory/",
+        "caption": "Wilhelm Wagenfeld Kubus压制玻璃保存器套，1938；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Cooper Hewitt, Smithsonian Design Museum",
+        "credit": "Cooper Hewitt, Smithsonian Design Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 809,
+        "height": 1024,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究冰箱中用于剩食、乳酪和饮料的带盖容器；以德国Kubus为模块型例证，并与美国多厂牌玻璃浅盘、黄油盒和带盖壶比较，重点是冷藏、盖合、透明度与空间组织。",
+      "common": [
+        {
+          "title": "容器另有冷藏分工",
+          "text": "食品容器把剩食、黄油和饮料分开；盖子、平整外形和叠放减少有限冰箱空间的浪费。不同于保存罐热封，日常冷藏器可反复取食。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "title": "材料和盖形不一致",
+          "text": "透明玻璃便于看内容；绿色Jadite和蓝色Delphite玻璃则不透明。平盖和模块边缘服务叠放，密封塑料盖又是另一种闭合方式。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "带盖盘盒及壶",
+          "feature": "美国系列包括一大两小浅盘、黄油盒和长方水壶；各器用途不同，不必组成一个严密几何模块。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "模块叠放玻璃组",
+          "feature": "Kubus用多尺寸盒盘、可互配盖与倒液器组成块状，可成组移到餐桌；它是冷藏器的一种设计而非整个器类。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "密封塑料碗",
+          "feature": "战后Tupperware约1954碗组以盖合密封和收存剩食为重点，与硬玻璃平盖器的闭合方式不同。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画厨房时要把食品容器和冰箱本体分开：盖形、材料及摆放高度才说明它们怎样保存和取食。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "照片仅展示Kubus玻璃模块型，其他两型依权威类级说明，不作未配图细部复原。",
+        "史料称某些GE玻璃盘可入炉，不等于所有旧玻璃或塑料器都耐热；本文不作现代使用指导。"
+      ],
+      "drawing": "比较单个浅盘、带盖壶与组合模块的轮廓；透明和不透明玻璃分别处理，平盖叠放与塑料扣盖不要画成相同接缝。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Cooper Hewitt：Kubus模块保存器",
+          "url": "https://www.cooperhewitt.org/2018/11/13/kubus-a-stylish-1930s-fridge-accessory/",
+          "locator": "1938日期、十件器组、三件倒液器、叠放与透明玻璃段落"
+        },
+        {
+          "id": "s2",
+          "title": "Illinois State Museum：家庭冷藏玻璃保存器类级说明",
+          "url": "https://exhibits.museum.state.il.us/exhibits/athome/1920/objects/refig.htm",
+          "locator": "1932—1960 Jeannette系列；大/小trays、带盖黄油盒、冰箱水壶及Jadite/Delphite材料段落"
+        },
+        {
+          "id": "s3",
+          "title": "Smithsonian美国历史博物馆：剩食、冰箱与保存容器",
+          "url": "https://americanhistory.si.edu/explore/stories/keeping-your-food-cool-ice-harvesting-electric-refrigeration",
+          "locator": "1930年代GE平盖玻璃盘叠放和热剩食用途；1951销售与约1954塑料密封碗段落"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-samovars",
+    "module": "objects",
+    "category": "tools",
+    "name": "19—20世纪俄国茶炊：中央燃料筒、出水嘴与不同壶身",
+    "region": "俄罗斯",
+    "period": "1800—1909年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.samovarmuseum.ru/en/samovars/structure-of-the-samovar/",
+    "content": "依据专门茶炊博物馆构造综述与19世纪中叶、1900年代器形对照，研究家庭供热水器。",
+    "use": "画正面出水轴与顶盖中央孔，再画底部进风；侧柄木件与金属支座分开。",
+    "caution": "专题限定俄国两组器形，不据馆藏地区筛选宣称全部茶炊同源。",
+    "find": "19—20世纪俄国茶炊：中央燃料筒、出水嘴与不同壶身 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "俄罗斯",
+      "era": "1800—1909年",
+      "start": 1800,
+      "end": 1909,
+      "dateLabel": "1800—1909年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1909年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.samovarmuseum.ru/en/samovars/structure-of-the-samovar/"
+        }
+      ],
+      "source": "https://www.samovarmuseum.ru/en/samovars/structure-of-the-samovar/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-samovar.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-samovar.jpg",
+        "original": "https://www.samovarmuseum.ru/wp-content/uploads/2020/02/kb-588-samovar.jpg",
+        "source": "https://www.samovarmuseum.ru/en/samovars/structure-of-the-samovar/",
+        "caption": "俄国可拆炉栅茶炊，19世纪中叶，KB588；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museum of Samovars and Bouillottes, Tula",
+        "credit": "Museum of Samovars and Bouillottes, Tula",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1800,
+        "height": 2700,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-samovar-acorn.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-samovar-acorn.jpg",
+        "original": "https://www.samovarmuseum.ru/wp-content/uploads/2020/03/kb589-samovarzhelud-600x900.jpg",
+        "source": "https://www.samovarmuseum.ru/en/samovars/structure-of-the-samovar/",
+        "caption": "Tula Batashev继承人厂橡实形茶炊，1900年代，KB589；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museum of Samovars and Bouillottes, Tula",
+        "credit": "Museum of Samovars and Bouillottes, Tula",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 600,
+        "height": 900,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "依据专门茶炊博物馆构造综述与19世纪中叶、1900年代器形对照，研究家庭供热水器。",
+      "common": [
+        {
+          "title": "水与燃料分开",
+          "text": "盛水壶身围绕中央燃料筒；底部通风开口、灰室和支脚连接燃烧与站立。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "不用倾倒整壶",
+          "text": "正面的龙头放出热水，侧柄有木握件，顶冠还可以承放小茶壶。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "可拆炉栅型",
+          "feature": "19世纪中叶实例的炉栅可拆，维护部位与壶身分开。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "橡实壶身型",
+          "feature": "1900年代Tula实例以橡实状壶身装饰，基本中央筒—龙头关系保持。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "壶身花样变化大，但燃料筒、通风、出水和握持位置构成辨识骨架。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "专题限定俄国两组器形，不据馆藏地区筛选宣称全部茶炊同源。",
+        "图示有炭火结构，不可改画成内部无筒的普通烧水壶。"
+      ],
+      "drawing": "画正面出水轴与顶盖中央孔，再画底部进风；侧柄木件与金属支座分开。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "图拉茶炊博物馆：茶炊构造",
+          "url": "https://www.samovarmuseum.ru/en/samovars/structure-of-the-samovar/",
+          "locator": "Structure of the Samovar：urn、chimney、grate、handles、faucet、crown各部说明"
+        },
+        {
+          "id": "s2",
+          "title": "图拉茶炊博物馆：多地区茶炊收藏",
+          "url": "https://www.samovarmuseum.ru/en/collection/",
+          "locator": "Collection第一页：KB588可拆炉栅、KB589 Acorn的产地及年代"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-european-folding-fans",
+    "module": "objects",
+    "category": "tools",
+    "name": "20世纪欧洲折扇：羽毛、织物与镂空硬片",
+    "region": "欧洲（馆方未逐件确定国家）",
+    "period": "1900—1999年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.leicestermuseums.org/news/folded-hand-fans-an-international-cultural-icon/",
+    "content": "以Leicester折扇类级文章和多扇实物合照研究20世纪欧洲个人降温用品。",
+    "use": "同图比较骨片铆点、镂空和羽毛边缘；展开扇避免每片都画成等厚实心三角。",
+    "caution": "馆方合照说明20世纪欧洲，但国家和逐件年代未全载。",
+    "find": "20世纪欧洲折扇：羽毛、织物与镂空硬片 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "欧洲（馆方未逐件确定国家）",
+      "era": "1900—1999年",
+      "start": 1900,
+      "end": 1999,
+      "dateLabel": "1900—1999年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1900—1999年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.leicestermuseums.org/news/folded-hand-fans-an-international-cultural-icon/"
+        }
+      ],
+      "source": "https://www.leicestermuseums.org/news/folded-hand-fans-an-international-cultural-icon/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-fan-eu.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-fan-eu.jpg",
+        "original": "https://www.leicestermuseums.org/media/miwftklx/folded_hand_fans_03.jpg",
+        "source": "https://www.leicestermuseums.org/news/folded-hand-fans-an-international-cultural-icon/",
+        "caption": "Leicester馆藏20世纪欧洲折扇合照；逐件国家与年份未载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Leicester Museums & Galleries",
+        "credit": "Leicester Museums & Galleries",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 2000,
+        "height": 1305,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Leicester折扇类级文章和多扇实物合照研究20世纪欧洲个人降温用品。",
+      "common": [
+        {
+          "title": "同一轴上收合",
+          "text": "扇骨在下端铆合，展开后形成放射结构；材质不同不应抹去这一共同关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "扇面材料改变边缘",
+          "text": "织物、羽毛、蕾丝或硬片让边缘呈现不同透明度、柔软度和开合间隙。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "织物或羽毛扇面",
+          "feature": "软面附着于扇骨，展开轮廓需同时考虑软面和支骨。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "硬片镂空型",
+          "feature": "硬片本身构成扇面，片间穿带控制最大展开程度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "个人用具与社交服饰之间有联系，但辨识扇子的首要信息仍是铰轴、骨片和扇面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "馆方合照说明20世纪欧洲，但国家和逐件年代未全载。",
+        "装饰材质不能单独证明持有人阶层或具体礼仪。"
+      ],
+      "drawing": "同图比较骨片铆点、镂空和羽毛边缘；展开扇避免每片都画成等厚实心三角。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Leicester Museums：折扇的跨地区结构",
+          "url": "https://www.leicestermuseums.org/news/folded-hand-fans-an-international-cultural-icon/",
+          "locator": "文章Hiogi、纸竹扇与20世纪欧洲材质段落；folded_hand_fans_02/03合照"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-modern-party-ceramics",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1950—1960年美国家用陶瓷倒液壶：直身与不对称自由形",
+    "region": "美国",
+    "period": "1950—1960年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+    "content": "依SFO现代消费展的类级餐具背景与两件倒液壶合照，比较量产陶瓷壶的握持、倒嘴和形体；图中不含餐盘。",
+    "use": "先比较近直身与不对称自由形的嘴、柄、腹三者关系，再铺图案；图案和器形阴影分层处理。",
+    "caution": "图示日期是1950—1960，不应反推整个美国都已使用同一现代主义餐具。",
+    "find": "1950—1960年美国家用陶瓷倒液壶：直身与不对称自由形 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1950—1960年",
+      "start": 1950,
+      "end": 1960,
+      "dateLabel": "1950—1960年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1950—1960年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+        }
+      ],
+      "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-partyware.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-partyware.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/12_Modern_Consumer_1950s_Products_and_Style_0.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+        "caption": "1950—1960年Starburst、Eclipse及California Mobile系列器物合照；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum",
+        "credit": "SFO Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "依SFO现代消费展的类级餐具背景与两件倒液壶合照，比较量产陶瓷壶的握持、倒嘴和形体；图中不含餐盘。",
+      "common": [
+        {
+          "title": "系列化餐桌",
+          "text": "器物属量产陶瓷餐具系列，壶嘴、握柄和腹部容量说明家庭倒饮料的分工。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "装饰顺应形体",
+          "text": "Starburst等图样表现战后现代消费偏好，但壶腹、盘沿和倒口仍有使用上的区别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "近直身倒液壶",
+          "feature": "合照左件有较直腹壁、短倒嘴和侧柄；图样铺在较连续的外壁上。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "不对称自由形壶",
+          "feature": "合照右件以伸长尖嘴和倾斜腹部形成自由轮廓，柄与倒嘴保持对置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "成套器具可在颜色上统一，却不能把所有器形都画成相同球腹。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图示日期是1950—1960，不应反推整个美国都已使用同一现代主义餐具。",
+        "展览选品偏重有设计特点的商品，无法代表全部廉价日用瓷。"
+      ],
+      "drawing": "先比较近直身与不对称自由形的嘴、柄、腹三者关系，再铺图案；图案和器形阴影分层处理。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "SFO Museum：1950年代消费用品",
+          "url": "https://www.sfomuseum.org/exhibitions/modern-consumer-1950s-products-and-style/gallery",
+          "locator": "Roy Rogers/Dale Evans与Howdy Doody lunch boxes / Comedy and Tragedy TV lamp / California dinnerware展项及相邻说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-andon",
+    "module": "objects",
+    "category": "lighting",
+    "name": "19世纪日本家用灯：纸罩固定灯与收折提灯",
+    "region": "日本",
+    "period": "1800—1899年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+    "content": "以民艺展的类级说明比较固定灯与可携灯，着重室内弱光的结构。",
+    "use": "用线区分框架与半透明纸面；收折灯画褶皱和悬挂点，固定灯画落地底座。",
+    "caution": "图示灯约19世纪，不能套用到全部日本古代室内。",
+    "find": "19世纪日本家用灯：纸罩固定灯与收折提灯 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "1800—1899年",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "1800—1899年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1899年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+        }
+      ],
+      "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-02-40.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-02-40.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/02_40.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+        "caption": "日本灯具，约19世纪，木与纸；Mingei 2008-26-002A-B；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum / Mingei International Museum",
+        "credit": "SFO Museum / Mingei International Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以民艺展的类级说明比较固定灯与可携灯，着重室内弱光的结构。",
+      "common": [
+        {
+          "title": "纸面分散光",
+          "text": "andon以木或金属框架承住纸面，内部承放油皿；框架与发光面不能合成实心盒。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "固定与移动",
+          "text": "家中固定灯和可移动提灯适应不同场合；chochin的折叠纸罩方便收合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "框式andon",
+          "feature": "角框、纸面与底部油皿结合，可直接安放。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "收折chochin",
+          "feature": "纸罩折叠成细褶，提携框架和顶部连接点承担移动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画夜间家务时，灯的摆放方式和柔和纸面比满屋均匀光更能说明用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图示灯约19世纪，不能套用到全部日本古代室内。",
+        "原件细部看不清时，不据现代商品补画电线。"
+      ],
+      "drawing": "用线区分框架与半透明纸面；收折灯画褶皱和悬挂点，固定灯画落地底座。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "SFO Museum／Mingei International：日本民艺展",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+          "locator": "Lantern / Charcoal caddy / Horse-eye motif plate / Rectangular box with lid / Stoneware jar展项及其相邻器类说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-charcoal-caddies",
+    "module": "objects",
+    "category": "vessels",
+    "name": "19世纪日本储炭器：葫芦型与编篮型sumitori",
+    "region": "日本",
+    "period": "1800—1899年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+    "content": "研究补充家用火盆燃料的小容器，以民艺展明确比较的葫芦与编篮为类型。",
+    "use": "先画壳腹与切出的开口；提携件若未见于原照就不补画，炭块只依可见信息安排。",
+    "caution": "配图只确认葫芦型；编篮型依据馆方类级说明。",
+    "find": "19世纪日本储炭器：葫芦型与编篮型sumitori 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "1800—1899年",
+      "start": 1800,
+      "end": 1899,
+      "dateLabel": "1800—1899年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1899年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+        }
+      ],
+      "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-04-35.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-04-35.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/04_35.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+        "caption": "葫芦储炭器，可能19世纪，日本；Mingei 2003-30-005；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum / Mingei International Museum",
+        "credit": "SFO Museum / Mingei International Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究补充家用火盆燃料的小容器，以民艺展明确比较的葫芦与编篮为类型。",
+      "common": [
+        {
+          "title": "给小火盆补炭",
+          "text": "sumitori存炭，用于补充取暖、烤食或茶事的小火；容器不是燃烧中的火盆。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "轻容器便于搬动",
+          "text": "葫芦壳和编篮是不同制作方式，开口与提携部决定炭块怎样被取出。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "葫芦壳型",
+          "feature": "利用干燥果壳形成卵形腹部，切口露出内部；连续腹壁保留天然形体。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "编篮型",
+          "feature": "篮编构造替代连续果壳，编纹和口沿成为可见结构。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "在灶旁画炭器要留出取炭空间，不能把储炭容器本身画成着火炉。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "配图只确认葫芦型；编篮型依据馆方类级说明。",
+        "馆方断代为可能19世纪，保留“可能”，不写成精确制造年。"
+      ],
+      "drawing": "先画壳腹与切出的开口；提携件若未见于原照就不补画，炭块只依可见信息安排。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "SFO Museum／Mingei International：日本民艺展",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+          "locator": "Lantern / Charcoal caddy / Horse-eye motif plate / Rectangular box with lid / Stoneware jar展项及其相邻器类说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-mingei-table-ceramics",
+    "module": "objects",
+    "category": "vessels",
+    "name": "19—20世纪日本民艺餐器：乡用粗陶与日用工作室陶",
+    "region": "日本",
+    "period": "1800—1967年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+    "content": "以机构民艺展中生活陶器的生产和用途说明比较乡用餐盘与20世纪工作室日用器。",
+    "use": "盘先画口沿、浅腹和圈足，再补马眼纹；压印纹用凹凸处理，别当全是笔画。",
+    "caution": "配图马眼纹盘不能代表全部Seto产品。",
+    "find": "19—20世纪日本民艺餐器：乡用粗陶与日用工作室陶 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "1800—1967年",
+      "start": 1800,
+      "end": 1967,
+      "dateLabel": "1800—1967年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1967年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+        }
+      ],
+      "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-08-33.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-08-33.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/08_33.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+        "caption": "Seto马眼纹盘，19世纪初，日本；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum / Mingei International Museum",
+        "credit": "SFO Museum / Mingei International Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以机构民艺展中生活陶器的生产和用途说明比较乡用餐盘与20世纪工作室日用器。",
+      "common": [
+        {
+          "title": "日用品也是陶艺",
+          "text": "乡用陶器服务厨房餐桌；民艺陶家也制作日常用的盘、杯和碗。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "工艺留在表面",
+          "text": "釉层、胎体和压印纹在器形上呈不同深浅，不能只把花纹当成平面绘画。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "乡用餐盘",
+          "feature": "19世纪初Seto马眼纹盘把粗陶胎与边圈纹样结合。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "工作室日用器",
+          "feature": "Shimaoka Tatsuzō 1967器物显示绳纹等表面处理，生产者和年代与旧乡用盘分开。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同为餐器，器壁、口沿和纹饰形成方式仍不同，适合比较俯视轮廓和侧面厚度。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "配图马眼纹盘不能代表全部Seto产品。",
+        "工作室民艺是20世纪有意识的制作，不能当作未变的古老农家用品。"
+      ],
+      "drawing": "盘先画口沿、浅腹和圈足，再补马眼纹；压印纹用凹凸处理，别当全是笔画。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "SFO Museum／Mingei International：日本民艺展",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+          "locator": "Lantern / Charcoal caddy / Horse-eye motif plate / Rectangular box with lid / Stoneware jar展项及其相邻器类说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-celebratory-food-boxes",
+    "module": "objects",
+    "category": "vessels",
+    "name": "19—20世纪日本盛食漆盒：提梁分格盒与可拆层重箱",
+    "region": "日本",
+    "period": "1800—1999年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/53416",
+    "content": "比较机构所述木胎漆食盒与重箱，用提梁有盖盒和可拆叠层箱解释携带、盛装与分组取食，区别于既有漆器装饰风格综述。",
+    "use": "画叠合和分开的两种状态，准确保留每层接缝；盖厚、盒壁与金色装饰分开。",
+    "caution": "Met精工重箱不是所有家庭的标准食盒。",
+    "find": "19—20世纪日本盛食漆盒：提梁分格盒与可拆层重箱 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "1800—1999年",
+      "start": 1800,
+      "end": 1999,
+      "dateLabel": "1800—1999年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1999年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.metmuseum.org/art/collection/search/53416"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/53416"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-jubako.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-jubako.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP369030.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/53416",
+        "caption": "Shibata Zeshin重箱，19世纪中叶，日本；两盖与层盒；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "Public Domain / Met Open Access。",
+        "width": 4000,
+        "height": 2250,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-09-30.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-09-30.jpg",
+        "original": "https://www.sfomuseum.org/sites/default/files/09_30.jpg",
+        "source": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+        "caption": "有提梁的长方分格木胎漆盒，20世纪，日本；Mingei 1997-90-054A-B；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "SFO Museum / Mingei International Museum",
+        "credit": "SFO Museum / Mingei International Museum",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 1100,
+        "height": 810,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较机构所述木胎漆食盒与重箱，用提梁有盖盒和可拆叠层箱解释携带、盛装与分组取食，区别于既有漆器装饰风格综述。",
+      "common": [
+        {
+          "title": "盒盖与食物分层",
+          "text": "盖保护盛食空间；重箱则把不同食物分在多个层盒内，使用时逐层移开。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "组合可改变",
+          "text": "19世纪中叶Met重箱有两个盖，允许分为两组；20世纪提梁盒则把较低的盛装空间和搬动结构结合。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "提梁分格盒",
+          "feature": "20世纪原图显示低长方形盒体、分格盖与上方提梁，持握位置高于盛食空间。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "可拆层重箱",
+          "feature": "叠层盒共用外部轮廓，两个盖让整塔转为两组较矮的食品盒。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "共用装饰不能替代结构：画宴席时要显示层盒移开后能够独立摆放。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "Met精工重箱不是所有家庭的标准食盒。",
+        "单盒与重箱年代并存，本文不把二者排成单线进化史。"
+      ],
+      "drawing": "画叠合和分开的两种状态，准确保留每层接缝；盖厚、盒壁与金色装饰分开。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "jubako",
+          "url": "https://www.metmuseum.org/art/collection/search/53416",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        },
+        {
+          "id": "s2",
+          "title": "SFO Museum／Mingei International：日本民艺展",
+          "url": "https://www.sfomuseum.org/exhibitions/mingei-traditional-japanese-arts/gallery",
+          "locator": "Lantern / Charcoal caddy / Horse-eye motif plate / Rectangular box with lid / Stoneware jar展项及其相邻器类说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-onggi",
+    "module": "objects",
+    "category": "vessels",
+    "name": "1970—1980年代韩国瓮器：发酵储藏、制陶与流通",
+    "region": "韩国",
+    "period": "1971—1982年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://festival.si.edu/storied-objects/korean-onggi",
+    "content": "依据Smithsonian对1971—1972田野调查及1982展演的回顾，研究仍在制作和使用的日常瓮器。",
+    "use": "并排画大、小瓮的口颈、盖与肩部耳；保留素胎、深釉和刻划的差别。",
+    "caution": "正文研究年份不是照片中每个瓮的确切制作年。",
+    "find": "1970—1980年代韩国瓮器：发酵储藏、制陶与流通 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "韩国",
+      "era": "1971—1982年",
+      "start": 1971,
+      "end": 1982,
+      "dateLabel": "1971—1982年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "1971—1972为田野研究，1982为展演；这些是观察时期，不把它们自动当作全部瓮器制造日期。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1971—1982年；机构所载对象与观察年份详见各图注。1971—1972为田野研究，1982为展演；这些是观察时期，不把它们自动当作全部瓮器制造日期。",
+          "url": "https://festival.si.edu/storied-objects/korean-onggi"
+        }
+      ],
+      "source": "https://festival.si.edu/storied-objects/korean-onggi"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-onggi1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-onggi1.jpg",
+        "original": "https://festival.si.edu/sites/default/files/styles/full_width_mobile_uncropped/public/orchard/festival/media/default/storied-objects/korean-onggi/1.01850364_02.webp?itok=pgiQcQ02",
+        "source": "https://festival.si.edu/storied-objects/korean-onggi",
+        "caption": "两件韩国瓮器，制作年未载；Smithsonian研究与展演收藏照片；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Smithsonian Center for Folklife and Cultural Heritage",
+        "credit": "Smithsonian Center for Folklife and Cultural Heritage",
+        "license": "照片：Zvonimir Bebek／Ralph Rinzler Folklife Archives；未载单独开放授权。",
+        "width": 500,
+        "height": 333,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "依据Smithsonian对1971—1972田野调查及1982展演的回顾，研究仍在制作和使用的日常瓮器。",
+      "common": [
+        {
+          "title": "内容物与陶胎",
+          "text": "瓮器用于酱油、辣椒酱、泡菜等储藏发酵；较低烧成和多孔陶胎是馆方强调的功能背景。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "家庭与生产网络",
+          "text": "游动或地方陶工供应器皿，产业后来现代化和集中；展示传统制作不等于所有家庭生活未变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "大型储藏瓮",
+          "feature": "大腹、短颈、侧耳提供大量盛装与搬动位置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "带盖较小罐",
+          "feature": "图中较小器有盖和带状纹，与大瓮的开口、取食和放置尺度不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "先比较容量、盖与搬动位置，再看釉色；器表刻划可以跨越大腹的转折。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "正文研究年份不是照片中每个瓮的确切制作年。",
+        "多孔并不等于任意内容物都可安全储存；本文不作保存操作指导。"
+      ],
+      "drawing": "并排画大、小瓮的口颈、盖与肩部耳；保留素胎、深釉和刻划的差别。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Smithsonian Folklife：韩国瓮器产业与使用",
+          "url": "https://festival.si.edu/storied-objects/korean-onggi",
+          "locator": "正文关于1971、1972调查与1982展演、瓮器用途和产业变化段落；首张两瓮照片"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-decorative-combs",
+    "module": "objects",
+    "category": "tools",
+    "name": "8—10世纪中国装饰梳顶：珍材、发式与梳齿部的区别",
+    "region": "中国",
+    "period": "750—999年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/44616",
+    "content": "据Met装饰梳顶类级说明，研究梳理用品兼作发式装饰的顶片，不将残存顶片当完整梳。",
+    "use": "先画顶片宽高和底缘连接线；梳齿未保存处不自行补满，并注明残件。",
+    "caution": "图中珍珠母梳顶的具体器物年代为8—9世纪，类级时尚范围延至10世纪。",
+    "find": "8—10世纪中国装饰梳顶：珍材、发式与梳齿部的区别 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "750—999年",
+      "start": 750,
+      "end": 999,
+      "dateLabel": "750—999年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间750—999年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.metmuseum.org/art/collection/search/44616"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/44616"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-comb.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-comb.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP138489.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/44616",
+        "caption": "中国唐代珍珠母梳顶，8—9世纪；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "Public Domain / Met Open Access。",
+        "width": 4000,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据Met装饰梳顶类级说明，研究梳理用品兼作发式装饰的顶片，不将残存顶片当完整梳。",
+      "common": [
+        {
+          "title": "置于发式",
+          "text": "晚8—10世纪妇女佩戴装饰梳成为时尚，顶片在发间可见，作用不限于梳理。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料决定光泽",
+          "text": "顶片采用金、银、玉和珍珠母等材料，纹样与材质共同构成装饰效果。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "金银顶片",
+          "feature": "金属装饰与薄片的反光关系突出，不能直接套用石材厚度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "玉或珍珠母顶片",
+          "feature": "珍珠母实例保留连续顶片与雕纹；材料光泽和缺损应据原件。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "人体场景中露出的可能主要是梳顶，绘物时要区分完整梳与顶片残件。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图中珍珠母梳顶的具体器物年代为8—9世纪，类级时尚范围延至10世纪。",
+        "材料列表不代表每一种都存在同一形制、同一尺寸。"
+      ],
+      "drawing": "先画顶片宽高和底缘连接线；梳齿未保存处不自行补满，并注明残件。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "comb",
+          "url": "https://www.metmuseum.org/art/collection/search/44616",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-sleeve-warmers",
+    "module": "objects",
+    "category": "tools",
+    "name": "17世纪中国袖炉：炭灰储热与透孔香暖",
+    "region": "中国",
+    "period": "1600—1699年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/827418",
+    "content": "按Met对袖炉这一类个人用品的说明，比较仅取暖与加香的用途组合。",
+    "use": "画盖与腹的接合、提携部及透孔，金属反光适度；勿把孔盖涂成完整黑实面。",
+    "caution": "类型按用途区分，不宣称两种都有完全不同的外形。",
+    "find": "17世纪中国袖炉：炭灰储热与透孔香暖 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "1600—1699年",
+      "start": 1600,
+      "end": 1699,
+      "dateLabel": "1600—1699年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1600—1699年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.metmuseum.org/art/collection/search/827418"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/827418"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-handwarmer.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-handwarmer.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP-23612-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/827418",
+        "caption": "铜制袖炉，17世纪，中国；底款相关于Zhang Mingqi；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "Public Domain / Met Open Access。",
+        "width": 4000,
+        "height": 3000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按Met对袖炉这一类个人用品的说明，比较仅取暖与加香的用途组合。",
+      "common": [
+        {
+          "title": "热源藏入小器",
+          "text": "余炭置于灰中，容器提供冬季个人暖意；其尺度与整间房的炉灶不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "孔盖与气味",
+          "text": "透孔盖允许添加香料后的气味逸出；器盖并非密封液体容器的盖。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "暖手用途",
+          "feature": "灰中余炭为主要热源，便携小体量便于近身使用。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "香暖合用",
+          "feature": "图示铜炉的透孔盖兼顾香气，加入香料后成为暖与香组合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画个人生活场景时，袖炉要保持手掌附近的尺度，避免画成大型祭祀香炉。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "类型按用途区分，不宣称两种都有完全不同的外形。",
+        "配图属奢侈个人用品；不能代表17世纪所有中国家庭取暖方式。"
+      ],
+      "drawing": "画盖与腹的接合、提携部及透孔，金属反光适度；勿把孔盖涂成完整黑实面。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "handwarmer",
+          "url": "https://www.metmuseum.org/art/collection/search/827418",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-soy-containers",
+    "module": "objects",
+    "category": "vessels",
+    "name": "19—20世纪日本酱油包装：出口瓷瓶与桌面定量倾倒",
+    "region": "日本",
+    "period": "1800—1961年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.kikkoman.com/en/culture/soysaucemuseum/history/",
+    "content": "以酱油博物馆包装史及馆藏出口瓶为依据，比较运输盛装与餐桌倾倒的不同尺度。",
+    "use": "出口瓶保留字带、肩颈与塞口；桌面型另画双口盖和手握位置，不将两者合成一器。",
+    "caution": "图仅展示19世纪出口瓶，1961型结构须另按机构说明，不据旧瓶补画。",
+    "find": "19—20世纪日本酱油包装：出口瓷瓶与桌面定量倾倒 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "1800—1961年",
+      "start": 1800,
+      "end": 1961,
+      "dateLabel": "1800—1961年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1800—1961年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.kikkoman.com/en/culture/soysaucemuseum/history/"
+        }
+      ],
+      "source": "https://www.kikkoman.com/en/culture/soysaucemuseum/history/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-soy-old.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-soy-old.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2010CV2042/full/!768,768/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O493459/",
+        "caption": "日本酱油出口瓷瓶，约1810—1850，V&A O493459；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "Victoria and Albert Museum",
+        "license": "V&A照片用于非商业私人研究；遵守馆方Terms of Use，非CC授权。",
+        "width": 576,
+        "height": 768,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以酱油博物馆包装史及馆藏出口瓶为依据，比较运输盛装与餐桌倾倒的不同尺度。",
+      "common": [
+        {
+          "title": "包装随市场改变",
+          "text": "外销与家庭桌面使用要求不同：运输瓶侧重盛装和封闭，桌面器侧重倒出少量调味。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "标识与出液口",
+          "text": "文字标识说明内容和销售环境；瓶颈、塞与倾倒口必须作为不同结构阅读。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "出口瓷瓶",
+          "feature": "约1810—1850瓶带JAPANSCH ZOYA等文字，不能把它当无标识的普通花瓶。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "1961桌面器",
+          "feature": "Kikkoman玻璃桌面容器把小量倾倒、握持和盖部导流集中设计。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "对照瓶腹与口部，可以区分厨房储藏、商品包装和席间调味的动作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图仅展示19世纪出口瓶，1961型结构须另按机构说明，不据旧瓶补画。",
+        "不推断同一瓶能完全防滴，也不以标识语言反推制造国以外的所有使用地点。"
+      ],
+      "drawing": "出口瓶保留字带、肩颈与塞口；桌面型另画双口盖和手握位置，不将两者合成一器。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Kikkoman酱油博物馆：包装与家庭使用史",
+          "url": "https://www.kikkoman.com/en/culture/soysaucemuseum/history/",
+          "locator": "包装、出口与家庭桌面容器历史段落"
+        },
+        {
+          "id": "s2",
+          "title": "Victoria and Albert Museum：图示器物与照片出处",
+          "url": "https://collections.vam.ac.uk/item/O493459/",
+          "locator": "图示原物的机构说明、日期和公开原图；具体编号见图注。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-export-storage-jars",
+    "module": "objects",
+    "category": "vessels",
+    "name": "11—13世纪中国东南沿海外运储藏罐：多规格、环耳与装货",
+    "region": "中国（福建或广东）",
+    "period": "1001—1300年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573",
+    "content": "以Ashmolean/Barlow类级说明研究主要作为外运货物容器的褐釉罐，区别于宋代陶瓷装饰总览。",
+    "use": "画厚口、横耳孔与腹部转折；釉不到底处保留修坯横痕，绳结如需出现应标作推测。",
+    "caution": "本件产地为福建或广东，不能确定到窑口。",
+    "find": "11—13世纪中国东南沿海外运储藏罐：多规格、环耳与装货 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（福建或广东）",
+      "era": "1001—1300年",
+      "start": 1001,
+      "end": 1300,
+      "dateLabel": "1001—1300年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1001—1300年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573"
+        }
+      ],
+      "source": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-china1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-china1.jpg",
+        "original": "https://jameelcentre.ashmolean.org/media/collection/w425/Collections/Single_Objects/LI/LI_1000/LI_1301_391-a-L.jpg",
+        "source": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573",
+        "caption": "褐釉环耳储藏罐，11—13世纪；LI1301.391，14.6cm高；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Ashmolean Museum / Sir Alan Barlow Collection Trust",
+        "credit": "Ashmolean Museum / Sir Alan Barlow Collection Trust",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 425,
+        "height": 340,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Ashmolean/Barlow类级说明研究主要作为外运货物容器的褐釉罐，区别于宋代陶瓷装饰总览。",
+      "common": [
+        {
+          "title": "储藏兼运输",
+          "text": "褐釉储藏罐有多种形状尺寸，东南沿海生产尤其重要，许多用于装盛外运货物。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "厚口与肩耳",
+          "text": "实例有厚外撇口沿、四个横环耳和卵形腹；这些构件先于釉色构成容器轮廓。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "不同容量规格",
+          "feature": "机构明确指出各形各尺寸并存，不能按一件小罐推定全部货物容器尺度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "环耳卵形型",
+          "feature": "图示四肩耳、内凹底、最低部露胎，是可明确辨认的具体一型。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "绘制装货场景应先明确罐大小和开口，肩耳的方向会影响绳索或搬动的可能位置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本件产地为福建或广东，不能确定到窑口。",
+        "没有绳索保存，不能断言四耳必以某一种绳结捆扎。"
+      ],
+      "drawing": "画厚口、横耳孔与腹部转折；釉不到底处保留修坯横痕，绳结如需出现应标作推测。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Ashmolean／Barlow Collection：华南外运储藏罐",
+          "url": "https://jameelcentre.ashmolean.org/collection/7/10221/10223/all/per_page/50/offset/350/sort_by/random/object/22573",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-chopsticks",
+    "module": "objects",
+    "category": "tools",
+    "name": "中国与日本传统筷子：端形、材质与桌面取食",
+    "region": "中国、日本",
+    "period": "1600—1999年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/chpstck.htm",
+    "content": "依加州科学院类级筷子史比较中国式平钝端和日本式尖端，不采用其推测性的远古起源。",
+    "use": "同时画截面、端尖和成对摆放；随手指动作画一支相对稳定、另一支改变角度。",
+    "caution": "两件馆藏的制作年未载，研究区间为类级文献所谈近世与现代使用。",
+    "find": "中国与日本传统筷子：端形、材质与桌面取食 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国、日本",
+      "era": "1600—1999年",
+      "start": 1600,
+      "end": 1999,
+      "dateLabel": "1600—1999年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "区间仅定位综述涉及的近世与现代用法；图示器物各自制作年份未载。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1600—1999年；机构所载对象与观察年份详见各图注。区间仅定位综述涉及的近世与现代用法；图示器物各自制作年份未载。",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/chpstck.htm"
+        }
+      ],
+      "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/chpstck.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-chpstck2.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-chpstck2.jpg",
+        "original": "https://researcharchive.calacademy.org/research/anthropology/utensil/images/chpstck2.jpg",
+        "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/chpstck.htm",
+        "caption": "CAS0389-1935A-D日本筷刀组合，中国式矩形筷；制作年未载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "California Academy of Sciences",
+        "credit": "California Academy of Sciences",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 192,
+        "height": 360,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-chpstck1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-chpstck1.jpg",
+        "original": "https://researcharchive.calacademy.org/research/anthropology/utensil/images/chpstck1.jpg",
+        "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/chpstck.htm",
+        "caption": "CAS0389-1939A-D日本筷刀组合，尖端筷；制作年未载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "California Academy of Sciences",
+        "credit": "California Academy of Sciences",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 139,
+        "height": 360,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "依加州科学院类级筷子史比较中国式平钝端和日本式尖端，不采用其推测性的远古起源。",
+      "common": [
+        {
+          "title": "成对夹取",
+          "text": "两支长条共同夹起切成小块的食物；桌面动作不同于刀叉切肉。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材质与重复使用",
+          "text": "竹木容易分割，漆木、骨及贵重材料也存在；一次性木筷和反复使用器应分开。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "中国式端形",
+          "feature": "通常较长、矩形截面和钝端；图示日本组合也有中国式矩形筷，地区与形制不能绝对对应。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "日本式端形",
+          "feature": "较短、圆而尖；漆木和可分开的木筷具有不同表面与收存方式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "手中两支筷子的间距和端部锥度，比均匀画两根直线更能解释取食。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "两件馆藏的制作年未载，研究区间为类级文献所谈近世与现代使用。",
+        "不采用银筷试毒迷信，也不把来源的推测起源写成确定史实。"
+      ],
+      "drawing": "同时画截面、端尖和成对摆放；随手指动作画一支相对稳定、另一支改变角度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加州科学院：筷子史",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/chpstck.htm",
+          "locator": "Chopsticks全文：中国式与日本式形制、材料及两幅CAS图注；起源推测未采用"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-belt-eating-sets",
+    "module": "objects",
+    "category": "tools",
+    "name": "蒙古与日本历史携行餐具：腰带挂装、锁环与细长套鞘",
+    "region": "蒙古、日本",
+    "period": "制作年代未载",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm",
+    "content": "据加州科学院便携餐具综述，对比蒙古游牧与前现代日本腰带携行方式；制作年代未载。",
+    "use": "把收存状态画在腰带旁，另画拔出的筷刀；蒙古型保留锁环与绳的走向。",
+    "caution": "来源未给出图示制作日期，不能填造19世纪制造年。",
+    "find": "蒙古与日本历史携行餐具：腰带挂装、锁环与细长套鞘 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "蒙古、日本",
+      "era": "制作年代未载",
+      "start": null,
+      "end": null,
+      "dateLabel": "制作年代未载",
+      "dateBasis": "来源未载制造年",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间制作年代未载；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm"
+        }
+      ],
+      "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-port5.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-port5.jpg",
+        "original": "https://researcharchive.calacademy.org/research/anthropology/utensil/images/port5.jpg",
+        "source": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm",
+        "caption": "CAS0389-1940A-C蒙古餐具套；制作年未载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "California Academy of Sciences",
+        "credit": "California Academy of Sciences",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 360,
+        "height": 159,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据加州科学院便携餐具综述，对比蒙古游牧与前现代日本腰带携行方式；制作年代未载。",
+      "common": [
+        {
+          "title": "携带服从衣着",
+          "text": "蒙古deel缺少口袋，餐具用腰带挂装；日本携行筷刀组合也可置于obi腰带。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "物件留在套内",
+          "text": "蒙古组合以绳端银环锁住刀筷，活动或骑行时减少掉落；细长套鞘配合腰间收存。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "锁环挂装",
+          "feature": "蒙古型把刀和筷纳入同一携带系统，绳与银环须一并读取。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "腰带插藏",
+          "feature": "日本组合利用腰带空间容纳筷刀，不能默认同样有蒙古锁环。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "只有餐具还不足以说明携行，套鞘、绳环和衣带的位置需要连画。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "来源未给出图示制作日期，不能填造19世纪制造年。",
+        "日本资料涉及武士旅行，但这里限定日常进餐结构，不扩写兵器。"
+      ],
+      "drawing": "把收存状态画在腰带旁，另画拔出的筷刀；蒙古型保留锁环与绳的走向。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "加州科学院：便携餐具",
+          "url": "https://researcharchive.calacademy.org/research/anthropology/utensil/portable.htm",
+          "locator": "Portable Eating Utensils全文：折柄、拆接匙叉、蒙古挂装与日本obi段落及CAS图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-coolamon",
+    "module": "objects",
+    "category": "vessels",
+    "name": "19世纪澳大利亚原住民木槽容器：日常携载与储存",
+    "region": "澳大利亚（西澳、Kimberley）",
+    "period": "1852—1885年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html",
+    "content": "依据梵蒂冈博物馆对多种coolamon用途与地区装饰的综述，研究可携木槽形容器。",
+    "use": "画内凹深度、外底弧和口沿薄厚；头顶或腰侧携带时核对身体重心与容器接触点。",
+    "caution": "1852—1885是New Norcia捐赠途径的记录区间，不等于精确制作年。",
+    "find": "19世纪澳大利亚原住民木槽容器：日常携载与储存 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "澳大利亚（西澳、Kimberley）",
+      "era": "1852—1885年",
+      "start": 1852,
+      "end": 1885,
+      "dateLabel": "1852—1885年",
+      "dateBasis": "机构收藏/观察年代；制作年未定，详见notes",
+      "notes": [
+        "区间来自捐赠记录；器物制作可能早于入藏，本文保留不确定。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1852—1885年；机构所载对象与观察年份详见各图注。区间来自捐赠记录；器物制作可能早于入藏，本文保留不确定。",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html"
+        }
+      ],
+      "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-coolamon.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-coolamon.jpg",
+        "original": "https://www.museivaticani.va/content/dam/museivaticani/immagini/collezioni/musei/museo_etnologico/02_04_coolamon_dettaglio.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "source": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html",
+        "caption": "西澳coolamon，经New Norcia于1852—1885捐入；制作年未载，68×18×14.5cm；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Vatican Museums",
+        "credit": "Vatican Museums",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 981,
+        "height": 734,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "依据梵蒂冈博物馆对多种coolamon用途与地区装饰的综述，研究可携木槽形容器。",
+      "common": [
+        {
+          "title": "从树材到木槽",
+          "text": "容器由树根或枝材雕成，大小随负重和具体用途改变，可盛食物、水及其他携载物。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "搬运与暂存",
+          "text": "妇女可在头或腰间携带；较大器还能用于暂存粮食、扬谷、挖掘或照看婴儿。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "便携小槽",
+          "feature": "容量受日常往返能承担的重量限制，轮廓和开口保持低平。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "较大储存槽",
+          "feature": "离开一段时间时可储食，大小与放置位置变化；装饰也有刻划或彩绘差别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同一个槽形轮廓可以承担多种日常任务，应以大小和手部动作说明具体用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1852—1885是New Norcia捐赠途径的记录区间，不等于精确制作年。",
+        "不能把Kimberley红白点线装饰当成全澳大利亚统一图样。"
+      ],
+      "drawing": "画内凹深度、外底弧和口沿薄厚；头顶或腰侧携带时核对身体重心与容器接触点。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "梵蒂冈民族学博物馆：coolamon的用途与地区差异",
+          "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-etnologico/esposizione-permanente/australia/coolamon.html",
+          "locator": "Coolamon全文用途、尺寸变化、Kimberley装饰段落；New Norcia1852-1885捐赠图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-mate-vessels",
+    "module": "objects",
+    "category": "vessels",
+    "name": "约1990年阿根廷马黛茶器：葫芦杯、银杯与过滤吸管",
+    "region": "阿根廷",
+    "period": "1990—1990年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://oboculturalheritage.state.gov/setting-table-diplomacy/",
+    "content": "据外交遗产项目对马黛茶器和共饮习惯的说明，以一套银器及葫芦器比较材料、杯口和吸管。",
+    "use": "对照葫芦自然腹形与银杯底部，再画吸管弯曲、杯口与手的接触。",
+    "caution": "图中约1990礼物器较精致，不代表所有家庭购买价位。",
+    "find": "约1990年阿根廷马黛茶器：葫芦杯、银杯与过滤吸管 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "阿根廷",
+      "era": "1990—1990年",
+      "start": 1990,
+      "end": 1990,
+      "dateLabel": "1990—1990年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1990—1990年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://oboculturalheritage.state.gov/setting-table-diplomacy/"
+        }
+      ],
+      "source": "https://oboculturalheritage.state.gov/setting-table-diplomacy/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-mate1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-mate1.jpg",
+        "original": "https://oboculturalheritage.state.gov/wp-content/uploads/2026/06/21_1_Mate-819x1024.jpg",
+        "source": "https://oboculturalheritage.state.gov/setting-table-diplomacy/",
+        "caption": "约1990年马黛茶银器套的机构照片；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "U.S. Department of State Cultural Heritage",
+        "credit": "U.S. Department of State Cultural Heritage",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 819,
+        "height": 1024,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-mate2.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-mate2.jpg",
+        "original": "https://oboculturalheritage.state.gov/wp-content/uploads/2026/06/21_2_Mate-819x1024.jpg",
+        "source": "https://oboculturalheritage.state.gov/setting-table-diplomacy/",
+        "caption": "约1990年配套葫芦马黛杯与吸管；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "U.S. Department of State Cultural Heritage",
+        "credit": "U.S. Department of State Cultural Heritage",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 819,
+        "height": 1024,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据外交遗产项目对马黛茶器和共饮习惯的说明，以一套银器及葫芦器比较材料、杯口和吸管。",
+      "common": [
+        {
+          "title": "杯与吸管配套",
+          "text": "冲泡叶片后以带过滤功能的bombilla吸饮，杯口留有管和叶片的位置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "共饮的动作",
+          "text": "待客共饮需要添水、递杯和接回；器物并非只用来陈放。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "葫芦杯",
+          "feature": "天然果壳提供主体，杯口和外部饰件围绕其曲面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "银制杯",
+          "feature": "金属器与吸管配套，材料反光和壁面连续性不同于葫芦。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画递杯和添水时，要保留吸管在杯内的位置，不能把它画成另一只普通杯柄。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "图中约1990礼物器较精致，不代表所有家庭购买价位。",
+        "不采用展文将yerbabuena与yerba mate混同的远古起源说法。"
+      ],
+      "drawing": "对照葫芦自然腹形与银杯底部，再画吸管弯曲、杯口与手的接触。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "美国国务院文化遗产项目：马黛茶器与待客",
+          "url": "https://oboculturalheritage.state.gov/setting-table-diplomacy/",
+          "locator": "约1990 mate器套、葫芦/银杯与共饮段落及两幅照片"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-jebena",
+    "module": "objects",
+    "category": "vessels",
+    "name": "20世纪馆藏埃塞俄比亚咖啡壶：长颈陶壶与烧制表面",
+    "region": "埃塞俄比亚",
+    "period": "1923—1966年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.horniman.ac.uk/object/23.2.65/23/",
+    "content": "以Horniman多件咖啡壶及咖啡博物馆对埃塞仪式研磨的说明，比较陶壶容纳、倾倒和支承。",
+    "use": "画长颈向腹部的渐变与单把厚度；黑色磨光不画成釉面镜反射，支承环未见时不补造。",
+    "caution": "1923、1966为记录编号关联的收藏时期，不当作每件确切制造年。",
+    "find": "20世纪馆藏埃塞俄比亚咖啡壶：长颈陶壶与烧制表面 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃塞俄比亚",
+      "era": "1923—1966年",
+      "start": 1923,
+      "end": 1966,
+      "dateLabel": "1923—1966年",
+      "dateBasis": "机构收藏/观察年代；制作年未定，详见notes",
+      "notes": [
+        "研究定位于20世纪机构收藏记录，制作年代各自未载；黑磨光型另见Horniman19.4.66/69。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1923—1966年；机构所载对象与观察年份详见各图注。研究定位于20世纪机构收藏记录，制作年代各自未载；黑磨光型另见Horniman19.4.66/69。",
+          "url": "https://www.horniman.ac.uk/object/23.2.65/23/"
+        }
+      ],
+      "source": "https://www.horniman.ac.uk/object/23.2.65/23/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-ethiopia1.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-ethiopia1.jpg",
+        "original": "https://www.horniman.ac.uk/media-collection/251/325/large_23_2_65_23__001_DS.jpg",
+        "source": "https://www.horniman.ac.uk/object/23.2.65/23/",
+        "caption": "埃塞俄比亚陶制咖啡壶23.2.65/23，制作年份未载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Horniman Museum and Gardens",
+        "credit": "Horniman Museum and Gardens",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 750,
+        "height": 901,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-ethiopia2.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-ethiopia2.jpg",
+        "original": "https://www.horniman.ac.uk/media-collection/251/334/large_23_2_65_23__002_DS.jpg",
+        "source": "https://www.horniman.ac.uk/object/23.2.65/23/",
+        "caption": "同壶另一侧原照，用于核对嘴、把与贴塑；非第二器型；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Horniman Museum and Gardens",
+        "credit": "Horniman Museum and Gardens",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 750,
+        "height": 901,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Horniman多件咖啡壶及咖啡博物馆对埃塞仪式研磨的说明，比较陶壶容纳、倾倒和支承。",
+      "common": [
+        {
+          "title": "咖啡制备有分工",
+          "text": "豆先以臼杵磨碎，之后使用陶制咖啡壶；磨具与壶不能合成同一器物。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "title": "长颈与壶腹",
+          "text": "陶壶常具有长颈、圆腹、单把与倒口；手柄、嘴和颈分别承担握持、出液和容纳。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "陶胎贴塑型",
+          "feature": "Horniman 23.2.65/23对照可见陶胎和贴塑细部。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "name": "黑色磨光型",
+          "feature": "19.4.66/69记录为黑色磨光圆底长颈壶，表面处理与陶色型不同。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画壶时重点是嘴、把和颈的相对方向；圆底器还需要查清怎样支承。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "1923、1966为记录编号关联的收藏时期，不当作每件确切制造年。",
+        "不依据一地区器形概括埃塞全部咖啡壶或整个非洲饮咖啡习惯。"
+      ],
+      "drawing": "画长颈向腹部的渐变与单把厚度；黑色磨光不画成釉面镜反射，支承环未见时不补造。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Horniman：埃塞俄比亚陶制咖啡壶",
+          "url": "https://www.horniman.ac.uk/object/23.2.65/23/",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "Horniman：黑磨光jebena咖啡壶",
+          "url": "https://www.horniman.ac.uk/object/19.4.66/69/",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s3",
+          "title": "Wiernsheim咖啡磨博物馆：磨具类型与技术",
+          "url": "https://www.museum.de/en/audioguide/422/3/EN",
+          "locator": "馆方导览站点3，手持、桌式、墙装、膝上磨与调粗细段落"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-metate",
+    "module": "objects",
+    "category": "tools",
+    "name": "2016年前后墨西哥厨房磨板：玉米面团与长条磨石",
+    "region": "墨西哥",
+    "period": "2016—2016年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+    "content": "据墨西哥民间艺术博物馆类级展文，研究仍用于食品加工的metate，保留现代制作与古老器类的区别。",
+    "use": "侧视保留磨面倾斜、支撑和长条磨石，人物双手施压方向沿磨面；表面粗孔依据原照。",
+    "caution": "本文不把仪式用动物形石座当普通家庭磨板。",
+    "find": "2016年前后墨西哥厨房磨板：玉米面团与长条磨石 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "墨西哥",
+      "era": "2016—2016年",
+      "start": 2016,
+      "end": 2016,
+      "dateLabel": "2016—2016年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间2016—2016年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://artsandculture.google.com/story/gAWh6hXqydIRqw"
+        }
+      ],
+      "source": "https://artsandculture.google.com/story/gAWh6hXqydIRqw"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-metate.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-metate.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_Q8erQN7VS_olqRG4PG8mi9gGL4xLYKl0Ud3zsVttJBdtClrTtu6_etksM1rrfNr46G1QKDxQ",
+        "source": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+        "caption": "Zenaido Ortega Moreno制作的metate，2016，墨西哥民间艺术博物馆；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museo de Arte Popular",
+        "credit": "Museo de Arte Popular",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 512,
+        "height": 341,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据墨西哥民间艺术博物馆类级展文，研究仍用于食品加工的metate，保留现代制作与古老器类的区别。",
+      "common": [
+        {
+          "title": "宽面承受研磨",
+          "text": "处理后的玉米放在通常为长方形的磨面上，用手持磨石施压，形成面团。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "用途与材料变化",
+          "text": "不同地区也磨可可或其他谷物；当代磨板有材料及结构变化，不能全当固定不变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "长方磨面",
+          "feature": "大而浅的接触面适合推磨，磨石与底板组成一套。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "不同结构与材料",
+          "feature": "机构指出当代类型不只一种材料；图示2016作者制作型作为当代实例，不拟造所有变体。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "磨板与磨石的接触、手臂用力和面团位置是画厨房劳动的主要信息。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "本文不把仪式用动物形石座当普通家庭磨板。",
+        "2016为展项日期；其他资料中“史前已有”不等于该件是考古器。"
+      ],
+      "drawing": "侧视保留磨面倾斜、支撑和长条磨石，人物双手施压方向沿磨面；表面粗孔依据原照。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "墨西哥民间艺术博物馆：烹饪用具与火山石工艺",
+          "url": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+          "locator": "Craftsmanship from the volcanic area：Metate与Molcajete用途、1987成品、2016制作及现代材料变化段落"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-molcajete",
+    "module": "objects",
+    "category": "tools",
+    "name": "1987—2016年墨西哥调味石臼：碗腔、石杵与现代手工",
+    "region": "墨西哥",
+    "period": "1987—2016年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+    "content": "按民间艺术博物馆展文整理仍在制作使用的molcajete，用来磨调味料和制作salsa。",
+    "use": "画空腔内外壁与石杵进入角度；粗石质感从整体块面出发，避免满铺均匀黑点。",
+    "caution": "制作照片中的2016是影像/展项日期，不自动证明其中每个坯体都在当年完成。",
+    "find": "1987—2016年墨西哥调味石臼：碗腔、石杵与现代手工 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "墨西哥",
+      "era": "1987—2016年",
+      "start": 1987,
+      "end": 2016,
+      "dateLabel": "1987—2016年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1987—2016年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://artsandculture.google.com/story/gAWh6hXqydIRqw"
+        }
+      ],
+      "source": "https://artsandculture.google.com/story/gAWh6hXqydIRqw"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-molcajete.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-molcajete.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_SlfbpX5GnayJmCaqSjGH7Rhx_EUslWFzOBIi0kud26l4tT_xVb_bcuJE5BXRG9P5PCXk3TOcw",
+        "source": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+        "caption": "molcajete成品，1987，作者未载；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museo de Arte Popular",
+        "credit": "Museo de Arte Popular",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 512,
+        "height": 341,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-daily-proceso-de-elaboraci-n-de-molcajete.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-proceso-de-elaboraci-n-de-molcajete.jpg",
+        "original": "https://lh3.googleusercontent.com/ci/AL18g_SkRET-ObO38aDhy5zsBM37rOUM1AckOGGKz5w0L8ZMYnnFkw9j5T4oBcLf9uZtjnExZa-aGg",
+        "source": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+        "caption": "Manuel Hernández石臼制作过程，2016影像/展项；现存手工制作，非复原演出；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Museo de Arte Popular",
+        "credit": "Museo de Arte Popular",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 512,
+        "height": 341,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按民间艺术博物馆展文整理仍在制作使用的molcajete，用来磨调味料和制作salsa。",
+      "common": [
+        {
+          "title": "碗腔留住食材",
+          "text": "与宽磨板相比，臼的凹腔容纳调味料，石杵在其内部工作。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "火山石与手工",
+          "text": "机构展文把这些器具连到火山地区的石材工艺，2016制作照片体现现存手工过程。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "成品石臼",
+          "feature": "1987馆藏成品显示开口、臼腹与底部支承，可与石杵配用。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "制作中的坯体",
+          "feature": "2016加工实例保留成形阶段，不是已完成器具的最终使用表面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "区别磨板和臼应先看食材所在平面、腔深和施力方向，不能只靠相同石色。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "制作照片中的2016是影像/展项日期，不自动证明其中每个坯体都在当年完成。",
+        "雕刻成品不等于古代实物；不能将现代作者作品标成考古器。"
+      ],
+      "drawing": "画空腔内外壁与石杵进入角度；粗石质感从整体块面出发，避免满铺均匀黑点。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "墨西哥民间艺术博物馆：烹饪用具与火山石工艺",
+          "url": "https://artsandculture.google.com/story/gAWh6hXqydIRqw",
+          "locator": "Craftsmanship from the volcanic area：Metate与Molcajete用途、1987成品、2016制作及现代材料变化段落"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-snuff-mortars",
+    "module": "objects",
+    "category": "tools",
+    "name": "19—20世纪中非Chokwe个人烟草臼：研磨、携带与人形支承",
+    "region": "安哥拉、刚果民主共和国及Chokwe地区",
+    "period": "1870—1930年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://umma.umich.edu/objects/mortar-2005-1-205/",
+    "content": "以UMMA类级研究和Newfields日用磨损器为对照，研究个人研磨鼻烟的小木臼。",
+    "use": "画碗腔、支承人物和磨损表面；将丢失或未见的杵盖留作未载，不凭空补全。",
+    "caution": "精雕器也可属精英及仪式场合，不能推成所有人的同等用品。",
+    "find": "19—20世纪中非Chokwe个人烟草臼：研磨、携带与人形支承 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "安哥拉、刚果民主共和国及Chokwe地区",
+      "era": "1870—1930年",
+      "start": 1870,
+      "end": 1930,
+      "dateLabel": "1870—1930年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1870—1930年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://umma.umich.edu/objects/mortar-2005-1-205/"
+        }
+      ],
+      "source": "https://umma.umich.edu/objects/mortar-2005-1-205/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-chokwe-new.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-chokwe-new.jpg",
+        "original": "https://iiif.discovernewfields.org/iiif/3/29333-aa09cd4182bc295a/full/%5E!663,509/0/default.jpg",
+        "source": "https://collections.discovernewfields.org/art/artwork/29333",
+        "caption": "Chokwe人形烟草臼，1880—1930，Newfields1989.1223；面部因日用磨损而减弱；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "Indianapolis Museum of Art at Newfields",
+        "credit": "Indianapolis Museum of Art at Newfields",
+        "license": "馆方标示Public Domain / NoC-US；馆方不主张自身照片版权，同时保留Local Contexts文化知识说明。",
+        "width": 353,
+        "height": 509,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以UMMA类级研究和Newfields日用磨损器为对照，研究个人研磨鼻烟的小木臼。",
+      "common": [
+        {
+          "title": "个人用品的体量",
+          "text": "小臼用于烟草研磨，区别于大量谷物加工；Newfields指出男女日常使用造成了表面磨损。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "title": "研磨与携带",
+          "text": "部分Chokwe臼伴有杵和可拆盖，兼具磨碎与携带鼻烟的功能。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "人形支承臼",
+          "feature": "雕刻人形承托上方小碗，日用磨损可使面部细节减弱。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "name": "杵盖配套型",
+          "feature": "机构类级说明指出带可拆盖和杵的组合，收存功能比开放小碗更完整。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "小碗开口和握持磨损能把日用品功能说明白；人形装饰另有身份与祖先意义。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "精雕器也可属精英及仪式场合，不能推成所有人的同等用品。",
+        "烟草由跨大西洋贸易引入；不要把17世纪引入时期当图示制造年。"
+      ],
+      "drawing": "画碗腔、支承人物和磨损表面；将丢失或未见的杵盖留作未载，不凭空补全。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "密歇根大学艺术博物馆：中非烟草臼类型",
+          "url": "https://umma.umich.edu/objects/mortar-2005-1-205/",
+          "locator": "展文中与本专题相关的用途、构造及年代段落；图像年代按各图注单独列出。"
+        },
+        {
+          "id": "s2",
+          "title": "Met：Chokwe烟草臼的用途与雕刻",
+          "url": "https://www.metmuseum.org/art/collection/search/844657",
+          "locator": "馆藏记录的器类说明、Artwork Details/Physical Description/Date及公开图片授权栏；仅把全文已读段落作为论据。"
+        },
+        {
+          "id": "s3",
+          "title": "Newfields：Chokwe个人烟草臼与日用磨损",
+          "url": "https://collections.discovernewfields.org/art/artwork/29333",
+          "locator": "Gallery Labels：男女日常使用与表面磨损；Creation Date1880-1930；Rights/Local Contexts说明"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-domestic-gaslight",
+    "module": "objects",
+    "category": "lighting",
+    "name": "1840—1900年代英国家用煤气灯：裸焰、纱罩与多臂吊灯",
+    "region": "英国",
+    "period": "1840—1909年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nationalgasmuseum.org.uk/discover/gas-lighting/",
+    "content": "据煤气博物馆类级普及史与家庭博物馆吊灯记录，比较家庭燃烧器和灯具组合。",
+    "use": "画吊灯先定管路与灯臂，再安发光部和罩；旧器改电时按图注保留后配说明。",
+    "caution": "家庭博物馆对照吊灯已改电，并装复原磨砂玻璃罩；照片必须注明。",
+    "find": "1840—1900年代英国家用煤气灯：裸焰、纱罩与多臂吊灯 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国",
+      "era": "1840—1909年",
+      "start": 1840,
+      "end": 1909,
+      "dateLabel": "1840—1909年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1840—1909年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.nationalgasmuseum.org.uk/discover/gas-lighting/"
+        }
+      ],
+      "source": "https://www.nationalgasmuseum.org.uk/discover/gas-lighting/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-gas-fixture.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-gas-fixture.jpg",
+        "original": "https://collections.museumofthehome.org.uk/assets/0/13/5310/v0_websize_large.jpg",
+        "source": "https://collections.museumofthehome.org.uk/object30036",
+        "caption": "英国煤气吊灯，约1845；后改电，磨砂玻璃罩为复制件；Museum of the Home7/1996-1；照片拍摄年未载；原物主体与现代补配的区分见前文。",
+        "provider": "Museum of the Home, London",
+        "credit": "Museum of the Home, London",
+        "license": "© Museum of the Home, London；未载开放照片授权。",
+        "width": 396,
+        "height": 500,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "据煤气博物馆类级普及史与家庭博物馆吊灯记录，比较家庭燃烧器和灯具组合。",
+      "common": [
+        {
+          "title": "管网带来灯光",
+          "text": "较大房屋先用煤气，劳动家庭到19世纪最后四分之一才较多负担得起；装灯涉及固定管线。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "燃烧部变化",
+          "text": "早期裸焰的黄光与烟灰使使用有局限，1880年代纱罩技术让加热后的罩发出更亮光。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "裸焰燃烧器",
+          "feature": "向上火焰与鱼尾等喷口相连，灯臂承担燃气输送。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "纱罩与多臂灯",
+          "feature": "纱罩改变发光部；多臂吊灯将多个燃烧器集中，器身装饰并不说明燃烧技术。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "区分进气管、喷口、纱罩和玻璃罩，才能画出有功能关系的灯具。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "家庭博物馆对照吊灯已改电，并装复原磨砂玻璃罩；照片必须注明。",
+        "工厂历史插图不是家庭室内照，不能照搬厂房灯距。"
+      ],
+      "drawing": "画吊灯先定管路与灯臂，再安发光部和罩；旧器改电时按图注保留后配说明。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "英国国家煤气博物馆：煤气灯的普及与燃烧器",
+          "url": "https://www.nationalgasmuseum.org.uk/discover/gas-lighting/",
+          "locator": "Gas lighting：19世纪家庭普及、1885mantle及替代段落"
+        },
+        {
+          "id": "s2",
+          "title": "Museum of the Home：19世纪煤气吊灯及后期改装",
+          "url": "https://collections.museumofthehome.org.uk/object30036",
+          "locator": "Brief description / Production date / Label，原物改电与replica frosted glass shades"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-daily-can-openers",
+    "module": "objects",
+    "category": "tools",
+    "name": "1858—1870年美国开罐器：撬切刀与家用圆刃",
+    "region": "美国",
+    "period": "1858—1870年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.pbs.org/wgbh/americanexperience/features/telephone-forgotten-inventors/",
+    "content": "以PBS机构历史研究比较金属食品罐普及后专用开罐工具的改形，聚焦开食品罐。",
+    "use": "用侧视画刺入点与刃部，再以俯视表现沿盖缘移动；不把开罐刀当开瓶器。",
+    "caution": "历史图为设计印刷资料，不代表器具都有同一生产尺寸。",
+    "find": "1858—1870年美国开罐器：撬切刀与家用圆刃 日常构件家具100_20261004 日常用具",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "1858—1870年",
+      "start": 1858,
+      "end": 1870,
+      "dateLabel": "1858—1870年",
+      "dateBasis": "机构文献与馆藏年代",
+      "notes": [
+        "年代限定于所引研究和对照物，不等于器类的发明或消失年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究区间1858—1870年；机构所载对象与观察年份详见各图注。年代限定于所引研究和对照物，不等于器类的发明或消失年代。",
+          "url": "https://www.pbs.org/wgbh/americanexperience/features/telephone-forgotten-inventors/"
+        }
+      ],
+      "source": "https://www.pbs.org/wgbh/americanexperience/features/telephone-forgotten-inventors/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-daily-canopener.jpg",
+        "full": "绘画参考资源/例图/daily100-daily-canopener.jpg",
+        "original": "https://www.pbs.org/wgbh/americanexperience/media/filer_public_thumbnails/filer_public/5b/a7/5ba7c42b-bc21-497c-8c58-34485952e5b0/telephone-forgotten-inventors-can-opener.jpg__300x345_q85_crop_subsampling-2_upscale.jpg",
+        "source": "https://www.pbs.org/wgbh/americanexperience/features/telephone-forgotten-inventors/",
+        "caption": "PBS刊开罐器历史设计图（机构页面未单载图片年份）；与1858—1870史文配读；图像拍摄年未独立载；所示为实物或历史资料，并非现代复原。",
+        "provider": "PBS American Experience",
+        "credit": "PBS American Experience",
+        "license": "照片版权未载，保留机构署名；未据正文文字授权推定照片为CC。",
+        "width": 300,
+        "height": 345,
+        "kind": "historical",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以PBS机构历史研究比较金属食品罐普及后专用开罐工具的改形，聚焦开食品罐。",
+      "common": [
+        {
+          "title": "容器先于专用工具",
+          "text": "早期罐头长期依赖笨重开启方式；专用开罐工具要先破罐盖再沿盖缘切开。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "更便于家庭使用",
+          "text": "1858 Warner的刺入和弯刀结构后，1870 Lyman提出更易家庭操作的形式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "刺入撬切型",
+          "feature": "Warner设计结合刺入部与弯曲刀部，沿罐缘逐段操作。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "圆刃型",
+          "feature": "Lyman设计用转动切刃处理盖面，动作与逐段撬切不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画开罐动作时先选正确刀具与盖缘关系，避免将现代双轮开罐器安到19世纪早期。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "历史图为设计印刷资料，不代表器具都有同一生产尺寸。",
+        "不把美国专利年代当成全球开罐工具的唯一发明年代。"
+      ],
+      "drawing": "用侧视画刺入点与刃部，再以俯视表现沿盖缘移动；不把开罐刀当开瓶器。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "PBS American Experience：开罐器的改形",
+          "url": "https://www.pbs.org/wgbh/americanexperience/features/telephone-forgotten-inventors/",
+          "locator": "Can opener小节：1810容器背景，1858 Warner与1870 Lyman"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-wood-sash",
+    "module": "architecture",
+    "category": "parts",
+    "name": "英国与北美木制升降窗：窗框、分格与配重",
+    "region": "英国、美国",
+    "period": "18—20世纪初木制升降窗研究例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-09-wood-windows.pdf",
+    "content": "比较上下滑动木窗的框扇构造与玻璃分格，以历史保育指南中的多种住宅窗为证。",
+    "use": "先画固定框的内外层和两扇错位关系，再画细分格与斜窗台；画开窗状态时要留出重叠。",
+    "caution": "六格、两格等只是具体窗式，不能把单一格数当作所有18世纪窗。",
+    "find": "英国与北美木制升降窗：窗框、分格与配重 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "英国、美国",
+      "era": "18—20世纪初木制升降窗研究例证",
+      "start": 1701,
+      "end": 1930,
+      "dateLabel": "18—20世纪初木制升降窗研究例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "六格、两格等只是具体窗式，不能把单一格数当作所有18世纪窗。",
+        "照片是修复指南中的现状例证，窗的涂漆、玻璃或绳索可能后配。"
+      ],
+      "evidence": [
+        {
+          "text": "比较上下滑动木窗的框扇构造与玻璃分格，以历史保育指南中的多种住宅窗为证。；18—20世纪初木制升降窗研究例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-09-wood-windows.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-09-wood-windows.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-wood-sash-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-wood-sash-1.jpg",
+        "original": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+        "source": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+        "caption": "政府修复指南第12页木升降窗现状近景；具体制作年、摄影年未载。",
+        "provider": "Scottish Borders Council",
+        "credit": "Scottish Borders Council",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 649,
+        "height": 862,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较上下滑动木窗的框扇构造与玻璃分格，以历史保育指南中的多种住宅窗为证。",
+      "common": [
+        {
+          "title": "框与扇分工",
+          "text": "固定窗框承接窗洞，可移动窗扇由边挺、横档和细木分格组成；修复时需分别记录这些部位。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "排水和开启",
+          "text": "窗台坡度、下部滴水及框内的绳索和配重是升降窗的重要细节，外观分格不能代替开启构造。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "单扇升降",
+          "feature": "一扇滑动、另一扇固定，不能把两片玻璃都画成可开。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "双扇升降",
+          "feature": "上下两扇均可在各自轨道滑动；不同年代还会变化玻璃大小和分格数量。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "较大的玻璃逐渐可获得，使窗扇分格变少；保留原木分格、旧玻璃与配重能保存这种制作史。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "六格、两格等只是具体窗式，不能把单一格数当作所有18世纪窗。",
+        "照片是修复指南中的现状例证，窗的涂漆、玻璃或绳索可能后配。"
+      ],
+      "drawing": "先画固定框的内外层和两扇错位关系，再画细分格与斜窗台；画开窗状态时要留出重叠。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 9：The Repair of Historic Wooden Windows",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-09-wood-windows.pdf",
+          "locator": "History；Evaluation；窗框、配重和窗台构造。"
+        },
+        {
+          "id": "s2",
+          "title": "Scottish Borders Council：Replacement Windows and Doors",
+          "url": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+          "locator": "2024指南：Traditional windows；Doors；实物照片与构件示意。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-steel-windows",
+    "module": "architecture",
+    "category": "parts",
+    "name": "20世纪钢制窗：侧开扇、中轴扇与细框",
+    "region": "美国",
+    "period": "19世纪末—20世纪中叶钢窗；1930—1950年代保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-13-steel-windows.pdf",
+    "content": "研究轧制钢型材窗的共性与开启类型，住宅、工业窗与现代公共建筑窗均纳入。",
+    "use": "先定窄型材厚度，区分固定分格和可开扇；不要把所有矩形格都加铰链。",
+    "caution": "钢、铸铁和铝窗不可只凭深色外观混同。",
+    "find": "20世纪钢制窗：侧开扇、中轴扇与细框 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "19世纪末—20世纪中叶钢窗；1930—1950年代保存例证",
+      "start": 1890,
+      "end": 1960,
+      "dateLabel": "19世纪末—20世纪中叶钢窗；1930—1950年代保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "钢、铸铁和铝窗不可只凭深色外观混同。",
+        "近景显示Guggenheim钢窗修复前凝水状态；后续改为断热钢复制窗，不能把两阶段材料混画。"
+      ],
+      "evidence": [
+        {
+          "text": "研究轧制钢型材窗的共性与开启类型，住宅、工业窗与现代公共建筑窗均纳入。；19世纪末—20世纪中叶钢窗；1930—1950年代保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-13-steel-windows.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-13-steel-windows.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-steel-windows-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-steel-windows-1.jpg",
+        "original": "https://www.nps.gov/articles/000/images/Guggenheim-window-condensation.jpg",
+        "source": "https://home.nps.gov/articles/000/restoration-and-replication-of-steel-elements-at-frank-lloyd-wright-s-fallingwater-and-solomon-r-guggenheim-museum.htm",
+        "caption": "纽约Guggenheim1959年建筑钢框窗凝水近景，修复前问题记录；摄影年未载，后续断热复制窗不在此图中。",
+        "provider": "National Park Service / WASA Studio A",
+        "credit": "WASA/Studio A；NPS原文署名",
+        "license": "© WASA/Studio A；机构公开原图，单图开放许可未确认。",
+        "width": 1500,
+        "height": 1125,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究轧制钢型材窗的共性与开启类型，住宅、工业窗与现代公共建筑窗均纳入。",
+      "common": [
+        {
+          "title": "窄框分格",
+          "text": "轧制钢材形成薄而有强度的框扇与分格；固定框、窗扇及副框各有作用。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "开启与防锈",
+          "text": "观察铰链、转轴、搭接和玻璃油灰；锈蚀常改变接缝与开启，清理后的现状不等于出厂状态。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "侧开钢窗",
+          "feature": "窗扇绕一侧铰链开启，住宅和商业建筑均使用。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "中轴工业窗",
+          "feature": "窗扇绕横向或竖向中轴旋转，常出现在厂房、仓库等大面积窗带。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "钢窗的薄型材和批量制作适应工业采光，也与20世纪简洁立面相配；不同开启法满足通风和维护需要。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "钢、铸铁和铝窗不可只凭深色外观混同。",
+        "近景显示Guggenheim钢窗修复前凝水状态；后续改为断热钢复制窗，不能把两阶段材料混画。"
+      ],
+      "drawing": "先定窄型材厚度，区分固定分格和可开扇；不要把所有矩形格都加铰链。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 13：The Repair and Thermal Upgrading of Historic Steel Windows",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-13-steel-windows.pdf",
+          "locator": "History；Figure 4不同开启类型；Evaluation。"
+        },
+        {
+          "id": "s2",
+          "title": "NPS：Restoration and Replication of Steel Elements at Fallingwater and Guggenheim",
+          "url": "https://home.nps.gov/articles/000/restoration-and-replication-of-steel-elements-at-frank-lloyd-wright-s-fallingwater-and-solomon-r-guggenheim-museum.htm",
+          "locator": "Fallingwater窗型材及修复说明。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-leaded-glazing",
+    "module": "architecture",
+    "category": "parts",
+    "name": "欧美铅条镶玻璃：透明几何窗与彩绘装饰窗",
+    "region": "美国、欧洲",
+    "period": "19世纪—20世纪初日常建筑应用；工艺有更早沿革",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf",
+    "content": "比较由金属槽条连接玻璃片的建筑窗，重心为住宅门边窗、气窗和装饰玻璃，不重复哥特教堂室内概述。",
+    "use": "先安排金属条连贯网格，再填玻璃色块；框边、水平支撑与反光要区别画。",
+    "caution": "“彩窗”不等于每块玻璃都用同一染色方法。",
+    "find": "欧美铅条镶玻璃：透明几何窗与彩绘装饰窗 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "美国、欧洲",
+      "era": "19世纪—20世纪初日常建筑应用；工艺有更早沿革",
+      "start": 1801,
+      "end": 1930,
+      "dateLabel": "19世纪—20世纪初日常建筑应用；工艺有更早沿革",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "“彩窗”不等于每块玻璃都用同一染色方法。",
+        "NPS照片含历史原窗与保护修复现状；保护层和补片不能倒推原始设计。"
+      ],
+      "evidence": [
+        {
+          "text": "比较由金属槽条连接玻璃片的建筑窗，重心为住宅门边窗、气窗和装饰玻璃，不重复哥特教堂室内概述。；19世纪—20世纪初日常建筑应用；工艺有更早沿革是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-leaded-glazing-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-leaded-glazing-1.jpg",
+        "original": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf",
+        "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf",
+        "caption": "NPS Brief 33第2页住宅门与彩色侧窗、气窗照片；原窗及摄影具体年代未载。",
+        "provider": "National Park Service",
+        "credit": "原机构出版物；摄影者见原页",
+        "license": "NPS原机构出版/网页图像；若原页另署第三方摄影者则其权利保留，不将出版物整体视为照片的CC许可。",
+        "width": 511,
+        "height": 482,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-leaded-glazing-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-leaded-glazing-2.jpg",
+        "original": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf",
+        "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf",
+        "caption": "NPS Brief 33第4页几何镶条窗原照片；原物与摄影具体年代以出版物为限。",
+        "provider": "National Park Service",
+        "credit": "原机构出版物；摄影者见原页",
+        "license": "NPS原机构出版/网页图像；若原页另署第三方摄影者则其权利保留，不将出版物整体视为照片的CC许可。",
+        "width": 442,
+        "height": 747,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较由金属槽条连接玻璃片的建筑窗，重心为住宅门边窗、气窗和装饰玻璃，不重复哥特教堂室内概述。",
+      "common": [
+        {
+          "title": "小片拼接",
+          "text": "玻璃片嵌入铅、铜或锌槽条，槽条网络承担拼合，外侧框架和支撑杆协助稳定。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "光和表面分开",
+          "text": "颜色、绘画、磨花、斜边和玻璃纹理属于不同处理；透明玻璃也可使用同样镶条结构。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "透明几何镶条窗",
+          "feature": "使用透明或磨边玻璃，直线、菱形等网络成为主要视觉特征。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "彩绘或着色镶条窗",
+          "feature": "彩色玻璃与绘画共同形成图像；镶条接缝仍需服从可制作的分片。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "这种工艺既可为大建筑形成彩色光，也在19—20世纪普通住宅门扇、侧窗与气窗中提供装饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "“彩窗”不等于每块玻璃都用同一染色方法。",
+        "NPS照片含历史原窗与保护修复现状；保护层和补片不能倒推原始设计。"
+      ],
+      "drawing": "先安排金属条连贯网格，再填玻璃色块；框边、水平支撑与反光要区别画。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 33：The Preservation and Repair of Historic Stained and Leaded Glass",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-33-stained-leaded-glass.pdf",
+          "locator": "第1—4页定义、日常住宅应用、工艺差异；Figure 2住宅门侧窗。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-wood-doors",
+    "module": "architecture",
+    "category": "parts",
+    "name": "英国传统木门：板门、框架镶板门与门框",
+    "region": "英国",
+    "period": "18—20世纪初住宅木门保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+    "content": "比较日常外门、内门的木构方式及门框收边，以多扇政府指南实物照片为例。",
+    "use": "先画框架分区再画板心；板门保持板缝贯通，不给每块板套相同装饰线。",
+    "caution": "单门、双门和镶板数不能自动推断屋主等级。",
+    "find": "英国传统木门：板门、框架镶板门与门框 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国",
+      "era": "18—20世纪初住宅木门保存例证",
+      "start": 1701,
+      "end": 1930,
+      "dateLabel": "18—20世纪初住宅木门保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "单门、双门和镶板数不能自动推断屋主等级。",
+        "照片中的油漆、门锁和局部玻璃可能后配，年代仅作为指南研究范围。"
+      ],
+      "evidence": [
+        {
+          "text": "比较日常外门、内门的木构方式及门框收边，以多扇政府指南实物照片为例。；18—20世纪初住宅木门保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf"
+        }
+      ],
+      "source": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-wood-doors-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-wood-doors-1.jpg",
+        "original": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+        "source": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+        "caption": "指南第19页绿漆竖板门现状；制作年和摄影年未载。",
+        "provider": "Scottish Borders Council",
+        "credit": "Scottish Borders Council",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 474,
+        "height": 633,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-wood-doors-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-wood-doors-2.jpg",
+        "original": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+        "source": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+        "caption": "指南第20页框架镶板门现状；制作年和摄影年未载。",
+        "provider": "Scottish Borders Council",
+        "credit": "Scottish Borders Council",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 648,
+        "height": 865,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较日常外门、内门的木构方式及门框收边，以多扇政府指南实物照片为例。",
+      "common": [
+        {
+          "title": "门扇不是一块板",
+          "text": "板门由并排木板与背面横档支撑；镶板门以边挺和横档围合独立镶板。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "洞口组合",
+          "text": "门框、门扇、门套及顶部气窗是不同部件；绘画应同时记录门扇厚度和门框退入墙面的距离。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "板门型",
+          "feature": "竖板面明确，可有横档或斜撑，常见于较朴素的入口和附属空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "框架镶板型",
+          "feature": "横档把门面分为若干镶板，可有凸起板心，也可局部换为玻璃。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "不同木构方式使门在强度、制作投入和装饰上呈现差别；后期替换往往改变入口整体比例。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "单门、双门和镶板数不能自动推断屋主等级。",
+        "照片中的油漆、门锁和局部玻璃可能后配，年代仅作为指南研究范围。"
+      ],
+      "drawing": "先画框架分区再画板心；板门保持板缝贯通，不给每块板套相同装饰线。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Scottish Borders Council：Replacement Windows and Doors",
+          "url": "https://www.scotborders.gov.uk/downloads/file/1085/replacement_windows_and_doors.pdf",
+          "locator": "2024指南：Traditional windows；Doors；实物照片与构件示意。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-shutters",
+    "module": "architecture",
+    "category": "parts",
+    "name": "欧美建筑木护窗板：实板、镶板与百叶",
+    "region": "美国、英国",
+    "period": "18—20世纪初传统木护窗板保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/articles/000/weatherization-of-historic-buildings-shading-devices.htm",
+    "content": "研究铰接于建筑窗框旁的木护窗板，比较封闭木面与留通风缝的百叶；不涉及可移动屏风或布帘。",
+    "use": "先画两侧能合拢的尺寸，再画铰链方向；百叶缝应具有统一倾斜与厚度。",
+    "caution": "实板与百叶并非各自只属于一种国家或年代。",
+    "find": "欧美建筑木护窗板：实板、镶板与百叶 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "美国、英国",
+      "era": "18—20世纪初传统木护窗板保存例证",
+      "start": 1701,
+      "end": 1930,
+      "dateLabel": "18—20世纪初传统木护窗板保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "实板与百叶并非各自只属于一种国家或年代。",
+        "NPS建筑报告中的后制复制板须与原件区分；LOC照片记录1940年现状，未给单块护窗板制作年。"
+      ],
+      "evidence": [
+        {
+          "text": "研究铰接于建筑窗框旁的木护窗板，比较封闭木面与留通风缝的百叶；不涉及可移动屏风或布帘。；18—20世纪初传统木护窗板保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/articles/000/weatherization-of-historic-buildings-shading-devices.htm"
+        }
+      ],
+      "source": "https://www.nps.gov/articles/000/weatherization-of-historic-buildings-shading-devices.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-shutters-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-shutters-1.jpg",
+        "original": "https://blogs.loc.gov/picturethis/files/2023/04/service-pnp-habshaer-ny-ny0200-ny0256-photos-116933pv.jpg",
+        "source": "https://blogs.loc.gov/picturethis/2023/04/faces-in-unexpected-places/",
+        "caption": "Wyckoff-Bennett住宅窗及护窗板；1940年3月18日Stanley P. Mixon摄影，构件制作年未独立注明。",
+        "provider": "Library of Congress / HABS",
+        "credit": "Stanley P. Mixon / HABS",
+        "license": "LOC / HABS历史资料；使用范围以LOC Rights & Access为准。",
+        "width": 1024,
+        "height": 725,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究铰接于建筑窗框旁的木护窗板，比较封闭木面与留通风缝的百叶；不涉及可移动屏风或布帘。",
+      "common": [
+        {
+          "title": "附着于窗洞",
+          "text": "护窗板是建筑开启构件，需要铰链、挂钩或窗框承接；外侧装饰性假板不具有同等开启功能。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "位置影响作用",
+          "text": "关闭时覆盖窗洞，打开时停在墙边；应观察是否能实际闭合以及与玻璃窗扇的前后层次。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "实板或镶板型",
+          "feature": "闭合木面较完整，板缝或镶板框清楚。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "百叶型",
+          "feature": "多道倾斜叶片形成连续通风与遮阳缝，固定叶和可调叶不能混画。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "NPS保育资料指出遮阳可减少日照热负荷；原有护窗板是建筑外观和使用历史的一部分。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "实板与百叶并非各自只属于一种国家或年代。",
+        "NPS建筑报告中的后制复制板须与原件区分；LOC照片记录1940年现状，未给单块护窗板制作年。"
+      ],
+      "drawing": "先画两侧能合拢的尺寸，再画铰链方向；百叶缝应具有统一倾斜与厚度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS：Weatherization of Historic Buildings—Add Shading Devices",
+          "url": "https://www.nps.gov/articles/000/weatherization-of-historic-buildings-shading-devices.htm",
+          "locator": "Shutters等遮阳设施与历史特征。"
+        },
+        {
+          "id": "s2",
+          "title": "NPS：Napoleon B. Broward House Historic Structure Report",
+          "url": "https://www.nps.gov/parkhistory/online_books/timu/timu_nbbh_hsr.pdf",
+          "locator": "百叶护窗板原件残片、两段/三段分格与1996—2003复制板；Figure 29。"
+        },
+        {
+          "id": "s3",
+          "title": "Library of Congress：Faces in Unexpected Places",
+          "url": "https://blogs.loc.gov/picturethis/2023/04/faces-in-unexpected-places/",
+          "locator": "Wyckoff-Bennett House entrance windows and shutters；Stanley P. Mixon，1940-03-18。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-iron-hinges",
+    "module": "architecture",
+    "category": "parts",
+    "name": "欧洲与北美锻铁门铰：长带、钉盘与卷曲分枝",
+    "region": "法国、美国",
+    "period": "13—18世纪门用锻铁铰带研究例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/4323",
+    "content": "以多种门铰比较锻铁条的安装、钉孔和装饰分枝，包含整体门扇与拆下的五金。",
+    "use": "先标转动轴、钉孔与铁带粗细，再加卷曲；把铁带投影和旧木板裂缝分开。",
+    "caution": "Met独立门铰保留安装钉盘，V&A木门上繁细铁带兼有加固和装饰；拆离件不一定保留配套门框。",
+    "find": "欧洲与北美锻铁门铰：长带、钉盘与卷曲分枝 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "法国、美国",
+      "era": "13—18世纪门用锻铁铰带研究例证",
+      "start": 1201,
+      "end": 1800,
+      "dateLabel": "13—18世纪门用锻铁铰带研究例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "Met独立门铰保留安装钉盘，V&A木门上繁细铁带兼有加固和装饰；拆离件不一定保留配套门框。",
+        "法国中世纪与美国18世纪例证仅用来对照工艺，不推断两地同一作坊或直接传播。"
+      ],
+      "evidence": [
+        {
+          "text": "以多种门铰比较锻铁条的安装、钉孔和装饰分枝，包含整体门扇与拆下的五金。；13—18世纪门用锻铁铰带研究例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.metmuseum.org/art/collection/search/4323"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/4323"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-iron-hinges-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-iron-hinges-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/4323/34667/main-image",
+        "source": "https://www.metmuseum.org/art/collection/search/4323",
+        "caption": "美国Hudson Valley1700—1800年锻铁门铰，49.117.46；原物摄影年未载，端部钉盘用于加强固定。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. J. Insley Blair, 1949 / The Met",
+        "license": "馆方标注Public Domain，Met Open Access / CC0。",
+        "width": 1200,
+        "height": 497,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-iron-hinges-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-iron-hinges-2.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2009CD9009/full/!1000,1000/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O128614/",
+        "caption": "法国Gannat1200—1300年木门与锻铁铰带原物；摄影年未载，拆离原建筑展陈，板面与铁带保存状态不同。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© Victoria and Albert Museum, London；单图开放许可未确认，公开复用依馆方规定。",
+        "width": 728,
+        "height": 1000,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以多种门铰比较锻铁条的安装、钉孔和装饰分枝，包含整体门扇与拆下的五金。",
+      "common": [
+        {
+          "title": "转动与固定",
+          "text": "门铰有连接门框的转动部位，也有伸向木门的固定铁带；钉孔的位置与木板支撑相联系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "锻铁成形",
+          "text": "铁带可渐窄、增厚或分枝，末端与钉盘既便于固定也构成装饰，不能画成贴在木面的无限细线。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "长直带及末端钉盘型",
+          "feature": "长带将固定点分布在门面，端部膨大形成显眼的钉盘。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "卷曲分枝型",
+          "feature": "铁带末端或支枝形成弧线、羊角式卷曲等；繁细分枝可能主要承担装饰。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "门需要可靠悬挂和固定，锻造又允许铁匠把钉盘、末端与支枝处理成装饰；装饰铁带未必全承担门扇重量。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "Met独立门铰保留安装钉盘，V&A木门上繁细铁带兼有加固和装饰；拆离件不一定保留配套门框。",
+        "法国中世纪与美国18世纪例证仅用来对照工艺，不推断两地同一作坊或直接传播。"
+      ],
+      "drawing": "先标转动轴、钉孔与铁带粗细，再加卷曲；把铁带投影和旧木板裂缝分开。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Met：Hinge，4323",
+          "url": "https://www.metmuseum.org/art/collection/search/4323",
+          "locator": "馆藏正文：末端nail pad的门铰与材料。"
+        },
+        {
+          "id": "s2",
+          "title": "Colonial Williamsburg：Set of Hinges，58014",
+          "url": "https://emuseum.colonialwilliamsburg.org/objects/58014/set-of-hinges",
+          "locator": "Description：ram’s horn形、分枝、固定孔与外门尺度。"
+        },
+        {
+          "id": "s3",
+          "title": "V&A：Door，O128614",
+          "url": "https://collections.vam.ac.uk/item/O128614/",
+          "locator": "Gannat木门与锻铁铰带；馆藏独立个例仅作照片和类型例证。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-cast-railings",
+    "module": "architecture",
+    "category": "parts",
+    "name": "19世纪铸铁阳台与门廊栏杆：重复栏柱、格板与拼装",
+    "region": "美国",
+    "period": "19世纪—20世纪初铸铁建筑栏杆例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf",
+    "content": "研究固定在建筑门廊、阳台和外廊的铸铁围护，以重复铸件及接头比较不同栏面。",
+    "use": "先画承托柱与横栏，再重复栏面模块，接头和破损应少量不均匀。",
+    "caution": "铸铁与锻铁常混用，单靠卷曲花纹无法判断材料。",
+    "find": "19世纪铸铁阳台与门廊栏杆：重复栏柱、格板与拼装 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国",
+      "era": "19世纪—20世纪初铸铁建筑栏杆例证",
+      "start": 1801,
+      "end": 1920,
+      "dateLabel": "19世纪—20世纪初铸铁建筑栏杆例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "铸铁与锻铁常混用，单靠卷曲花纹无法判断材料。",
+        "Fort Hancock近景属存留栏杆，部分其他外廊已拆除，不能用此图推定所有廊架仍完整。"
+      ],
+      "evidence": [
+        {
+          "text": "研究固定在建筑门廊、阳台和外廊的铸铁围护，以重复铸件及接头比较不同栏面。；19世纪—20世纪初铸铁建筑栏杆例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-cast-railings-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-cast-railings-1.jpg",
+        "original": "https://planning.nps.gov/showFile.cfm?projectID=10009&sfid=10444",
+        "source": "https://planning.nps.gov/showFile.cfm?projectID=10009&sfid=10444",
+        "caption": "Fort Hancock兵营存留铸铁栏杆近景，NPS报告第38页原生照片；摄影年未载，非新绘图。",
+        "provider": "National Park Service",
+        "credit": "原机构出版物；摄影者见原页",
+        "license": "NPS原机构出版/网页图像；若原页另署第三方摄影者则其权利保留，不将出版物整体视为照片的CC许可。",
+        "width": 305,
+        "height": 197,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究固定在建筑门廊、阳台和外廊的铸铁围护，以重复铸件及接头比较不同栏面。",
+      "common": [
+        {
+          "title": "模具与重复",
+          "text": "铸铁可由模具重复制作栏柱或装饰板，统一花纹常成组连续排列。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "系统与接头",
+          "text": "扶手、栏面、柱脚和锚固分别工作；锈蚀、松动与后补件可能打断原有节奏。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "独立栏柱型",
+          "feature": "连续竖向栏柱承接横扶手，实心感和重复柱形较明确。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "透空格板型",
+          "feature": "大块透空铸板在支柱之间排列，花纹围成连续装饰栏面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "19世纪铸铁业的模具制作与批量供应，使精细重复装饰能用于建筑外部；维护还需处理脆裂和接头。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "铸铁与锻铁常混用，单靠卷曲花纹无法判断材料。",
+        "Fort Hancock近景属存留栏杆，部分其他外廊已拆除，不能用此图推定所有廊架仍完整。"
+      ],
+      "drawing": "先画承托柱与横栏，再重复栏面模块，接头和破损应少量不均匀。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 27：The Maintenance and Repair of Architectural Cast Iron",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-27-cast-iron.pdf",
+          "locator": "History of cast iron；模铸、批量供应、材料区别及接头保护。"
+        },
+        {
+          "id": "s2",
+          "title": "NPS：Fort Hancock Critical Building Repair Issues",
+          "url": "https://planning.nps.gov/showFile.cfm?projectID=10009&sfid=10444",
+          "locator": "PDF第38页：Cast iron balustrades still exist on some barracks’ porches。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-slate-roofs",
+    "module": "architecture",
+    "category": "parts",
+    "name": "欧美石板屋面：齐整、肌理与渐变铺排",
+    "region": "美国、英国",
+    "period": "19—20世纪石板屋面保育例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-29-slate-roofs.pdf",
+    "content": "比较劈裂天然石板的铺屋面类型，聚焦搭接、檐口与脊部；不重复整栋瑞士农屋概述。",
+    "use": "先画错缝和搭接再画每片尾端；靠檐口的排数与板片厚度须按类型设置。",
+    "caution": "渐变铺排是板片尺寸变化，不是透视下看起来渐小。",
+    "find": "欧美石板屋面：齐整、肌理与渐变铺排 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "美国、英国",
+      "era": "19—20世纪石板屋面保育例证",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19—20世纪石板屋面保育例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "渐变铺排是板片尺寸变化，不是透视下看起来渐小。",
+        "Thomas House图是2006—2007年换屋面工程，不能把新铺板视为全部19世纪原件。"
+      ],
+      "evidence": [
+        {
+          "text": "比较劈裂天然石板的铺屋面类型，聚焦搭接、檐口与脊部；不重复整栋瑞士农屋概述。；19—20世纪石板屋面保育例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-29-slate-roofs.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-29-slate-roofs.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-slate-roofs-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-slate-roofs-1.jpg",
+        "original": "https://www.nps.gov/mono/learn/management/images/TH_Slate_Roof_01_285px.jpg",
+        "source": "https://www.nps.gov/mono/learn/management/thomas-roof.htm",
+        "caption": "Thomas House石板换屋面施工原照片；项目2006—2007，表现现代修复过程。",
+        "provider": "National Park Service",
+        "credit": "National Park Service",
+        "license": "NPS原机构出版/网页图像；若原页另署第三方摄影者则其权利保留，不将出版物整体视为照片的CC许可。",
+        "width": 285,
+        "height": 214,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较劈裂天然石板的铺屋面类型，聚焦搭接、檐口与脊部；不重复整栋瑞士农屋概述。",
+      "common": [
+        {
+          "title": "叠层防水",
+          "text": "石板按排叠压并错开接缝，钉固定位置受上排覆盖；屋脊、泛水和沟部是另一组细节。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "石材本色",
+          "text": "颜色、厚薄与劈裂面随石源和等级变化；屋面花纹也可由不同颜色和尾端形状排成。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "标准齐整型",
+          "feature": "板片尺寸与厚度较一致，尾端和露出量稳定，形成规则水平排。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "肌理或渐变型",
+          "feature": "肌理型用厚薄、尾端与颜色变化；渐变型自檐口向脊部逐步减小板片。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "天然石板的劈裂、当地供应和耐久性影响选材；不同铺排也被主动用于塑造建筑外观。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "渐变铺排是板片尺寸变化，不是透视下看起来渐小。",
+        "Thomas House图是2006—2007年换屋面工程，不能把新铺板视为全部19世纪原件。"
+      ],
+      "drawing": "先画错缝和搭接再画每片尾端；靠檐口的排数与板片厚度须按类型设置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 29：The Repair, Replacement, and Maintenance of Historic Slate Roofs",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-29-slate-roofs.pdf",
+          "locator": "第2—3页Standard、Textural、Graduated types；搭接与构件。"
+        },
+        {
+          "id": "s2",
+          "title": "NPS Monocacy：Thomas House Roof",
+          "url": "https://www.nps.gov/mono/learn/management/thomas-roof.htm",
+          "locator": "2006—2007屋面修复照片及说明。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-clay-roofs",
+    "module": "architecture",
+    "category": "parts",
+    "name": "欧洲与北美陶瓦屋面：平瓦、S瓦与筒形搭接",
+    "region": "英国、美国",
+    "period": "12—20世纪陶瓦类型与存世例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-30-clay-tile-roofs.pdf",
+    "content": "比较烧制陶瓦的平面与曲面类型、搭接与脊瓦，不以某座建筑整体风格凑类题。",
+    "use": "先画单瓦断面和挂接，再排错缝；曲瓦要画出凹槽而不是一排圆柱。",
+    "caution": "NPS提醒同一种瓦名在美欧不总指同一形状，应以断面判断。",
+    "find": "欧洲与北美陶瓦屋面：平瓦、S瓦与筒形搭接 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "英国、美国",
+      "era": "12—20世纪陶瓦类型与存世例证",
+      "start": 1101,
+      "end": 2000,
+      "dateLabel": "12—20世纪陶瓦类型与存世例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "NPS提醒同一种瓦名在美欧不总指同一形状，应以断面判断。",
+        "伦敦博物馆图为拆离屋面的中世纪瓦原物，无法单凭它复原整座房屋屋坡。"
+      ],
+      "evidence": [
+        {
+          "text": "比较烧制陶瓦的平面与曲面类型、搭接与脊瓦，不以某座建筑整体风格凑类题。；12—20世纪陶瓦类型与存世例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-30-clay-tile-roofs.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-30-clay-tile-roofs.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-clay-roofs-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-clay-roofs-1.jpg",
+        "original": "https://collections.londonmuseum.net/media/col/149/858/a25232.jpg",
+        "source": "https://www.londonmuseum.org.uk/collections/v/object-34738/tile-roof-tile/",
+        "caption": "伦敦博物馆A25232陶屋瓦原物，12世纪中后期；摄影年未载，拆离屋面保存，缺损属现状。",
+        "provider": "London Museum",
+        "credit": "London Museum",
+        "license": "digital image © London Museum；原页未列Creative Commons许可，商业许可需联系馆方。",
+        "width": 761,
+        "height": 650,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较烧制陶瓦的平面与曲面类型、搭接与脊瓦，不以某座建筑整体风格凑类题。",
+      "common": [
+        {
+          "title": "形状控制搭接",
+          "text": "平瓦像片状覆层排列；曲瓦可由凹凸配合排水，背面挂榫、钉孔及互锁边各有区别。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "普通瓦和专用瓦",
+          "text": "屋面重复瓦与脊瓦、缘瓦等特种件不同，转角不能靠任意切断普通瓦来表示。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "平瓦型",
+          "feature": "瓦面较平，部分带挂榫，尾端可直切或弧形，逐排叠压。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "S形与成对筒瓦型",
+          "feature": "S形瓦把凹凸结合于一件；成对筒瓦用覆盖瓦与承水瓦配合，不能当成完全相同做法。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "陶瓦烧制工艺和不同地区的排水、固定习惯形成多种断面；商品名称常随地区与厂家变化。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "NPS提醒同一种瓦名在美欧不总指同一形状，应以断面判断。",
+        "伦敦博物馆图为拆离屋面的中世纪瓦原物，无法单凭它复原整座房屋屋坡。"
+      ],
+      "drawing": "先画单瓦断面和挂接，再排错缝；曲瓦要画出凹槽而不是一排圆柱。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 30：The Preservation and Repair of Historic Clay Tile Roofs",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-30-clay-tile-roofs.pdf",
+          "locator": "Types of Historic Clay Tiles；Flat tiles、Pantiles、Field and Specialty Tile。"
+        },
+        {
+          "id": "s2",
+          "title": "London Museum：Roof tile，34738",
+          "url": "https://www.londonmuseum.org.uk/collections/v/object-34738/tile-roof-tile/",
+          "locator": "对象材料、年代与原物照片。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-tile-floors",
+    "module": "architecture",
+    "category": "parts",
+    "name": "19—20世纪建筑陶砖地面：通体花砖、几何拼砖与马赛克",
+    "region": "美国、英国",
+    "period": "19世纪—20世纪初工业陶砖地面研究例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf",
+    "content": "比较烧制陶砖铺地的不同成纹方法，重点是砖缝、图案与通行磨损，不重复荷兰蓝白壁砖专题。",
+    "use": "先定每块砖的边界和边框，再填颜色；画磨损时让中间通道与边缘有差别。",
+    "caution": "英语encaustic tile在此指嵌泥成纹陶砖，不是蜡画。",
+    "find": "19—20世纪建筑陶砖地面：通体花砖、几何拼砖与马赛克 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "美国、英国",
+      "era": "19世纪—20世纪初工业陶砖地面研究例证",
+      "start": 1801,
+      "end": 1930,
+      "dateLabel": "19世纪—20世纪初工业陶砖地面研究例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "英语encaustic tile在此指嵌泥成纹陶砖，不是蜡画。",
+        "LOC2017现状地面照片记录1897建成建筑，历次修复与补砖不能都视作1897原件。"
+      ],
+      "evidence": [
+        {
+          "text": "比较烧制陶砖铺地的不同成纹方法，重点是砖缝、图案与通行磨损，不重复荷兰蓝白壁砖专题。；19世纪—20世纪初工业陶砖地面研究例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf"
+        }
+      ],
+      "source": "https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-tile-floors-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-tile-floors-1.jpg",
+        "original": "https://blogs.loc.gov/families/files/2021/06/48079432043_7600549848_w-200x300.jpg",
+        "source": "https://blogs.loc.gov/families/2021/06/pattern-play-with-library-of-congress-mosaics/",
+        "caption": "LOC Jefferson大楼真实马赛克地面局部；大楼1897建成，Shawn Miller于2017年2月21日摄影。",
+        "provider": "Library of Congress",
+        "credit": "Shawn Miller / Library of Congress",
+        "license": "LOC机构摄影；单图开放许可未在该正文确认。",
+        "width": 200,
+        "height": 300,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较烧制陶砖铺地的不同成纹方法，重点是砖缝、图案与通行磨损，不重复荷兰蓝白壁砖专题。",
+      "common": [
+        {
+          "title": "砖体与成纹",
+          "text": "有的花纹由不同颜色泥料进入砖体形成，有的由单色小砖拼接；表面釉和通体色不能混同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "铺排与磨损",
+          "text": "地面图案需考虑砖缝、边框和房间边界；磨损程度会随通道与边缘不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "通体花砖型",
+          "feature": "不同颜色泥料嵌入砖体，重复花纹以方砖为模块。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "几何及马赛克拼砖型",
+          "feature": "多个单色几何砖或细小砖粒拼成图案；接缝数量与尺度区别于单块彩绘砖。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "19世纪工业化生产扩大陶砖地面供应，材料与成纹工艺使耐用铺面和装饰可以结合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "英语encaustic tile在此指嵌泥成纹陶砖，不是蜡画。",
+        "LOC2017现状地面照片记录1897建成建筑，历次修复与补砖不能都视作1897原件。"
+      ],
+      "drawing": "先定每块砖的边界和边框，再填颜色；画磨损时让中间通道与边缘有差别。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "NPS Preservation Brief 40：Preserving Historic Ceramic Tile Floors",
+          "url": "https://www.nps.gov/orgs/1739/upload/preservation-brief-40-ceramic-tile-floors.pdf",
+          "locator": "History；Types of Ceramic Tiles；Encaustic、geometric、mosaic与glazed区别。"
+        },
+        {
+          "id": "s2",
+          "title": "Library of Congress：Pattern Play with Library Mosaics",
+          "url": "https://blogs.loc.gov/families/2021/06/pattern-play-with-library-of-congress-mosaics/",
+          "locator": "Thomas Jefferson Building真实地面图；Shawn Miller 2017-02-21，须排除文中手工作品。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-wood-stairs",
+    "module": "architecture",
+    "category": "parts",
+    "name": "英国与北美木楼梯：梯段、侧梁与扶手栏杆",
+    "region": "英国、美国",
+    "period": "18—19世纪楼梯保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://historicengland.org.uk/research/results/reports/6089/84RavensdowneBerwick-upon-TweedNorthumberland_AnInvestigationandStatementofSignificance",
+    "content": "比较住宅木楼梯的开放侧梁与靠墙转折构造，以建筑调查和真实楼梯摄影为例。",
+    "use": "先画梯段平面与上升高度，再画每级踏面和栏杆；转角处检查扶手的连续线。",
+    "caution": "开放侧梁与转折路线是不同分类轴，可同时出现在一部楼梯上。",
+    "find": "英国与北美木楼梯：梯段、侧梁与扶手栏杆 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "跨地区",
+      "country": "英国、美国",
+      "era": "18—19世纪楼梯保存例证",
+      "start": 1701,
+      "end": 1900,
+      "dateLabel": "18—19世纪楼梯保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "开放侧梁与转折路线是不同分类轴，可同时出现在一部楼梯上。",
+        "LOC照片拍于1969年；雕刻栏杆与各踏步的制造年未分别确认。"
+      ],
+      "evidence": [
+        {
+          "text": "比较住宅木楼梯的开放侧梁与靠墙转折构造，以建筑调查和真实楼梯摄影为例。；18—19世纪楼梯保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://historicengland.org.uk/research/results/reports/6089/84RavensdowneBerwick-upon-TweedNorthumberland_AnInvestigationandStatementofSignificance"
+        }
+      ],
+      "source": "https://historicengland.org.uk/research/results/reports/6089/84RavensdowneBerwick-upon-TweedNorthumberland_AnInvestigationandStatementofSignificance"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-wood-stairs-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-wood-stairs-1.jpg",
+        "original": "https://blogs.loc.gov/picturethis/files/2023/04/service-pnp-habshaer-ma-ma0400-ma0408-photos-074634pv.jpg",
+        "source": "https://blogs.loc.gov/picturethis/2023/04/faces-in-unexpected-places/",
+        "caption": "Sea Cliff Inn一层北楼楼梯与木栏杆；Jack E. Boucher，1969年10月摄影，单部件制造年未载。",
+        "provider": "Library of Congress / HABS",
+        "credit": "Jack E. Boucher / HABS",
+        "license": "LOC / HABS；许可按源页面Rights & Access。",
+        "width": 736,
+        "height": 1024,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较住宅木楼梯的开放侧梁与靠墙转折构造，以建筑调查和真实楼梯摄影为例。",
+      "common": [
+        {
+          "title": "重复踏步",
+          "text": "16世纪以来框架式木梯逐渐发展，踏面与立板嵌入侧梁；踏步前缘凸出与侧梁可见程度应分别观察。",
+          "refs": [
+            "s4"
+          ]
+        },
+        {
+          "title": "栏杆跟随上升",
+          "text": "起步柱、栏柱与扶手围住楼梯或井口，转折处需要连续或连接，不能把平廊栏杆直接斜放代替。",
+          "refs": [
+            "s4",
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "敞开侧梁型",
+          "feature": "踏步侧端可见，侧端可加托形装饰，栏柱常逐踏设置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "转折绕井型",
+          "feature": "梯段围绕楼梯井或在转角设扇形踏步，扶手随平面转折，不能画成等宽直梯。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "房间与楼梯井的空间组织影响上升路线，楼梯细部也成为住宅中显眼的装饰和保存特征。",
+          "refs": [
+            "s4",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "开放侧梁与转折路线是不同分类轴，可同时出现在一部楼梯上。",
+        "LOC照片拍于1969年；雕刻栏杆与各踏步的制造年未分别确认。"
+      ],
+      "drawing": "先画梯段平面与上升高度，再画每级踏面和栏杆；转角处检查扶手的连续线。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Historic England：84 Ravensdowne—Investigation and Statement of Significance",
+          "url": "https://historicengland.org.uk/research/results/reports/6089/84RavensdowneBerwick-upon-TweedNorthumberland_AnInvestigationandStatementofSignificance",
+          "locator": "Report 52-2012：open-string dog-leg stairs、winders、tread-end brackets、balusters。"
+        },
+        {
+          "id": "s2",
+          "title": "National Trust Heritage Records：MNA119017",
+          "url": "https://heritagerecords.nationaltrust.org.uk/HBSMR/MonRecord.aspx?uid=MNA119017",
+          "locator": "STAIRS：open string、open well、fret-cut brackets与wall string。"
+        },
+        {
+          "id": "s3",
+          "title": "LOC：Faces in Unexpected Places",
+          "url": "https://blogs.loc.gov/picturethis/2023/04/faces-in-unexpected-places/",
+          "locator": "Sea Cliff Inn木楼梯；Jack E. Boucher 1969-10。"
+        },
+        {
+          "id": "s4",
+          "title": "SPAB：Timber stairs",
+          "url": "https://www.spab.org.uk/advice/timber-stairs",
+          "locator": "Evolution、historic interest、踏面立板嵌侧梁、接头和栏杆；18世纪软木漆饰与硬木蜡/树脂。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-fireplaces",
+    "module": "architecture",
+    "category": "parts",
+    "name": "欧洲固定壁炉：石框、金属火膛与陶砖饰面",
+    "region": "英国、意大利",
+    "period": "16—20世纪初固定壁炉研究例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://collections.vam.ac.uk/item/O131247/",
+    "content": "比较与墙内烟道相接的固定壁炉及其装饰框，以多件拆离原建筑的馆藏壁炉为例；不写便携炉具。",
+    "use": "先画火膛深度、炉床和烟道方向，再画外框；瓷砖要保留独立接缝，不把花纹连成壁画。",
+    "caution": "照片中的拆离壁炉不可视为完整烟囱系统。",
+    "find": "欧洲固定壁炉：石框、金属火膛与陶砖饰面 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国、意大利",
+      "era": "16—20世纪初固定壁炉研究例证",
+      "start": 1501,
+      "end": 1910,
+      "dateLabel": "16—20世纪初固定壁炉研究例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "照片中的拆离壁炉不可视为完整烟囱系统。",
+        "现代展陈与补装不代表原住宅中相同墙色、炉床高度或日常燃料状态。"
+      ],
+      "evidence": [
+        {
+          "text": "比较与墙内烟道相接的固定壁炉及其装饰框，以多件拆离原建筑的馆藏壁炉为例；不写便携炉具。；16—20世纪初固定壁炉研究例证是研究范围，摄影日不作为施工日。",
+          "url": "https://collections.vam.ac.uk/item/O131247/"
+        }
+      ],
+      "source": "https://collections.vam.ac.uk/item/O131247/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-fireplaces-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-fireplaces-1.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006AY0326/full/!1000,1000/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O131247/",
+        "caption": "帕多瓦约1510—1530年石雕壁炉原物；摄影年未载，馆藏拆离陈列不保留完整原烟道。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© Victoria and Albert Museum, London；单图开放许可未确认，公开复用依馆方规定。",
+        "width": 1000,
+        "height": 750,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-fireplaces-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-fireplaces-2.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006AL3117/full/!1000,1000/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O54726/",
+        "caption": "英国约1895年铸铁与陶砖壁炉，来自Chiswick住宅、Planet Foundry制造；原物摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© Victoria and Albert Museum, London；单图开放许可未确认，公开复用依馆方规定。",
+        "width": 792,
+        "height": 1000,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较与墙内烟道相接的固定壁炉及其装饰框，以多件拆离原建筑的馆藏壁炉为例；不写便携炉具。",
+      "common": [
+        {
+          "title": "壁炉是组合构件",
+          "text": "火膛、炉床、烟道入口和外框承担不同作用，装饰框不等于燃烧空间全部结构。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料分工",
+          "text": "石材、金属与陶砖可并用；耐热部分和外部装饰面的细节不同，拆离馆藏常不保留完整烟道。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "石雕外框型",
+          "feature": "柱式、横梁和浮雕强调厚重框架，开口后面才是火膛。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "金属内构与陶砖饰面型",
+          "feature": "铸铁或其他金属围合火膛，陶砖嵌于周围；重复砖缝与金属铸线各自清楚。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "固定取暖需要把燃烧和烟气导向建筑烟道，同时入口外框可成为室内视觉中心；材料技术与装饰风格均会改变。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "照片中的拆离壁炉不可视为完整烟囱系统。",
+        "现代展陈与补装不代表原住宅中相同墙色、炉床高度或日常燃料状态。"
+      ],
+      "drawing": "先画火膛深度、炉床和烟道方向，再画外框；瓷砖要保留独立接缝，不把花纹连成壁画。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：Fireplace，O131247",
+          "url": "https://collections.vam.ac.uk/item/O131247/",
+          "locator": "石雕壁炉馆藏材料与年代；作为石框类型例证。"
+        },
+        {
+          "id": "s2",
+          "title": "V&A：Fireplace，O54726",
+          "url": "https://collections.vam.ac.uk/item/O54726/",
+          "locator": "19世纪铸铁与陶砖壁炉材料、制造与原用途；作为组合类型例证。"
+        },
+        {
+          "id": "s3",
+          "title": "V&A：Fireplace，O1321567",
+          "url": "https://collections.vam.ac.uk/item/O1321567/",
+          "locator": "Voysey壁炉：1899设计、1900—1910制作；个例限于可核实材料。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-shoji",
+    "module": "architecture",
+    "category": "parts",
+    "name": "日本建筑障子：纸面、细棂与滑动组合",
+    "region": "日本",
+    "period": "桃山—江户以来障子类型；1649年临春阁例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://madoken.jp/terms/36035/",
+    "content": "研究建筑轨道内的透光障子，不将可移动家具屏风或所有不透光襖归在一起。",
+    "use": "先画扇框和滑轨，再选竖繁、吹寄等棂条节奏；纸面应透光而不具有玻璃一样清晰反射。",
+    "caution": "1649是照片中建筑的年代，不代表全部障子木框或纸为1649原件。",
+    "find": "日本建筑障子：纸面、细棂与滑动组合 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "桃山—江户以来障子类型；1649年临春阁例证",
+      "start": 1573,
+      "end": 1868,
+      "dateLabel": "桃山—江户以来障子类型；1649年临春阁例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "1649是照片中建筑的年代，不代表全部障子木框或纸为1649原件。",
+        "“障子”历史词义变化，不可把来源中的所有shoji都翻成同一种白纸移门。"
+      ],
+      "evidence": [
+        {
+          "text": "研究建筑轨道内的透光障子，不将可移动家具屏风或所有不透光襖归在一起。；桃山—江户以来障子类型；1649年临春阁例证是研究范围，摄影日不作为施工日。",
+          "url": "https://madoken.jp/terms/36035/"
+        }
+      ],
+      "source": "https://madoken.jp/terms/36035/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-shoji-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-shoji-1.jpg",
+        "original": "https://madoken.jp/wp/wp-content/uploads/2023/10/023-1280x853.jpg",
+        "source": "https://madoken.jp/terms/36035/",
+        "caption": "三溪园临春阁第二屋住之江之间障子原照片；建筑1649年，纸与部分构件可后修，摄影年未载。",
+        "provider": "窓研究所 Window Research Institute",
+        "credit": "窓研究所 Window Research Institute",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1280,
+        "height": 853,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究建筑轨道内的透光障子，不将可移动家具屏风或所有不透光襖归在一起。",
+      "common": [
+        {
+          "title": "细棂与透光面",
+          "text": "木框中的细棂支撑透光纸面，纸与木棂形成不同的亮暗；障子原来曾指更广的隔板，今常专指透光形式。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "框扇开启",
+          "text": "建筑中的障子可采用滑动、铰接或悬挂，常见滑动扇在上下轨道中重叠，框扇位置随开启改变。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "常规密细棂型",
+          "feature": "竖横细棂与纸面构成密度较均衡的窗格，可改变竖向密度。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "吹寄及特殊分格型",
+          "feature": "把棂条集中成组、疏密错列或保留变化的纸面轮廓，不能统一画成棋盘格。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "透光纸面使封闭隔断仍能接纳光线，细棂排列和扇的开启进一步调节室内明暗与视线。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1649是照片中建筑的年代，不代表全部障子木框或纸为1649原件。",
+        "“障子”历史词义变化，不可把来源中的所有shoji都翻成同一种白纸移门。"
+      ],
+      "drawing": "先画扇框和滑轨，再选竖繁、吹寄等棂条节奏；纸面应透光而不具有玻璃一样清晰反射。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "窓研究所：障子",
+          "url": "https://madoken.jp/terms/36035/",
+          "locator": "定义；临春阁第二屋住之江之间雲障子、吹寄障子、竪繁障子图及说明。"
+        },
+        {
+          "id": "s2",
+          "title": "JAANUS：shouji",
+          "url": "https://aisf.or.jp/~jaanus/deta/s/shouji.htm",
+          "locator": "障子词义历史、透光纸障子及构造。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-amado",
+    "module": "architecture",
+    "category": "parts",
+    "name": "日本雨户：滑动木板、户袋与转角收纳",
+    "region": "日本",
+    "period": "江户以来雨户类型；17—18世纪掬月亭保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://madoken.jp/series/28877/",
+    "content": "研究建筑外层挡雨木户及其收纳系统，比较沿直轨收入户袋与转角移送方式。",
+    "use": "先画内外两层、轨道和户袋，再画关闭木板的连续接缝；转角处保持真实移送空间。",
+    "caution": "掬月亭转角系统是具体构造例证，不是所有日式住宅都有。",
+    "find": "日本雨户：滑动木板、户袋与转角收纳 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户以来雨户类型；17—18世纪掬月亭保存例证",
+      "start": 1601,
+      "end": 1900,
+      "dateLabel": "江户以来雨户类型；17—18世纪掬月亭保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "掬月亭转角系统是具体构造例证，不是所有日式住宅都有。",
+        "图为现状与操作记录，摄影年未载；户板与转角五金的替换年代未分别确认。"
+      ],
+      "evidence": [
+        {
+          "text": "研究建筑外层挡雨木户及其收纳系统，比较沿直轨收入户袋与转角移送方式。；江户以来雨户类型；17—18世纪掬月亭保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://madoken.jp/series/28877/"
+        }
+      ],
+      "source": "https://madoken.jp/series/28877/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-amado-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-amado-1.jpg",
+        "original": "https://madoken.jp/wp/wp-content/uploads/2024/08/130-1280x853.jpg",
+        "source": "https://madoken.jp/series/28877/",
+        "caption": "掬月亭初筵观北栋关闭雨户的操作照片；园内历史建筑现状，制作与修复分期未全部注明。",
+        "provider": "窓研究所 Window Research Institute",
+        "credit": "窓研究所 Window Research Institute",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1280,
+        "height": 853,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-amado-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-amado-2.jpg",
+        "original": "https://madoken.jp/wp/wp-content/uploads/2024/08/180-1280x853.jpg",
+        "source": "https://madoken.jp/series/28877/",
+        "caption": "掬月亭利用户回装置把雨户旋转90度的原操作照片；现代记录，具体摄影年未载。",
+        "provider": "窓研究所 Window Research Institute",
+        "credit": "窓研究所 Window Research Institute",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1280,
+        "height": 853,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究建筑外层挡雨木户及其收纳系统，比较沿直轨收入户袋与转角移送方式。",
+      "common": [
+        {
+          "title": "外层防护",
+          "text": "雨户位于障子等内层的外侧，关闭时构成连续木面；不能把白纸障子当作雨户。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "轨道和收纳",
+          "text": "开启木板沿轨道移开，户袋、端部框架和转角器具决定收纳路径；展开与闭合状态应配对理解。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "直线户袋型",
+          "feature": "木户沿外缘直线移动并集中收进户袋，户袋宽度与户板厚度需要协调。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "转角移送型",
+          "feature": "如掬月亭的户回装置使雨户在角部旋转90度，接续另一边轨道。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "雨户使开放外缘在天气变化时能封闭，收纳系统又帮助保持日常视野与廊缘通行。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "掬月亭转角系统是具体构造例证，不是所有日式住宅都有。",
+        "图为现状与操作记录，摄影年未载；户板与转角五金的替换年代未分别确认。"
+      ],
+      "drawing": "先画内外两层、轨道和户袋，再画关闭木板的连续接缝；转角处保持真实移送空间。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "窓研究所：掬月亭——雨戸の戸廻し",
+          "url": "https://madoken.jp/series/28877/",
+          "locator": "文章正文及图注：雨户、户袋、90度转角操作。"
+        },
+        {
+          "id": "s2",
+          "title": "JAANUS：amado",
+          "url": "https://aisf.or.jp/~jaanus/deta/a/amado.htm",
+          "locator": "雨户与外轨、户袋、早期形式。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-ranma",
+    "module": "architecture",
+    "category": "parts",
+    "name": "日本建筑栏间：梳棂、透雕与门上通风层",
+    "region": "日本",
+    "period": "桃山—江户时代发展；保存建筑例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://madoken.jp/terms/39732/",
+    "content": "比较门上横额与天花之间的固定栏间，分清细棂、透雕与绘画门扇。",
+    "use": "先分横额、栏间、天花三层；梳棂画细条密度，雕刻型先画空隙再画轮廓。",
+    "caution": "下方襖上的绘画不能当作栏间透雕。",
+    "find": "日本建筑栏间：梳棂、透雕与门上通风层 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "桃山—江户时代发展；保存建筑例证",
+      "start": 1573,
+      "end": 1868,
+      "dateLabel": "桃山—江户时代发展；保存建筑例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "下方襖上的绘画不能当作栏间透雕。",
+        "京都御所和二条城图是保存现状，不把摄影时的全部木件或修复涂层视为最初年代。"
+      ],
+      "evidence": [
+        {
+          "text": "比较门上横额与天花之间的固定栏间，分清细棂、透雕与绘画门扇。；桃山—江户时代发展；保存建筑例证是研究范围，摄影日不作为施工日。",
+          "url": "https://madoken.jp/terms/39732/"
+        }
+      ],
+      "source": "https://madoken.jp/terms/39732/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-ranma-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-ranma-1.jpg",
+        "original": "https://madoken.jp/wp/wp-content/uploads/2026/03/02_web.jpg",
+        "source": "https://madoken.jp/terms/39732/",
+        "caption": "京都御所虎之间梳棂栏间，下面为襖画；冈本茂男摄影，拍摄年未载，建筑修缮另有分期。",
+        "provider": "窓研究所 Window Research Institute",
+        "credit": "岡本茂男 / 窓研究所",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-ranma-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-ranma-2.jpg",
+        "original": "https://madoken.jp/wp/wp-content/uploads/2026/03/10_web.jpg",
+        "source": "https://madoken.jp/terms/39732/",
+        "caption": "二条城雕刻栏间；冈本茂男摄影，拍摄年未载，雕刻与建筑修缮需分别考证。",
+        "provider": "窓研究所 Window Research Institute",
+        "credit": "岡本茂男 / 窓研究所",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1200,
+        "height": 900,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较门上横额与天花之间的固定栏间，分清细棂、透雕与绘画门扇。",
+      "common": [
+        {
+          "title": "门上独立层",
+          "text": "栏间位于横额上方、天花下方，属于固定建筑构件；其下的襖或障子是另一组可移动扇。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "通透与装饰",
+          "text": "透空部分接纳光和空气，装饰依靠棂条、透雕或其他材料，并非每一栏间都雕人物。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "梳棂型",
+          "feature": "密集细竖条形成梳齿般节奏，透空较均匀。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "雕刻型",
+          "feature": "花鸟、动物等透雕跨越栏间，密实与透空部分不规则交替。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "书院建筑中的栏间兼顾门上采光通风与空间装饰，桃山—江户时期发展出丰富的装饰形式。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "下方襖上的绘画不能当作栏间透雕。",
+        "京都御所和二条城图是保存现状，不把摄影时的全部木件或修复涂层视为最初年代。"
+      ],
+      "drawing": "先分横额、栏间、天花三层；梳棂画细条密度，雕刻型先画空隙再画轮廓。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "窓研究所：欄間",
+          "url": "https://madoken.jp/terms/39732/",
+          "locator": "定义；京都御所梳棂、二条城雕刻栏间两图；桃山—江户发展。"
+        },
+        {
+          "id": "s2",
+          "title": "JAANUS：ranma",
+          "url": "https://aisf.or.jp/~jaanus/deta/r/ranma.htm",
+          "locator": "栏间的位置与形式。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-geshan",
+    "module": "architecture",
+    "category": "parts",
+    "name": "中国建筑格扇：格心、绦环板与落地明造",
+    "region": "中国",
+    "period": "明清建筑类型；清乾隆时期内檐保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/lemmas/243812.html",
+    "content": "研究安装于建筑门框中的格扇组合和透光分区，宫廷精作仅作构件例证，不写整座宫殿。",
+    "use": "先标边挺与抹头，再安排格心和裙板；纱、纸、玻璃分别画透明度，门扇厚度需可辨。",
+    "caution": "故宫定义和内檐精品不能泛化为所有民居材质或等级。",
+    "find": "中国建筑格扇：格心、绦环板与落地明造 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "明清建筑类型；清乾隆时期内檐保存例证",
+      "start": 1368,
+      "end": 1911,
+      "dateLabel": "明清建筑类型；清乾隆时期内檐保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "故宫定义和内檐精品不能泛化为所有民居材质或等级。",
+        "玻璃画与紫檀精作是清代特定作品，不应倒推明代或所有格扇都有玻璃。"
+      ],
+      "evidence": [
+        {
+          "text": "研究安装于建筑门框中的格扇组合和透光分区，宫廷精作仅作构件例证，不写整座宫殿。；明清建筑类型；清乾隆时期内檐保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.dpm.org.cn/lemmas/243812.html"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/lemmas/243812.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-geshan-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-geshan-1.jpg",
+        "original": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b36f8661d.pdf",
+        "source": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b36f8661d.pdf",
+        "caption": "养心殿内檐格扇原物近景，论文图3；明清建筑保存例证，现状漆饰与局部木件可能后修，摄影年未载。",
+        "provider": "故宫博物院 / 王文涛",
+        "credit": "王文涛；故宫学刊原照片",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 206,
+        "height": 200,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究安装于建筑门框中的格扇组合和透光分区，宫廷精作仅作构件例证，不写整座宫殿。",
+      "common": [
+        {
+          "title": "竖横框架",
+          "text": "边挺和抹头构成门扇框架，典型分为格心、绦环板、裙板；不是在整块板上随意刻一层网格。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "格心与开合",
+          "text": "棂条可有内外两层，夹纸、纱或玻璃；上下转轴帮助开合，透光材料与裙板需区别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "带裙板型",
+          "feature": "上部格心透光，下有绦环板、裙板等实面，格扇上下形成不同轻重。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "落地明造型",
+          "feature": "不用绦环板和裙板，而以棂条延续至下部，视觉上更通透。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "格扇在建筑洞口中组合门扇、透光面与装饰，室内夹纱形式又可组织房间分隔。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "故宫定义和内檐精品不能泛化为所有民居材质或等级。",
+        "玻璃画与紫檀精作是清代特定作品，不应倒推明代或所有格扇都有玻璃。"
+      ],
+      "drawing": "先标边挺与抹头，再安排格心和裙板；纱、纸、玻璃分别画透明度，门扇厚度需可辨。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "故宫博物院：槅扇",
+          "url": "https://www.dpm.org.cn/lemmas/243812.html",
+          "locator": "词条正文：边挺、抹头、格心、绦环板、裙板、夹纱与落地明造。"
+        },
+        {
+          "id": "s2",
+          "title": "王文涛：紫禁城宫殿建筑中的冰裂纹装饰及其工艺特征",
+          "url": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b36f8661d.pdf",
+          "locator": "PDF第6页图3养心殿内檐装修原物图；正文讨论木作格心与安装。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-zhizhai",
+    "module": "architecture",
+    "category": "parts",
+    "name": "中国支摘窗：上支下摘、内外层与季节换面",
+    "region": "中国",
+    "period": "明清内廷居住建筑保存类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/lemmas/242230.html",
+    "content": "研究窗的上支、下摘机制和季节性透光面，区别于上下滑动的升降窗。",
+    "use": "先画上扇支点、支撑杆和下部可摘框，再画内外层；不要添加升降窗配重。",
+    "caution": "两种状态是同一机制的使用差异，不据此推断两个独立起源。",
+    "find": "中国支摘窗：上支下摘、内外层与季节换面 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "明清内廷居住建筑保存类型",
+      "start": 1368,
+      "end": 1911,
+      "dateLabel": "明清内廷居住建筑保存类型",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "两种状态是同一机制的使用差异，不据此推断两个独立起源。",
+        "位育斋立面现状有修缮；并未展示每块窗扇实际取下过程，开启示意须另据词条。"
+      ],
+      "evidence": [
+        {
+          "text": "研究窗的上支、下摘机制和季节性透光面，区别于上下滑动的升降窗。；明清内廷居住建筑保存类型是研究范围，摄影日不作为施工日。",
+          "url": "https://www.dpm.org.cn/lemmas/242230.html"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/lemmas/242230.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-zhizhai-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-zhizhai-1.jpg",
+        "original": "https://www.dpm.org.cn/Uploads/Picture/2020/04/16/s5e9814153be5c.jpg",
+        "source": "https://young.dpm.org.cn/info/995",
+        "caption": "位育斋支摘窗保存立面；明清建筑使用例证，图中窗扇为后续修缮现状，摄影年未载。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1425,
+        "height": 1068,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究窗的上支、下摘机制和季节性透光面，区别于上下滑动的升降窗。",
+      "common": [
+        {
+          "title": "上下两种动作",
+          "text": "上部窗扇可以向外支起，下部可以取下；和合窗之名不等于西式上下滑窗。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "内外分层",
+          "text": "常有内外两层，外层窗心可用灯笼锦、步步锦等格心；纸、纱等透光面按使用季节变化。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "封闭双层型",
+          "feature": "上下扇仍在框中，外格与内层构成复合围护，可见完整分区。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "支起摘下型",
+          "feature": "上扇撑开而下扇移走，洞口状态改变；用于表现通风时必须画支撑而不是空悬。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "可支起和可取下的分区帮助调整洞口通风与采光，官方居住建筑说明还记录纸、纱等随季节更换。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "两种状态是同一机制的使用差异，不据此推断两个独立起源。",
+        "位育斋立面现状有修缮；并未展示每块窗扇实际取下过程，开启示意须另据词条。"
+      ],
+      "drawing": "先画上扇支点、支撑杆和下部可摘框，再画内外层；不要添加升降窗配重。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "故宫：支摘窗",
+          "url": "https://www.dpm.org.cn/lemmas/242230.html",
+          "locator": "上支下摘、两层窗扇、外层格心。"
+        },
+        {
+          "id": "s2",
+          "title": "故宫青少导览：位育斋",
+          "url": "https://young.dpm.org.cn/info/995",
+          "locator": "位育斋条目：居住建筑、季节性纱纸更换和下部玻璃。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-door-pivot-stones",
+    "module": "architecture",
+    "category": "parts",
+    "name": "中国石制门座：门枕、箱式基础与狮形外端",
+    "region": "中国",
+    "period": "北魏已有记载；辽—明清及传统建筑保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/collection/sculpture/233550.html",
+    "content": "比较承接门框或门轴的石座与外端雕刻，不把孤立镇宅狮全归为门枕。",
+    "use": "先画门槛和孔槽，再画外端狮或方箱；区分实际受力石座与门前独立雕像。",
+    "caution": "辽1087年属于这对馆藏门枕，不是所有狮形门枕的年代。",
+    "find": "中国石制门座：门枕、箱式基础与狮形外端 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "北魏已有记载；辽—明清及传统建筑保存例证",
+      "start": 386,
+      "end": 1911,
+      "dateLabel": "北魏已有记载；辽—明清及传统建筑保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "辽1087年属于这对馆藏门枕，不是所有狮形门枕的年代。",
+        "不同地区门座名称和固定对象有所不同，不能把每件石狮都推定内部有同样轴窝。"
+      ],
+      "evidence": [
+        {
+          "text": "比较承接门框或门轴的石座与外端雕刻，不把孤立镇宅狮全归为门枕。；北魏已有记载；辽—明清及传统建筑保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.dpm.org.cn/collection/sculpture/233550.html"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/collection/sculpture/233550.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-door-pivot-stones-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-door-pivot-stones-1.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/55876[1024].jpg",
+        "source": "https://www.dpm.org.cn/collection/sculpture/233550.html",
+        "caption": "辽大安三年1087年石狮子门枕一对原物；摄影年未载，门框和门扇已不在此图中。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1024,
+        "height": 768,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-door-pivot-stones-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-door-pivot-stones-2.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/55877[1024].jpg",
+        "source": "https://www.dpm.org.cn/collection/sculpture/233550.html",
+        "caption": "同对辽1087年门枕侧面照片，显示石座与狮形外端；第二视角不是另一类型原物。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1024,
+        "height": 768,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较承接门框或门轴的石座与外端雕刻，不把孤立镇宅狮全归为门枕。",
+      "common": [
+        {
+          "title": "门口基础",
+          "text": "门枕位于门槛两侧，与门框、门轴相配，是门的固定和承托构件。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "内外分工",
+          "text": "承托部分与外露雕刻可属于同一石块；观察孔槽和门槛位置，不能只按动物雕刻形状分类。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "狮形外端门枕",
+          "feature": "外露端雕狮，座体仍服务门口基础；辽1087年一对门枕为存世例证。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "箱形或枕形门座",
+          "feature": "外形更接近方箱或枕，保持基础承托；台湾传统建筑门箱亦见此类处理。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "门口的稳定要求产生石制基础，外露部分又可以雕刻，因而实用承托与视觉装饰结合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "辽1087年属于这对馆藏门枕，不是所有狮形门枕的年代。",
+        "不同地区门座名称和固定对象有所不同，不能把每件石狮都推定内部有同样轴窝。"
+      ],
+      "drawing": "先画门槛和孔槽，再画外端狮或方箱；区分实际受力石座与门前独立雕像。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "故宫：石狮子门枕",
+          "url": "https://www.dpm.org.cn/collection/sculpture/233550.html",
+          "locator": "门枕功能、北魏记载及辽大安三年1087年一对。"
+        },
+        {
+          "id": "s2",
+          "title": "台湾文化部国家文化记忆库：门箱",
+          "url": "https://tcmb.culture.tw/zh-tw/detail?id=649850&indexCode=Culture_Place",
+          "locator": "门箱为门柱下基础石，枕形或箱形，与抱鼓石、石狮作用相近。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-door-knockers",
+    "module": "architecture",
+    "category": "parts",
+    "name": "中国建筑铺首与门环：兽面基座、衔环和无环装饰",
+    "region": "中国",
+    "period": "汉至明清沿用；前蜀10世纪实物例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml",
+    "content": "比较门上兽面铺首的衔环构造与装饰性变化，区分建筑门具和器皿提环。",
+    "use": "先画基座贴门的位置和环的垂落，再画角、眼、鼻；金属面须有厚度和磨损，别画成平面脸谱。",
+    "caution": "前蜀王建墓实物属于墓门具，不能直接套到全部民宅门。",
+    "find": "中国建筑铺首与门环：兽面基座、衔环和无环装饰 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "汉至明清沿用；前蜀10世纪实物例证",
+      "start": -206,
+      "end": 1911,
+      "dateLabel": "汉至明清沿用；前蜀10世纪实物例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "前蜀王建墓实物属于墓门具，不能直接套到全部民宅门。",
+        "器皿上的铺首衔环与建筑门环安装方式不同，图像资料中的用途必须核对。"
+      ],
+      "evidence": [
+        {
+          "text": "比较门上兽面铺首的衔环构造与装饰性变化，区分建筑门具和器皿提环。；汉至明清沿用；前蜀10世纪实物例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml"
+        }
+      ],
+      "source": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-door-knockers-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-door-knockers-1.jpg",
+        "original": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/P020220811332036412615.jpg",
+        "source": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml",
+        "caption": "前蜀王建墓出土鎏金青铜衔环铺首原物；前蜀907—925年范围，摄影年未载；墓门例证。",
+        "provider": "中国国家博物馆",
+        "credit": "中国国家博物馆",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 2000,
+        "height": 2000,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较门上兽面铺首的衔环构造与装饰性变化，区分建筑门具和器皿提环。",
+      "common": [
+        {
+          "title": "基座与活动环",
+          "text": "铺首面固定于门面，衔环可活动；把基座、衔环、门板和安装点分别画清。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料与兽面",
+          "text": "铺首可用铜等金属制作，兽面纹样并不只一种动物；厚度、空孔和表面处理影响形体。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "衔环门具型",
+          "feature": "兽面口部持环，活动环与固定面形成两层。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "无环装饰型",
+          "feature": "保留兽面而不置门环，以装饰、象征或固定构件面貌出现；不能虚构活动机构。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "铺首与门环满足门口使用及装饰需要，兽面形象也被用作辟邪意涵；并非所有动物形门具解释相同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "前蜀王建墓实物属于墓门具，不能直接套到全部民宅门。",
+        "器皿上的铺首衔环与建筑门环安装方式不同，图像资料中的用途必须核对。"
+      ],
+      "drawing": "先画基座贴门的位置和环的垂落，再画角、眼、鼻；金属面须有厚度和磨损，别画成平面脸谱。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "中国国家博物馆：鎏金青铜衔环铺首",
+          "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252293.shtml",
+          "locator": "正文：前蜀王建墓出土，衔环结构、门具与历史形制。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-eaves-ends",
+    "module": "architecture",
+    "category": "parts",
+    "name": "中国建筑瓦当：筒瓦端面、动物与文字纹样",
+    "region": "中国",
+    "period": "战国—汉代瓦当类型；后世继续使用",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/collection/sculpture/233699.html",
+    "content": "研究圆形或半圆端面覆檐构件的功能与成纹，不重复斗栱与重檐屋顶的整体系。",
+    "use": "先画筒瓦轴向和端面边轮，再画模制起伏；端面厚度与瓦体的连接要成立。",
+    "caution": "青龙瓦当是汉代个例，不代表所有屋檐都使用四神一整套。",
+    "find": "中国建筑瓦当：筒瓦端面、动物与文字纹样 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "战国—汉代瓦当类型；后世继续使用",
+      "start": -475,
+      "end": 220,
+      "dateLabel": "战国—汉代瓦当类型；后世继续使用",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "青龙瓦当是汉代个例，不代表所有屋檐都使用四神一整套。",
+        "拆离屋面的馆藏原物只能说明端面形体，无法确认某建筑完整檐口的数量与次序。"
+      ],
+      "evidence": [
+        {
+          "text": "研究圆形或半圆端面覆檐构件的功能与成纹，不重复斗栱与重檐屋顶的整体系。；战国—汉代瓦当类型；后世继续使用是研究范围，摄影日不作为施工日。",
+          "url": "https://www.dpm.org.cn/collection/sculpture/233699.html"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/collection/sculpture/233699.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-eaves-ends-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-eaves-ends-1.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/56113.jpg",
+        "source": "https://www.dpm.org.cn/collection/sculpture/233699.html",
+        "caption": "汉代青龙纹瓦当原物；直径18.5厘米，摄影年未载，图中无完整筒瓦身。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 400,
+        "height": 323,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究圆形或半圆端面覆檐构件的功能与成纹，不重复斗栱与重檐屋顶的整体系。",
+      "common": [
+        {
+          "title": "檐端位置",
+          "text": "瓦当封护筒瓦前端，端面与上面的瓦体共同工作；孤立圆面不能被画成贴墙陶盘。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "模制与重复",
+          "text": "图案围绕圆或半圆组织，动物、植物、几何与文字等题材可重复成列，边轮与纹样层次不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "动物图像型",
+          "feature": "动物身体受圆面空间约束，旋转、卷曲或分区形成布局。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "文字或几何纹型",
+          "feature": "文字、云纹等在端面分区排列，阅读与装饰节奏并用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "檐端需要保护，而可见端面提供了重复装饰位置；瓦当图案因此结合构件形状与象征表达。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "青龙瓦当是汉代个例，不代表所有屋檐都使用四神一整套。",
+        "拆离屋面的馆藏原物只能说明端面形体，无法确认某建筑完整檐口的数量与次序。"
+      ],
+      "drawing": "先画筒瓦轴向和端面边轮，再画模制起伏；端面厚度与瓦体的连接要成立。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "故宫：青龙纹瓦当",
+          "url": "https://www.dpm.org.cn/collection/sculpture/233699.html",
+          "locator": "汉代原物、瓦当功能与纹样种类说明。"
+        },
+        {
+          "id": "s2",
+          "title": "故宫：天地之中国专题",
+          "url": "https://www.dpm.org.cn/topic/zhongguo_skyearth.html",
+          "locator": "四神瓦当等图文；图像个例不作所有屋面的整体复原。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-brick-floors",
+    "module": "architecture",
+    "category": "parts",
+    "name": "明清室内砖地：金砖、普通方砖与使用磨损",
+    "region": "中国",
+    "period": "明代金砖实物与清代存留砖地",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b7b0ea9fe.pdf",
+    "content": "比较室内方砖铺地的材料与规格，以寿康宫多个房间的金砖和墁砖调查为证；不把整座宫殿作为专题。",
+    "use": "先画按真实规格排布的砖缝，再画通道磨损；金砖画为暗灰烧制砖，不要涂金色。",
+    "caution": "寿康宫是清代具体建筑群例证，其调查规格不是全国统一标准。",
+    "find": "明清室内砖地：金砖、普通方砖与使用磨损 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "明代金砖实物与清代存留砖地",
+      "start": 1403,
+      "end": 1911,
+      "dateLabel": "明代金砖实物与清代存留砖地",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "寿康宫是清代具体建筑群例证，其调查规格不是全国统一标准。",
+        "图中补色、试验与2015前后修复属于现代保育，不能作为清代制作工艺照片。",
+        "清晰原图显示明代拆离金砖；寿康宫小图保留在研究证据中，未作正式配图。"
+      ],
+      "evidence": [
+        {
+          "text": "比较室内方砖铺地的材料与规格，以寿康宫多个房间的金砖和墁砖调查为证；不把整座宫殿作为专题。；明代金砖实物与清代存留砖地是研究范围，摄影日不作为施工日。",
+          "url": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b7b0ea9fe.pdf"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b7b0ea9fe.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-brick-floors-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-brick-floors-1.jpg",
+        "original": "https://www.szyyjzbwg.com/UpLoad/202008/2020082273590305.jpg",
+        "source": "https://www.szyyjzbwg.com/fcshow_32.html",
+        "caption": "苏州御窑金砖博物馆正德年间1506—1521年馆藏金砖原物；具体铭款见原记录，摄影年未载，拆离铺面。",
+        "provider": "苏州御窑金砖博物馆",
+        "credit": "苏州御窑金砖博物馆",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-brick-floors-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-brick-floors-2.jpg",
+        "original": "https://www.szyyjzbwg.com/UpLoad/202008/2020082272768145.jpg",
+        "source": "https://www.szyyjzbwg.com/fcshow_31.html",
+        "caption": "苏州御窑金砖博物馆永乐年间1403—1424年馆藏金砖原物；摄影年未载，不能从单块砖推定整个地面铺法。",
+        "provider": "苏州御窑金砖博物馆",
+        "credit": "苏州御窑金砖博物馆",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1200,
+        "height": 1200,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较室内方砖铺地的材料与规格，以寿康宫多个房间的金砖和墁砖调查为证；不把整座宫殿作为专题。",
+      "common": [
+        {
+          "title": "铺面与砖缝",
+          "text": "方砖组合成连续地面，缝隙、不同规格与表面磨耗需逐一区别；砖材不是金属板。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "现状包含损伤",
+          "text": "开裂、局部缺损、酥化与旧补配是不同现象；研究采用最小干预，局部修补不代表整片换新。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "金砖铺面",
+          "feature": "精制方砖用于主要室内空间；名为金砖，实际为烧制砖材，规格并非全区相同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "普通方砖铺面",
+          "feature": "部分群房等地面使用普通墁砖，尺寸和保存状态可与主要空间不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "房间使用和材料配置形成不同铺地，长期踩踏与环境作用产生不均匀磨损；保育因此优先保存原砖信息。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "寿康宫是清代具体建筑群例证，其调查规格不是全国统一标准。",
+        "图中补色、试验与2015前后修复属于现代保育，不能作为清代制作工艺照片。",
+        "清晰原图显示明代拆离金砖；寿康宫小图保留在研究证据中，未作正式配图。"
+      ],
+      "drawing": "先画按真实规格排布的砖缝，再画通道磨损；金砖画为暗灰烧制砖，不要涂金色。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "郑建军：故宫寿康宫室内地面修复研究",
+          "url": "https://www.dpm.org.cn/Uploads/File/2020/04/15/u5e96b7b0ea9fe.pdf",
+          "locator": "PDF第2页英文摘要；第5—7页多房间金砖与墁砖规格、照片；第10—14页修复。"
+        },
+        {
+          "id": "s2",
+          "title": "苏州御窑金砖博物馆：正德馆藏金砖",
+          "url": "https://www.szyyjzbwg.com/fcshow_32.html",
+          "locator": "馆藏正德金砖原物及铭款细节照片；具体年款以原物铭文可读范围为限。"
+        },
+        {
+          "id": "s3",
+          "title": "苏州御窑金砖博物馆：永乐馆藏金砖",
+          "url": "https://www.szyyjzbwg.com/fcshow_31.html",
+          "locator": "馆藏永乐金砖原物照片；作为砖材和厚度参照，并非整片地面复原。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-stone-balusters",
+    "module": "architecture",
+    "category": "parts",
+    "name": "中国石栏杆望柱：栏面节点、莲瓣与雕狮柱头",
+    "region": "中国",
+    "period": "明清建筑石栏杆保存例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf",
+    "content": "研究石栏杆的竖向节点与不同柱头，而非宫殿建筑概述；图版集合多处构件用于比较。",
+    "use": "先画平台边界与每根柱的间距，再选相同柱头类型；不要给每根望柱叠加全部纹饰。",
+    "caution": "故宫图版中的精工构件不能推定所有普通民居都有同等级石栏杆。",
+    "find": "中国石栏杆望柱：栏面节点、莲瓣与雕狮柱头 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "明清建筑石栏杆保存例证",
+      "start": 1368,
+      "end": 1911,
+      "dateLabel": "明清建筑石栏杆保存例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "故宫图版中的精工构件不能推定所有普通民居都有同等级石栏杆。",
+        "图为机构原摄影图版，保持原排版未裁切；多件制作年未逐一确定，现状可含后修。"
+      ],
+      "evidence": [
+        {
+          "text": "研究石栏杆的竖向节点与不同柱头，而非宫殿建筑概述；图版集合多处构件用于比较。；明清建筑石栏杆保存例证是研究范围，摄影日不作为施工日。",
+          "url": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf"
+        }
+      ],
+      "source": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-stone-balusters-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-stone-balusters-1.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf",
+        "source": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf",
+        "caption": "故宫机构原摄影比较图版，包含多处石栏杆望柱近景；未裁切、未重画；摄影日期未载，保存现状可能含后修。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院原出版物",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1969,
+        "height": 2932,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-stone-balusters-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-stone-balusters-2.jpg",
+        "original": "https://www.dpm.org.cn/Uploads/File/2019/12/26/u5e0498be58302.pdf",
+        "source": "https://www.dpm.org.cn/Uploads/File/2019/12/26/u5e0498be58302.pdf",
+        "caption": "太和门前金水河石栏杆机构原照片，《紫禁城》2019年第12期印刷50页；栏杆为保存现状，摄影年未载。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院原出版物",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 1225,
+        "height": 925,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究石栏杆的竖向节点与不同柱头，而非宫殿建筑概述；图版集合多处构件用于比较。",
+      "common": [
+        {
+          "title": "围护系统",
+          "text": "望柱与中间栏面、地袱等组合，沿台阶或平台边界排列；柱头不能脱离栏杆尺度理解。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "柱头变化",
+          "text": "柱头上部可以莲瓣、狮、火焰、蕉叶等装饰，材料接缝与雕刻起伏应区别于栏面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "莲瓣及植物式柱头",
+          "feature": "以层叠瓣形或叶片组织柱头轮廓，部分与下部柱身纹样相接。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "雕狮及兽形柱头",
+          "feature": "立体雕兽占据柱头，狮与柱座的连接和朝向须逐件观察。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "平台边界的围护需要重复竖向节点，外露石柱头同时成为集中装饰位置，因而同一栏杆系统可有多种雕饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "故宫图版中的精工构件不能推定所有普通民居都有同等级石栏杆。",
+        "图为机构原摄影图版，保持原排版未裁切；多件制作年未逐一确定，现状可含后修。"
+      ],
+      "drawing": "先画平台边界与每根柱的间距，再选相同柱头类型；不要给每根望柱叠加全部纹饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "故宫博物院：古建筑石栏杆望柱摄影图版",
+          "url": "https://img.dpm.org.cn/Uploads/pdf/1607/B00001_00.pdf",
+          "locator": "原图版：太和门望柱、钦安殿雕凤、断虹桥雕狮、蕉叶如意、莲瓣座等；作为类型观察依据。"
+        },
+        {
+          "id": "s2",
+          "title": "《紫禁城》2019年第12期：一种新的工作模式",
+          "url": "https://www.dpm.org.cn/Uploads/File/2019/12/26/u5e0498be58302.pdf",
+          "locator": "印刷50页（PDF18）：金水河石栏杆原照片；石作作为营造工种。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-jali",
+    "module": "architecture",
+    "category": "parts",
+    "name": "印度建筑石格栅Jali：几何通孔与花叶透雕",
+    "region": "印度",
+    "period": "16—17世纪莫卧儿石格栅类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/453344",
+    "content": "比较用石材透雕而成的固定建筑窗屏，涵盖红砂岩几何格与后期花叶处理，不把单块格栅当作全部传统。",
+    "use": "先画完整边框与石肋厚度，再留通孔；阴影要沿光线投射，不重复画一层平面花纹。",
+    "caution": "气候适应不等于所有Jali都能用相同方法量化降温。",
+    "find": "印度建筑石格栅Jali：几何通孔与花叶透雕 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度",
+      "era": "16—17世纪莫卧儿石格栅类型",
+      "start": 1501,
+      "end": 1700,
+      "dateLabel": "16—17世纪莫卧儿石格栅类型",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "气候适应不等于所有Jali都能用相同方法量化降温。",
+        "本图是16世纪后半红砂岩几何型，不能充当17世纪白大理石花叶型的材色参照。"
+      ],
+      "evidence": [
+        {
+          "text": "比较用石材透雕而成的固定建筑窗屏，涵盖红砂岩几何格与后期花叶处理，不把单块格栅当作全部传统。；16—17世纪莫卧儿石格栅类型是研究范围，摄影日不作为施工日。",
+          "url": "https://www.metmuseum.org/art/collection/search/453344"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/453344"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-jali-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-jali-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/453344/888099/main-image",
+        "source": "https://www.metmuseum.org/art/collection/search/453344",
+        "caption": "印度16世纪后半红砂岩Jali，1993.67.2；原物馆藏摄影，拍摄年未载，非在原窗洞。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Rogers Fund, 1993 / The Met",
+        "license": "馆方标注Public Domain，Met Open Access / CC0。",
+        "width": 814,
+        "height": 1200,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较用石材透雕而成的固定建筑窗屏，涵盖红砂岩几何格与后期花叶处理，不把单块格栅当作全部传统。",
+      "common": [
+        {
+          "title": "石材整体透雕",
+          "text": "通孔与实体石肋共同组成屏面，边框与孔洞相连，不是细木条简单叠接。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "位置与光影",
+          "text": "Jali用于建筑窗、隔断与栏杆；外墙格屏形成透光图案，磨蚀面的差别可辅助辨认暴露方向。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "几何网络型",
+          "feature": "重复多边形和星形构成严密通孔网络，实体石肋较统一。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "花叶纹透雕型",
+          "feature": "植物式轮廓组织孔洞，叶片和卷茎形成不同密度的实体与空隙。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "固定石格屏在遮蔽与采光之间取得平衡，日照投下的移动纹影也成为使用者能感受到的装饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "气候适应不等于所有Jali都能用相同方法量化降温。",
+        "本图是16世纪后半红砂岩几何型，不能充当17世纪白大理石花叶型的材色参照。"
+      ],
+      "drawing": "先画完整边框与石肋厚度，再留通孔；阴影要沿光线投射，不重复画一层平面花纹。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Met：Pierced Window Screen (Jali)，453344",
+          "url": "https://www.metmuseum.org/art/collection/search/453344",
+          "locator": "正文：建筑窗、分隔与栏杆用途；外墙磨蚀；16世纪后半印度红砂岩。"
+        },
+        {
+          "id": "s2",
+          "title": "The Met：Pierced Window Screen (Jali)，453343，Audio transcript",
+          "url": "https://www.metmuseum.org/art/collection/search/453343",
+          "locator": "策展人Navina Haidar音频全文：几何、花卉、植物类型；单块石材雕刻、光影与技能。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-india-doorframes",
+    "module": "architecture",
+    "category": "parts",
+    "name": "印度石雕建筑门框：承接门扇的内框与多层雕饰外框",
+    "region": "印度",
+    "period": "6—13世纪石雕门框研究例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://ignca.gov.in/the-temple-of-muktesvara-architecture/",
+    "content": "比较门框的实用内层与套叠装饰层，以早期砂岩残件及穆克特什瓦拉寺研究为证。",
+    "use": "先画内洞口和石框厚度，再逐层向外展开；拆离残片不要补出无证据完整神像队列。",
+    "caution": "宗教门框的人物与方位不能不加考证套用于普通住宅。",
+    "find": "印度石雕建筑门框：承接门扇的内框与多层雕饰外框 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度",
+      "era": "6—13世纪石雕门框研究例证",
+      "start": 501,
+      "end": 1300,
+      "dateLabel": "6—13世纪石雕门框研究例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "宗教门框的人物与方位不能不加考证套用于普通住宅。",
+        "6—7世纪Met残件与南印度后期多层门框是跨时段比较，不是同一门框的复原拼合。",
+        "主源针对印度宗教建筑，日常木门及民宅石框不能按此直接复原。"
+      ],
+      "evidence": [
+        {
+          "text": "比较门框的实用内层与套叠装饰层，以早期砂岩残件及穆克特什瓦拉寺研究为证。；6—13世纪石雕门框研究例证是研究范围，摄影日不作为施工日。",
+          "url": "https://ignca.gov.in/the-temple-of-muktesvara-architecture/"
+        }
+      ],
+      "source": "https://ignca.gov.in/the-temple-of-muktesvara-architecture/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-india-doorframes-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-india-doorframes-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/38769/2313228/main-image",
+        "source": "https://www.metmuseum.org/art/collection/search/38769",
+        "caption": "印度6—7世纪砂岩门框残件，64.10；舞奏伽那图像，原物摄影年未载，不能补成完整门洞。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Fletcher Fund, 1964 / The Met",
+        "license": "馆方标注Public Domain，Met Open Access / CC0。",
+        "width": 901,
+        "height": 1200,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较门框的实用内层与套叠装饰层，以早期砂岩残件及穆克特什瓦拉寺研究为证。",
+      "common": [
+        {
+          "title": "框与门扇分开",
+          "text": "石门框的内层围住洞口并承接木门扇的转动部件；木门已失时，石框仍可保存。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "多层套叠",
+          "text": "装饰门柱、横楣和外框逐层向外扩展，雕刻带、人物与小建筑纹样占不同层位。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "简洁实用内框",
+          "feature": "内框断面较直接，接近真正洞口与门扇的安装位置。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "多层装饰外框",
+          "feature": "门柱和横楣连续套叠，外层可能加入柱式、神像、花叶与微缩建筑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "开口需要可工作的门框，而宗教建筑又把门口作为集中装饰的位置，故可见承接构造与多层雕饰并置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "宗教门框的人物与方位不能不加考证套用于普通住宅。",
+        "6—7世纪Met残件与南印度后期多层门框是跨时段比较，不是同一门框的复原拼合。",
+        "主源针对印度宗教建筑，日常木门及民宅石框不能按此直接复原。"
+      ],
+      "drawing": "先画内洞口和石框厚度，再逐层向外展开；拆离残片不要补出无证据完整神像队列。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "IGNCA：The Temple of Muktesvara—Architecture",
+          "url": "https://ignca.gov.in/the-temple-of-muktesvara-architecture/",
+          "locator": "doorframes段：inner real frame有hinge-pins；三重门框、门柱和横楣各层结构。"
+        },
+        {
+          "id": "s2",
+          "title": "The Met：Doorframe with Three Ganas，38769",
+          "url": "https://www.metmuseum.org/art/collection/search/38769",
+          "locator": "6—7世纪印度砂岩门框残件，64.10。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-mashrabiya",
+    "module": "architecture",
+    "category": "parts",
+    "name": "埃及与阿拉伯建筑车木格窗：密集小格与较大网格",
+    "region": "埃及及阿拉伯地区",
+    "period": "15—19世纪车木窗屏类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/456292",
+    "content": "研究由车制小木件组合的建筑格屏，比较中世纪密集作法与奥斯曼时期较大网格，不写移动家具屏风。",
+    "use": "先定框和面板分区，再重复车木节点；不要把车木格画成无厚度的平面竹网。",
+    "caution": "隐私作用不是绝对单向玻璃，光照与观看位置会影响可见程度。",
+    "find": "埃及与阿拉伯建筑车木格窗：密集小格与较大网格 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃及及阿拉伯地区",
+      "era": "15—19世纪车木窗屏类型",
+      "start": 1401,
+      "end": 1900,
+      "dateLabel": "15—19世纪车木窗屏类型",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "隐私作用不是绝对单向玻璃，光照与观看位置会影响可见程度。",
+        "Met大平屏由大小不同面板组成，其现状组合不能自动等于某住宅整面凸出窗。"
+      ],
+      "evidence": [
+        {
+          "text": "研究由车制小木件组合的建筑格屏，比较中世纪密集作法与奥斯曼时期较大网格，不写移动家具屏风。；15—19世纪车木窗屏类型是研究范围，摄影日不作为施工日。",
+          "url": "https://www.metmuseum.org/art/collection/search/456292"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/456292"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-mashrabiya-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-mashrabiya-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/456292/1865913/main-image",
+        "source": "https://www.metmuseum.org/art/collection/search/456292",
+        "caption": "埃及15—16世纪车木Mashrabiyya屏，Met原物照片；摄影年未载，拆离建筑的面板组合。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Metropolitan Museum of Art",
+        "license": "馆方标注Public Domain，Met Open Access / CC0。",
+        "width": 1151,
+        "height": 1200,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究由车制小木件组合的建筑格屏，比较中世纪密集作法与奥斯曼时期较大网格，不写移动家具屏风。",
+      "common": [
+        {
+          "title": "小木件组合",
+          "text": "车木件以端部与邻件连接，拼为大小不同的面板；密度变化使立面有分区。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "观看与隐私",
+          "text": "固定格屏可设于外窗或朝向内院的位置，允许从内侧观看，同时遮蔽直视。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "密集细车木格型",
+          "feature": "小尺度车木密集排列，可与嵌饰等精工组合。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "较大格网型",
+          "feature": "较大的网格简化局部密度，仍可与较密面板在同一框中并置。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "格屏兼顾视线遮蔽和对外观看；不同制作时期与地区在车木密度及面板组合上发生变化。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "隐私作用不是绝对单向玻璃，光照与观看位置会影响可见程度。",
+        "Met大平屏由大小不同面板组成，其现状组合不能自动等于某住宅整面凸出窗。"
+      ],
+      "drawing": "先定框和面板分区，再重复车木节点；不要把车木格画成无厚度的平面竹网。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Met：Mashrabiyya Screen，456292",
+          "url": "https://www.metmuseum.org/art/collection/search/456292",
+          "locator": "15—16世纪埃及；内外院窗屏的隐私用途，多个车木格面板。"
+        },
+        {
+          "id": "s2",
+          "title": "Qatar Museums：Screen，WW.33.1999",
+          "url": "https://collections.qm.org.qa/en/objects/screen-ww331999",
+          "locator": "类级说明：中世纪密集细车木与嵌饰、奥斯曼较大格网差异。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-plaster-glazing",
+    "module": "architecture",
+    "category": "parts",
+    "name": "埃及与突尼斯石膏彩窗：透雕孔网与背衬玻璃",
+    "region": "埃及、突尼斯",
+    "period": "19世纪石膏彩窗馆藏例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://collections.vam.ac.uk/item/O117386/",
+    "content": "比较建筑窗中石膏镂空面与彩玻璃的组合，利用两地馆藏多件材料和图案差异建立类型。",
+    "use": "先画石膏面的厚孔边再画背面色片；不要把石膏网格当成细铅条。",
+    "caution": "两地19世纪例证不能代表所有伊斯兰地区的同一窗式。",
+    "find": "埃及与突尼斯石膏彩窗：透雕孔网与背衬玻璃 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃及、突尼斯",
+      "era": "19世纪石膏彩窗馆藏例证",
+      "start": 1801,
+      "end": 1900,
+      "dateLabel": "19世纪石膏彩窗馆藏例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "两地19世纪例证不能代表所有伊斯兰地区的同一窗式。",
+        "突尼斯图为1883年为展览制作的历史展品，埃及图可能为19世纪开罗制；不能把两图都称为从建筑拆下的原窗。"
+      ],
+      "evidence": [
+        {
+          "text": "比较建筑窗中石膏镂空面与彩玻璃的组合，利用两地馆藏多件材料和图案差异建立类型。；19世纪石膏彩窗馆藏例证是研究范围，摄影日不作为施工日。",
+          "url": "https://collections.vam.ac.uk/item/O117386/"
+        }
+      ],
+      "source": "https://collections.vam.ac.uk/item/O117386/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-plaster-glazing-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-plaster-glazing-1.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006AA6741/full/!1000,1000/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O117386/",
+        "caption": "突尼斯1883年为阿姆斯特丹国际殖民博览会制作的石膏彩玻璃窗；为历史展品而非从住宅取下的原窗，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© Victoria and Albert Museum, London；单图开放许可未确认，公开复用依馆方规定。",
+        "width": 750,
+        "height": 1000,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-parts-plaster-glazing-2.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-plaster-glazing-2.jpg",
+        "original": "https://framemark.vam.ac.uk/collections/2006AA6744/full/!1000,1000/0/default.jpg",
+        "source": "https://collections.vam.ac.uk/item/O117385/",
+        "caption": "可能为19世纪开罗制作的枣椰与柏树石膏彩窗；馆藏原物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© Victoria and Albert Museum, London；单图开放许可未确认，公开复用依馆方规定。",
+        "width": 750,
+        "height": 1000,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较建筑窗中石膏镂空面与彩玻璃的组合，利用两地馆藏多件材料和图案差异建立类型。",
+      "common": [
+        {
+          "title": "石膏面形成孔网",
+          "text": "石膏面雕透孔洞，孔边实体比铅条窗宽厚；孔洞网络决定光的轮廓。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "彩玻璃位于背面",
+          "text": "彩玻璃与石膏面的前后关系需分开，木框可围住整块窗面，拆离原物并非完整窗洞。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "几何星网型",
+          "feature": "星形与放射分格成为主体，圆弧和中心组织孔网。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "花木图像型",
+          "feature": "枣椰、柏树、花瓶等植物轮廓组成透光图像，实体面和孔洞不均匀。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "彩玻璃调节透入的色光，石膏厚面提供可雕的孔网与图像，两种材料因而共同决定窗面效果。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "两地19世纪例证不能代表所有伊斯兰地区的同一窗式。",
+        "突尼斯图为1883年为展览制作的历史展品，埃及图可能为19世纪开罗制；不能把两图都称为从建筑拆下的原窗。"
+      ],
+      "drawing": "先画石膏面的厚孔边再画背面色片；不要把石膏网格当成细铅条。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：Window，O117386",
+          "url": "https://collections.vam.ac.uk/item/O117386/",
+          "locator": "1883年为国际殖民博览会制造；建筑石膏彩窗类级说明及16角星几何设计。"
+        },
+        {
+          "id": "s2",
+          "title": "V&A：Window，O117385",
+          "url": "https://collections.vam.ac.uk/item/O117385/",
+          "locator": "埃及19世纪石膏、彩玻璃与木框，枣椰及柏树纹。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-iran-revetments",
+    "module": "architecture",
+    "category": "parts",
+    "name": "伊朗星十字壁砖：互锁形状、金属光与深蓝贴金",
+    "region": "伊朗",
+    "period": "13—14世纪壁面陶砖类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/444459",
+    "content": "研究星形、十字形陶砖如何组合建筑壁面，区分釉上金属光与深蓝贴金工艺，不把博物馆组合板当原墙完整保存。",
+    "use": "先排出星与十字互补边界，再画题铭和釉光；保留砖缝与不完全一致的手作纹样。",
+    "caution": "Met组合板把不同宗教、世俗建筑来源的砖后期合并，不能当作一面原墙的纹样顺序。",
+    "find": "伊朗星十字壁砖：互锁形状、金属光与深蓝贴金 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗",
+      "era": "13—14世纪壁面陶砖类型",
+      "start": 1201,
+      "end": 1400,
+      "dateLabel": "13—14世纪壁面陶砖类型",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "Met组合板把不同宗教、世俗建筑来源的砖后期合并，不能当作一面原墙的纹样顺序。",
+        "具体题铭与建筑来源需要逐砖判断，不凭一块砖推断整座建筑用途。"
+      ],
+      "evidence": [
+        {
+          "text": "研究星形、十字形陶砖如何组合建筑壁面，区分釉上金属光与深蓝贴金工艺，不把博物馆组合板当原墙完整保存。；13—14世纪壁面陶砖类型是研究范围，摄影日不作为施工日。",
+          "url": "https://www.metmuseum.org/art/collection/search/444459"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/444459"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-iran-revetments-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-iran-revetments-1.jpg",
+        "original": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/444459/903844/main-image",
+        "source": "https://www.metmuseum.org/art/collection/search/444459",
+        "caption": "伊朗Kashan13世纪星、十字金属光砖；Met后期组合展示，原来分属不同建筑；摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Edward C. Moore Collection / The Met",
+        "license": "馆方标注Public Domain，Met Open Access / CC0。",
+        "width": 1200,
+        "height": 663,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究星形、十字形陶砖如何组合建筑壁面，区分釉上金属光与深蓝贴金工艺，不把博物馆组合板当原墙完整保存。",
+      "common": [
+        {
+          "title": "形状互锁",
+          "text": "八角星与十字形砖互补排列；砖边、釉面和填缝共同决定整墙节奏。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "表面工艺变化",
+          "text": "金属光砖与深蓝釉上彩贴金砖使用不同装饰处理，反光和色面须分别表现。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "金属光彩型",
+          "feature": "白釉面上金属光装饰，兼有蓝色或题铭等处理，图像依釉面反光而变。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "深蓝贴金型",
+          "feature": "深蓝釉与釉上多色、金饰结合；LACMA晚13世纪星十字砖提供不同色工艺例证。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "形状互补使复杂壁面可由重复模块铺成，彩釉和金属光或贴金又在重复表面形成不同视觉效果。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "Met组合板把不同宗教、世俗建筑来源的砖后期合并，不能当作一面原墙的纹样顺序。",
+        "具体题铭与建筑来源需要逐砖判断，不凭一块砖推断整座建筑用途。"
+      ],
+      "drawing": "先排出星与十字互补边界，再画题铭和釉光；保留砖缝与不完全一致的手作纹样。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "The Met：Eight-Pointed Star-Shaped Tile，444459",
+          "url": "https://www.metmuseum.org/art/collection/search/444459",
+          "locator": "13世纪Kashan；后期组合不同宗教及世俗原建筑的星十字砖。"
+        },
+        {
+          "id": "s2",
+          "title": "LACMA：Star and Cross Tiles，74364",
+          "url": "https://collections.lacma.org/object/74364",
+          "locator": "约1270—1280，深蓝釉上彩、金饰lajvardina及模制图案。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-zellij",
+    "module": "architecture",
+    "category": "parts",
+    "name": "摩洛哥建筑Zellij：切割彩釉片、星形中心与连续边带",
+    "region": "摩洛哥",
+    "period": "19世纪住宅保存板；工艺有更早传统",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en",
+    "content": "研究由切割单色釉砖片拼成的固定壁面装饰，比较星形网格与连续边带，不将彩绘整砖混为同法。",
+    "use": "先画墙面边界和中心轴，再放单色小片；片缝与形状要闭合，别画成无缝印花。",
+    "caution": "馆藏板是19世纪Fez住宅构件，1945年回收，不能将回收年当制造年。",
+    "find": "摩洛哥建筑Zellij：切割彩釉片、星形中心与连续边带 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "摩洛哥",
+      "era": "19世纪住宅保存板；工艺有更早传统",
+      "start": 1801,
+      "end": 1900,
+      "dateLabel": "19世纪住宅保存板；工艺有更早传统",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "馆藏板是19世纪Fez住宅构件，1945年回收，不能将回收年当制造年。",
+        "现代传统工坊制作可以说明工艺，但不能替代历史原墙的年代证据。"
+      ],
+      "evidence": [
+        {
+          "text": "研究由切割单色釉砖片拼成的固定壁面装饰，比较星形网格与连续边带，不将彩绘整砖混为同法。；19世纪住宅保存板；工艺有更早传统是研究范围，摄影日不作为施工日。",
+          "url": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en"
+        }
+      ],
+      "source": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-zellij-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-zellij-1.jpg",
+        "original": "https://images.museumwnf.org/medium/objects/isl/ma/1_c/31/1.jpg",
+        "source": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en",
+        "caption": "Fez19世纪住宅Zellij壁饰板，Batha Museum C66，1945回收；机构原图仅267×240，未放大。",
+        "provider": "Museum With No Frontiers / Batha Museum",
+        "credit": "Museum With No Frontiers / Batha Museum",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 267,
+        "height": 240,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究由切割单色釉砖片拼成的固定壁面装饰，比较星形网格与连续边带，不将彩绘整砖混为同法。",
+      "common": [
+        {
+          "title": "切片再拼",
+          "text": "釉砖被切成不同小形，按图案组装，各片颜色通常由单色釉面提供。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "中心与边缘分工",
+          "text": "星形及多边形组织大面，连续边带把它与墙面边界衔接；不是无限重复同一块彩绘方砖。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "星形中心网格",
+          "feature": "十二角、八角星等围成多个中心，相邻小片补齐空隙。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "连续带饰型",
+          "feature": "小片排列成连续几何带或边框，图案方向跟随边界。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "切割和拼装允许多种颜色与小形共用同一模块系统，因而能形成连续大面和不同方向的边带。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "馆藏板是19世纪Fez住宅构件，1945年回收，不能将回收年当制造年。",
+        "现代传统工坊制作可以说明工艺，但不能替代历史原墙的年代证据。"
+      ],
+      "drawing": "先画墙面边界和中心轴，再放单色小片；片缝与形状要闭合，别画成无缝印花。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Museum With No Frontiers / Batha Museum：Zellij panel",
+          "url": "https://islamicart.museumwnf.org/database_item.php?id=object;ISL;ma;Mus01_C;31;en",
+          "locator": "19世纪Fez住宅墙饰；1945回收；切片、十二角与八角星、边饰说明。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-dogon-doors",
+    "module": "architecture",
+    "category": "parts",
+    "name": "马里多贡雕刻木门：粮仓实用门与市场制作门板",
+    "region": "马里",
+    "period": "19世纪末—20世纪例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://emuseum.cornell.edu/objects/7909/granary-door",
+    "content": "比较多贡传统建筑门、粮仓护门与后来面向外地市场的雕刻门板，研究用途和图像边界。",
+    "use": "先画可安装的板厚、锁和接合，再安排雕刻；实用门的磨耗和市场作品的整齐表面应按原物判断。",
+    "caution": "Princeton门的具体原建筑未确认，只有约20世纪、木铁和锁的资料。",
+    "find": "马里多贡雕刻木门：粮仓实用门与市场制作门板 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "马里",
+      "era": "19世纪末—20世纪例证",
+      "start": 1880,
+      "end": 2000,
+      "dateLabel": "19世纪末—20世纪例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "Princeton门的具体原建筑未确认，只有约20世纪、木铁和锁的资料。",
+        "不能把旅游门板上的每个图像都解释为古老多贡宇宙观。"
+      ],
+      "evidence": [
+        {
+          "text": "比较多贡传统建筑门、粮仓护门与后来面向外地市场的雕刻门板，研究用途和图像边界。；19世纪末—20世纪例证是研究范围，摄影日不作为施工日。",
+          "url": "https://emuseum.cornell.edu/objects/7909/granary-door"
+        }
+      ],
+      "source": "https://emuseum.cornell.edu/objects/7909/granary-door"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-dogon-doors-1.webp",
+        "full": "绘画参考资源/例图/daily100-parts-dogon-doors-1.webp",
+        "original": "https://media.artmuseum.princeton.edu/iiif/3/collection/INV009311/full/,660/0/default.webp",
+        "source": "https://artmuseum.princeton.edu/art/collections/objects/36759",
+        "caption": "多贡带锁门，Princeton1998-586，约20世纪；原建筑与摄影年未载，木、铁和有机材料保存现状。",
+        "provider": "Princeton University Art Museum",
+        "credit": "Bequest of John B. Elliott, Class of 1951 / Princeton University Art Museum",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 562,
+        "height": 660,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较多贡传统建筑门、粮仓护门与后来面向外地市场的雕刻门板，研究用途和图像边界。",
+      "common": [
+        {
+          "title": "木面与门具",
+          "text": "门板以雕刻木材为主，可与木锁、铁件和安装部件组合；拆离建筑后不能省略用途核对。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "图像需随用途判断",
+          "text": "祖先、人、动物等纹样可能与信仰相关，但市场作品也可混入面向观众的泛化图像。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "建筑或粮仓实用型",
+          "feature": "尺寸、锁和安装结构与入口相配，粮仓门保护储粮；传统图像须逐件查证。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "外地市场改作型",
+          "feature": "形体或尺度不一定仍适合原粮仓，雕刻可能合并现代泛化生活场面。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "粮仓门保护食粮并具有社会和图像意义；后来旅游与外地收藏需求又影响雕刻门板的大小与图像。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "Princeton门的具体原建筑未确认，只有约20世纪、木铁和锁的资料。",
+        "不能把旅游门板上的每个图像都解释为古老多贡宇宙观。"
+      ],
+      "drawing": "先画可安装的板厚、锁和接合，再安排雕刻；实用门的磨耗和市场作品的整齐表面应按原物判断。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Herbert F. Johnson Museum：Granary Door，7909",
+          "url": "https://emuseum.cornell.edu/objects/7909/granary-door",
+          "locator": "Label Copy：millet粮仓、较高入口和保护粮食。"
+        },
+        {
+          "id": "s2",
+          "title": "Bermuda National Gallery：Door",
+          "url": "https://bng.bm/art/door/",
+          "locator": "传统祖先动物图像与面向旅游市场的泛化生活图像区别。"
+        },
+        {
+          "id": "s3",
+          "title": "Princeton University Art Museum：Door with lock，36759",
+          "url": "https://artmuseum.princeton.edu/art/collections/objects/36759",
+          "locator": "约20世纪，1998-586，木、铁及有机材料，原物摄影可公开下载。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-parts-corrugated-roofs",
+    "module": "architecture",
+    "category": "parts",
+    "name": "澳大利亚波纹铁皮屋面：板型、搭接与檐脊收边",
+    "region": "澳大利亚",
+    "period": "19世纪—20世纪历史屋面保育例证",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf",
+    "content": "研究固定建筑屋顶的波纹金属板与拼接，区别传统薄板和现代成型替换板，不写整栋房屋概述。",
+    "use": "先画屋坡和搭接线，再画波纹节奏；把脊盖、檐边和锈蚀分开，避免全部屋面等宽黑条。",
+    "caution": "波纹金属板不一定都是裸铁或同一种镀层。",
+    "find": "澳大利亚波纹铁皮屋面：板型、搭接与檐脊收边 日常构件家具100_20261004 门窗建筑构件",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "澳大利亚",
+      "era": "19世纪—20世纪历史屋面保育例证",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19世纪—20世纪历史屋面保育例证",
+      "dateBasis": "起止年是本专题选定研究时段或馆藏例证的编排范围，不是此构件在所有地区的起源与终止年。",
+      "notes": [
+        "波纹金属板不一定都是裸铁或同一种镀层。",
+        "指南照片为保存建筑现状，部分板材、油漆与固定件可能替换，不能给每张板统一19世纪年代。"
+      ],
+      "evidence": [
+        {
+          "text": "研究固定建筑屋顶的波纹金属板与拼接，区别传统薄板和现代成型替换板，不写整栋房屋概述。；19世纪—20世纪历史屋面保育例证是研究范围，摄影日不作为施工日。",
+          "url": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf"
+        }
+      ],
+      "source": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-parts-corrugated-roofs-1.jpg",
+        "full": "绘画参考资源/例图/daily100-parts-corrugated-roofs-1.jpg",
+        "original": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf",
+        "source": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf",
+        "caption": "西澳政府波纹屋面保育指南首页原生建筑照片；历史屋顶保存现状，摄影年与每片金属板制作年未载。",
+        "provider": "Government of Western Australia",
+        "credit": "西澳政府官方保育出版物",
+        "license": "机构公开原图；未确认单张照片开放许可，公开复用须核对原机构规定。",
+        "width": 2069,
+        "height": 1188,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "研究固定建筑屋顶的波纹金属板与拼接，区别传统薄板和现代成型替换板，不写整栋房屋概述。",
+      "common": [
+        {
+          "title": "波纹形成刚度",
+          "text": "重复波纹让薄板具有较大刚度，板材通常依屋坡排布，固定点与搭接需和波谷波峰相配。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "边缘特殊处理",
+          "text": "檐口、脊盖、沟和穿屋面处需要独立收边，不能让波纹无缝穿过所有转角。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "传统短板搭接型",
+          "feature": "多张较短板沿坡叠压，横向搭接线在屋面可见。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "较长成型板替换型",
+          "feature": "现代较长板减少横接，但断面、厚度、涂层和固定方式未必与原板一致。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "轻薄、便于运输和快速安装的金属板适应澳大利亚19世纪以来建造，保育时仍需匹配原板型和屋面外观。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "波纹金属板不一定都是裸铁或同一种镀层。",
+        "指南照片为保存建筑现状，部分板材、油漆与固定件可能替换，不能给每张板统一19世纪年代。"
+      ],
+      "drawing": "先画屋坡和搭接线，再画波纹节奏；把脊盖、檐边和锈蚀分开，避免全部屋面等宽黑条。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Government of Western Australia：Corrugated Roofs Guidelines",
+          "url": "https://www.wa.gov.au/system/files/2023-12/corrugated-roofs-guidelines.pdf",
+          "locator": "波纹板史、搭接、断面、镀层、修复与替换板匹配原则。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-cassoni",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "意大利婚嫁收纳箱：彩绘箱体与雕刻胡桃木箱",
+    "region": "意大利（托斯卡纳、罗马）",
+    "period": "14—16世纪；配图为15—16世纪实物",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/193194",
+    "content": "关注家庭卧房中装衣物、织物与贵重物的cassone箱；婚礼身份展示与收纳功能并存。",
+    "use": "先画箱体容积、盖板和床边尺度，再区分彩绘前板与木雕前板。",
+    "caution": "对象是富裕家庭的装饰箱，不能当作全部意大利民众的储物方式。",
+    "find": "意大利婚嫁收纳箱：彩绘箱体与雕刻胡桃木箱 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "意大利（托斯卡纳、罗马）",
+      "era": "14—16世纪；配图为15—16世纪实物",
+      "start": 1301,
+      "end": 1600,
+      "dateLabel": "14—16世纪；配图为15—16世纪实物",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "对象是富裕家庭的装饰箱，不能当作全部意大利民众的储物方式。",
+        "15世纪配图的盖板是后配；不能将现状全部视为原始制作。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：关注家庭卧房中装衣物、织物与贵重物的cassone箱；婚礼身份展示与收纳功能并存。",
+          "url": "https://www.metmuseum.org/art/collection/search/193194",
+          "locator": "Overview与Artwork Details；制作年代 mid-15th century"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/193194"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-193194.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-193194.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/es/original/DP269771.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/193194",
+        "caption": "佛罗伦萨婚嫁箱，15世纪中叶；盖板为后配；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. Emma B. Andrews, 1915",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 1955,
+        "height": 1473,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-201802.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-201802.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/es/original/DP106698.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/201802",
+        "caption": "罗马胡桃木箱，约1550—1560，原为一对之一；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Stanley Mortimer, 1954",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3857,
+        "height": 2532,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "关注家庭卧房中装衣物、织物与贵重物的cassone箱；婚礼身份展示与收纳功能并存。",
+      "common": [
+        {
+          "title": "箱式收纳",
+          "text": "大而低的箱体常置于床边，用来存放衣物、织物和贵重物品；不是只有展示功能的雕塑。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "婚嫁成对与装饰",
+          "text": "富裕家庭的箱子可承载嫁妆并参加婚礼行列；装饰方式包括彩绘、贴金灰泥、雕刻等。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "彩绘、灰泥装饰箱",
+          "feature": "14—15世纪托斯卡纳盛行以绘画和贴金等装饰宽阔前板。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "雕刻胡桃木箱",
+          "feature": "16世纪例证强调木雕；罗马成对箱仍联系婚姻与嫁妆用途。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "婚嫁财物的运送、卧房收纳及家庭身份展示共同使箱体承担实用与纪念任务。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "对象是富裕家庭的装饰箱，不能当作全部意大利民众的储物方式。",
+        "15世纪配图的盖板是后配；不能将现状全部视为原始制作。"
+      ],
+      "drawing": "先画箱体容积、盖板和床边尺度，再区分彩绘前板与木雕前板。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met馆藏研究记录：Cassone",
+          "url": "https://www.metmuseum.org/art/collection/search/193194",
+          "locator": "Overview与Artwork Details；制作年代 mid-15th century"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Cassone (one of a pair)",
+          "url": "https://www.metmuseum.org/art/collection/search/201802",
+          "locator": "Overview与Artwork Details；制作年代 ca. 1550–60"
+        },
+        {
+          "id": "s3",
+          "title": "Walters Art Museum：Cassone",
+          "url": "https://art.thewalters.org/object/65.34/",
+          "locator": "Description：Tuscany低宽箱、绘画到雕刻的变化"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-windsor",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "英国温莎椅：实木座板与梳背、弓背类型",
+    "region": "英国（泰晤士河谷、英格兰地方产区）",
+    "period": "18—19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://regionalfurnituresociety.org/about-the-rfs/online-articles/the-windsor-chair/the-windsor-chair-full-article/",
+    "content": "比较温莎椅独立插入厚座板的腿与靠背构件，并区分背架和地方生产；涵盖花园及家庭坐具。",
+    "use": "画出座板厚度、腿孔与背棂连接，再区分横梳顶和弓形外框。",
+    "caution": "温莎命名不能证明每把椅子在温莎制作。",
+    "find": "英国温莎椅：实木座板与梳背、弓背类型 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国（泰晤士河谷、英格兰地方产区）",
+      "era": "18—19世纪",
+      "start": 1701,
+      "end": 1900,
+      "dateLabel": "18—19世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "温莎命名不能证明每把椅子在温莎制作。",
+        "背式与腿式有地域和年代交叉，不能仅凭一个弯腿定年。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较温莎椅独立插入厚座板的腿与靠背构件，并区分背架和地方生产；涵盖花园及家庭坐具。",
+          "url": "https://regionalfurnituresociety.org/about-the-rfs/online-articles/the-windsor-chair/the-windsor-chair-full-article/",
+          "locator": "全文：座板、木材、梳背/弓背、18/19世纪及生产中心"
+        }
+      ],
+      "source": "https://regionalfurnituresociety.org/about-the-rfs/online-articles/the-windsor-chair/the-windsor-chair-full-article/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-windsor.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-windsor.jpg",
+        "original": "https://collections.museumofthehome.org.uk/assets/8/65/8568/v0_websize_large.jpg",
+        "source": "https://collections.museumofthehome.org.uk/object16280",
+        "caption": "双弓背温莎扶手椅，W. Low，约1790—1820，白柳、樱木、山毛榉与榆木座；照片年未载。",
+        "provider": "Museum of the Home",
+        "credit": "Museum of the Home",
+        "license": "© Museum of the Home, London；单图开放许可未确认",
+        "width": 333,
+        "height": 500,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较温莎椅独立插入厚座板的腿与靠背构件，并区分背架和地方生产；涵盖花园及家庭坐具。",
+      "common": [
+        {
+          "title": "座板是结构核心",
+          "text": "腿从下方、靠背细棂从上方插入厚实座板；后腿不直接延伸成靠背主柱。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料与地方生产",
+          "text": "榆木常用于座板，以抵抗开裂；其他构件可用白蜡、山毛榉等木材。19世纪地方工匠、车木工与厂商分工生产。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "梳背椅",
+          "feature": "上部横梳连接细棂；18世纪河谷例证还可配弯曲的前腿。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "弓背椅",
+          "feature": "弯成弧线的外背框围住细棂；19世纪林肯郡等地发展出自己的构件组合。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "便于搬动的花园座具需求与后来的家用市场、地方材料和分工生产推动形制多样化。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "温莎命名不能证明每把椅子在温莎制作。",
+        "背式与腿式有地域和年代交叉，不能仅凭一个弯腿定年。"
+      ],
+      "drawing": "画出座板厚度、腿孔与背棂连接，再区分横梳顶和弓形外框。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Regional Furniture Society：The Windsor Chair，John Parrott",
+          "url": "https://regionalfurnituresociety.org/about-the-rfs/online-articles/the-windsor-chair/the-windsor-chair-full-article/",
+          "locator": "全文：座板、木材、梳背/弓背、18/19世纪及生产中心"
+        },
+        {
+          "id": "s2",
+          "title": "Museum of the Home：548/2005",
+          "url": "https://collections.museumofthehome.org.uk/object16280",
+          "locator": "Geffrye 2005类型展签；双弓背、制作年约1790—1820"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-thonet",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "奥地利弯木座具：扶手椅与批量侧椅",
+    "region": "奥地利（维也纳及摩拉维亚工厂生产）",
+    "period": "1850年代—20世纪初",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+    "content": "以Thonet弯木座具为类，考察蒸汽弯曲、少量部件装配及不同坐具型号。",
+    "use": "比较连续曲线、接合螺钉与座圈，别把木材画成金属管。",
+    "caution": "各型号投产与单件制作时间须分别标注。",
+    "find": "奥地利弯木座具：扶手椅与批量侧椅 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "奥地利（维也纳及摩拉维亚工厂生产）",
+      "era": "1850年代—20世纪初",
+      "start": 1850,
+      "end": 1920,
+      "dateLabel": "1850年代—20世纪初",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "各型号投产与单件制作时间须分别标注。",
+        "不能把所有曲木椅或现代复制椅都归为19世纪Thonet实物。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：以Thonet弯木座具为类，考察蒸汽弯曲、少量部件装配及不同坐具型号。",
+          "url": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+          "locator": "1830s/1855技术、1857工厂、部件与型号；三件座具图注"
+        }
+      ],
+      "source": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-thonet-1.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-thonet-1.jpg",
+        "original": "https://assets-cdn.vam.ac.uk/2023/03/23/11/48/01/afdac111-ae6a-4684-88f6-2d6e9f6c02f2/1920.jpg",
+        "source": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+        "caption": "Thonet型号1扶手椅，约1859，W.30-2011；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 1920,
+        "height": 2515,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-thonet-2.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-thonet-2.jpg",
+        "original": "https://assets-cdn.vam.ac.uk/2023/03/24/10/18/24/e8e82c8e-af89-49c5-9faf-095c854a14e4/1920.jpg",
+        "source": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+        "caption": "Thonet18侧椅，约1876，W.4-2017；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 1920,
+        "height": 2915,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Thonet弯木座具为类，考察蒸汽弯曲、少量部件装配及不同坐具型号。",
+      "common": [
+        {
+          "title": "实木弯曲",
+          "text": "1855年后发展的工艺以蒸汽、模具与金属带帮助弯曲实木，改变早期以薄木层胶合的办法。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "可拆装的系列生产",
+          "text": "用少量部件、统一构件和目录型号组织生产；部件运输后可由零售商装配。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "弯木扶手椅",
+          "feature": "扶手、背框与承座部件组合成包围身体的坐具，型号1展示早期弯木家具设计。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "无扶手侧椅",
+          "feature": "较少构件形成紧凑背架与座面，型号18等体现同一生产体系的不同坐具。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "工业化弯曲、厂址的木材与劳动力以及铁路运输，使椅子能够批量制造并跨地区销售。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "各型号投产与单件制作时间须分别标注。",
+        "不能把所有曲木椅或现代复制椅都归为19世纪Thonet实物。"
+      ],
+      "drawing": "比较连续曲线、接合螺钉与座圈，别把木材画成金属管。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：Thonet and the invention of bentwood furniture",
+          "url": "https://www.vam.ac.uk/articles/thonet-and-the-invention-of-bentwood-furniture",
+          "locator": "1830s/1855技术、1857工厂、部件与型号；三件座具图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-aesthetic-storage-wall",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "英国19世纪居家陈设：轻框餐柜与壁面钟柜",
+    "region": "英国",
+    "period": "1860—1900年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home",
+    "content": "限唯美主义居家陈设中的轻框储物家具及利用墙面的柜架、镜钟；以时髦中产和上层住宅为范围。",
+    "use": "先区分落地柜、悬挂陈设的位置，再画轻框比例与浅表装饰。",
+    "caution": "这是特定消费群体的陈设主张，不能代表全部英国民宅。",
+    "find": "英国19世纪居家陈设：轻框餐柜与壁面钟柜 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国",
+      "era": "1860—1900年",
+      "start": 1860,
+      "end": 1900,
+      "dateLabel": "1860—1900年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "这是特定消费群体的陈设主张，不能代表全部英国民宅。",
+        "装饰风格不是功能类别：餐柜和壁钟应分别画出收纳开口与钟面。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：限唯美主义居家陈设中的轻框储物家具及利用墙面的柜架、镜钟；以时髦中产和上层住宅为范围。",
+          "url": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home",
+          "locator": "Furniture与墙面利用段；Godwin餐柜、Day壁钟图注"
+        }
+      ],
+      "source": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-aesthetic-1.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-aesthetic-1.jpg",
+        "original": "https://vanda-production-assets.s3.amazonaws.com/2018/09/25/09/44/31/8eaf9749-751e-4b28-83fd-00257dd74f17/CIRC.38-1953.jpg",
+        "source": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home",
+        "caption": "Godwin餐柜，1867—1870，CIRC.38:1—5-1953；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 2560,
+        "height": 1947,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-aesthetic-2.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-aesthetic-2.jpg",
+        "original": "https://vanda-production-assets.s3.amazonaws.com/2018/09/21/15/25/23/1d3cf85d-f591-432e-aecb-aae699b02423/W.27-2008.jpg",
+        "source": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home",
+        "caption": "Lewis Foreman Day壁钟，1879，W.27-2008；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 2560,
+        "height": 3753,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "限唯美主义居家陈设中的轻框储物家具及利用墙面的柜架、镜钟；以时髦中产和上层住宅为范围。",
+      "common": [
+        {
+          "title": "轻框与浅表装饰",
+          "text": "家具采用较轻的框架、直或轻曲的腿，常带脚轮；染黑木表配平面纹饰是常见做法。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "利用墙面",
+          "text": "墙柜、架格、镜子和钟共同参与室内布置；壁炉上方也可结合层架、镜面与瓷砖。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "落地餐柜",
+          "feature": "柜箱与开放层架组合收纳、陈列物件；Godwin餐柜是1867—1870的具名例证。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "壁面钟柜与架格",
+          "feature": "把钟、镜或小陈列柜安排在墙面，减少单纯占据地面的大柜布置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "家庭布置出版物与时髦住宅市场推动成套陈设，并把壁面和储物家具纳入统一室内设计。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是特定消费群体的陈设主张，不能代表全部英国民宅。",
+        "装饰风格不是功能类别：餐柜和壁钟应分别画出收纳开口与钟面。"
+      ],
+      "drawing": "先区分落地柜、悬挂陈设的位置，再画轻框比例与浅表装饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：Furnishing the Aesthetic home",
+          "url": "https://www.vam.ac.uk/articles/furnishing-the-aesthetic-home",
+          "locator": "Furniture与墙面利用段；Godwin餐柜、Day壁钟图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-craft-domestic",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "英国工艺美术家用家具：衣柜与扶手椅",
+    "region": "英国（科茨沃尔德等地）",
+    "period": "1890—1910年代初的家用设计",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home",
+    "content": "比较衣物收纳与日常坐具中的简洁形体、材料和可见构造；不把运动史代替家具类型。",
+    "use": "分别画柜的收纳体积与椅的开放骨架；保留门缝、支撑和材料纹理。",
+    "caution": "不同设计师并不使用同一套腿背式样。",
+    "find": "英国工艺美术家用家具：衣柜与扶手椅 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国（科茨沃尔德等地）",
+      "era": "1890—1910年代初的家用设计",
+      "start": 1890,
+      "end": 1910,
+      "dateLabel": "1890—1910年代初的家用设计",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "不同设计师并不使用同一套腿背式样。",
+        "这些有设计师署名的家具不等于普通家庭都能购买的标准配置。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较衣物收纳与日常坐具中的简洁形体、材料和可见构造；不把运动史代替家具类型。",
+          "url": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home",
+          "locator": "Utility、natural materials、construction；Barnsley衣柜与Gimson扶手椅图注"
+        }
+      ],
+      "source": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-craft-1.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-craft-1.jpg",
+        "original": "https://vanda-production-assets.s3.amazonaws.com/2018/03/07/12/27/17/dceb4945-4051-4366-8916-90ff51baf3a0/W.39-1-1977.jpg",
+        "source": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home",
+        "caption": "Ernest Barnsley衣柜，1902，W.39:1&2-1977；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 2560,
+        "height": 3133,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-craft-2.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-craft-2.jpg",
+        "original": "https://vanda-production-assets.s3.amazonaws.com/2018/03/07/13/14/02/4eb42ab5-0142-4dd2-a659-da4e51983ee1/CIRC.232-1960.jpg",
+        "source": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home",
+        "caption": "Ernest Gimson扶手椅，1892—1904，CIRC.232-1960；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 2560,
+        "height": 1337,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较衣物收纳与日常坐具中的简洁形体、材料和可见构造；不把运动史代替家具类型。",
+      "common": [
+        {
+          "title": "用途与构造可见",
+          "text": "设计强调实用性、自然材料和可见的制作方式，减少无必要的附加装饰。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "家庭整体陈设",
+          "text": "家具与灯具、纺织品共同构成住宅室内；中上层消费与地方作坊制作是机构文章的范围。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "板式衣柜",
+          "feature": "Barnsley等人的衣柜将大收纳空间与门板、框架组织结合，1902年实例提供具体尺度关系。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "轻架扶手椅",
+          "feature": "Gimson座具以清楚的背、臂、座和支腿构件组织日常坐姿；形式不必与衣柜相同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "重视制作质量与日常功用的设计观念，使传统乡土家具和作坊工艺成为住宅家具的资源。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不同设计师并不使用同一套腿背式样。",
+        "这些有设计师署名的家具不等于普通家庭都能购买的标准配置。"
+      ],
+      "drawing": "分别画柜的收纳体积与椅的开放骨架；保留门缝、支撑和材料纹理。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：Arts and Crafts design for the home",
+          "url": "https://www.vam.ac.uk/articles/arts-and-crafts-design-for-the-home",
+          "locator": "Utility、natural materials、construction；Barnsley衣柜与Gimson扶手椅图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-regency-tables-chairs",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "英国摄政时期住宅桌椅：靠墙桌与坐椅",
+    "region": "英国（伦敦）",
+    "period": "约1800—1830年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style",
+    "content": "以Thomas Hope住宅与出版设计为线索，比较靠墙桌、独立桌和椅子的用途形态；限精英住宅。",
+    "use": "先画桌面、支撑及椅座背关系，再按来源添加古典装饰。",
+    "caution": "照片是1800年前后实物，不是古罗马或古埃及家具。",
+    "find": "英国摄政时期住宅桌椅：靠墙桌与坐椅 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "英国（伦敦）",
+      "era": "约1800—1830年",
+      "start": 1800,
+      "end": 1830,
+      "dateLabel": "约1800—1830年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "照片是1800年前后实物，不是古罗马或古埃及家具。",
+        "Hope收藏家住宅是特殊案例，不能作为所有摄政住宅的固定布置。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：以Thomas Hope住宅与出版设计为线索，比较靠墙桌、独立桌和椅子的用途形态；限精英住宅。",
+          "url": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style",
+          "locator": "约1800—1830风格、1807出版、家具及图注"
+        }
+      ],
+      "source": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-hope-1.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-hope-1.jpg",
+        "original": "https://assets-cdn.vam.ac.uk/2023/02/03/10/14/23/ad9ea0c9-a9d7-4efa-89fa-263640fd6db7/1920.jpg",
+        "source": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style",
+        "caption": "Thomas Hope设计靠墙桌，约1800，W.19:1,2-1976；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 1920,
+        "height": 1536,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-hope-2.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-hope-2.jpg",
+        "original": "https://assets-cdn.vam.ac.uk/2023/02/03/10/23/13/a5ec7272-f53f-4032-a9ef-e73f9f1914c5/1920.jpg",
+        "source": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style",
+        "caption": "Thomas Hope设计椅，约1807，W.29-1976；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 1920,
+        "height": 2497,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以Thomas Hope住宅与出版设计为线索，比较靠墙桌、独立桌和椅子的用途形态；限精英住宅。",
+      "common": [
+        {
+          "title": "桌椅承担不同位置",
+          "text": "靠墙的pier table与可独立摆放的桌、椅共同构成室内；具体组合与房间布局相连。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "古典题材的当时制作",
+          "text": "希腊、罗马及埃及形象被19世纪设计者重新使用；自然题材与曲线装饰也并存。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "靠墙桌",
+          "feature": "Hope约1800年的pier table以平直桌面与雕塑化支撑结合，摆放位置由名称和机构记录说明。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "独立坐椅",
+          "feature": "约1807年的椅子有独立座面、靠背与支腿；古代图像资源被转化为当时家用座具。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "Hope向访客开放住宅并在1807年出版家具设计，促使精英居室中的桌椅组合向更广设计圈传播。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "照片是1800年前后实物，不是古罗马或古埃及家具。",
+        "Hope收藏家住宅是特殊案例，不能作为所有摄政住宅的固定布置。"
+      ],
+      "drawing": "先画桌面、支撑及椅座背关系，再按来源添加古典装饰。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：Thomas Hope and the Regency style",
+          "url": "https://www.vam.ac.uk/articles/thomas-hope-and-the-regency-style",
+          "locator": "约1800—1830风格、1807出版、家具及图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-tapestry-furnishings",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "欧洲织造挂毯：壁面大幅与家具覆饰",
+    "region": "欧洲（尼德兰、布鲁塞尔、英国等）",
+    "period": "14世纪后半—18世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.vam.ac.uk/articles/what-is-tapestry",
+    "content": "关注富裕住宅使用的织造挂毯、桌椅覆饰等纺织陈设，区别织成图像与画在布上的图像。",
+    "use": "画布面下垂、边缘与织纹，按壁面或家具覆盖的位置安排尺度。",
+    "caution": "这是贵重织物的主要使用范围，不能把平民住宅统一画成满墙挂毯。",
+    "find": "欧洲织造挂毯：壁面大幅与家具覆饰 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "欧洲",
+      "country": "欧洲（尼德兰、布鲁塞尔、英国等）",
+      "era": "14世纪后半—18世纪",
+      "start": 1350,
+      "end": 1800,
+      "dateLabel": "14世纪后半—18世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "这是贵重织物的主要使用范围，不能把平民住宅统一画成满墙挂毯。",
+        "现代展墙悬挂方式及修复状态不一定等于历史安装方法。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：关注富裕住宅使用的织造挂毯、桌椅覆饰等纺织陈设，区别织成图像与画在布上的图像。",
+          "url": "https://www.vam.ac.uk/articles/what-is-tapestry",
+          "locator": "14世纪后半至18世纪；墙毯/桌椅覆饰、羊毛/丝、移动与制作"
+        }
+      ],
+      "source": "https://www.vam.ac.uk/articles/what-is-tapestry"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-tapestry-1.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-tapestry-1.jpg",
+        "original": "https://vanda-production-assets.s3.amazonaws.com/2018/03/19/16/51/25/173b663a-93db-4258-8ed0-54824f0c6611/devonshire-hunting-NEW-2006BF7014.jpg",
+        "source": "https://www.vam.ac.uk/articles/what-is-tapestry",
+        "caption": "《野猪与熊狩猎》，尼德兰1425—1430，T.204-1957；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 2560,
+        "height": 994,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-tapestry-2.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-tapestry-2.jpg",
+        "original": "https://vanda-production-assets.s3.amazonaws.com/2018/09/04/10/08/49/32303497-3ecf-493d-92f9-73c0f791bfc6/tapestry-2006BF2529-resized.jpg",
+        "source": "https://www.vam.ac.uk/articles/what-is-tapestry",
+        "caption": "《维纳斯告诫丘比特》，1555—1565，可能布鲁塞尔，T.770-1950；馆藏实物照片，摄影年未载。",
+        "provider": "Victoria and Albert Museum",
+        "credit": "© Victoria and Albert Museum, London",
+        "license": "© V&A；该文章图片未另列开放许可",
+        "width": 2560,
+        "height": 2936,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "关注富裕住宅使用的织造挂毯、桌椅覆饰等纺织陈设，区别织成图像与画在布上的图像。",
+      "common": [
+        {
+          "title": "经纬织成图像",
+          "text": "羊毛便于染色又耐用，丝线适合细部和亮色；图案在织造过程中形成。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "可移动的室内陈设",
+          "text": "大挂毯可卷起运输，随主人移动；除墙面大幅外也用于桌、椅等较小覆饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "大幅叙事壁毯",
+          "feature": "围绕狩猎、圣经或古典故事展开的宽幅画面，是上层室内的可移动壁面装饰。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "桌椅及小型覆饰",
+          "feature": "同类织造方式可用于体量较小的家具或物品覆盖，不能都画成落地壁毯。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "耗时的制作、贵重材料和叙事图像让挂毯同时满足陈设、运输与身份表达的需求。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "这是贵重织物的主要使用范围，不能把平民住宅统一画成满墙挂毯。",
+        "现代展墙悬挂方式及修复状态不一定等于历史安装方法。"
+      ],
+      "drawing": "画布面下垂、边缘与织纹，按壁面或家具覆盖的位置安排尺度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "V&A：What is tapestry?",
+          "url": "https://www.vam.ac.uk/articles/what-is-tapestry",
+          "locator": "14世纪后半至18世纪；墙毯/桌椅覆饰、羊毛/丝、移动与制作"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-new-england-seating",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "新英格兰早期木座具：框板扶手椅与车木细棂椅",
+    "region": "美国（新英格兰）",
+    "period": "1620—1690年传统；配图1640—1700年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+    "content": "比较移民家庭木座具的两种制作体系；结构与工时差异比单个花纹更有识别价值。",
+    "use": "并排画背板框架与细棂格架，重点表现榫接方向和座背开合。",
+    "caution": "结构体系不是富穷的绝对对应：保存下来的车木椅也有复杂华丽例证。",
+    "find": "新英格兰早期木座具：框板扶手椅与车木细棂椅 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（新英格兰）",
+      "era": "1620—1690年传统；配图1640—1700年",
+      "start": 1620,
+      "end": 1700,
+      "dateLabel": "1620—1690年传统；配图1640—1700年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "结构体系不是富穷的绝对对应：保存下来的车木椅也有复杂华丽例证。",
+        "1700以前的年代范围有重叠，不能机械按一个纹样断代。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较移民家庭木座具的两种制作体系；结构与工时差异比单个花纹更有识别价值。",
+          "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+          "locator": "Seventeenth Century部分：joiners/turners与成本、材料"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-15292.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-15292.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DP207748.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/15292",
+        "caption": "新英格兰框板橡木扶手椅，1650—1700；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Friends of the American Wing and Sansbury-Mills Funds, Mr. and Mrs. Robert G. Goelet Gift, Mrs. Muriel Gluck Gift, in honor of Virginia and Leonard Marx, and The Max H. Gluck Foundation Inc., The Virginia and Leonard Marx Foundation, and Mr. and Mrs. Eric Martin Wunsch Gifts, 1995",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3209,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-200.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-200.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DT163.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/200",
+        "caption": "白蜡木车木细棂扶手椅，1640—1680；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. J. Insley Blair, 1951",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2755,
+        "height": 3722,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较移民家庭木座具的两种制作体系；结构与工时差异比单个花纹更有识别价值。",
+      "common": [
+        {
+          "title": "地方木材与移民工艺",
+          "text": "当地木材充足，家具匠借用欧洲既有的木作知识，为家庭制作基本家具。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "两种接合体系",
+          "text": "木匠把方料和板框榫接；车木匠则用车床制圆杆、圆榫和细棂，生产方式不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "框板扶手椅",
+          "feature": "橡木框架容纳实心背板，可配雕刻；1650—1700例证的整体方实体量清楚。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "车木细棂椅",
+          "feature": "圆杆和多排细棂形成较开放背架；1640—1680白蜡木实例不能代表所有简廉车木椅。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "方料框板与圆杆车木的工具和工时不同，造成成本、外观与开放程度的差别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "结构体系不是富穷的绝对对应：保存下来的车木椅也有复杂华丽例证。",
+        "1700以前的年代范围有重叠，不能机械按一个纹样断代。"
+      ],
+      "drawing": "并排画背板框架与细棂格架，重点表现榫接方向和座背开合。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：American Furniture, 1620–1730",
+          "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+          "locator": "Seventeenth Century部分：joiners/turners与成本、材料"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Joined armchair",
+          "url": "https://www.metmuseum.org/art/collection/search/15292",
+          "locator": "Overview与Artwork Details；制作年代 1650–1700"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Spindle-back armchair",
+          "url": "https://www.metmuseum.org/art/collection/search/200",
+          "locator": "Overview与Artwork Details；制作年代 1640–80"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-william-mary-storage",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "北美早期专业收纳家具：高抽屉柜与斜翻板书桌",
+    "region": "美国（波士顿等沿海城市）",
+    "period": "1690—1730年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+    "content": "关注William and Mary时期抽屉储物与书写用途的分化，避免仅用风格名称概括家具。",
+    "use": "画出翻板打开后的书写面与抽屉柜支撑，区别活动面板和固定柜身。",
+    "caution": "机构指出城市富裕用户先采用新式；乡村普及并不同步。",
+    "find": "北美早期专业收纳家具：高抽屉柜与斜翻板书桌 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（波士顿等沿海城市）",
+      "era": "1690—1730年",
+      "start": 1690,
+      "end": 1730,
+      "dateLabel": "1690—1730年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "机构指出城市富裕用户先采用新式；乡村普及并不同步。",
+        "贴木与燕尾接合应结合整体结构判断，不能由表面花纹单独确定年代。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：关注William and Mary时期抽屉储物与书写用途的分化，避免仅用风格名称概括家具。",
+          "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+          "locator": "William and Mary部分：专门用途、板箱燕尾和区域采用差异"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-4289.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-4289.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/85Q_ACF3123R7.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/4289",
+        "caption": "波士顿高抽屉柜，1700—1730；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. Screven Lorillard, 1952",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3086,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-3126.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-3126.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DT235353.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/3126",
+        "caption": "波士顿斜翻板书桌，1700—1730；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. Russell Sage, 1909",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2978,
+        "height": 3722,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "关注William and Mary时期抽屉储物与书写用途的分化，避免仅用风格名称概括家具。",
+      "common": [
+        {
+          "title": "板箱与抽屉",
+          "text": "燕尾接合板箱取代部分厚重框板传统，给抽屉正面留下较大的连续表面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "专门用途增长",
+          "text": "富裕城市住宅出现高抽屉柜、书桌和便于倚靠的椅子，家具种类按活动细分。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "架高抽屉柜",
+          "feature": "上下柜箱立在车木支腿上，抽屉叠置储物；1700—1730实例以六腿和曲枨支撑。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "斜翻板书桌",
+          "feature": "抽屉柜与桌箱结合；底部铰链使斜面板翻开成为平整书写面。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "新柜木工工艺与城市家庭对舒适、书写和分类储物的需求，推动专门家具发展。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构指出城市富裕用户先采用新式；乡村普及并不同步。",
+        "贴木与燕尾接合应结合整体结构判断，不能由表面花纹单独确定年代。"
+      ],
+      "drawing": "画出翻板打开后的书写面与抽屉柜支撑，区别活动面板和固定柜身。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：American Furniture, 1620–1730",
+          "url": "https://www.metmuseum.org/essays/american-furniture-1620-1730-the-seventeenth-century-and-william-and-mary-styles",
+          "locator": "William and Mary部分：专门用途、板箱燕尾和区域采用差异"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：High chest of drawers",
+          "url": "https://www.metmuseum.org/art/collection/search/4289",
+          "locator": "Overview与Artwork Details；制作年代 1700–1730"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Desk",
+          "url": "https://www.metmuseum.org/art/collection/search/3126",
+          "locator": "Overview与Artwork Details；制作年代 1700–1730"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-federal-dining",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "美国联邦时期餐室家具：餐边柜与折叶餐桌",
+    "region": "美国（大西洋沿岸城市）",
+    "period": "约1790—1815年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/american-federal-era-period-rooms",
+    "content": "以家庭餐室的储放、展示与用餐桌面为核心，比较新式餐边柜和可改变面积的餐桌。",
+    "use": "把柜门、抽屉、承盘台面与桌的折叶活动线分开画。",
+    "caution": "时期陈设室是博物馆收集与重组的环境，不能默认每件家具原属该屋。",
+    "find": "美国联邦时期餐室家具：餐边柜与折叶餐桌 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（大西洋沿岸城市）",
+      "era": "约1790—1815年",
+      "start": 1790,
+      "end": 1815,
+      "dateLabel": "约1790—1815年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "时期陈设室是博物馆收集与重组的环境，不能默认每件家具原属该屋。",
+        "1810年代后古典装饰又有变化，不能把整个19世纪美国餐柜统一套用此例。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：以家庭餐室的储放、展示与用餐桌面为核心，比较新式餐边柜和可改变面积的餐桌。",
+          "url": "https://www.metmuseum.org/essays/american-federal-era-period-rooms",
+          "locator": "1790—1815；Hepplewhite/Sheraton图案书、贴木/镶嵌、餐室"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/american-federal-era-period-rooms"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-7500.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-7500.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DT303009.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/7500",
+        "caption": "餐边柜，约1795—1805，豪华实例；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Joseph Pulitzer Bequest and Mitchel Taradash Gift, 1945",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3811,
+        "height": 3094,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-3173.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-3173.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DP205016.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/3173",
+        "caption": "折叶餐桌，1795—1810；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Rogers Fund, 1919",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3877,
+        "height": 3228,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以家庭餐室的储放、展示与用餐桌面为核心，比较新式餐边柜和可改变面积的餐桌。",
+      "common": [
+        {
+          "title": "新古典细部与表面",
+          "text": "几何轮廓、对比贴木及镶嵌是该时期常见处理，不同城市与制作者仍有差异。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "餐室专门家具",
+          "text": "餐边柜为餐具储藏与展示提供位置，餐桌则承载用餐活动；两者不能互换理解。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "餐边柜",
+          "feature": "1790年代后成为时髦餐室的组成，收纳银器、瓷器和玻璃器；华丽实例不等于一般家庭配置。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "折叶餐桌",
+          "feature": "桌面侧叶可以收拢或展开；1795—1810例证提供可变桌面与支腿关系。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "图案书和城市富裕家庭的餐室需求共同推动新家具；存放餐具与展开用餐各有专用形态。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "时期陈设室是博物馆收集与重组的环境，不能默认每件家具原属该屋。",
+        "1810年代后古典装饰又有变化，不能把整个19世纪美国餐柜统一套用此例。"
+      ],
+      "drawing": "把柜门、抽屉、承盘台面与桌的折叶活动线分开画。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：American Federal-Era Period Rooms",
+          "url": "https://www.metmuseum.org/essays/american-federal-era-period-rooms",
+          "locator": "1790—1815；Hepplewhite/Sheraton图案书、贴木/镶嵌、餐室"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Sideboard",
+          "url": "https://www.metmuseum.org/art/collection/search/7500",
+          "locator": "Overview与Artwork Details；制作年代 ca. 1795–1805"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Drop-leaf Dining Table",
+          "url": "https://www.metmuseum.org/art/collection/search/3173",
+          "locator": "Overview与Artwork Details；制作年代 1795–1810"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-shaker-domestic",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "美国Shaker家用家具：餐桌、条背椅与固定柜",
+    "region": "美国（新黎巴嫩等Shaker社区）",
+    "period": "19世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/shaker-furniture",
+    "content": "比较共同生活中的餐桌、条背椅和就地设置的储物柜，关注劳动、使用与清理。",
+    "use": "注意条背、编织座与桌下腿部空隙；固定柜画出与墙的位置。",
+    "caution": "简洁并不等于全部手工或拒绝机器。",
+    "find": "美国Shaker家用家具：餐桌、条背椅与固定柜 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（新黎巴嫩等Shaker社区）",
+      "era": "19世纪",
+      "start": 1801,
+      "end": 1900,
+      "dateLabel": "19世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "简洁并不等于全部手工或拒绝机器。",
+        "Shaker是特定宗教社区，不是19世纪美国所有乡村家具的总称。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较共同生活中的餐桌、条背椅和就地设置的储物柜，关注劳动、使用与清理。",
+          "url": "https://www.metmuseum.org/essays/shaker-furniture",
+          "locator": "当地木材、动力工具、1860s制椅商业、低背椅/餐桌/固定柜"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/shaker-furniture"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-3179.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-3179.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/ADA3253.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/3179",
+        "caption": "Shaker餐桌，1800—1825；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Friends of the American Wing Fund, 1966",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2308,
+        "height": 1584,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-6871.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-6871.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DP263983.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/6871",
+        "caption": "Shaker摇椅，1820—1850；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Friends of the American Wing Fund, 1966",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 1500,
+        "height": 2000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较共同生活中的餐桌、条背椅和就地设置的储物柜，关注劳动、使用与清理。",
+      "common": [
+        {
+          "title": "材料与简明构造",
+          "text": "常用当地松木、枫木和樱木，以简单木旋钮替代繁复装饰；避免贴木和附加雕饰。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "家具配合使用位置",
+          "text": "桌下支撑、低背椅与固定柜按活动和空间安排；某些低椅可塞入桌下或挂上墙钉。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "条背椅与摇椅",
+          "feature": "车木构件、横背条与编织座面组成轻便座具；1860年代后新黎巴嫩椅也进入商业销售。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "餐桌和固定柜",
+          "feature": "餐桌支撑位置给腿部留空间；固定柜则为特定位置定做而非到处搬动。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "强调诚实、实用和节约劳动的社区生活，使家具形式服从使用；他们也使用动力锯和车床。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "简洁并不等于全部手工或拒绝机器。",
+        "Shaker是特定宗教社区，不是19世纪美国所有乡村家具的总称。"
+      ],
+      "drawing": "注意条背、编织座与桌下腿部空隙；固定柜画出与墙的位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Shaker Furniture",
+          "url": "https://www.metmuseum.org/essays/shaker-furniture",
+          "locator": "当地木材、动力工具、1860s制椅商业、低背椅/餐桌/固定柜"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Dining Table",
+          "url": "https://www.metmuseum.org/art/collection/search/3179",
+          "locator": "Overview与Artwork Details；制作年代 1800–1825"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Rocking Chair",
+          "url": "https://www.metmuseum.org/art/collection/search/6871",
+          "locator": "Overview与Artwork Details；制作年代 1820–50"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-rococo-parlor-seating",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "纽约19世纪客厅座具：长沙发与相向交谈椅",
+    "region": "美国（纽约）",
+    "period": "1845—1865年；配图1850—1860年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-american-wing/period-rooms/rococo-revival-parlor",
+    "content": "限富裕住宅会客厅的成套木框软包座具，比较多人沙发和两人私语椅。",
+    "use": "先画两类座面的长度与朝向，再画木框、软包及脚轮，避免只堆雕花。",
+    "caution": "Met的Whittemore客厅家具是馆方选择的重组陈设；原家庭家具没有确认保存。",
+    "find": "纽约19世纪客厅座具：长沙发与相向交谈椅 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "美洲",
+      "country": "美国（纽约）",
+      "era": "1845—1865年；配图1850—1860年",
+      "start": 1845,
+      "end": 1865,
+      "dateLabel": "1845—1865年；配图1850—1860年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "Met的Whittemore客厅家具是馆方选择的重组陈设；原家庭家具没有确认保存。",
+        "这是19世纪复兴设计，不能视为18世纪法国家具本体；Belter归属保留机构的“归于”。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：限富裕住宅会客厅的成套木框软包座具，比较多人沙发和两人私语椅。",
+          "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-american-wing/period-rooms/rococo-revival-parlor",
+          "locator": "Suite of seating furniture；lamination、castors、tête-à-tête与馆方重组说明"
+        }
+      ],
+      "source": "https://www.metmuseum.org/about-the-met/collection-areas/the-american-wing/period-rooms/rococo-revival-parlor"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-7585.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-7585.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/193947.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/7585",
+        "caption": "归于Belter或其公司，长沙发，1850—1860；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. Charles Reginald Leonard, in memory of Edgar Welch  Leonard, Robert Jarvis Leonard, and Charles Reginald Leonard, 1957",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2192,
+        "height": 1576,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-8489.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-8489.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ad/original/DT177.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/8489",
+        "caption": "归于Belter或其公司，相向交谈椅，1850—1860；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Mrs. Charles Reginald Leonard, in memory of Edgar Welch  Leonard, Robert Jarvis Leonard, and Charles Reginald Leonard, 1957",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3811,
+        "height": 3049,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "限富裕住宅会客厅的成套木框软包座具，比较多人沙发和两人私语椅。",
+      "common": [
+        {
+          "title": "成套座具",
+          "text": "长沙发、扶手椅、侧椅与双人交谈椅可以成套布置，并借脚轮按场合移动。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "层压弯曲框架",
+          "text": "多层木材胶合、蒸汽弯曲后再雕刻，使框材可薄而曲；与软包座背共同构成客厅家具。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "长沙发",
+          "feature": "连续长座面供数人坐，背框和扶手组成宽阔的接待座具。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "相向交谈椅",
+          "feature": "两椅朝相反方向、侧面相连，适合近距离而较私密的交谈。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "上层会客与时髦消费需求结合木工技术，让同一套客厅家具出现不同社交功能。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "Met的Whittemore客厅家具是馆方选择的重组陈设；原家庭家具没有确认保存。",
+        "这是19世纪复兴设计，不能视为18世纪法国家具本体；Belter归属保留机构的“归于”。"
+      ],
+      "drawing": "先画两类座面的长度与朝向，再画木框、软包及脚轮，避免只堆雕花。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Rococo Revival Parlor",
+          "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-american-wing/period-rooms/rococo-revival-parlor",
+          "locator": "Suite of seating furniture；lamination、castors、tête-à-tête与馆方重组说明"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Tête-à-tête",
+          "url": "https://www.metmuseum.org/art/collection/search/8489",
+          "locator": "Overview与Artwork Details；制作年代 1850–60"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Sofa",
+          "url": "https://www.metmuseum.org/art/collection/search/7585",
+          "locator": "Overview与Artwork Details；制作年代 1850–60"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-chinese-bronze-mirrors",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "中国梳妆铜镜：背钮圆镜与唐代图像镜",
+    "region": "中国",
+    "period": "汉至唐代；配图公元前2世纪与8世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://australian.museum/learn/cultures/international-collection/chinese/chinese-bronze-mirrors/",
+    "content": "围绕照面功能、正反面构造及背部装饰类型；祭祀、馈赠和随葬用途须与日常梳妆区别。",
+    "use": "分开画光滑正面与背钮纹饰，背部图案按原镜方向排列。",
+    "caution": "馆藏镜可能来自墓葬，不能据出土语境直接断定生前只用于葬礼。",
+    "find": "中国梳妆铜镜：背钮圆镜与唐代图像镜 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国",
+      "era": "汉至唐代；配图公元前2世纪与8世纪",
+      "start": -200,
+      "end": 900,
+      "dateLabel": "汉至唐代；配图公元前2世纪与8世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "馆藏镜可能来自墓葬，不能据出土语境直接断定生前只用于葬礼。",
+        "后代仿古镜真实存在；仅有“汉式纹样”不足以判定汉代制作。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：围绕照面功能、正反面构造及背部装饰类型；祭祀、馈赠和随葬用途须与日常梳妆区别。",
+          "url": "https://australian.museum/learn/cultures/international-collection/chinese/chinese-bronze-mirrors/",
+          "locator": "正反面、汉圆形、后世形制、日用/仪式与13—14世纪仿汉镜说明"
+        }
+      ],
+      "source": "https://australian.museum/learn/cultures/international-collection/chinese/chinese-bronze-mirrors/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-72743.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-72743.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP158777.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/72743",
+        "caption": "西汉双龙纹铜镜，公元前2世纪，展示背面；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Friends of Asian Art Gifts, 2005",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2000,
+        "height": 1501,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-44806.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-44806.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/59132.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/44806",
+        "caption": "唐代狩猎纹铜镜，8世纪，展示背面；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Rogers Fund, 1925",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2000,
+        "height": 1952,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "围绕照面功能、正反面构造及背部装饰类型；祭祀、馈赠和随葬用途须与日常梳妆区别。",
+      "common": [
+        {
+          "title": "照面与装饰分面",
+          "text": "镜正面磨光以映照面容，背面常有钮及动物、花叶、格纹或铭文；观看背面不能理解为反光面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "形制与用途变化",
+          "text": "汉代通常较规则圆形，后世形状与悬挂方式更丰富；同类镜也可用于礼物、仪式或随葬。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "背钮圆镜",
+          "feature": "以中央钮及周围图案组织圆背；西汉双龙镜体现钮、龙与圆形边界。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "唐代狩猎图像镜",
+          "feature": "8世纪例证把狩猎人物动物组织成背面画面，区别于仅看规则分区的分类办法。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "照面需求与馈赠、身份及观念用途叠加，使同一反光器具同时发展复杂背饰。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "馆藏镜可能来自墓葬，不能据出土语境直接断定生前只用于葬礼。",
+        "后代仿古镜真实存在；仅有“汉式纹样”不足以判定汉代制作。"
+      ],
+      "drawing": "分开画光滑正面与背钮纹饰，背部图案按原镜方向排列。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Australian Museum：Chinese Bronze Mirrors，Stan Florek / Libai Li",
+          "url": "https://australian.museum/learn/cultures/international-collection/chinese/chinese-bronze-mirrors/",
+          "locator": "正反面、汉圆形、后世形制、日用/仪式与13—14世纪仿汉镜说明"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Mirror with two dragons",
+          "url": "https://www.metmuseum.org/art/collection/search/72743",
+          "locator": "Overview与Artwork Details；制作年代 2nd century BCE"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Mirror with hunting scene",
+          "url": "https://www.metmuseum.org/art/collection/search/44806",
+          "locator": "Overview与Artwork Details；制作年代 8th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-chinese-ceramic-pillows",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "宋金北方陶瓷枕：箱体绘画枕与人物塑形枕",
+    "region": "中国（河北、河南等北方窑口）",
+    "period": "宋金时期，10—13世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.chnmus.net/sitesources/hnbwy/page_pc/WeeklySelection/CizhouWarePillowwithaBoyPlayingCuju/list1.html",
+    "content": "比较头枕承托体的造型与图像施作；从机构比较研究中的磁州、定窑等例证讨论类型，不推断所有人的睡眠习惯。",
+    "use": "先画承托曲面与枕体高度，再区分画上的人物和塑成身体的人物。",
+    "caution": "不据硬度自行推断医学效果、夏季降温或保护发型；此处来源未完整说明。",
+    "find": "宋金北方陶瓷枕：箱体绘画枕与人物塑形枕 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（河北、河南等北方窑口）",
+      "era": "宋金时期，10—13世纪",
+      "start": 960,
+      "end": 1234,
+      "dateLabel": "宋金时期，10—13世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "不据硬度自行推断医学效果、夏季降温或保护发型；此处来源未完整说明。",
+        "某些塑形枕残件已失去上部承托面；清代仿宋枕须另列制作年代。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较头枕承托体的造型与图像施作；从机构比较研究中的磁州、定窑等例证讨论类型，不推断所有人的睡眠习惯。",
+          "url": "https://www.chnmus.net/sitesources/hnbwy/page_pc/WeeklySelection/CizhouWarePillowwithaBoyPlayingCuju/list1.html",
+          "locator": "Comparative Study：多件金代枕、北宋孩儿荷叶枕；陶瓷枕形制与婴戏装饰"
+        }
+      ],
+      "source": "https://www.chnmus.net/sitesources/hnbwy/page_pc/WeeklySelection/CizhouWarePillowwithaBoyPlayingCuju/list1.html"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-42435.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-42435.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP-14610-066.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/42435",
+        "caption": "磁州窑张氏作坊骑木马孩童纹枕，12—13世纪；孩童是枕面绘画；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Harris Brisbane Dick Fund, 1960",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 4000,
+        "height": 3002,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较头枕承托体的造型与图像施作；从机构比较研究中的磁州、定窑等例证讨论类型，不推断所有人的睡眠习惯。",
+      "common": [
+        {
+          "title": "硬质承托体",
+          "text": "陶瓷枕以烧成的承托面和实体或中空枕身组成，不是布套软枕；绘画枕的正后高度可不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "婴戏题材跨类型",
+          "text": "孩童形象既可画在枕面，也可直接塑成枕身；应区别图像题材与器物整体造型。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "箱体、椭圆绘画枕",
+          "feature": "磁州窑系列以白底黑彩等处理承托面，常见婴戏、花卉等图像；椭圆枕与矩形枕并存。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "孩儿等塑形枕",
+          "feature": "定窑等宋代窑口把俯卧孩童等人物做成枕身；不能把清代翡翠仿形作品倒推成宋瓷。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "民间窑业的绘画技术和对子孙的吉祥愿望，使枕同时提供承托与家庭图像表达。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不据硬度自行推断医学效果、夏季降温或保护发型；此处来源未完整说明。",
+        "某些塑形枕残件已失去上部承托面；清代仿宋枕须另列制作年代。"
+      ],
+      "drawing": "先画承托曲面与枕体高度，再区分画上的人物和塑成身体的人物。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "河南博物院：Cizhou Ware Pillow with a Boy Playing Cuju",
+          "url": "https://www.chnmus.net/sitesources/hnbwy/page_pc/WeeklySelection/CizhouWarePillowwithaBoyPlayingCuju/list1.html",
+          "locator": "Comparative Study：多件金代枕、北宋孩儿荷叶枕；陶瓷枕形制与婴戏装饰"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Pillow with boy on hobbyhorse",
+          "url": "https://www.metmuseum.org/art/collection/search/42435",
+          "locator": "Overview与Artwork Details；制作年代 12th–13th century"
+        },
+        {
+          "id": "s3",
+          "title": "Met Bulletin：Chinese Decorative Arts (1997)",
+          "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Chinese_Decorative_Arts_The_Metropolitan_Museum_of_Art_Bulletin_v_55_no_1_Summer_1997.pdf",
+          "locator": "p.32：宋代定窑塑孩儿枕与磁州窑绘孩儿枕比较；清翡翠枕是后代仿形"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-qing-screens",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "清代居室屏风：折屏与插屏",
+    "region": "中国（北京及地方制作中心）",
+    "period": "清代，1644—1911年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.dpm.org.cn/Uploads/wenhua/E18/index.htm",
+    "content": "比较可折叠分区的屏风与安在座架上的插屏；以清宫保存的类型资料为主，不把皇家座屏覆盖全体民间。",
+    "use": "画折屏扇间活动线与插屏固定座架，屏面图像不得掩盖底座尺度。",
+    "caution": "主要类级研究来自清宫收藏，其规模和材料不能视作普遍民用标准。",
+    "find": "清代居室屏风：折屏与插屏 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（北京及地方制作中心）",
+      "era": "清代，1644—1911年",
+      "start": 1644,
+      "end": 1911,
+      "dateLabel": "清代，1644—1911年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "主要类级研究来自清宫收藏，其规模和材料不能视作普遍民用标准。",
+        "有插屏、折屏、座屏等并行类型，不能全部画成皇帝背后的宝座屏。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较可折叠分区的屏风与安在座架上的插屏；以清宫保存的类型资料为主，不把皇家座屏覆盖全体民间。",
+          "url": "https://www.dpm.org.cn/Uploads/wenhua/E18/index.htm",
+          "locator": "展览类型综述：折屏/插屏与地方工艺"
+        }
+      ],
+      "source": "https://www.dpm.org.cn/Uploads/wenhua/E18/index.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-chinesescreen.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-chinesescreen.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/Picture/dc/12890[1024].jpg",
+        "source": "https://www.dpm.org.cn/collection/embroider/229463.html",
+        "caption": "广绣花鸟博古插屏，清乾隆时期；屏面安在座架上，现代馆藏照片，摄影年未载。",
+        "provider": "故宫博物院",
+        "credit": "故宫博物院",
+        "license": "单张图像开放许可未确认；保留机构署名，公开复用需核对权利条件",
+        "width": 792,
+        "height": 1024,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较可折叠分区的屏风与安在座架上的插屏；以清宫保存的类型资料为主，不把皇家座屏覆盖全体民间。",
+      "common": [
+        {
+          "title": "室内分区与装饰",
+          "text": "屏风既改变室内空间，也承载绘画、书法或工艺装饰；不同类型有不同支撑与移动方式。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料工艺不等于类型",
+          "text": "漆、织绣、珐琅等可服务不同屏式；广州刺绣、苏州刺绣等地方工艺进入屏面。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "折屏",
+          "feature": "多扇连成，可折收或临时摆设，适合按活动调整空间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "插屏",
+          "feature": "屏面插在座架中形成独立陈设，框架与底座必须一起观察。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "居室布置、节令活动与地方工艺进贡共同让屏风兼有空间组织和陈设用途。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "主要类级研究来自清宫收藏，其规模和材料不能视作普遍民用标准。",
+        "有插屏、折屏、座屏等并行类型，不能全部画成皇帝背后的宝座屏。"
+      ],
+      "drawing": "画折屏扇间活动线与插屏固定座架，屏面图像不得掩盖底座尺度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "故宫博物院：御屏临风——清代屏风展，胡德生",
+          "url": "https://www.dpm.org.cn/Uploads/wenhua/E18/index.htm",
+          "locator": "展览类型综述：折屏/插屏与地方工艺"
+        },
+        {
+          "id": "s2",
+          "title": "故宫博物院：广绣花鸟博古插屏",
+          "url": "https://www.dpm.org.cn/collection/embroider/229463.html",
+          "locator": "清乾隆插屏，绣面与座架、花鸟博古题材"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-bamboo-imitation",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "明清仿竹家具：木作竹节式椅与案",
+    "region": "中国（江南及北京宫廷）",
+    "period": "明代中晚期至清代",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf",
+    "content": "这是用非竹材模仿竹构件形态的家具类型，重点区别轻巧苏作与宽厚宫廷制作，并包括椅、案等用具。",
+    "use": "先确认实际木作框架，后添加竹节外形；区分细棂与并排雕竹构件。",
+    "caution": "论文提出苏州竹器与扬州木器是否融合属于推测，不能写成确定起源。",
+    "find": "明清仿竹家具：木作竹节式椅与案 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "中国（江南及北京宫廷）",
+      "era": "明代中晚期至清代",
+      "start": 1500,
+      "end": 1911,
+      "dateLabel": "明代中晚期至清代",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "论文提出苏州竹器与扬州木器是否融合属于推测，不能写成确定起源。",
+        "保存照片含修复过程；补配构件和烫蜡后的状态不是未经干预的清代原状。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：这是用非竹材模仿竹构件形态的家具类型，重点区别轻巧苏作与宽厚宫廷制作，并包括椅、案等用具。",
+          "url": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf",
+          "locator": "印刷pp.149—153：仿竹定义、文献、江南/宫廷形制；pp.154—159修复"
+        }
+      ],
+      "source": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-bamboo-p8-0.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-bamboo-p8-0.jpg",
+        "original": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf",
+        "source": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf",
+        "caption": "清代紫檀木雕竹节纹椅，故宫馆藏；论文印刷p.153原嵌JPEG，苏作风格细杆椅多视角照片及伤况标记；摄影年未载，彩色线为现代保育标注。",
+        "provider": "故宫博物院 /《紫禁城》",
+        "credit": "故宫博物院 /《紫禁城》",
+        "license": "论文照片开放许可未确认；保留机构与作者来源",
+        "width": 423,
+        "height": 661,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "这是用非竹材模仿竹构件形态的家具类型，重点区别轻巧苏作与宽厚宫廷制作，并包括椅、案等用具。",
+      "common": [
+        {
+          "title": "仿竹并非竹材",
+          "text": "木、石、陶瓷、象牙均可模仿竹形，木作最常见；竹节式是形态与装饰，不证明用材为竹。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "由文人居室到宫廷",
+          "text": "机构论文以明代《长物志》与清宫档案说明小斋、闺阁到宫廷的采用；椅、长案等类型同时出现。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "江南轻巧圆材型",
+          "feature": "苏作例证强调粗细圆材、细棂和空透感，兼顾结构支撑与竹节外观。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "宫廷宽厚密饰型",
+          "feature": "宫廷例证可用并列竹竿式构件、宽厚围子和竹叶雕饰，与江南简约类型形成区别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "竹材中空难做榫卯、耐久性有限，促使匠人以其他材料保留竹家具的外形意趣。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "论文提出苏州竹器与扬州木器是否融合属于推测，不能写成确定起源。",
+        "保存照片含修复过程；补配构件和烫蜡后的状态不是未经干预的清代原状。"
+      ],
+      "drawing": "先确认实际木作框架，后添加竹节外形；区分细棂与并排雕竹构件。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "黄齐成：清雅之器——紫檀木雕竹节纹椅的修复与研究，《紫禁城》2024年第2期",
+          "url": "https://img.dpm.org.cn/Uploads/File/2024/03/06/u65e7e6822b2b5.pdf",
+          "locator": "印刷pp.149—153：仿竹定义、文献、江南/宫廷形制；pp.154—159修复"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-japanese-folding-screens",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "日本折叠屏风：室内分区与衣物图像屏",
+    "region": "日本",
+    "period": "16世纪末—17世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/interiors-imagined-folding-screens-garments-and-clothing-stands",
+    "content": "以家具功能解释金地折屏，再比较“谁袖”屏风图像中单纯衣架与丰富室内陈设的类型。",
+    "use": "画出连续折扇、足部与室内边界，再将衣架画成屏面内图像。",
+    "caution": "“谁袖”现存组群作者多无署名，确切定年有讨论，沿用机构分期。",
+    "find": "日本折叠屏风：室内分区与衣物图像屏 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "16世纪末—17世纪",
+      "start": 1580,
+      "end": 1700,
+      "dateLabel": "16世纪末—17世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "“谁袖”现存组群作者多无署名，确切定年有讨论，沿用机构分期。",
+        "画在屏面的衣架不能被当作该屏风的真实支架；画面也不是房间实测图。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：以家具功能解释金地折屏，再比较“谁袖”屏风图像中单纯衣架与丰富室内陈设的类型。",
+          "url": "https://www.metmuseum.org/essays/interiors-imagined-folding-screens-garments-and-clothing-stands",
+          "locator": "屏风功能、金地、三类Tagasode；图像年代讨论"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/interiors-imagined-folding-screens-garments-and-clothing-stands"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-45214.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-45214.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP370100.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/45214",
+        "caption": "“谁袖”折屏，17世纪上半叶；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "H. O. Havemeyer Collection, Gift of Mrs. Dunbar W. Bostwick, John C. Wilmerding, J. Watson Webb Jr., Harry H. Webb, and Samuel B. Webb, 1962",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 3917,
+        "height": 1848,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-45375.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-45375.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/as/original/DP-22450-004.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/45375",
+        "caption": "“谁袖”屏：右屏16世纪末—17世纪初，左屏17世纪初—中叶；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 4000,
+        "height": 1823,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以家具功能解释金地折屏，再比较“谁袖”屏风图像中单纯衣架与丰富室内陈设的类型。",
+      "common": [
+        {
+          "title": "可变的隔断",
+          "text": "折屏阻挡气流，把开放空间分成更私密的睡眠或更衣区域，也可搬到室外作便携围护。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "照明与图像相配",
+          "text": "金地屏面反射室内光线；多扇铰接使图像和分区边界一起转折。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "衣架集中型",
+          "feature": "“谁袖”早期一类重点画一竹架、一漆架及叠挂衣物，人物可缺席但服饰表达主人气息。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "室内陈设展开型",
+          "feature": "另一类加入乐器、棋具及更多室内物件；图中架格不是屏风本身的结构。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "需要灵活布置的室内空间和昂贵服饰的视觉表达，让屏风同时承担分区与展示图像的作用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "“谁袖”现存组群作者多无署名，确切定年有讨论，沿用机构分期。",
+        "画在屏面的衣架不能被当作该屏风的真实支架；画面也不是房间实测图。"
+      ],
+      "drawing": "画出连续折扇、足部与室内边界，再将衣架画成屏面内图像。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Interiors Imagined: Folding Screens, Garments, and Clothing Stands",
+          "url": "https://www.metmuseum.org/essays/interiors-imagined-folding-screens-garments-and-clothing-stands",
+          "locator": "屏风功能、金地、三类Tagasode；图像年代讨论"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Tagasode (“Whose Sleeves?”)",
+          "url": "https://www.metmuseum.org/art/collection/search/45214",
+          "locator": "Overview与Artwork Details；制作年代 first half of 17th century"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Whose Sleeves? (Tagasode)",
+          "url": "https://www.metmuseum.org/art/collection/search/45375",
+          "locator": "Overview与Artwork Details；制作年代 (right screen) late 16th–early 17th century; (left screen) early to mid-17th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-japanese-tansu",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "日本日用箪笥：衣物抽屉柜与带轮储物柜",
+    "region": "日本",
+    "period": "江户至大正时期；19—20世纪初为主要参考",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://studiojapan.org/articles/what-are-tansu",
+    "content": "比较季节衣物、商家文书与家庭日用品的收纳柜，强调便于搬移的五金与抽屉组织。",
+    "use": "先画柜体、抽屉尺度与搬运构件，再区分车轮和普通足部。",
+    "caution": "不是每件叫tansu的家具都带车轮；阶梯柜等例外需单独考察。",
+    "find": "日本日用箪笥：衣物抽屉柜与带轮储物柜 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户至大正时期；19—20世纪初为主要参考",
+      "start": 1801,
+      "end": 1926,
+      "dateLabel": "江户至大正时期；19—20世纪初为主要参考",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "不是每件叫tansu的家具都带车轮；阶梯柜等例外需单独考察。",
+        "配图来自2022类型展览，左右古箪笥没有逐件制作年；该展另有现代改造作品，不把它们混为古物。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较季节衣物、商家文书与家庭日用品的收纳柜，强调便于搬移的五金与抽屉组织。",
+          "url": "https://studiojapan.org/articles/what-are-tansu",
+          "locator": "作者正式著作配套研究：移动定义、用途、接合、木材、干式/漆式及江户/明治区别"
+        }
+      ],
+      "source": "https://studiojapan.org/articles/what-are-tansu"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-tansu-exhibit.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-tansu-exhibit.jpg",
+        "original": "https://www.nipponclub.org/wp-content/uploads/2022/06/tansu001-1.jpg",
+        "source": "https://www.nipponclub.org/event/tansu-virtual-opening-reception/?lang=en",
+        "caption": "类型展配图：左三国带轮抽屉柜，右鹤冈衣物抽屉柜；展览为2022年，来源讨论江户—大正古箪笥，未列这两件具体制作年。",
+        "provider": "Nippon Club / 日本生活道具史学会支持的类型展",
+        "credit": "Nippon Club / 日本生活道具史学会支持的类型展",
+        "license": "单张图像开放许可未确认；保留机构署名，公开复用需核对权利条件",
+        "width": 654,
+        "height": 352,
+        "kind": "exhibition",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较季节衣物、商家文书与家庭日用品的收纳柜，强调便于搬移的五金与抽屉组织。",
+      "common": [
+        {
+          "title": "移动式收纳",
+          "text": "轮子、搬运五金或突出横杆可帮助移动；储藏处包括住宅邻近仓库、储物室与商店。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "木作与铁件配合",
+          "text": "榫接和铁件共同加强柜身；干式表面处理与漆面是两种不同做法。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "衣物抽屉柜",
+          "feature": "通过不同大小抽屉存放个人衣物和季节用品；地域传统在明治以后更显著。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "带轮柜",
+          "feature": "下部车轮让大柜易于移入移出，商家的货物或贵重物收纳也可采用移动柜。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "按季节与工作需要取用物品而不长期占据居室地面，使移动和分类收纳成为形制重点。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不是每件叫tansu的家具都带车轮；阶梯柜等例外需单独考察。",
+        "配图来自2022类型展览，左右古箪笥没有逐件制作年；该展另有现代改造作品，不把它们混为古物。"
+      ],
+      "drawing": "先画柜体、抽屉尺度与搬运构件，再区分车轮和普通足部。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Ty Heineken：What are Tansu?",
+          "url": "https://studiojapan.org/articles/what-are-tansu",
+          "locator": "作者正式著作配套研究：移动定义、用途、接合、木材、干式/漆式及江户/明治区别"
+        },
+        {
+          "id": "s2",
+          "title": "Nippon Club：TANSU类型展2022",
+          "url": "https://www.nipponclub.org/event/tansu-virtual-opening-reception/?lang=en",
+          "locator": "40件江户—大正地域箪笥；照片左三国带轮柜、右鹤冈衣物柜；小泉和子策展指导"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-korean-tier-cabinets",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "朝鲜王朝衣物层柜：固定层柜与可分层柜",
+    "region": "韩国（朝鲜王朝）",
+    "period": "19世纪参考；类级文字涵盖朝鲜王朝",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=16595&schM=view&showHallId=758",
+    "content": "关注妇女内房anbang衣物、布料、棉花收纳，按侧板贯通与分层搬运结构区分柜类。",
+    "use": "正面画门与层间缝，侧面核对侧板是否贯通；两类别只靠纹样区分。",
+    "caution": "不要把两层数目本身当作nong判据，应查看贯通侧板与各层把手。",
+    "find": "朝鲜王朝衣物层柜：固定层柜与可分层柜 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "韩国（朝鲜王朝）",
+      "era": "19世纪参考；类级文字涵盖朝鲜王朝",
+      "start": 1801,
+      "end": 1900,
+      "dateLabel": "19世纪参考；类级文字涵盖朝鲜王朝",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "不要把两层数目本身当作nong判据，应查看贯通侧板与各层把手。",
+        "上层收藏可能更华丽，不等于所有家庭都用同样材质和金属饰件。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：关注妇女内房anbang衣物、布料、棉花收纳，按侧板贯通与分层搬运结构区分柜类。",
+          "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=16595&schM=view&showHallId=758",
+          "locator": "Permanent Exhibition类级说明：anbang、两大柜类、可分层与把手"
+        }
+      ],
+      "source": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=16595&schM=view&showHallId=758"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-koreacab.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-koreacab.jpg",
+        "original": "https://museum.ewha.ac.kr/app/board/attach/image/10170-1650525972000.do",
+        "source": "https://museum.ewha.ac.kr/eng_musem/collection/calligraphy.do?article.offset=0&articleLimit=8&articleNo=13075&mode=view",
+        "caption": "两层jang柜，朝鲜王朝19世纪，榉木，高134.5cm；固定层柜实例，馆藏照片年未载。",
+        "provider": "梨花女子大学博物馆",
+        "credit": "梨花女子大学博物馆",
+        "license": "单张图像开放许可未确认；保留机构署名，公开复用需核对权利条件",
+        "width": 1500,
+        "height": 1736,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "关注妇女内房anbang衣物、布料、棉花收纳，按侧板贯通与分层搬运结构区分柜类。",
+      "common": [
+        {
+          "title": "内房分类收纳",
+          "text": "衣柜是anbang的重要家具，依物品和用途安排层数与内部隔间，收纳衣物、布料和袜等。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "固定与可拆两体系",
+          "text": "贯通全高侧板使层柜不能拆离；另一种把独立柜层叠置，各层可设搬运把手。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "jang固定层柜",
+          "feature": "各层门固定在同一柜身中，也可有抽屉；梨花馆19世纪两层榉木柜属于这一类。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "nong可分层柜",
+          "feature": "每层有独立侧板和把手，便于从堆叠组合中取下搬运。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "家庭衣料收纳和搬运需要产生不同柜体结构，层数则跟随用途与储物量变化。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不要把两层数目本身当作nong判据，应查看贯通侧板与各层把手。",
+        "上层收藏可能更华丽，不等于所有家庭都用同样材质和金属饰件。"
+      ],
+      "drawing": "正面画门与层间缝，侧面核对侧板是否贯通；两类别只靠纹样区分。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "韩国国立中央博物馆：Two-tiered Clothing Chest",
+          "url": "https://www.museum.go.kr/ENG/contents/E0201050400.do?relicId=16595&schM=view&showHallId=758",
+          "locator": "Permanent Exhibition类级说明：anbang、两大柜类、可分层与把手"
+        },
+        {
+          "id": "s2",
+          "title": "梨花女子大学博物馆：Two-tier Cabinet",
+          "url": "https://museum.ewha.ac.kr/eng_musem/collection/calligraphy.do?article.offset=0&articleLimit=8&articleNo=13075&mode=view",
+          "locator": "19世纪榉木柜；jang/nong区别、用途/层数/隔间"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-korean-bandaji",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "韩国半开箱：衣物、书籍与铺盖收纳",
+    "region": "韩国（南海郡、江原道等）",
+    "period": "19世纪中叶—20世纪初",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://chuncheon.museum.go.kr/eng/sub02_0105.do",
+    "content": "把上前板翻开的bandaji作为家庭储物类别，与顶盖箱及双门层柜区别；比较地方材料与箱板组织。",
+    "use": "画开口铰链、固定下前板与箱顶，表现上方铺盖和内部隔棚的位置。",
+    "caution": "bandaji被称为“铺盖箱”不意味着内部只装寝具。",
+    "find": "韩国半开箱：衣物、书籍与铺盖收纳 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "韩国（南海郡、江原道等）",
+      "era": "19世纪中叶—20世纪初",
+      "start": 1850,
+      "end": 1920,
+      "dateLabel": "19世纪中叶—20世纪初",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "bandaji被称为“铺盖箱”不意味着内部只装寝具。",
+        "制作年代和地区要由档案确认，不能仅凭铁件大小或木色定位。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：把上前板翻开的bandaji作为家庭储物类别，与顶盖箱及双门层柜区别；比较地方材料与箱板组织。",
+          "url": "https://chuncheon.museum.go.kr/eng/sub02_0105.do",
+          "locator": "Gangwon-do–Style Bandaji，19世纪末—20世纪初；松木、五金、板构与隔棚"
+        }
+      ],
+      "source": "https://chuncheon.museum.go.kr/eng/sub02_0105.do"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-namhae.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-namhae.jpg",
+        "original": "https://umma.umich.edu/wp-content/uploads/2024/01/54132_ca_object_representations_media_14433_original.jpg",
+        "source": "https://umma.umich.edu/objects/namhae-chest-2009-2-90/",
+        "caption": "南海郡bandaji，19世纪中叶，榉木与铁件；上半前板为开口，馆藏照片年未载。",
+        "provider": "University of Michigan Museum of Art",
+        "credit": "University of Michigan Museum of Art",
+        "license": "© Regents of University of Michigan；图像出版须联系馆方，单图开放许可未确认",
+        "width": 728,
+        "height": 487,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "把上前板翻开的bandaji作为家庭储物类别，与顶盖箱及双门层柜区别；比较地方材料与箱板组织。",
+      "common": [
+        {
+          "title": "上前板开口",
+          "text": "箱体上半前板可翻下，顶部中心闭锁；内部存衣服、书籍等，白天还可在箱顶叠放铺盖。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "地域结构变化",
+          "text": "地方材料、体量、五金和前板与侧板的关系各异；一些箱内有上层小物棚。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "南海榉木箱",
+          "feature": "19世纪中叶南海例证以榉木板、铁件及特定角片布局构成，保存旧表面状态。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "江原高大松木箱",
+          "feature": "江原多用当地松木，箱体高大并有较大铁件；前板嵌于侧板内属于较晚出现的构造。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "地面睡眠时白天要整理寝具，分类储物和堆置铺盖的需要让结实箱顶与侧开口配合使用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "bandaji被称为“铺盖箱”不意味着内部只装寝具。",
+        "制作年代和地区要由档案确认，不能仅凭铁件大小或木色定位。"
+      ],
+      "drawing": "画开口铰链、固定下前板与箱顶，表现上方铺盖和内部隔棚的位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "春川国立博物馆：Gangwon in the Early Modern",
+          "url": "https://chuncheon.museum.go.kr/eng/sub02_0105.do",
+          "locator": "Gangwon-do–Style Bandaji，19世纪末—20世纪初；松木、五金、板构与隔棚"
+        },
+        {
+          "id": "s2",
+          "title": "UMMA：Namhae Chest；Korean Collection (2017) p.272",
+          "url": "https://umma.umich.edu/objects/namhae-chest-2009-2-90/",
+          "locator": "类级用途与19世纪中叶南海箱；原表面和木板接合"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-korean-soban",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "韩国小盘桌：端送饭食的板腿与四腿桌",
+    "region": "韩国（海州、统营、罗州、江原道等）",
+    "period": "朝鲜王朝晚期19世纪—20世纪初参考",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://jeonju.museum.go.kr/specialBefore.es?act=view&mid=a20201020000&seq=1411",
+    "content": "比较在席地生活中兼作托盘和饭桌的soban，强调轻便搬运与地方腿、桌面类型。",
+    "use": "保留可双手搬运的桌面宽度，画板腿开口或四腿横枨。",
+    "caution": "配图左统营桌制作年代未载；右漆螺钿桌只标朝鲜王朝，不额外定为19世纪。",
+    "find": "韩国小盘桌：端送饭食的板腿与四腿桌 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "韩国（海州、统营、罗州、江原道等）",
+      "era": "朝鲜王朝晚期19世纪—20世纪初参考",
+      "start": 1801,
+      "end": 1920,
+      "dateLabel": "朝鲜王朝晚期19世纪—20世纪初参考",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "配图左统营桌制作年代未载；右漆螺钿桌只标朝鲜王朝，不额外定为19世纪。",
+        "现代金属、陶瓷和3D打印复兴桌须另列，不能替代传统木桌。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较在席地生活中兼作托盘和饭桌的soban，强调轻便搬运与地方腿、桌面类型。",
+          "url": "https://jeonju.museum.go.kr/specialBefore.es?act=view&mid=a20201020000&seq=1411",
+          "locator": "2013类型展：用途、桌面形与板腿/四腿、历史图像的限制"
+        }
+      ],
+      "source": "https://jeonju.museum.go.kr/specialBefore.es?act=view&mid=a20201020000&seq=1411"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-soban.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-soban.jpg",
+        "original": "https://newsroom.korea.net/upload/content/editImage/20200716181311813_DIQC6K00.jpg",
+        "source": "https://www.korea.net/NewsFocus/Culture/view?articleId=187740",
+        "caption": "两类soban：左统营小桌，制作年代未载；右朝鲜王朝漆螺钿小桌，来源只列1392—1910王朝范围；2020文章配图，摄影年未载。",
+        "provider": "Korea.net / National Museum of Korea",
+        "credit": "Korea.net / National Museum of Korea",
+        "license": "© National Museum of Korea；单图开放许可未确认",
+        "width": 848,
+        "height": 770,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较在席地生活中兼作托盘和饭桌的soban，强调轻便搬运与地方腿、桌面类型。",
+      "common": [
+        {
+          "title": "托盘与桌结合",
+          "text": "小桌可以把饭食从厨房端到用餐处，落地后直接用作席地饭桌。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "地方形制丰富",
+          "text": "桌面有方、圆、多角与花形；腿可以是四根独立腿，也可由两块板支撑。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "两板腿桌",
+          "feature": "海州类型以两侧板腿和透雕为特点；桌面与支撑分开观察。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "四腿与横枨桌",
+          "feature": "统营类型腿间设横枨，其他四腿桌还可按弯腿动物名称分类；不能由名称想象真正动物腿。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "房间和厨房分开、席地用餐及按年龄地位分席的习惯，推动轻便、多件配置的小桌。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "配图左统营桌制作年代未载；右漆螺钿桌只标朝鲜王朝，不额外定为19世纪。",
+        "现代金属、陶瓷和3D打印复兴桌须另列，不能替代传统木桌。"
+      ],
+      "drawing": "保留可双手搬运的桌面宽度，画板腿开口或四腿横枨。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "全州国立博物馆：Soban, Small Dining Table of the Joseon Dynasty",
+          "url": "https://jeonju.museum.go.kr/specialBefore.es?act=view&mid=a20201020000&seq=1411",
+          "locator": "2013类型展：用途、桌面形与板腿/四腿、历史图像的限制"
+        },
+        {
+          "id": "s2",
+          "title": "Korea.net：Monthly KOREA Soban",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=187740",
+          "locator": "托盘兼饭桌、地域分类、图注年代"
+        },
+        {
+          "id": "s3",
+          "title": "梨花大学博物馆：So-ban in Joseon Dynasty (1982)",
+          "url": "https://museum.ewha.ac.kr/eng_musem/exhibition/pstExhibitions.do?article.offset=96&articleLimit=8&articleNo=12942&mode=view",
+          "locator": "70件19世纪末—20世纪初soban；材料/形/用途/地区分类"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-korean-folding-screens",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "韩国居家折屏：床边屏、书画屏与刺绣屏",
+    "region": "韩国",
+    "period": "朝鲜王朝至20世纪；配图含1945年后延续制作",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643",
+    "content": "关注折屏阻挡气流、分区与陈设的家庭用途；按放置位置和屏面工艺分型。",
+    "use": "画木框、扇间铰接与短足，再依据图注区分古代与20世纪作品。",
+    "caution": "1945年后的鱼纹屏展示延续制作，不能标成朝鲜王朝古物。",
+    "find": "韩国居家折屏：床边屏、书画屏与刺绣屏 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "韩国",
+      "era": "朝鲜王朝至20世纪；配图含1945年后延续制作",
+      "start": 1392,
+      "end": 2000,
+      "dateLabel": "朝鲜王朝至20世纪；配图含1945年后延续制作",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "1945年后的鱼纹屏展示延续制作，不能标成朝鲜王朝古物。",
+        "屏面有册架图像不意味着实物是柜；王座日月屏也不能代表全部民居屏风。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：关注折屏阻挡气流、分区与陈设的家庭用途；按放置位置和屏面工艺分型。",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643",
+          "locator": "木框/纸/铰链/足、chimbyeong/subyeong/baeknapbyeong；两图注"
+        }
+      ],
+      "source": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-koreascreen-2.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-koreascreen-2.jpg",
+        "original": "https://newsroom.korea.net/upload/content/editImage/20200715134113178_COIU5Y0S.jpg",
+        "source": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643",
+        "caption": "册架图折屏，来源列为朝鲜王朝（1392—1910），未载具体制作年；2020文章中的馆藏照片。",
+        "provider": "Korea.net / National Palace Museum of Korea",
+        "credit": "Korea.net / National Palace Museum of Korea",
+        "license": "© National Palace Museum of Korea；单图许可未确认",
+        "width": 1192,
+        "height": 505,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-koreascreen-1.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-koreascreen-1.jpg",
+        "original": "https://newsroom.korea.net/upload/content/editImage/20200715134002803_UUYC2Z5E.jpg",
+        "source": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643",
+        "caption": "鱼纹折屏，1945年解放后制作；20世纪延续例证，不能当作朝鲜王朝实物。",
+        "provider": "Korea.net / Ansan Fishing Village Folk Museum",
+        "credit": "Korea.net / Ansan Fishing Village Folk Museum",
+        "license": "© Ansan Fishing Village Folk Museum；单图许可未确认",
+        "width": 653,
+        "height": 390,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "关注折屏阻挡气流、分区与陈设的家庭用途；按放置位置和屏面工艺分型。",
+      "common": [
+        {
+          "title": "多扇铰接木框",
+          "text": "纸质屏面装在木框中，各扇以铰链连接，通常从两扇到十二扇；短足把框架抬离热地面。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "分区兼装饰",
+          "text": "屏风阻挡气流、分隔房间，并承载绘画、书法或刺绣；家庭屏与王座背屏用途有别。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "床边chimbyeong",
+          "feature": "按靠近卧床的位置与较私密使用区命名，不由绘画题材决定。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "书画与刺绣屏",
+          "feature": "baeknapbyeong以书画表现，subyeong以刺绣表现；同属折屏而表面制作不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "可折收的分隔需求和不同屏面工艺，形成兼顾家庭空间与陈设的多种屏。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "1945年后的鱼纹屏展示延续制作，不能标成朝鲜王朝古物。",
+        "屏面有册架图像不意味着实物是柜；王座日月屏也不能代表全部民居屏风。"
+      ],
+      "drawing": "画木框、扇间铰接与短足，再依据图注区分古代与20世纪作品。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Korea.net：The cultural importance of folding screens",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=187643",
+          "locator": "木框/纸/铰链/足、chimbyeong/subyeong/baeknapbyeong；两图注"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-safavid-carpets",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "伊朗萨法维室内地毯：动物奖章绒毯与丝金属线毯",
+    "region": "伊朗",
+    "period": "16—17世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2017/carpets-for-kings/exhibition-panels",
+    "content": "比较精英住宅、宫殿地面及欧洲贵族陈设中的两类织毯，区分织造结构、使用位置和现代保育展示。",
+    "use": "区分绒头起伏与丝金属线反光，先画地面或壁面所需的尺度与边界。",
+    "caution": "Polonaise是历史误称，这类毯在伊朗制作，不代表波兰生产。",
+    "find": "伊朗萨法维室内地毯：动物奖章绒毯与丝金属线毯 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "伊朗",
+      "era": "16—17世纪",
+      "start": 1501,
+      "end": 1700,
+      "dateLabel": "16—17世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "Polonaise是历史误称，这类毯在伊朗制作，不代表波兰生产。",
+        "旧修补、褪色和金属氧化改变现状；现代竖挂或压力装裱属于保育选择，不是历史铺设证据。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较精英住宅、宫殿地面及欧洲贵族陈设中的两类织毯，区分织造结构、使用位置和现代保育展示。",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2017/carpets-for-kings/exhibition-panels",
+          "locator": "Exhibition Sections；Technical Features；Polonaise Carpets：制作、用途与现代保育"
+        }
+      ],
+      "source": "https://www.metmuseum.org/exhibitions/listings/2017/carpets-for-kings/exhibition-panels"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-450509.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-450509.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/is/original/DP245045.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/450509",
+        "caption": "《皇帝地毯》，伊朗16世纪下半叶，丝基础、羊毛绒头；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Rogers Fund, 1943",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 1909,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-451024.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-451024.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/is/original/DP168759.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/451024",
+        "caption": "Polonaise地毯，伊朗17世纪，丝与金属线豪华织物；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of John D. Rockefeller Jr., 1950",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 1816,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较精英住宅、宫殿地面及欧洲贵族陈设中的两类织毯，区分织造结构、使用位置和现代保育展示。",
+      "common": [
+        {
+          "title": "大幅室内织物",
+          "text": "织毯可铺设地面，也可出口后作为壁面或家具覆饰；贵重实例主要联系宫廷、贵族客户。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "图案与结构变化",
+          "text": "16世纪发展中央奖章、动物搏斗与蔓枝花叶；17世纪出现大量丝与贵金属线豪华织毯。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "动物奖章绒毯",
+          "feature": "丝经纬、羊毛绒头及不对称结形成起绒表面；《皇帝地毯》是16世纪下半叶实例。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "丝金属线Polonaise毯",
+          "feature": "名称容易误导产地；配图17世纪毯为丝绒、棉基础和金属线织饰，不要把所有同名毯都画成一种组织。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "王室宴会、贵族订购、外交礼物和贸易，使织毯成为室内铺设与身份展示的贵重陈设。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "Polonaise是历史误称，这类毯在伊朗制作，不代表波兰生产。",
+        "旧修补、褪色和金属氧化改变现状；现代竖挂或压力装裱属于保育选择，不是历史铺设证据。"
+      ],
+      "drawing": "区分绒头起伏与丝金属线反光，先画地面或壁面所需的尺度与边界。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Carpets for Kings，策展与纺织保育类型说明",
+          "url": "https://www.metmuseum.org/exhibitions/listings/2017/carpets-for-kings/exhibition-panels",
+          "locator": "Exhibition Sections；Technical Features；Polonaise Carpets：制作、用途与现代保育"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：The Emperor's Carpet",
+          "url": "https://www.metmuseum.org/art/collection/search/450509",
+          "locator": "Overview与Artwork Details；制作年代 second half 16th century"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Polonaise Carpet",
+          "url": "https://www.metmuseum.org/art/collection/search/451024",
+          "locator": "Overview与Artwork Details；制作年代 17th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-ottoman-ushak",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "奥斯曼安纳托利亚室内毯：星式与中央奖章Ushak毯",
+    "region": "土耳其（安纳托利亚、乌沙克）",
+    "period": "15世纪末—17世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+    "content": "比较Ushak织毯的重复星式与中央奖章布局，并把铺地、覆桌及悬挂用途按使用地区区分。",
+    "use": "先判断中心单元与重复单元，再画绒面、边框和实际铺挂位置。",
+    "caution": "不将地毯在欧洲绘画中的出现年当作实物制作年。",
+    "find": "奥斯曼安纳托利亚室内毯：星式与中央奖章Ushak毯 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "土耳其（安纳托利亚、乌沙克）",
+      "era": "15世纪末—17世纪",
+      "start": 1480,
+      "end": 1700,
+      "dateLabel": "15世纪末—17世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "不将地毯在欧洲绘画中的出现年当作实物制作年。",
+        "图样可跨地区传播，产地判断还须核对材料、染料和织法，不能仅凭星纹。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较Ushak织毯的重复星式与中央奖章布局，并把铺地、覆桌及悬挂用途按使用地区区分。",
+          "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+          "locator": "用途、Ottoman Turkey段与年代/产地鉴别限制"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-451471.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-451471.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/is/original/DP169929.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/451471",
+        "caption": "星式Ushak地毯，15世纪末，安纳托利亚；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Joseph V. McMullan, 1958",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2236,
+        "height": 3956,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-453237.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-453237.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/is/original/DP170623.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/453237",
+        "caption": "白地Ushak奖章毯，17世纪上半叶；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of Caroline and Joseph S. Gruss, 1984",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 2022,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较Ushak织毯的重复星式与中央奖章布局，并把铺地、覆桌及悬挂用途按使用地区区分。",
+      "common": [
+        {
+          "title": "织物用于不同位置",
+          "text": "豪华毯在伊斯兰地区皇家家庭收藏，出口欧洲及远东后也覆家具或挂墙；不能一律视为地面毯。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "中央设计与地方传统",
+          "text": "16世纪宫廷推动中央奖章、流动植物图案；各地仍保留既有织造传统，并未全部统一。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "星式重复毯",
+          "feature": "15世纪末Ushak例证以大星式奖章重复组织场地，边缘截断使图案有延伸感。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "白地中央奖章毯",
+          "feature": "17世纪上半叶例证以白地、中央奖章和边框组织画面，与星式重复布局有别。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "宫廷图样、跨地区交流与出口贸易改变设计，但地方织造方式持续影响成品。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "不将地毯在欧洲绘画中的出现年当作实物制作年。",
+        "图样可跨地区传播，产地判断还须核对材料、染料和织法，不能仅凭星纹。"
+      ],
+      "drawing": "先判断中心单元与重复单元，再画绒面、边框和实际铺挂位置。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Carpets from the Islamic World, 1600–1800",
+          "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+          "locator": "用途、Ottoman Turkey段与年代/产地鉴别限制"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：'Star Ushak' Carpet",
+          "url": "https://www.metmuseum.org/art/collection/search/451471",
+          "locator": "Overview与Artwork Details；制作年代 late 15th century"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Ushak Medallion Carpet on White Ground",
+          "url": "https://www.metmuseum.org/art/collection/search/453237",
+          "locator": "Overview与Artwork Details；制作年代 first half 17th century"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-mughal-carpets",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "莫卧儿室内毯：波斯式动物蔓枝与独立花株图案",
+    "region": "印度（莫卧儿生产中心）",
+    "period": "16世纪末—18世纪；配图约1600与1650年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+    "content": "关注皇家作坊织毯及贵族住宅、海外陈设，比较早期波斯关联布局和后来独立花株画面。",
+    "use": "比较整片蔓枝与独立花株的场地布局，避免把毯图像画成现代印花布。",
+    "caution": "机构对阿克巴以前产量与气候解释采用推测语气，此处不据此下定论。",
+    "find": "莫卧儿室内毯：波斯式动物蔓枝与独立花株图案 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度（莫卧儿生产中心）",
+      "era": "16世纪末—18世纪；配图约1600与1650年",
+      "start": 1580,
+      "end": 1800,
+      "dateLabel": "16世纪末—18世纪；配图约1600与1650年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "机构对阿克巴以前产量与气候解释采用推测语气，此处不据此下定论。",
+        "原图残损或褪色不等于原始设计；题材差异不能单独证明某作坊或城市。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：关注皇家作坊织毯及贵族住宅、海外陈设，比较早期波斯关联布局和后来独立花株画面。",
+          "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+          "locator": "Mughal workshops与17世纪图像、国际贸易段"
+        }
+      ],
+      "source": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-446999.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-446999.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/is/original/DP215608.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/446999",
+        "caption": "动物、鸟与棕榈图案毯，16世纪末—17世纪初，印度；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Gift of J. Pierpont Morgan, 1917",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 1336,
+        "height": 3971,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-452197.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-452197.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/is/original/DP168557.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/452197",
+        "caption": "鸢尾、郁金香等花株毯，约1650，印度；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "Purchase, Florance Waterbury Bequest and Rogers Fund, 1970",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 1998,
+        "height": 4000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "关注皇家作坊织毯及贵族住宅、海外陈设，比较早期波斯关联布局和后来独立花株画面。",
+      "common": [
+        {
+          "title": "作坊与住宅陈设",
+          "text": "阿克巴时期史家记载法泰赫普尔西克里、拉合尔和阿格拉皇家作坊；豪华织物进入精英住宅和海外收藏。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "图像类型变化",
+          "text": "早期毯接近波斯特别是赫拉特作品；17世纪发展有莫卧儿特色的花卉画法，后来还有多龛、千花等布局。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "动物、棕榈蔓枝毯",
+          "feature": "约16世纪末—17世纪初例证把动物鸟类置于植物图案之间，仍保留早期波斯相关资源。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "name": "独立大花株毯",
+          "feature": "约1650年毯以较大、可辨的花株组织场地；不是直接复制欧洲植物图谱。",
+          "refs": [
+            "s2",
+            "s4"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "宫廷作坊、传入的书籍版画与国际贸易，为织毯带来新的图像资源和家庭陈设市场。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "机构对阿克巴以前产量与气候解释采用推测语气，此处不据此下定论。",
+        "原图残损或褪色不等于原始设计；题材差异不能单独证明某作坊或城市。"
+      ],
+      "drawing": "比较整片蔓枝与独立花株的场地布局，避免把毯图像画成现代印花布。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Carpets from the Islamic World, 1600–1800",
+          "url": "https://www.metmuseum.org/essays/carpets-from-the-islamic-world-1600-1800",
+          "locator": "Mughal workshops与17世纪图像、国际贸易段"
+        },
+        {
+          "id": "s2",
+          "title": "Daniel Walker：Flowers Underfoot: Indian Carpets of the Mughal Era，Met正式展览研究目录，1997",
+          "url": "https://www.metmuseum.org/ko/met-publications/flowers-underfoot-indian-carpets-of-the-mughal-era",
+          "locator": "目录概述：50余件、波斯早期到花卉及多龛千花，至1800"
+        },
+        {
+          "id": "s3",
+          "title": "Met馆藏研究记录：Carpet with Palm Trees, Ibexes, and Birds",
+          "url": "https://www.metmuseum.org/art/collection/search/446999",
+          "locator": "Overview与Artwork Details；制作年代 late 16th–early 17th century"
+        },
+        {
+          "id": "s4",
+          "title": "Met馆藏研究记录：Carpet with Irises, Tulips, and Other Flowering Plants",
+          "url": "https://www.metmuseum.org/art/collection/search/452197",
+          "locator": "Overview与Artwork Details；制作年代 ca. 1650"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-indo-portuguese-cabinets",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "南亚贸易收纳柜：葡印架柜与莫卧儿翻板小柜",
+    "region": "印度（果阿、古吉拉特）及巴基斯坦信德",
+    "period": "16—18世纪类级范围；配图17、18世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en",
+    "content": "比较葡印双部分架柜和莫卧儿西海岸翻板抽屉柜，关注文书、贵重小物收纳及跨区域订单。",
+    "use": "分别画柜与支架的分段、翻板铰链和抽屉组织，再标后加五金。",
+    "caution": "葡印不是所有南亚柜的笼统名称；配图翻板柜明确保留古吉拉特或信德的不确定归属。",
+    "find": "南亚贸易收纳柜：葡印架柜与莫卧儿翻板小柜 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "亚洲",
+      "country": "印度（果阿、古吉拉特）及巴基斯坦信德",
+      "era": "16—18世纪类级范围；配图17、18世纪",
+      "start": 1501,
+      "end": 1800,
+      "dateLabel": "16—18世纪类级范围；配图17、18世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "葡印不是所有南亚柜的笼统名称；配图翻板柜明确保留古吉拉特或信德的不确定归属。",
+        "LACMA柜的黄铜把手及新艺术式背片在18或19世纪欧洲添加，不视作17世纪原装。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较葡印双部分架柜和莫卧儿西海岸翻板抽屉柜，关注文书、贵重小物收纳及跨区域订单。",
+          "url": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en",
+          "locator": "类级16—18世纪制作/文书贵重物、两部分结构；本件果阿18世纪"
+        }
+      ],
+      "source": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-indo-standing.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-indo-standing.jpg",
+        "original": "https://pacodosduques.gov.pt/wp-content/uploads/2020/04/PD0470.jpg",
+        "source": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en",
+        "caption": "果阿葡印柜PD0470，18世纪，柚木、乌木、象牙与黄铜；双部分架柜，现代馆藏照片。",
+        "provider": "Paço dos Duques",
+        "credit": "Paço dos Duques",
+        "license": "单张图像开放许可未确认；保留机构署名，公开复用需核对权利条件",
+        "width": 1300,
+        "height": 1803,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-indo-fallfront.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-indo-fallfront.jpg",
+        "original": "https://collections-images.lacma.org/images/134954/134954-1-desktop.jpg",
+        "source": "https://collections.lacma.org/object/134954",
+        "caption": "翻板小柜，约1650—1670，印度古吉拉特或巴基斯坦信德；把手及背片为后来欧洲添加，现代馆藏照片。",
+        "provider": "Los Angeles County Museum of Art",
+        "credit": "Los Angeles County Museum of Art",
+        "license": "LACMA记录publicDomain=1；照片开放条款按馆方核对",
+        "width": 4096,
+        "height": 3068,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较葡印双部分架柜和莫卧儿西海岸翻板抽屉柜，关注文书、贵重小物收纳及跨区域订单。",
+      "common": [
+        {
+          "title": "文书与贵重物收纳",
+          "text": "架柜和翻板柜均容纳抽屉；前者可有隐蔽隔间，后者翻开前板后露出文具、贵重物抽屉。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "外来结构与地方制作",
+          "text": "欧洲柜式结构结合当地木材、象牙镶嵌和工艺；当地及海外客户对花卉、人物题材需求不同。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "双部分架高柜",
+          "feature": "上部抽屉柜与下部支架重叠，葡印柜常为订制高级物件，由印度葡属据点匠人制作。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "斜翻板小柜",
+          "feature": "底部铰链前盖翻下露出抽屉；莫卧儿西海岸柜约1650—1670，后来出口欧洲并增装五金。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "贸易、当地订购和文书贵重物管理，把欧洲柜体与南亚工艺连接成多种收纳家具。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "葡印不是所有南亚柜的笼统名称；配图翻板柜明确保留古吉拉特或信德的不确定归属。",
+        "LACMA柜的黄铜把手及新艺术式背片在18或19世纪欧洲添加，不视作17世纪原装。"
+      ],
+      "drawing": "分别画柜与支架的分段、翻板铰链和抽屉组织，再标后加五金。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Paço dos Duques：Indo-Portuguese Cabinet PD0470",
+          "url": "https://pacodosduques.gov.pt/monumentos/paco-dos-duques/colecao/mobiliario/contador-indo-portugues-pd0470/?lang=en",
+          "locator": "类级16—18世纪制作/文书贵重物、两部分结构；本件果阿18世纪"
+        },
+        {
+          "id": "s2",
+          "title": "LACMA：Fall-Front Cabinet；策展研究与参考目录",
+          "url": "https://collections.lacma.org/object/134954",
+          "locator": "Curator’s Note：类型、用途、地方/海外客户、后加五金；本件约1650—1670"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-akan-stools",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "加纳阿坎木凳：家庭座具与首领仪式凳",
+    "region": "加纳（阿桑特等阿坎群体）",
+    "period": "19—20世纪；配图约1900年",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://dia.org/collection/chiefs-throne/96098",
+    "content": "以实际坐具用途起笔，再区别一般家用凳和更大、装饰贵重的首领凳；不是把每张木凳都当宝座。",
+    "use": "先画可坐的弧面、支撑与基底，再按用途控制饰件和雕刻密度。",
+    "caution": "照片是具象征雕饰的首领关联实例，不代表最普通家用凳的装饰程度。",
+    "find": "加纳阿坎木凳：家庭座具与首领仪式凳 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "加纳（阿桑特等阿坎群体）",
+      "era": "19—20世纪；配图约1900年",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19—20世纪；配图约1900年",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "照片是具象征雕饰的首领关联实例，不代表最普通家用凳的装饰程度。",
+        "不能把首领凳、黑化祖先凳与阿桑特黄金凳混为一种实物或用途。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：以实际坐具用途起笔，再区别一般家用凳和更大、装饰贵重的首领凳；不是把每张木凳都当宝座。",
+          "url": "https://dia.org/collection/chiefs-throne/96098",
+          "locator": "About the Artwork：家庭通用凳/首领凳的功能尺度区别；Published References p.32"
+        }
+      ],
+      "source": "https://dia.org/collection/chiefs-throne/96098"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-akan.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-akan.jpg",
+        "original": "https://umma.umich.edu/wp-content/uploads/2024/01/64681_ca_object_representations_media_1007_original.jpg",
+        "source": "https://umma.umich.edu/objects/stool-with-mudfish-and-crab-motif-1982-2-53/",
+        "caption": "泥鱼与蟹纹木凳，约1900，加纳阿桑特；有首领象征的装饰实例，馆藏现代照片。",
+        "provider": "University of Michigan Museum of Art",
+        "credit": "University of Michigan Museum of Art",
+        "license": "© Regents of University of Michigan；单张开放许可未确认",
+        "width": 701,
+        "height": 724,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以实际坐具用途起笔，再区别一般家用凳和更大、装饰贵重的首领凳；不是把每张木凳都当宝座。",
+      "common": [
+        {
+          "title": "座面与稳定基底",
+          "text": "阿桑特家庭广泛使用凳；弯曲座面供坐，结实底座保持稳定。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "家用与职位象征并行",
+          "text": "首领凳在授职和公开活动中标示权威，死后还可能被仪式供奉；此用途不是所有家用凳共有。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "家庭木凳",
+          "feature": "重在座面舒适与基底稳定，是家庭家具而非自动等于宗教器具。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "首领与象征雕饰凳",
+          "feature": "尺寸更大或有黄金饰件以标明地位；约1900泥鱼蟹纹凳另以动物图像表达首领力量。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同一种坐具因家庭使用与政治身份需求而形成不同尺度、装饰和仪式经历。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "照片是具象征雕饰的首领关联实例，不代表最普通家用凳的装饰程度。",
+        "不能把首领凳、黑化祖先凳与阿桑特黄金凳混为一种实物或用途。"
+      ],
+      "drawing": "先画可坐的弧面、支撑与基底，再按用途控制饰件和雕刻密度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Detroit Institute of Arts：Chief’s Throne；Nii Quarcoopome馆刊2017",
+          "url": "https://dia.org/collection/chiefs-throne/96098",
+          "locator": "About the Artwork：家庭通用凳/首领凳的功能尺度区别；Published References p.32"
+        },
+        {
+          "id": "s2",
+          "title": "UMMA：Stool with Mudfish and Crab Motif",
+          "url": "https://umma.umich.edu/objects/stool-with-mudfish-and-crab-motif-1982-2-53/",
+          "locator": "约1900；阿坎/阿桑特泥鱼与蟹、首领象征研究"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-ethiopian-headrests",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "埃塞俄比亚实用头枕：圆柱承托与不同底座",
+    "region": "埃塞俄比亚（Oromo、Gurage、Sidaama等）",
+    "period": "19—20世纪",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/314981",
+    "content": "限定抬高头颈、保护发型及便于携带的日常头枕；比较跨群体共享构形，不以单件头枕代表一个民族全部家具。",
+    "use": "画颈部接触弧面、柱和站稳的底座，避免误画成可坐的大凳。",
+    "caution": "东非此组以实用为重点；不能套用中南部非洲某些头枕的占卜、祖先媒介用途。",
+    "find": "埃塞俄比亚实用头枕：圆柱承托与不同底座 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "非洲",
+      "country": "埃塞俄比亚（Oromo、Gurage、Sidaama等）",
+      "era": "19—20世纪",
+      "start": 1801,
+      "end": 2000,
+      "dateLabel": "19—20世纪",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "东非此组以实用为重点；不能套用中南部非洲某些头枕的占卜、祖先媒介用途。",
+        "圆柱、锥底并非某族或某性别的排他标志；标签年代宽泛时不额外细分。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：限定抬高头颈、保护发型及便于携带的日常头枕；比较跨群体共享构形，不以单件头枕代表一个民族全部家具。",
+          "url": "https://www.metmuseum.org/art/collection/search/314981",
+          "locator": "类级功能、共享类型与东非实用/其他地区仪式的区别；只引文字，不下载该受限图"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/314981"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-mia-9767.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-mia-9767.jpg",
+        "original": "https://img.artsmia.org/web_objects_cache/009000/700/60/9767/mia_16243b_full.jpg",
+        "source": "https://collections.artsmia.org/art/9767",
+        "caption": "Oromo木头枕，19世纪，Mia99.13.2；现代馆藏照片，摄影年未载。",
+        "provider": "Minneapolis Institute of Art",
+        "credit": "Minneapolis Institute of Art",
+        "license": "Public Domain；Mia机构记录",
+        "width": 1774,
+        "height": 1920,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-mia-5976.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-mia-5976.jpg",
+        "original": "https://img.artsmia.org/web_objects_cache/005000/900/70/5976/mia_SlideScan_003298_full.jpg",
+        "source": "https://collections.artsmia.org/art/5976",
+        "caption": "Gurage木头枕，20世纪，Mia99.45.1；现代馆藏照片，摄影年未载。",
+        "provider": "Minneapolis Institute of Art",
+        "credit": "Minneapolis Institute of Art",
+        "license": "Public Domain；Mia机构记录",
+        "width": 4399,
+        "height": 3430,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "限定抬高头颈、保护发型及便于携带的日常头枕；比较跨群体共享构形，不以单件头枕代表一个民族全部家具。",
+      "common": [
+        {
+          "title": "弧形承托与离地",
+          "text": "小型木枕把头颈抬离地面，帮助保持费时整理的发型；便携性适合经常移动的生活。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "构形跨群体共享",
+          "text": "弯曲承托、柱形支撑与圆锥等底座组合在Oromo、Sidaama、Gurage及更广地区共享，不能一形一民族。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "宽底圆柱型",
+          "feature": "19世纪Oromo例证用单柱连接弧顶和宽而稍凹底，形体简洁。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "name": "分层锥底型",
+          "feature": "20世纪Gurage例证把平滑弧顶与圆柱、层级底座相连，底部组织不同。",
+          "refs": [
+            "s2",
+            "s4"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "日常休息、发型的年龄与身份信息以及便携需求，让小型头枕成为实用构件。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "东非此组以实用为重点；不能套用中南部非洲某些头枕的占卜、祖先媒介用途。",
+        "圆柱、锥底并非某族或某性别的排他标志；标签年代宽泛时不额外细分。"
+      ],
+      "drawing": "画颈部接触弧面、柱和站稳的底座，避免误画成可坐的大凳。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Kristen Windmuller-Luna：Headrest，Met研究说明，2016",
+          "url": "https://www.metmuseum.org/art/collection/search/314981",
+          "locator": "类级功能、共享类型与东非实用/其他地区仪式的区别；只引文字，不下载该受限图"
+        },
+        {
+          "id": "s2",
+          "title": "Ethiopia at the Crossroads，Peabody Essex Museum正式展览文字",
+          "url": "https://s3.us-east-1.amazonaws.com/pem-org/general/Master_Script_Ethiopia_at_the_Crossroads.pdf",
+          "locator": "p.18：Oromo/Sidama/Gurage组头枕、木材与年代、使用功能"
+        },
+        {
+          "id": "s3",
+          "title": "Christine Sciacca编：Ethiopia at the Crossroads，Walters/Yale正式目录：Oromo Headrest",
+          "url": "https://aaeportal.com/?id=210409",
+          "locator": "19世纪Oromo；弧顶、圆柱、宽凹基底；Mia 99.13.2"
+        },
+        {
+          "id": "s4",
+          "title": "同目录：Gurage Headrest",
+          "url": "https://aaeportal.com/?id=210410",
+          "locator": "20世纪Gurage；弧顶、柱及分层基底；Mia99.45.1"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-maori-floor-mats",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "新西兰毛利编织地席：whāriki与精织takapau",
+    "region": "新西兰（毛利群体）",
+    "period": "20世纪馆藏及1998年延续制作参考；保育配图年代未列",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf",
+    "content": "以居室地面铺设的编织席为类，比较较大地席和重要礼仪中的精织takapau；不把衣物纺织混入家具。",
+    "use": "画席面与地面的平铺关系，再表现有规律的纤维交织；不放大原图细节推断未知纹法。",
+    "caution": "保育指南两张照片未载制作年代，不用指南出版年给古席断代。",
+    "find": "新西兰毛利编织地席：whāriki与精织takapau 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰（毛利群体）",
+      "era": "20世纪馆藏及1998年延续制作参考；保育配图年代未列",
+      "start": 1900,
+      "end": 1998,
+      "dateLabel": "20世纪馆藏及1998年延续制作参考；保育配图年代未列",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "保育指南两张照片未载制作年代，不用指南出版年给古席断代。",
+        "1998是明确的现代延续作品；2007祖先返还仪式是使用年，不等于席子的制作年。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：以居室地面铺设的编织席为类，比较较大地席和重要礼仪中的精织takapau；不把衣物纺织混入家具。",
+          "url": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf",
+          "locator": "印刷p.14：Whāriki/Fine mat及Whāriki takapau/Finely woven floor mat，两张原嵌照片；保管避免卷曲"
+        }
+      ],
+      "source": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-maoritextile-p16-0.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-maoritextile-p16-0.jpg",
+        "original": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf",
+        "source": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf",
+        "caption": "Whāriki细编地席；保育指南印刷p.14原嵌JPEG，实物制作年与摄影年未列。",
+        "provider": "Museum of New Zealand Te Papa Tongarewa",
+        "credit": "Museum of New Zealand Te Papa Tongarewa",
+        "license": "© Te Papa；指南照片未另列开放许可",
+        "width": 479,
+        "height": 318,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "以居室地面铺设的编织席为类，比较较大地席和重要礼仪中的精织takapau；不把衣物纺织混入家具。",
+      "common": [
+        {
+          "title": "纤维编织与大幅铺设",
+          "text": "whāriki属于毛利纺织中较大的制品；编织地席与穿着披衣在形态和安放位置上不同。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "平铺与礼仪使用",
+          "text": "精织花纹takapau以手指编织制作，在婚礼、丧礼和其他文化活动中增加庄严感。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "whāriki地席",
+          "feature": "保育指南列为Fine mat，宽大织面适合平放；要保留条带交织边界。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "whāriki takapau精织席",
+          "feature": "指南列Finely woven floor mat；1998例证以harakeke纤维、染色手织，为Te Papa marae空间订作。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "家庭或公共空间的铺设与毛利文化活动对地席的重视，支持编织技术的延续和新作。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "保育指南两张照片未载制作年代，不用指南出版年给古席断代。",
+        "1998是明确的现代延续作品；2007祖先返还仪式是使用年，不等于席子的制作年。"
+      ],
+      "drawing": "画席面与地面的平铺关系，再表现有规律的纤维交织；不放大原图细节推断未知纹法。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Te Papa：Caring for Māori Textiles 保育指南",
+          "url": "https://www.tepapa.govt.nz/assets/76067/1692741683-caringformaoritextiles.pdf",
+          "locator": "印刷p.14：Whāriki/Fine mat及Whāriki takapau/Finely woven floor mat，两张原嵌照片；保管避免卷曲"
+        },
+        {
+          "id": "s2",
+          "title": "Te Papa：A mat of distinction",
+          "url": "https://collections.tepapa.govt.nz/topic/3198",
+          "locator": "手指编织、婚礼丧礼用途与2007返还仪式"
+        },
+        {
+          "id": "s3",
+          "title": "Te Papa：Whāriki Takapau，Matekino Lawless/Christina Wirihana，1998",
+          "url": "https://collections.tepapa.govt.nz/object/502855",
+          "locator": "制作年代、harakeke/dye/handwoven、Te Papa marae订作；只引文字，不下载该受限图片"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-daily100-furniture-maori-treasure-boxes",
+    "module": "architecture",
+    "category": "furniture",
+    "name": "毛利个人饰物收纳盒：椭圆wakahuia与长方papahou",
+    "region": "新西兰（毛利群体）",
+    "period": "19世纪；配图19世纪中后期",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://collections.tepapa.govt.nz/topic/2407",
+    "content": "比较屋内悬挂的木雕小盒，收纳个人羽饰、梳子和佩饰；家庭传承与饰物神圣性并存。",
+    "use": "画盒盖、盒身容积及底部雕刻，按来源区分悬挂构造和后来的盒足。",
+    "caution": "19世纪中后期有仿欧洲盒式的铰盖和足部，不能当成所有传统悬挂盒的必备结构。",
+    "find": "毛利个人饰物收纳盒：椭圆wakahuia与长方papahou 日常构件家具100_20261004 家具陈设",
+    "collect": "共同特征、类型比较、用途与来源原图",
+    "check": "2026年10月4日：核对来源正文、原图说明与地区年代依据。",
+    "organization": {
+      "region": "大洋洲",
+      "country": "新西兰（毛利群体）",
+      "era": "19世纪；配图19世纪中后期",
+      "start": 1801,
+      "end": 1900,
+      "dateLabel": "19世纪；配图19世纪中后期",
+      "dateBasis": "取机构类级研究范围与具名实物制作年代；世纪数值仅为编排包络，照片与修复、展览年份不用于推断制作年。",
+      "notes": [
+        "19世纪中后期有仿欧洲盒式的铰盖和足部，不能当成所有传统悬挂盒的必备结构。",
+        "不能因现代馆藏陈列在桌面上就否定原来悬挂用途；也不能从一个纹样给全部毛利地区定型。"
+      ],
+      "evidence": [
+        {
+          "text": "类级功能与形制依据：比较屋内悬挂的木雕小盒，收纳个人羽饰、梳子和佩饰；家庭传承与饰物神圣性并存。",
+          "url": "https://collections.tepapa.govt.nz/topic/2407",
+          "locator": "Overview：功能、悬挂、典型尺寸、椭圆/矩形地域及19世纪欧洲式改造"
+        }
+      ],
+      "source": "https://collections.tepapa.govt.nz/topic/2407"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/daily100-furniture-met-313628.jpg",
+        "full": "绘画参考资源/例图/daily100-furniture-met-313628.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/ao/original/DP-22949-001.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/313628",
+        "caption": "木雕wakahuia宝盒，19世纪中后期，毛利制作；馆藏实物的现代照片，摄影年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+        "license": "Public Domain；Met Open Access CC0",
+        "width": 4000,
+        "height": 1943,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较屋内悬挂的木雕小盒，收纳个人羽饰、梳子和佩饰；家庭传承与饰物神圣性并存。",
+      "common": [
+        {
+          "title": "个人饰物收纳",
+          "text": "木盒装头发羽饰、梳子、护符与耳胸佩饰；典型长度约30—60cm。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "悬挂与底部雕刻",
+          "text": "常悬挂在居屋屋顶，使雕刻底部可见；它们可成为命名的家庭或部落传承物。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "椭圆wakahuia",
+          "feature": "通常为卵形，在多数部落地区出现，雕刻须连同下腹面考虑。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "长方papahou",
+          "feature": "长条或矩形主要见于Taranaki与北奥克兰—Northland；是同一收纳类别的地区形式变化。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "饰物随身体使用而获得特殊意义，使收纳盒既保护个人物品，又承载家族传承。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "19世纪中后期有仿欧洲盒式的铰盖和足部，不能当成所有传统悬挂盒的必备结构。",
+        "不能因现代馆藏陈列在桌面上就否定原来悬挂用途；也不能从一个纹样给全部毛利地区定型。"
+      ],
+      "drawing": "画盒盖、盒身容积及底部雕刻，按来源区分悬挂构造和后来的盒足。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Te Papa：Wakahuia and Papahou 类型文章",
+          "url": "https://collections.tepapa.govt.nz/topic/2407",
+          "locator": "Overview：功能、悬挂、典型尺寸、椭圆/矩形地域及19世纪欧洲式改造"
+        },
+        {
+          "id": "s2",
+          "title": "Met馆藏研究记录：Waka huia (treasure box)",
+          "url": "https://www.metmuseum.org/art/collection/search/313628",
+          "locator": "Overview与Artwork Details；制作年代 mid-late 19th century"
+        }
+      ],
+      "examples": []
+    }
   }
-];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月3日";})();
+];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月4日";})();
