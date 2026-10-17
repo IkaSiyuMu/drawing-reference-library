@@ -10540,5 +10540,332 @@ window.DRAWING_ORGANIZATION_DATA = {
       }
     ],
     "source": "https://collections.tepapa.govt.nz/topic/2407"
+  },
+  "topic-shrine20261017-architecture-sanctuary-worship-offering": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "传统社殿分工与当代公开祈祷空间",
+    "start": null,
+    "end": null,
+    "dateLabel": "传统社殿分工与当代公开祈祷空间",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "伊势等神社可不设通常意义的拝殿，不能把三殿当成所有神社必备套装。",
+      "室内照片仅说明公开祈祷场所；不得据此外推本殿的神体、帷帐、器物或私密空间。"
+    ],
+    "evidence": [
+      {
+        "text": "比较安置神座、参拜礼仪和供献的社殿分工，并研究公开祈祷空间的室内组成。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9694",
+        "locator": "Text 正文；缓存 cache/eos-9694.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9694"
+  },
+  "topic-shrine20261017-architecture-corridors": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "春日大社、严岛神社廊道现状与历史类型",
+    "start": null,
+    "end": null,
+    "dateLabel": "春日大社、严岛神社廊道现状与历史类型",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "严岛廊板留缝是海潮环境下的实例，不推广到所有陆上回廊。",
+      "实际开放路线与仪式通行范围由各社管理，照片不能证明所有廊段均可进入。"
+    ],
+    "evidence": [
+      {
+        "text": "比较围绕圣域的回廊与连接建筑的廊，记录柱列、转折、地势与通行方向。",
+        "url": "https://online.bunka.go.jp/suisensyo/kyoto/APPENDIX-5/appendix5-1.html",
+        "locator": "Shrine architecture：kairo 与 romon；cache/kyoto-types.txt"
+      }
+    ],
+    "source": "https://online.bunka.go.jp/suisensyo/kyoto/APPENDIX-5/appendix5-1.html"
+  },
+  "topic-shrine20261017-architecture-nagare-kasuga": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "流造与春日造；上贺茂1863年造替例",
+    "start": null,
+    "end": null,
+    "dateLabel": "流造与春日造；上贺茂1863年造替例",
+    "dateBasis": "1863为上贺茂本殿、权殿现存造替年；春日大社照片未给统一现存营造年，故类别不设统一起止。",
+    "notes": [
+      "“一间”是柱间数量，不是固定米数。",
+      "春日造并非所有实例都与春日大社完全同色、同材料；地域变体须另核实。"
+    ],
+    "evidence": [
+      {
+        "text": "比较两种常见本殿形式，重点观察平入、妻入以及遮护台阶的屋顶。",
+        "url": "https://www.aisf.or.jp/~jaanus/deta/n/nagarezukuri.htm",
+        "locator": "定义、前坡、入口与一间社/三间社；cache/jaanus-nagare.txt"
+      }
+    ],
+    "source": "https://www.aisf.or.jp/~jaanus/deta/n/nagarezukuri.htm"
+  },
+  "topic-shrine20261017-architecture-shinmei-taisha-sumiyoshi": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "伊势现行造替形制与住吉1810年本殿例",
+    "start": null,
+    "end": null,
+    "dateLabel": "伊势现行造替形制与住吉1810年本殿例",
+    "dateBasis": "1810为住吉大社四本宫本殿现存营造年；伊势资料说明现行周期造替下传承的形式，类别不设统一起止。",
+    "notes": [
+      "伊势“唯一神明造”的柱、材料与围垣细则不可套用到所有神明造神社。",
+      "机构构架图是教学示意，妻面比较图为说明结构省略棟持柱，不能充当完整施工剖面。"
+    ],
+    "evidence": [
+      {
+        "text": "比较三类本殿外部形制，采用伊势神宫原机构构架图说明梁柱关系。",
+        "url": "https://www.jinjahoncho.or.jp/omairi/shaden/",
+        "locator": "社殿の建築様式―神明造と大社造；cache/honcho-styles.txt"
+      }
+    ],
+    "source": "https://www.jinjahoncho.or.jp/omairi/shaden/"
+  },
+  "topic-shrine20261017-architecture-compound-hachiman-gongen": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "北野1607年、石清水1634年社殿例",
+    "start": 1607,
+    "end": 1634,
+    "dateLabel": "北野1607年、石清水1634年社殿例",
+    "dateBasis": "1607—1634仅涵盖本专题两处现存营造实例，分别为北野天满宫与石清水八幡宫；不表示八幡造或権現造的起源、结束。",
+    "notes": [
+      "石の間原为地面较低的连接空间，不宜一律画成与两殿同高的普通木走廊。",
+      "八棟造是北野天满宫的名称之一，不能据字面强行数成所有権現造共有八栋独立房屋。"
+    ],
+    "evidence": [
+      {
+        "text": "比较双殿前后相接与本殿、连接段、拝殿组成的复合建筑。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9696",
+        "locator": "Text 正文；缓存 cache/eos-9696.txt"
+      },
+      {
+        "text": "当前本社1634年完成；照片按楼门、舞殿、幣殿、本殿内外殿说明。",
+        "url": "https://www.city.yawata.kyoto.jp/yawata-story/introduction/introduction003.html",
+        "locator": "本社1634年完成、前后内外殿与官方鸟瞰照片；cache/yawata-honden.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9696"
+  },
+  "topic-shrine20261017-architecture-roof-members": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "传统屋脊构件与伊势、住吉现状",
+    "start": null,
+    "end": null,
+    "dateLabel": "传统屋脊构件与伊势、住吉现状",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "千木削向或鰹木奇偶不能单独用来判断全国神社祭神性别；具体规则以该社说明为准。",
+      "伊势图中的内外宫数量是特定正殿的对照，不能当成所有社殿统一尺寸表。"
+    ],
+    "evidence": [
+      {
+        "text": "区分屋脊构件、斜向千木和屋面铺盖材料，并保留机构原图的部件标注。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9688",
+        "locator": "Text 正文；缓存 cache/eos-9688.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9688"
+  },
+  "topic-shrine20261017-architecture-torii": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "当代鸟居现状与传统类型",
+    "start": null,
+    "end": null,
+    "dateLabel": "当代鸟居现状与传统类型",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "鸟居起源有多种学说，不把神话说明当成已证实的工程起源。",
+      "朱红色并不能单独判定鸟居所属类型，需看实际结构轮廓。"
+    ],
+    "evidence": [
+      {
+        "text": "从横梁轮廓、柱与貫观察鸟居，理解其在神域入口处的作用。",
+        "url": "https://www.jinjahoncho.or.jp/omairi/torii/",
+        "locator": "鳥居の起源とそのかたち；cache/honcho-torii.txt"
+      }
+    ],
+    "source": "https://www.jinjahoncho.or.jp/omairi/torii/"
+  },
+  "topic-shrine20261017-architecture-gates-fences": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "传统门垣类型；大国魂2011年改建例",
+    "start": null,
+    "end": null,
+    "dateLabel": "传统门垣类型；大国魂2011年改建例",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "随神像的身份、前后摆位按各社说明记录；不可把大国魂的具体配像当作通例。",
+      "楼门的楼层通常不是公众游览楼台，开放范围另查该社规定。"
+    ],
+    "evidence": [
+      {
+        "text": "比较带屋顶的神门及围垣，理解门口通行、门侧像龛与层次。",
+        "url": "https://www.aisf.or.jp/~jaanus/deta/sOri2/shinmon.htm",
+        "locator": "神门定义与单层/两层类型；cache/jaanus-shinmon.txt"
+      }
+    ],
+    "source": "https://www.aisf.or.jp/~jaanus/deta/sOri2/shinmon.htm"
+  },
+  "topic-shrine20261017-architecture-purification-fonts": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "当代手水使用与河岸御手洗传统",
+    "start": null,
+    "end": null,
+    "dateLabel": "当代手水使用与河岸御手洗传统",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "日常手水与神职祭前使用另备水进行的清手仪式有区别。",
+      "柄杓及取水方式会随各社实际管理改变，表现当代使用时以现场告示为准。"
+    ],
+    "evidence": [
+      {
+        "text": "区分手水舍的屋盖、水盘和取水位置，并与河川御手洗场比较。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9671",
+        "locator": "Text 正文；缓存 cache/eos-9671.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9671"
+  },
+  "topic-shrine20261017-architecture-dance-stages": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "传统舞台类型与当代奉纳神乐",
+    "start": null,
+    "end": null,
+    "dateLabel": "传统舞台类型与当代奉纳神乐",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "各地神乐种类和舞台形式有差异，四周开敞只是常见类型之一。",
+      "伊势神乐殿的祈祷体系不等于所有地方神乐的空间安排。"
+    ],
+    "evidence": [
+      {
+        "text": "比较独立舞台、兼用舞殿与祈祷神乐空间，以开敞柱间和表演位置为重点。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9691",
+        "locator": "Text 正文；缓存 cache/eos-9691.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9691"
+  },
+  "topic-shrine20261017-architecture-offices-retreats": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "近现代社务接待与祭前斋戒空间",
+    "start": null,
+    "end": null,
+    "dateLabel": "近现代社务接待与祭前斋戒空间",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "明治前许多事务和斋戒在神职住宅内进行，当代办公建筑不能直接套进古代场景。",
+      "斋馆内部未公开时只表现可证的外观和入口，不凭名称编造住宿房间。"
+    ],
+    "evidence": [
+      {
+        "text": "区分行政、面向参拜者的授与/祈祷受付以及神职斋戒空间，注意兼用建筑。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9678",
+        "locator": "Text 正文；缓存 cache/eos-9678.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9678"
+  },
+  "topic-shrine20261017-architecture-kitchens-storehouses": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "传统供食储藏分工与现状实例",
+    "start": null,
+    "end": null,
+    "dateLabel": "传统供食储藏分工与现状实例",
+    "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+    "notes": [
+      "“御饌殿”在不同神社甚至同一神宫不同区域的用途应逐处核对。",
+      "外观照片不能证明室内有何灶、柜或固定器具；不补画未公开设备。"
+    ],
+    "evidence": [
+      {
+        "text": "按准备食物、举行供食仪式及储藏神宝区分后勤建筑，避免名称相同就认为功能相同。",
+        "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9677",
+        "locator": "Text 正文；缓存 cache/eos-9677.txt"
+      }
+    ],
+    "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9677"
+  },
+  "topic-shrine20261017-objects-shinsen-vessels": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "现行供奉用法；历史祭器类型作对照",
+    "start": null,
+    "end": null,
+    "dateLabel": "现行供奉用法；历史祭器类型作对照",
+    "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+    "notes": [
+      "研究重心为公开说明中的现行神饌；祭器术语对照不意味着各类型同年起源。"
+    ],
+    "evidence": [
+      {
+        "text": "研究重心为公开说明中的现行神饌；祭器术语对照不意味着各类型同年起源。",
+        "url": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/",
+        "locator": "「神饌」「日々行う日供祭」全文"
+      }
+    ],
+    "source": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/"
+  },
+  "topic-shrine20261017-architecture-precinct-overview": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "当代境内现状；图像未载绘制年",
+    "start": null,
+    "end": null,
+    "dateLabel": "当代境内现状；图像未载绘制年",
+    "dateBasis": "按现状资料归类；原图绘制年未载，故不以网页查阅年填作建筑年代。汤岛社殿1995年只用于对应实景说明。",
+    "notes": [
+      "图像的拍摄、绘制和建筑营造年代分别记录；年代范围用于资料编排。"
+    ],
+    "evidence": [
+      {
+        "text": "境内、参道、摂社末社、本殿与拝殿的类级说明，以及原机构境内示意图。",
+        "url": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+        "locator": "境内、参道、摂社末社、本殿与拝殿的类级说明，以及原机构境内示意图。"
+      },
+      {
+        "text": "官方境内图；1本殿、5—7授与与社务、12宝物殿、14手水舎、15渡り廊下；现社殿1995年造营。",
+        "url": "https://www.yushimatenjin.or.jp/map/",
+        "locator": "官方境内图；1本殿、5—7授与与社务、12宝物殿、14手水舎、15渡り廊下；现社殿1995年造营。"
+      }
+    ],
+    "source": "https://www.jinjahoncho.or.jp/omairi/keidai/"
+  },
+  "topic-shrine20261017-architecture-engawa": {
+    "region": "亚洲",
+    "country": "日本",
+    "era": "江户后期实例：1807年；传统术语比较",
+    "start": 1807,
+    "end": 1807,
+    "dateLabel": "江户后期实例：1807年；传统术语比较",
+    "dateBasis": "1807年是所配松尾神社本殿营造年，不是縁側的起源或沿用终止年。",
+    "notes": [
+      "图像的拍摄、绘制和建筑营造年代分别记录；年代范围用于资料编排。"
+    ],
+    "evidence": [
+      {
+        "text": "engawa定义与nure-en、kure-en、kirime-en分类；网页限制复制其原图，本专题不下载该站图像。",
+        "url": "https://aisf.or.jp/~jaanus/deta/e/engawa.htm",
+        "locator": "engawa定义与nure-en、kure-en、kirime-en分类；网页限制复制其原图，本专题不下载该站图像。"
+      },
+      {
+        "text": "PDF第16页营造年1807；第18页切目縁、脇障子、浜縁；第23—24页实景与原有部件标注（印刷20—21页）。",
+        "url": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=16",
+        "locator": "PDF第16页营造年1807；第18页切目縁、脇障子、浜縁；第23—24页实景与原有部件标注（印刷20—21页）。"
+      }
+    ],
+    "source": "https://aisf.or.jp/~jaanus/deta/e/engawa.htm"
   }
 };

@@ -49097,5 +49097,3541 @@
       ],
       "examples": []
     }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-sanctuary-worship-offering",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "本殿、拝殿与幣殿：祭祀空间和礼拜位置",
+    "region": "日本",
+    "period": "传统社殿分工与当代公开祈祷空间",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9694",
+    "content": "比较安置神座、参拜礼仪和供献的社殿分工，并研究公开祈祷空间的室内组成。",
+    "use": "画建筑群时先标参拜侧、连接段和闭锁边界；画室内只依公开照片记录可见地面、柱列与人的朝向。",
+    "caution": "伊势等神社可不设通常意义的拝殿，不能把三殿当成所有神社必备套装。",
+    "find": "本殿、拝殿与幣殿：祭祀空间和礼拜位置 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "传统社殿分工与当代公开祈祷空间",
+      "start": null,
+      "end": null,
+      "dateLabel": "传统社殿分工与当代公开祈祷空间",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "伊势等神社可不设通常意义的拝殿，不能把三殿当成所有神社必备套装。",
+        "室内照片仅说明公开祈祷场所；不得据此外推本殿的神体、帷帐、器物或私密空间。"
+      ],
+      "evidence": [
+        {
+          "text": "比较安置神座、参拜礼仪和供献的社殿分工，并研究公开祈祷空间的室内组成。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9694",
+          "locator": "Text 正文；缓存 cache/eos-9694.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9694"
+    },
+    "images": [
+      {
+        "source": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/keidai/img_09.jpg",
+        "caption": "神社本厅境内说明页的拝殿实景；原页未标社名、建造年或摄影年，仅作拝殿前礼拜位置例证。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 720,
+        "height": 480,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-haiden-photo.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-haiden-photo.jpg"
+      },
+      {
+        "source": "https://www.isejingu.or.jp/about/kaguraden/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/kaguraden/description01_p01.webp",
+        "caption": "伊势神宫内宫神乐殿内奉纳大々神楽的官方公开照片；可见舞者、左侧奏乐人员、木地板和帘幕，非本殿内阵，摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1040,
+        "height": 693,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-prayer-interior.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-prayer-interior.webp"
+      }
+    ],
+    "topic": {
+      "scope": "比较安置神座、参拜礼仪和供献的社殿分工，并研究公开祈祷空间的室内组成。",
+      "common": [
+        {
+          "title": "由外向内认功能",
+          "text": "本殿（ほんでん）安置祭神的神座，通常锁闭御扉；拝殿（はいでん）在其前供礼拜和仪式，常比本殿显眼。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "连接与供献",
+          "text": "幣殿（へいでん）与幣帛供献有关，常成为本殿和拝殿的连接部分，也用于举行仪式。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "title": "看公开室内",
+          "text": "伊势神宫公开神乐照片中可见木地板、柱墙、悬挂帘幕及舞者旁的奏乐人员；这类祈祷空间与通常闭锁的本殿须分别记录。",
+          "refs": [
+            "s4"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "独立本殿与前置拝殿",
+          "feature": "本殿可以独立，礼拜者朝向本殿行礼；两座建筑不必共用屋顶。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "连结社殿",
+          "feature": "本殿、幣殿、拝殿可联为复合建筑，移动路线穿过中间部分。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "name": "内阵与外阵",
+          "feature": "内阵（ないじん）与外阵（げじん）是本殿内部的学术分区名；可由门、地面高差或柱列区分，小本殿也可能只有一个内阵。",
+          "refs": [
+            "s5"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "先确定神座、供献与参拜各在何处，人物朝向和行礼距离才有依据。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "伊势等神社可不设通常意义的拝殿，不能把三殿当成所有神社必备套装。",
+        "室内照片仅说明公开祈祷场所；不得据此外推本殿的神体、帷帐、器物或私密空间。"
+      ],
+      "drawing": "画建筑群时先标参拜侧、连接段和闭锁边界；画室内只依公开照片记录可见地面、柱列与人的朝向。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：Honden",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9694",
+          "locator": "Text 正文；缓存 cache/eos-9694.txt"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學 Encyclopedia of Shinto：Haiden",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9698",
+          "locator": "Text 正文；缓存 cache/eos-9698.txt"
+        },
+        {
+          "id": "s3",
+          "title": "國學院大學 Encyclopedia of Shinto：Heiden",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9697",
+          "locator": "Text 正文；缓存 cache/eos-9697.txt"
+        },
+        {
+          "id": "s4",
+          "title": "伊勢神宮：神楽殿",
+          "url": "https://www.isejingu.or.jp/about/kaguraden/",
+          "locator": "御祈祷「御饌」と「御神楽」；大々神楽公开照片；cache/ise-kaguraden.txt"
+        },
+        {
+          "id": "s5",
+          "title": "國學院大學 Encyclopedia of Shinto：Naijin, Gejin",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9684",
+          "locator": "Text 正文；缓存 cache/eos-9684.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-corridors",
+    "module": "architecture",
+    "category": "parts",
+    "name": "回廊与渡廊：柱间通行和建筑连接",
+    "region": "日本",
+    "period": "春日大社、严岛神社廊道现状与历史类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://online.bunka.go.jp/suisensyo/kyoto/APPENDIX-5/appendix5-1.html",
+    "content": "比较围绕圣域的回廊与连接建筑的廊，记录柱列、转折、地势与通行方向。",
+    "use": "沿廊面画一条实际可走路线，再落柱、栏与转角；不要把廊和它围出的露天院子画在同一层。",
+    "caution": "严岛廊板留缝是海潮环境下的实例，不推广到所有陆上回廊。",
+    "find": "回廊与渡廊：柱间通行和建筑连接 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "春日大社、严岛神社廊道现状与历史类型",
+      "start": null,
+      "end": null,
+      "dateLabel": "春日大社、严岛神社廊道现状与历史类型",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "严岛廊板留缝是海潮环境下的实例，不推广到所有陆上回廊。",
+        "实际开放路线与仪式通行范围由各社管理，照片不能证明所有廊段均可进入。"
+      ],
+      "evidence": [
+        {
+          "text": "比较围绕圣域的回廊与连接建筑的廊，记录柱列、转折、地势与通行方向。",
+          "url": "https://online.bunka.go.jp/suisensyo/kyoto/APPENDIX-5/appendix5-1.html",
+          "locator": "Shrine architecture：kairo 与 romon；cache/kyoto-types.txt"
+        }
+      ],
+      "source": "https://online.bunka.go.jp/suisensyo/kyoto/APPENDIX-5/appendix5-1.html"
+    },
+    "images": [
+      {
+        "source": "https://www.kasugataisha.or.jp/guidance/index/",
+        "original": "https://www.kasugataisha.or.jp/wp-content/uploads/2020/03/08捻廊.jpg",
+        "caption": "春日大社捻廊现状，随地势抬升的连接廊；摄影年未载。",
+        "provider": "春日大社",
+        "credit": "春日大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 900,
+        "height": 643,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-kasuga-watari.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-kasuga-watari.jpg"
+      },
+      {
+        "source": "https://iwashimizu.or.jp/about/",
+        "original": "https://iwashimizu.or.jp/img/about/company_photo08.jpg",
+        "caption": "石清水八幡宫廻廊现状，柱列、屋盖与围合空间；摄影年未载。",
+        "provider": "石清水八幡宮",
+        "credit": "石清水八幡宮",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 300,
+        "height": 200,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-corridor.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-corridor.jpg"
+      }
+    ],
+    "topic": {
+      "scope": "比较围绕圣域的回廊与连接建筑的廊，记录柱列、转折、地势与通行方向。",
+      "common": [
+        {
+          "title": "带屋盖的边界",
+          "text": "回廊（かいろう）以连续柱列和屋顶组织神域边缘，也把不同社殿联到同一通行系统。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "按地形连接",
+          "text": "渡廊连接不同位置的建筑，可能改变方向和高度；春日大社捻廊连接内侍殿与御廊，是带屋盖的斜向渡阶。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "围合型回廊",
+          "feature": "春日大社的回廊沿本殿和主要建筑四周展开，各边长度及门的位置并不对称。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "连接型廊",
+          "feature": "严岛神社曲折的东西廻廊把主要殿舍及附属空间连在一起；其海上环境影响地板做法。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "顺坡渡廊",
+          "feature": "春日大社捻廊可见屋盖、廊面与台阶随地势衔接，人物通行需表现高差。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "柱距、转角和门洞共同决定视线与通行；一排重复柱子同时帮助判断空间深度。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "严岛廊板留缝是海潮环境下的实例，不推广到所有陆上回廊。",
+        "实际开放路线与仪式通行范围由各社管理，照片不能证明所有廊段均可进入。"
+      ],
+      "drawing": "沿廊面画一条实际可走路线，再落柱、栏与转角；不要把廊和它围出的露天院子画在同一层。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "文化庁：古都京都世界遗产推荐书 Appendix 5",
+          "url": "https://online.bunka.go.jp/suisensyo/kyoto/APPENDIX-5/appendix5-1.html",
+          "locator": "Shrine architecture：kairo 与 romon；cache/kyoto-types.txt"
+        },
+        {
+          "id": "s2",
+          "title": "春日大社：御本社（大宮）回廊内",
+          "url": "https://www.kasugataisha.or.jp/guidance/index/",
+          "locator": "回廊总说明及对应建筑弹窗正文；cache/kasuga-buildings.txt"
+        },
+        {
+          "id": "s3",
+          "title": "嚴島神社：参拝順路",
+          "url": "https://www.itsukushimajinja.jp/jp/route.html",
+          "locator": "参拝順路；廻廊地板高潮对策说明；cache/itsukushima-route.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-nagare-kasuga",
+    "module": "architecture",
+    "category": "houses",
+    "name": "流造与春日造：从入口辨认屋面",
+    "region": "日本",
+    "period": "流造与春日造；上贺茂1863年造替例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.aisf.or.jp/~jaanus/deta/n/nagarezukuri.htm",
+    "content": "比较两种常见本殿形式，重点观察平入、妻入以及遮护台阶的屋顶。",
+    "use": "分别取正面与侧面：先画屋脊方向、门和台阶，再核对伸出的前坡或向拝。",
+    "caution": "“一间”是柱间数量，不是固定米数。",
+    "find": "流造与春日造：从入口辨认屋面 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "流造与春日造；上贺茂1863年造替例",
+      "start": null,
+      "end": null,
+      "dateLabel": "流造与春日造；上贺茂1863年造替例",
+      "dateBasis": "1863为上贺茂本殿、权殿现存造替年；春日大社照片未给统一现存营造年，故类别不设统一起止。",
+      "notes": [
+        "“一间”是柱间数量，不是固定米数。",
+        "春日造并非所有实例都与春日大社完全同色、同材料；地域变体须另核实。"
+      ],
+      "evidence": [
+        {
+          "text": "比较两种常见本殿形式，重点观察平入、妻入以及遮护台阶的屋顶。",
+          "url": "https://www.aisf.or.jp/~jaanus/deta/n/nagarezukuri.htm",
+          "locator": "定义、前坡、入口与一间社/三间社；cache/jaanus-nagare.txt"
+        }
+      ],
+      "source": "https://www.aisf.or.jp/~jaanus/deta/n/nagarezukuri.htm"
+    },
+    "images": [
+      {
+        "source": "https://www.kasugataisha.or.jp/guidance/index/",
+        "original": "https://www.kasugataisha.or.jp/wp-content/uploads/2020/03/01御本殿撮影＿桑原英文resize.jpg",
+        "caption": "春日大社御本殿外观，春日造一间社四栋并列；官网公开现状，摄影桑原英文，照片年代未载。",
+        "provider": "春日大社",
+        "credit": "撮影：桑原英文 / 春日大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 800,
+        "height": 572,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-kasuga-honden.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-kasuga-honden.jpg"
+      },
+      {
+        "source": "https://www.kamigamojinja.jp/sanpai/keidai/",
+        "original": "https://www.kamigamojinja.jp/publish/wp-content/themes/theme-kamigamojinja/img/section/sanpai--keidai-01.jpg",
+        "caption": "上贺茂神社官网境内案内页的社殿实景；本殿与权殿1863年造替，摄影年未载。",
+        "provider": "賀茂別雷神社",
+        "credit": "賀茂別雷神社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 872,
+        "height": 500,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-nagare-photo.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-nagare-photo.jpg"
+      }
+    ],
+    "topic": {
+      "scope": "比较两种常见本殿形式，重点观察平入、妻入以及遮护台阶的屋顶。",
+      "common": [
+        {
+          "title": "入口朝向先于颜色",
+          "text": "平入（ひらいり）从与屋脊平行的长边进入；妻入（つまいり）从山墙一端进入，流造与春日造可用此区别。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "入口上方有遮护",
+          "text": "两类都把入口台阶纳入屋盖：流造前坡连续延长，春日造在妻面入口前设置向拝屋盖。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "流造（ながれづくり）",
+          "feature": "前坡带曲线向外长伸，背坡较短；有一间社、三间社等，间数指入口侧柱与柱之间的开间。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "春日造（かすがづくり）",
+          "feature": "常见小型一间社、妻面正门及前置向拝；春日大社四座本殿并列是具体组合例。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "辨认坡面如何接到入口，能避免只凭朱漆、金饰或千木误判本殿形式。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "“一间”是柱间数量，不是固定米数。",
+        "春日造并非所有实例都与春日大社完全同色、同材料；地域变体须另核实。"
+      ],
+      "drawing": "分别取正面与侧面：先画屋脊方向、门和台阶，再核对伸出的前坡或向拝。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "JAANUS：nagare-zukuri 流造",
+          "url": "https://www.aisf.or.jp/~jaanus/deta/n/nagarezukuri.htm",
+          "locator": "定义、前坡、入口与一间社/三间社；cache/jaanus-nagare.txt"
+        },
+        {
+          "id": "s2",
+          "title": "JAANUS：kasuga-zukuri 春日造",
+          "url": "https://www.aisf.or.jp/~jaanus/deta/k/kasugazukuri.htm",
+          "locator": "妻入、檜皮屋面、向拝与台阶；cache/jaanus-kasuga.txt"
+        },
+        {
+          "id": "s3",
+          "title": "春日大社：御本社（大宮）回廊内",
+          "url": "https://www.kasugataisha.or.jp/guidance/index/",
+          "locator": "回廊总说明及对应建筑弹窗正文；cache/kasuga-buildings.txt"
+        },
+        {
+          "id": "s4",
+          "title": "上賀茂神社：境内案内",
+          "url": "https://www.kamigamojinja.jp/sanpai/keidai/",
+          "locator": "本殿・権殿：1863年造替的流造；cache/kamigamo.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-shinmei-taisha-sumiyoshi",
+    "module": "architecture",
+    "category": "houses",
+    "name": "神明造、大社造与住吉造：屋脊、入口和高床",
+    "region": "日本",
+    "period": "伊势现行造替形制与住吉1810年本殿例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/shaden/",
+    "content": "比较三类本殿外部形制，采用伊势神宫原机构构架图说明梁柱关系。",
+    "use": "先找屋脊与入口的夹角，再分高床、柱、梁及屋盖；照原机构图逐项核对，不增补未公开内阵。",
+    "caution": "伊势“唯一神明造”的柱、材料与围垣细则不可套用到所有神明造神社。",
+    "find": "神明造、大社造与住吉造：屋脊、入口和高床 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "伊势现行造替形制与住吉1810年本殿例",
+      "start": null,
+      "end": null,
+      "dateLabel": "伊势现行造替形制与住吉1810年本殿例",
+      "dateBasis": "1810为住吉大社四本宫本殿现存营造年；伊势资料说明现行周期造替下传承的形式，类别不设统一起止。",
+      "notes": [
+        "伊势“唯一神明造”的柱、材料与围垣细则不可套用到所有神明造神社。",
+        "机构构架图是教学示意，妻面比较图为说明结构省略棟持柱，不能充当完整施工剖面。"
+      ],
+      "evidence": [
+        {
+          "text": "比较三类本殿外部形制，采用伊势神宫原机构构架图说明梁柱关系。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/shaden/",
+          "locator": "社殿の建築様式―神明造と大社造；cache/honcho-styles.txt"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/shaden/"
+    },
+    "images": [
+      {
+        "source": "https://www.isejingu.or.jp/about/architecture/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/architecture/slide01_p01.webp",
+        "caption": "伊势神宫官网神明造社殿现状照片；用于观察茅葺、直线屋面与高床，摄影及本次造替年代未标。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 2520,
+        "height": 1680,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-shinmei-photo.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-shinmei-photo.webp"
+      },
+      {
+        "source": "https://sumiyoshitaisha.net/grounds/honden.html",
+        "original": "https://sumiyoshitaisha.net/cmn/uniq/grounds/img_honden_02.png",
+        "caption": "住吉大社第一本宫现状，现本殿1810年营造；妻入、檜皮葺与丹白配色，摄影年未载。",
+        "provider": "住吉大社",
+        "credit": "住吉大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 640,
+        "height": 400,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-sumiyoshi.png",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-sumiyoshi.png"
+      },
+      {
+        "source": "https://www.isejingu.or.jp/about/architecture/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/architecture/description01_p01.webp",
+        "caption": "原机构图：伊势神宫神明造的折置组构架教学图，标出千木、棟木、梁、柱等；非某次历史营造实测图。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "diagram",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1040,
+        "height": 693,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-shinmei-frame.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-shinmei-frame.webp"
+      },
+      {
+        "source": "https://www.isejingu.or.jp/about/architecture/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/architecture/description02_p01.webp",
+        "caption": "原机构图：伊势神宫内宫与外宫正殿妻侧构造比较；为说明京吕组与折置组而省略棟持柱，非完整施工剖面。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "diagram",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 2240,
+        "height": 1316,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-shinmei-section.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-shinmei-section.webp"
+      }
+    ],
+    "topic": {
+      "scope": "比较三类本殿外部形制，采用伊势神宫原机构构架图说明梁柱关系。",
+      "common": [
+        {
+          "title": "同是切妻，门不在同一边",
+          "text": "神明造为平入，大社造和住吉造为妻入；切妻（きりづま）就是屋脊两侧各有一片坡面的屋顶。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "title": "形制与现存年代分开",
+          "text": "古老形式会经多次重建保存。住吉大社现存四本宫本殿建于1810年，不能把今天照片当作古代原木构。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "神明造（しんめいづくり）",
+          "feature": "伊势例为素木、直线切妻、平入、高床与茅葺；棟持柱在外支承屋脊，官方构架图可查梁柱名称。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "大社造（たいしゃづくり）",
+          "feature": "以出云大社为代表，从山墙端进入；高大的本殿体量是辨认实例的重要外观。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "住吉造（すみよしづくり）",
+          "feature": "妻入、直线切妻与檜皮葺；住吉大社朱柱白墙，官网记载内部前后分两室。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "门与屋脊的位置比装饰更稳定，适合先用来建立不同本殿的轮廓和人物接近方向。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "伊势“唯一神明造”的柱、材料与围垣细则不可套用到所有神明造神社。",
+        "机构构架图是教学示意，妻面比较图为说明结构省略棟持柱，不能充当完整施工剖面。"
+      ],
+      "drawing": "先找屋脊与入口的夹角，再分高床、柱、梁及屋盖；照原机构图逐项核对，不增补未公开内阵。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：社殿について",
+          "url": "https://www.jinjahoncho.or.jp/omairi/shaden/",
+          "locator": "社殿の建築様式―神明造と大社造；cache/honcho-styles.txt"
+        },
+        {
+          "id": "s2",
+          "title": "伊勢神宮：社殿の建築",
+          "url": "https://www.isejingu.or.jp/about/architecture/",
+          "locator": "神明造の特徴；内宮と外宮の違い；cache/ise-structure.txt"
+        },
+        {
+          "id": "s3",
+          "title": "住吉大社：本殿",
+          "url": "https://sumiyoshitaisha.net/grounds/honden.html",
+          "locator": "国宝「住吉造」本殿；屋根、出入口、内部；cache/sumiyoshi.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-compound-hachiman-gongen",
+    "module": "architecture",
+    "category": "houses",
+    "name": "八幡造与権現造：多座殿堂怎样连起来",
+    "region": "日本",
+    "period": "北野1607年、石清水1634年社殿例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9696",
+    "content": "比较双殿前后相接与本殿、连接段、拝殿组成的复合建筑。",
+    "use": "先用前殿、后殿和连接段定位，再照原照片核对重叠屋顶；不要用装饰繁复程度代替形式判断。",
+    "caution": "石の間原为地面较低的连接空间，不宜一律画成与两殿同高的普通木走廊。",
+    "find": "八幡造与権現造：多座殿堂怎样连起来 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "北野1607年、石清水1634年社殿例",
+      "start": 1607,
+      "end": 1634,
+      "dateLabel": "北野1607年、石清水1634年社殿例",
+      "dateBasis": "1607—1634仅涵盖本专题两处现存营造实例，分别为北野天满宫与石清水八幡宫；不表示八幡造或権現造的起源、结束。",
+      "notes": [
+        "石の間原为地面较低的连接空间，不宜一律画成与两殿同高的普通木走廊。",
+        "八棟造是北野天满宫的名称之一，不能据字面强行数成所有権現造共有八栋独立房屋。"
+      ],
+      "evidence": [
+        {
+          "text": "比较双殿前后相接与本殿、连接段、拝殿组成的复合建筑。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9696",
+          "locator": "Text 正文；缓存 cache/eos-9696.txt"
+        },
+        {
+          "text": "当前本社1634年完成；照片按楼门、舞殿、幣殿、本殿内外殿说明。",
+          "url": "https://www.city.yawata.kyoto.jp/yawata-story/introduction/introduction003.html",
+          "locator": "本社1634年完成、前后内外殿与官方鸟瞰照片；cache/yawata-honden.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9696"
+    },
+    "images": [
+      {
+        "source": "https://www.city.yawata.kyoto.jp/yawata-story/introduction/introduction003.html",
+        "original": "https://www.city.yawata.kyoto.jp/yawata-story/img/introduction/photo_006_01.jpg",
+        "caption": "八幡市官方照片：石清水八幡宫本社，由前方楼门、舞殿、幣殿至本殿内外殿；当前本社1634年完成，摄影年未载。",
+        "provider": "八幡市",
+        "credit": "八幡市",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 600,
+        "height": 450,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-hachiman-overview.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-hachiman-overview.jpg"
+      },
+      {
+        "source": "https://kitanotenmangu.or.jp/guidance/gohonden/",
+        "original": "https://kitanotenmangu.or.jp/wp-content/uploads/2022/10/img-slide-03-2.jpg",
+        "caption": "北野天满宫复合社殿侧外观，现存1607年营造；仅展示可见外部，不作为内阵参考。",
+        "provider": "北野天満宮",
+        "credit": "北野天満宮",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1920,
+        "height": 800,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-kitano-side.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-kitano-side.jpg"
+      }
+    ],
+    "topic": {
+      "scope": "比较双殿前后相接与本殿、连接段、拝殿组成的复合建筑。",
+      "common": [
+        {
+          "title": "复合配置有不同逻辑",
+          "text": "八幡造把前后两座切妻建筑合成本殿；権現造通常把本殿和拝殿用中间空间连接。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "从侧面看连接段",
+          "text": "正门一张照片容易遮住后殿；应核对前后屋脊、低下的连接屋顶及交接处，分清一座本殿内部的组合和不同功能殿堂的组合。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "八幡造（はちまんづくり）",
+          "feature": "前方外殿（がいでん）与后方内殿（ないでん）各有切妻屋顶，合为本殿；宇佐神宫和石清水八幡宫是代表。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "name": "権現造（ごんげんづくり）",
+          "feature": "北野天满宫以石の間连接本殿与拝殿，还带楽の間和脇殿，形成多屋面的整体；现建筑1607年营造。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "连接形式影响仪式空间和屋面交接，画多殿时必须同时考虑俯瞰关系与人在地面上的行走。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "石の間原为地面较低的连接空间，不宜一律画成与两殿同高的普通木走廊。",
+        "八棟造是北野天满宫的名称之一，不能据字面强行数成所有権現造共有八栋独立房屋。"
+      ],
+      "drawing": "先用前殿、后殿和连接段定位，再照原照片核对重叠屋顶；不要用装饰繁复程度代替形式判断。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：History and Typology of Shrine Architecture",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9696",
+          "locator": "Text 正文；缓存 cache/eos-9696.txt"
+        },
+        {
+          "id": "s2",
+          "title": "北野天満宮：国宝 御本殿",
+          "url": "https://kitanotenmangu.or.jp/guidance/gohonden/",
+          "locator": "本殿・拝殿・石の間・楽の間及1607年营造说明；cache/kitano-honden.txt"
+        },
+        {
+          "id": "s3",
+          "title": "石清水八幡宮：石清水八幡宮について",
+          "url": "https://iwashimizu.or.jp/about/",
+          "locator": "本社10栋及本殿说明；cache/iwashimizu-buildings.txt"
+        },
+        {
+          "id": "s4",
+          "title": "八幡市：石清水八幡宮 本社",
+          "url": "https://www.city.yawata.kyoto.jp/yawata-story/introduction/introduction003.html",
+          "locator": "本社1634年完成、前后内外殿与官方鸟瞰照片；cache/yawata-honden.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-roof-members",
+    "module": "architecture",
+    "category": "parts",
+    "name": "千木、鰹木与屋根葺材：屋脊和屋面细部",
+    "region": "日本",
+    "period": "传统屋脊构件与伊势、住吉现状",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9688",
+    "content": "区分屋脊构件、斜向千木和屋面铺盖材料，并保留机构原图的部件标注。",
+    "use": "先画屋脊轴线，再按照片落交叉千木和一根根鰹木；最后画檐口覆面厚度。",
+    "caution": "千木削向或鰹木奇偶不能单独用来判断全国神社祭神性别；具体规则以该社说明为准。",
+    "find": "千木、鰹木与屋根葺材：屋脊和屋面细部 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "传统屋脊构件与伊势、住吉现状",
+      "start": null,
+      "end": null,
+      "dateLabel": "传统屋脊构件与伊势、住吉现状",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "千木削向或鰹木奇偶不能单独用来判断全国神社祭神性别；具体规则以该社说明为准。",
+        "伊势图中的内外宫数量是特定正殿的对照，不能当成所有社殿统一尺寸表。"
+      ],
+      "evidence": [
+        {
+          "text": "区分屋脊构件、斜向千木和屋面铺盖材料，并保留机构原图的部件标注。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9688",
+          "locator": "Text 正文；缓存 cache/eos-9688.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9688"
+    },
+    "images": [
+      {
+        "source": "https://www.isejingu.or.jp/about/architecture/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/architecture/description01_p02.webp",
+        "caption": "伊势神宫内宫正殿屋脊鰹木近景，官网现状照片，摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1040,
+        "height": 693,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-katsuogi.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-katsuogi.webp"
+      },
+      {
+        "source": "https://www.isejingu.or.jp/about/architecture/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/architecture/description01_p03.webp",
+        "caption": "伊势神宫外宫千木近景，官网现状照片，摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1040,
+        "height": 693,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-chigi.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-chigi.webp"
+      },
+      {
+        "source": "https://sumiyoshitaisha.net/grounds/honden.html",
+        "original": "https://sumiyoshitaisha.net/cmn/uniq/grounds/img_honden_02.png",
+        "caption": "住吉大社第一本宫现状，现本殿1810年营造；妻入、檜皮葺与丹白配色，摄影年未载。",
+        "provider": "住吉大社",
+        "credit": "住吉大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 640,
+        "height": 400,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-sumiyoshi.png",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-sumiyoshi.png"
+      }
+    ],
+    "topic": {
+      "scope": "区分屋脊构件、斜向千木和屋面铺盖材料，并保留机构原图的部件标注。",
+      "common": [
+        {
+          "title": "屋脊上的两种木件",
+          "text": "千木（ちぎ）在屋脊端呈交叉上伸；鰹木（かつおぎ）是沿屋脊间隔排列、与屋脊垂直的短木。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "构件与覆面分开看",
+          "text": "伊势神宫的茅葺（萱葺）呈厚屋面，住吉大社的檜皮葺（ひわだぶき）由桧树皮铺叠；这属于材料区别，不是入口形式名称。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "延伸千木与置千木",
+          "feature": "千木有从破风延出的形式，也有另设在屋脊上的置千木（おきちぎ）；后者主要作为屋脊标志。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "内削与外削",
+          "feature": "末端削面可平行地面（内削）或竖直（外削）；伊势内外宫官方照片可对照。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "茅葺与檜皮葺",
+          "feature": "前者用草料成厚层，后者铺叠树皮；观察檐口厚度、表面纹理及屋脊处理。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "将屋脊木件和覆面材料分别记录，能画清交叉、压盖与屋檐厚度，不会把所有屋顶都画成瓦。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "千木削向或鰹木奇偶不能单独用来判断全国神社祭神性别；具体规则以该社说明为准。",
+        "伊势图中的内外宫数量是特定正殿的对照，不能当成所有社殿统一尺寸表。"
+      ],
+      "drawing": "先画屋脊轴线，再按照片落交叉千木和一根根鰹木；最后画檐口覆面厚度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：Katsuogi, Chigi",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9688",
+          "locator": "Text 正文；缓存 cache/eos-9688.txt"
+        },
+        {
+          "id": "s2",
+          "title": "伊勢神宮：社殿の建築",
+          "url": "https://www.isejingu.or.jp/about/architecture/",
+          "locator": "神明造の特徴；内宮と外宮の違い；cache/ise-structure.txt"
+        },
+        {
+          "id": "s3",
+          "title": "住吉大社：建築様式",
+          "url": "https://sumiyoshitaisha.net/about/architect.html",
+          "locator": "本殿「住吉造」：桧皮葺解释；cache/sumiyoshi-structure.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-torii",
+    "module": "architecture",
+    "category": "parts",
+    "name": "鸟居：神明、明神与特殊型入口",
+    "region": "日本",
+    "period": "当代鸟居现状与传统类型",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/torii/",
+    "content": "从横梁轮廓、柱与貫观察鸟居，理解其在神域入口处的作用。",
+    "use": "按照片先定两柱间净空，再画笠木与貫的端部；避免把方柱、圆柱和反翘横梁混搭。",
+    "caution": "鸟居起源有多种学说，不把神话说明当成已证实的工程起源。",
+    "find": "鸟居：神明、明神与特殊型入口 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "当代鸟居现状与传统类型",
+      "start": null,
+      "end": null,
+      "dateLabel": "当代鸟居现状与传统类型",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "鸟居起源有多种学说，不把神话说明当成已证实的工程起源。",
+        "朱红色并不能单独判定鸟居所属类型，需看实际结构轮廓。"
+      ],
+      "evidence": [
+        {
+          "text": "从横梁轮廓、柱与貫观察鸟居，理解其在神域入口处的作用。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/torii/",
+          "locator": "鳥居の起源とそのかたち；cache/honcho-torii.txt"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/torii/"
+    },
+    "images": [
+      {
+        "source": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/keidai/img_02.jpg",
+        "caption": "神社本厅境内说明页的鸟居实景；原页未标社名及年代，用于观察参道入口的两柱横梁。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1000,
+        "height": 667,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-torii-photo.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-torii-photo.jpg"
+      }
+    ],
+    "topic": {
+      "scope": "从横梁轮廓、柱与貫观察鸟居，理解其在神域入口处的作用。",
+      "common": [
+        {
+          "title": "入口处的界标",
+          "text": "鸟居（とりい）标明神社内外的界线；没有通常本殿、直接祭祀山等自然物的神社也可重视鸟居。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "先看横梁和柱",
+          "text": "上部横梁的直线或上翘是初步辨认线索；材料、柱形和横向貫（ぬき）的伸出方式还会产生变体。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "神明鸟居（しんめいとりい）",
+          "feature": "上方横梁取直线形，轮廓朴素；照片须继续核对柱和貫。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "明神鸟居（みょうじんとりい）",
+          "feature": "上方横梁两端向上反翘，形态有多种分支。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "住吉鸟居（すみよしとりい）",
+          "feature": "住吉大社例的柱为方形，貫的两端不伸出柱外，是可见的特定做法。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "给人物画进入神域的动作时，鸟居既是穿越点，也提供柱高与人的尺度对照。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "鸟居起源有多种学说，不把神话说明当成已证实的工程起源。",
+        "朱红色并不能单独判定鸟居所属类型，需看实际结构轮廓。"
+      ],
+      "drawing": "按照片先定两柱间净空，再画笠木与貫的端部；避免把方柱、圆柱和反翘横梁混搭。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：鳥居について",
+          "url": "https://www.jinjahoncho.or.jp/omairi/torii/",
+          "locator": "鳥居の起源とそのかたち；cache/honcho-torii.txt"
+        },
+        {
+          "id": "s2",
+          "title": "住吉大社：建築様式",
+          "url": "https://sumiyoshitaisha.net/about/architect.html",
+          "locator": "住吉鳥居：方柱与貫；cache/sumiyoshi-structure.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-gates-fences",
+    "module": "architecture",
+    "category": "parts",
+    "name": "神门、楼门、随神门与玉垣：可穿越的边界",
+    "region": "日本",
+    "period": "传统门垣类型；大国魂2011年改建例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.aisf.or.jp/~jaanus/deta/sOri2/shinmon.htm",
+    "content": "比较带屋顶的神门及围垣，理解门口通行、门侧像龛与层次。",
+    "use": "先留中央通道，再落两侧像龛、围垣和上层；以祭礼通过的真实尺度核对门洞。",
+    "caution": "随神像的身份、前后摆位按各社说明记录；不可把大国魂的具体配像当作通例。",
+    "find": "神门、楼门、随神门与玉垣：可穿越的边界 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "传统门垣类型；大国魂2011年改建例",
+      "start": null,
+      "end": null,
+      "dateLabel": "传统门垣类型；大国魂2011年改建例",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "随神像的身份、前后摆位按各社说明记录；不可把大国魂的具体配像当作通例。",
+        "楼门的楼层通常不是公众游览楼台，开放范围另查该社规定。"
+      ],
+      "evidence": [
+        {
+          "text": "比较带屋顶的神门及围垣，理解门口通行、门侧像龛与层次。",
+          "url": "https://www.aisf.or.jp/~jaanus/deta/sOri2/shinmon.htm",
+          "locator": "神门定义与单层/两层类型；cache/jaanus-shinmon.txt"
+        }
+      ],
+      "source": "https://www.aisf.or.jp/~jaanus/deta/sOri2/shinmon.htm"
+    },
+    "images": [
+      {
+        "source": "https://www.kasugataisha.or.jp/guidance/index/",
+        "original": "https://www.kasugataisha.or.jp/wp-content/uploads/2019/12/1_11nanmon.jpg",
+        "caption": "春日大社南门现状，位于南回廊的两层楼门；摄影年未载。",
+        "provider": "春日大社",
+        "credit": "春日大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 400,
+        "height": 260,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-kasuga-gate.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-kasuga-gate.jpg"
+      }
+    ],
+    "topic": {
+      "scope": "比较带屋顶的神门及围垣，理解门口通行、门侧像龛与层次。",
+      "common": [
+        {
+          "title": "门与垣一起控制入口",
+          "text": "神门（しんもん）是神社有屋盖门类的统称，可为单层或两层；玉垣（たまがき）沿神域边缘布置，门把围合中的通道集中起来。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "中央通行，两侧安置",
+          "text": "随神门（ずいじんもん）常在通道两侧安置随神像。大国魂神社现门先按祭礼神舆、大太鼓所需宽高确定开口。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "楼门（ろうもん）",
+          "feature": "两层门形成较高的正面标志；春日大社南门坐落于南回廊中，是进回廊内的入口。",
+          "refs": [
+            "s4"
+          ]
+        },
+        {
+          "name": "随神门／随身门",
+          "feature": "通道左右容纳守门神像；大国魂2011年改建门为桧木、铜板屋面，前后另有不同像。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "板垣与透垣",
+          "feature": "密排板材与留空的格栅式围垣形成不同可视度；玉垣也可用石材等制作。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画门时需要同时容纳人、神舆和像龛，门洞尺度与两侧附属空间会影响整个立面。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "随神像的身份、前后摆位按各社说明记录；不可把大国魂的具体配像当作通例。",
+        "楼门的楼层通常不是公众游览楼台，开放范围另查该社规定。"
+      ],
+      "drawing": "先留中央通道，再落两侧像龛、围垣和上层；以祭礼通过的真实尺度核对门洞。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "JAANUS：shinmon 神門",
+          "url": "https://www.aisf.or.jp/~jaanus/deta/sOri2/shinmon.htm",
+          "locator": "神门定义与单层/两层类型；cache/jaanus-shinmon.txt"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學 Encyclopedia of Shinto：Tamagaki",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9673",
+          "locator": "Text 正文；缓存 cache/eos-9673.txt"
+        },
+        {
+          "id": "s3",
+          "title": "大國魂神社：随神門",
+          "url": "https://www.ookunitamajinja.or.jp/meguri/zuijinmon.php",
+          "locator": "2011年改建、像的位置与开口设计；cache/ookunitama-gate.txt"
+        },
+        {
+          "id": "s4",
+          "title": "春日大社：御本社（大宮）回廊内",
+          "url": "https://www.kasugataisha.or.jp/guidance/index/",
+          "locator": "回廊总说明及对应建筑弹窗正文；cache/kasuga-buildings.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-purification-fonts",
+    "module": "architecture",
+    "category": "parts",
+    "name": "手水舍：参道旁的净手空间",
+    "region": "日本",
+    "period": "当代手水使用与河岸御手洗传统",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9671",
+    "content": "区分手水舍的屋盖、水盘和取水位置，并与河川御手洗场比较。",
+    "use": "先画水盘高度和人的手伸向水源的位置，再画柱、屋盖与连接参道的空地。",
+    "caution": "日常手水与神职祭前使用另备水进行的清手仪式有区别。",
+    "find": "手水舍：参道旁的净手空间 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "当代手水使用与河岸御手洗传统",
+      "start": null,
+      "end": null,
+      "dateLabel": "当代手水使用与河岸御手洗传统",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "日常手水与神职祭前使用另备水进行的清手仪式有区别。",
+        "柄杓及取水方式会随各社实际管理改变，表现当代使用时以现场告示为准。"
+      ],
+      "evidence": [
+        {
+          "text": "区分手水舍的屋盖、水盘和取水位置，并与河川御手洗场比较。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9671",
+          "locator": "Text 正文；缓存 cache/eos-9671.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9671"
+    },
+    "images": [
+      {
+        "source": "https://www.isejingu.or.jp/visit/map/geku.html",
+        "original": "https://www.isejingu.or.jp/asset/img/visit/common/geku_temizusha.webp",
+        "caption": "伊势神宫外宫手水舍现状照片，位于参拜动线上的净手设施；摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 672,
+        "height": 448,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-temizuya.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-temizuya.webp"
+      }
+    ],
+    "topic": {
+      "scope": "区分手水舍的屋盖、水盘和取水位置，并与河川御手洗场比较。",
+      "common": [
+        {
+          "title": "参拜前的停留点",
+          "text": "手水舍（てみずや／ちょうずや）供参拜者以水清净手口，多设在神社入口附近，使人沿参道行进时可先净身再礼拜。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "屋盖罩住水盘",
+          "text": "常见形式是几根柱支起屋顶，下置流水水盘和柄杓；取水、净手所需的站位围绕水盘展开。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "独立手水舍",
+          "feature": "有柱与屋顶的水盘空间；伊势神宫外宫照片可观察水盘边缘和柄杓架。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "河岸御手洗场",
+          "feature": "伊势五十铃川保留直接在河水边清净的场所，表现自然水岸与参拜流程的联系。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "建筑、水源和人的停留动作共同组成手水空间，画人群时要留下水盘边可接近的位置。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "日常手水与神职祭前使用另备水进行的清手仪式有区别。",
+        "柄杓及取水方式会随各社实际管理改变，表现当代使用时以现场告示为准。"
+      ],
+      "drawing": "先画水盘高度和人的手伸向水源的位置，再画柱、屋盖与连接参道的空地。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：Temizuya",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9671",
+          "locator": "Text 正文；缓存 cache/eos-9671.txt"
+        },
+        {
+          "id": "s2",
+          "title": "伊勢神宮：外宮域内マップ",
+          "url": "https://www.isejingu.or.jp/visit/map/geku.html",
+          "locator": "手水舎条目与照片；cache/ise-geku.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-dance-stages",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "神乐殿、舞殿与奉纳舞台：演者和观者怎样分开",
+    "region": "日本",
+    "period": "传统舞台类型与当代奉纳神乐",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9691",
+    "content": "比较独立舞台、兼用舞殿与祈祷神乐空间，以开敞柱间和表演位置为重点。",
+    "use": "从照片画出台面边界、柱列和可见的奏乐/参列区；保留人在柱间活动的空间。",
+    "caution": "各地神乐种类和舞台形式有差异，四周开敞只是常见类型之一。",
+    "find": "神乐殿、舞殿与奉纳舞台：演者和观者怎样分开 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "传统舞台类型与当代奉纳神乐",
+      "start": null,
+      "end": null,
+      "dateLabel": "传统舞台类型与当代奉纳神乐",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "各地神乐种类和舞台形式有差异，四周开敞只是常见类型之一。",
+        "伊势神乐殿的祈祷体系不等于所有地方神乐的空间安排。"
+      ],
+      "evidence": [
+        {
+          "text": "比较独立舞台、兼用舞殿与祈祷神乐空间，以开敞柱间和表演位置为重点。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9691",
+          "locator": "Text 正文；缓存 cache/eos-9691.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9691"
+    },
+    "images": [
+      {
+        "source": "https://www.kasugataisha.or.jp/guidance/index/",
+        "original": "https://www.kasugataisha.or.jp/wp-content/uploads/2020/03/05幣殿・舞殿resize.jpg",
+        "caption": "春日大社幣殿・舞殿现状，同一建筑东西分用；摄影年未载。",
+        "provider": "春日大社",
+        "credit": "春日大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 900,
+        "height": 643,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-kasuga-buden.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-kasuga-buden.jpg"
+      },
+      {
+        "source": "https://www.isejingu.or.jp/about/kaguraden/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/kaguraden/description01_p01.webp",
+        "caption": "伊势神宫内宫神乐殿内奉纳大々神楽的官方公开照片；可见舞者、左侧奏乐人员、木地板和帘幕，非本殿内阵，摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 1040,
+        "height": 693,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-prayer-interior.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-prayer-interior.webp"
+      }
+    ],
+    "topic": {
+      "scope": "比较独立舞台、兼用舞殿与祈祷神乐空间，以开敞柱间和表演位置为重点。",
+      "common": [
+        {
+          "title": "为奉纳表演留出场地",
+          "text": "神乐殿（かぐらでん）与舞殿（まいどの／ぶでん）用于奉纳神乐、舞等；有独立建筑，也有借用拝殿或其他殿堂的情况。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "高起舞台和周边视线",
+          "text": "独立舞殿可设近方形高台，四周开敞并带栏杆；演者的平面范围与台下观者位置要分开。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "独立开敞舞台",
+          "feature": "舞台可由柱与屋盖框出表演区，形式受到舞乐舞台影响。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "幣殿兼舞殿",
+          "feature": "春日大社一座东西长建筑的东侧两间为幣殿，西侧三间为舞殿；幣殿带格天井，与舞殿区分。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "祈祷神乐殿",
+          "feature": "伊势神宫神乐殿进行伴随奏乐与舞的御神乐；其设施区还包含御饌殿与授与所。",
+          "refs": [
+            "s4"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "先确定演者面向、奏乐位置和观者站位，才能把建筑表现为可使用的舞台。",
+          "refs": [
+            "s1",
+            "s4"
+          ]
+        }
+      ],
+      "limits": [
+        "各地神乐种类和舞台形式有差异，四周开敞只是常见类型之一。",
+        "伊势神乐殿的祈祷体系不等于所有地方神乐的空间安排。"
+      ],
+      "drawing": "从照片画出台面边界、柱列和可见的奏乐/参列区；保留人在柱间活动的空间。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：Kaguraden",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9691",
+          "locator": "Text 正文；缓存 cache/eos-9691.txt"
+        },
+        {
+          "id": "s2",
+          "title": "東京都神社庁：神社の建物にはどんなものがありますか",
+          "url": "https://mamechishiki.tokyo/?p=744",
+          "locator": "正文社殿名称与用途；cache/tokyo-buildings.txt"
+        },
+        {
+          "id": "s3",
+          "title": "春日大社：御本社（大宮）回廊内",
+          "url": "https://www.kasugataisha.or.jp/guidance/index/",
+          "locator": "回廊总说明及对应建筑弹窗正文；cache/kasuga-buildings.txt"
+        },
+        {
+          "id": "s4",
+          "title": "伊勢神宮：神楽殿",
+          "url": "https://www.isejingu.or.jp/about/kaguraden/",
+          "locator": "内宮神楽殿与大々神楽照片；cache/ise-kaguraden.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-offices-retreats",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "社务所、授与所与斋馆：日常接待和祭前准备",
+    "region": "日本",
+    "period": "近现代社务接待与祭前斋戒空间",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9678",
+    "content": "区分行政、面向参拜者的授与/祈祷受付以及神职斋戒空间，注意兼用建筑。",
+    "use": "画接待场景时先定柜台两侧与排队空地；把工作人员出入口和访客入口按照片区分。",
+    "caution": "明治前许多事务和斋戒在神职住宅内进行，当代办公建筑不能直接套进古代场景。",
+    "find": "社务所、授与所与斋馆：日常接待和祭前准备 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "近现代社务接待与祭前斋戒空间",
+      "start": null,
+      "end": null,
+      "dateLabel": "近现代社务接待与祭前斋戒空间",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "明治前许多事务和斋戒在神职住宅内进行，当代办公建筑不能直接套进古代场景。",
+        "斋馆内部未公开时只表现可证的外观和入口，不凭名称编造住宿房间。"
+      ],
+      "evidence": [
+        {
+          "text": "区分行政、面向参拜者的授与/祈祷受付以及神职斋戒空间，注意兼用建筑。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9678",
+          "locator": "Text 正文；缓存 cache/eos-9678.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9678"
+    },
+    "images": [
+      {
+        "source": "https://www.isejingu.or.jp/about/kaguraden/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/kaguraden/slide01_p03.webp",
+        "caption": "伊势神宫内宫神乐殿区的神札授与所，官网现状照片；摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 2520,
+        "height": 1680,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-office.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-office.webp"
+      }
+    ],
+    "topic": {
+      "scope": "区分行政、面向参拜者的授与/祈祷受付以及神职斋戒空间，注意兼用建筑。",
+      "common": [
+        {
+          "title": "日常管理与访客窗口",
+          "text": "社务所（しゃむしょ）处理神社事务，常含神札授与、祈祷申请和会集功能；授与所（じゅよしょ）是面向参拜者领取神札、守札等的窗口。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "title": "斋馆服务祭前准备",
+          "text": "斋馆（さいかん）供神职祭前斋戒、清净身心和宿留；中小神社可将其与社务所合设。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "行政与受付合设",
+          "feature": "社务所可同时接待祈祷申请、授与神札并提供会集场所，访客区与工作区相邻。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "集中式授与区",
+          "feature": "伊势内宫神乐殿区从左至右包含神札授与所、祈祷受付、御饌殿、神乐殿。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "独立或兼用斋馆",
+          "feature": "可有专用斋戒建筑，也可用社务所内相应空间承担。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "这些设施把持续的日常工作、访客服务和祭前准备接起来，因此人物动作包括询问、受领和等候。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "明治前许多事务和斋戒在神职住宅内进行，当代办公建筑不能直接套进古代场景。",
+        "斋馆内部未公开时只表现可证的外观和入口，不凭名称编造住宿房间。"
+      ],
+      "drawing": "画接待场景时先定柜台两侧与排队空地；把工作人员出入口和访客入口按照片区分。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：Shamusho",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9678",
+          "locator": "Text 正文；缓存 cache/eos-9678.txt"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學 Encyclopedia of Shinto：Saikan",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9681",
+          "locator": "Text 正文；缓存 cache/eos-9681.txt"
+        },
+        {
+          "id": "s3",
+          "title": "伊勢神宮：神楽殿",
+          "url": "https://www.isejingu.or.jp/about/kaguraden/",
+          "locator": "内宮神楽殿中授与所与受付的排列；cache/ise-kaguraden.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-kitchens-storehouses",
+    "module": "architecture",
+    "category": "rooms",
+    "name": "神饌所、御饌殿与神库：供食和储藏后勤",
+    "region": "日本",
+    "period": "传统供食储藏分工与现状实例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9677",
+    "content": "按准备食物、举行供食仪式及储藏神宝区分后勤建筑，避免名称相同就认为功能相同。",
+    "use": "以照片核对门、地板高度和出入口，人物搬运方向只按有证据的功能关系安排。",
+    "caution": "“御饌殿”在不同神社甚至同一神宫不同区域的用途应逐处核对。",
+    "find": "神饌所、御饌殿与神库：供食和储藏后勤 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "传统供食储藏分工与现状实例",
+      "start": null,
+      "end": null,
+      "dateLabel": "传统供食储藏分工与现状实例",
+      "dateBasis": "跨时代类别专题，未给整个类别虚设起止年；现存营造年、历史形制与摄影年分别说明。",
+      "notes": [
+        "“御饌殿”在不同神社甚至同一神宫不同区域的用途应逐处核对。",
+        "外观照片不能证明室内有何灶、柜或固定器具；不补画未公开设备。"
+      ],
+      "evidence": [
+        {
+          "text": "按准备食物、举行供食仪式及储藏神宝区分后勤建筑，避免名称相同就认为功能相同。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9677",
+          "locator": "Text 正文；缓存 cache/eos-9677.txt"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9677"
+    },
+    "images": [
+      {
+        "source": "https://www.isejingu.or.jp/visit/map/geku.html",
+        "original": "https://www.isejingu.or.jp/asset/img/visit/common/geku_imibiyaden.webp",
+        "caption": "伊势神宫外宫忌火屋殿与祓所现状，是制作神饌的后勤空间；摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 672,
+        "height": 448,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-imibiya.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-imibiya.webp"
+      },
+      {
+        "source": "https://www.kasugataisha.or.jp/guidance/index/",
+        "original": "https://www.kasugataisha.or.jp/wp-content/uploads/2020/03/07宝庫.jpg",
+        "caption": "春日大社宝库现状；本专题用于神宝储藏空间例证，非自由参观室内。",
+        "provider": "春日大社",
+        "credit": "春日大社",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 900,
+        "height": 643,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-kasuga-store.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-kasuga-store.jpg"
+      },
+      {
+        "source": "https://www.isejingu.or.jp/about/kaguraden/",
+        "original": "https://www.isejingu.or.jp/asset/img/about/kaguraden/slide01_p02.webp",
+        "caption": "伊势神宫内宫神乐殿区的御饌殿外观；此处承担御饌祈祷，摄影年未载。",
+        "provider": "神宮司庁",
+        "credit": "神宮司庁",
+        "kind": "photo",
+        "related": false,
+        "license": "机构公开原图；单张图开放许可未确认，公开复用请核对原机构规定。",
+        "width": 2520,
+        "height": 1680,
+        "src": "绘画参考资源/例图/shrine20261017-architecture-mike-interior.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-mike-interior.webp"
+      }
+    ],
+    "topic": {
+      "scope": "按准备食物、举行供食仪式及储藏神宝区分后勤建筑，避免名称相同就认为功能相同。",
+      "common": [
+        {
+          "title": "食物先准备再供献",
+          "text": "神饌殿（しんせんでん）是准备供神饮食的建筑总称，各社可称御供所、神供所、御饌殿、忌火屋等，规模和设备有差别。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "储藏有自己的用途",
+          "text": "神库、宝库等用于保存神宝和祭祀物品。春日大社宝库现藏春日祭装饰本殿的镜、太刀、鉾、弓矢等，平常封存。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "调理型神饌空间",
+          "feature": "伊势外宫忌火屋殿是调理神饌的“神的厨房”；忌火意为清净之火。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "祈祷型御饌殿",
+          "feature": "伊势内宫神乐殿区的御饌殿承担御饌祈祷，名称相近但不能等同厨房。",
+          "refs": [
+            "s4"
+          ]
+        },
+        {
+          "name": "神宝储藏型宝库",
+          "feature": "春日大社宝库为高床仓式外观，存放祭礼神宝，与准备食物的空间分工。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "明确储藏、调理与仪式各在哪里，后勤人物端运器物或食物的目的和路线才清楚。",
+          "refs": [
+            "s1",
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "“御饌殿”在不同神社甚至同一神宫不同区域的用途应逐处核对。",
+        "外观照片不能证明室内有何灶、柜或固定器具；不补画未公开设备。"
+      ],
+      "drawing": "以照片核对门、地板高度和出入口，人物搬运方向只按有证据的功能关系安排。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學 Encyclopedia of Shinto：Shinsenden",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9677",
+          "locator": "Text 正文；缓存 cache/eos-9677.txt"
+        },
+        {
+          "id": "s2",
+          "title": "春日大社：御本社（大宮）回廊内",
+          "url": "https://www.kasugataisha.or.jp/guidance/index/",
+          "locator": "回廊总说明及对应建筑弹窗正文；cache/kasuga-buildings.txt"
+        },
+        {
+          "id": "s3",
+          "title": "伊勢神宮：外宮域内マップ",
+          "url": "https://www.isejingu.or.jp/visit/map/geku.html",
+          "locator": "忌火屋殿・祓所条目；cache/ise-geku.txt"
+        },
+        {
+          "id": "s4",
+          "title": "伊勢神宮：神楽殿",
+          "url": "https://www.isejingu.or.jp/about/kaguraden/",
+          "locator": "御祈祷「御饌」を行う御饌殿；cache/ise-kaguraden.txt"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-shinsen-vessels",
+    "module": "objects",
+    "category": "vessels",
+    "name": "神饌与承供祭器：三方、折敷、高坏及供物陈列",
+    "region": "日本；各神社的供物有地方差异",
+    "period": "现行供奉用法；历史祭器类型作对照",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/",
+    "content": "比较神前食物供献的承托、盛装和陈列层级，便于画出祭桌、供器与神职的位置关系。",
+    "use": "先定桌面与每座三方的落点，再画折敷边框和供物重量；白色酒水供器与蔬果分组，不凭想象填满空位。",
+    "caution": "供物种类、数量和排列按神社及祭典变化；本文不给出全国统一摆法。",
+    "find": "神饌与承供祭器：三方、折敷、高坏及供物陈列 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行供奉用法；历史祭器类型作对照",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行供奉用法；历史祭器类型作对照",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "研究重心为公开说明中的现行神饌；祭器术语对照不意味着各类型同年起源。"
+      ],
+      "evidence": [
+        {
+          "text": "研究重心为公开说明中的现行神饌；祭器术语对照不意味着各类型同年起源。",
+          "url": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/",
+          "locator": "「神饌」「日々行う日供祭」全文"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-shinsen.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-shinsen.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omatsuri/shinsen/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/",
+        "caption": "神社本庁神饌说明页原照：素木承供台、浅盘、蔬果及白色供器；地点、祭典名和拍摄年未载。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 1440,
+        "height": 958,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较神前食物供献的承托、盛装和陈列层级，便于画出祭桌、供器与神职的位置关系。",
+      "common": [
+        {
+          "title": "供献与撤下",
+          "text": "神饌（しんせん）又称御饌，是祭典中献给神的食物；神职在日供祭等场合奉献，祭后供物可由参列者分享。米、酒、盐、水与地方物产的组合随祭典而变化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "先看承托层级",
+          "text": "三方（さんぼう）是承放神饌的台，折敷（おしき）是其上的盘；八足案（はっそくあん）则是承置供物、玉串等的桌案。画面应区分桌案、台座、盘和盛装器皿。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "三方与折敷",
+          "feature": "三方常用素木桧木制作，台座把托盘抬高；折敷的浅边框约束盘内物件。照片中蔬果、白色供器各自占据承托面。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        },
+        {
+          "name": "角高坏与丸高坏",
+          "feature": "高坏（たかつき）是带高足的承供器，按承面分角形和圆形；与三方的箱状台座区分观察。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "生饌与熟饌的陈列",
+          "feature": "生饌以未经烹调的物品供献，熟饌使用已烹调物；这是供物处理的分类，器形仍需按具体祭典照片核对。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "把食物和承具分层辨认，才能说明神前陈列怎样成立，也能避免把日常餐桌器皿整套搬进祭典。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "供物种类、数量和排列按神社及祭典变化；本文不给出全国统一摆法。",
+        "照片的神社地点、拍摄年份与所示祭典未独立标明；仅作现行陈列实例。"
+      ],
+      "drawing": "先定桌面与每座三方的落点，再画折敷边框和供物重量；白色酒水供器与蔬果分组，不凭想象填满空位。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：神饌",
+          "url": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/",
+          "locator": "「神饌」「日々行う日供祭」全文"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學：Basic Terms of Shinto／Saikigu",
+          "url": "https://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_s.html#saikigu",
+          "locator": "Saikigu：Sanbô、Oshiki、Hassokuan、Takatsuki四条"
+        },
+        {
+          "id": "s3",
+          "title": "神社本庁：神饌原照",
+          "url": "https://www.jinjahoncho.or.jp/omatsuri/shinsen/",
+          "locator": "正文首幅照片；可见三方、浅盘和白色供器"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-tamagushi",
+    "module": "objects",
+    "category": "tools",
+    "name": "玉串与榊枝：纸垂、麻苧和双手奉献动作",
+    "region": "日本；以通行正式参拜说明为主",
+    "period": "现行玉串拝礼；附材料类型对照",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/tamagushi/",
+    "content": "从小枝、附着物和手部转向认识玉串（たまぐし），区分手持供献与神前固定陈设。",
+    "use": "在草稿上先标枝根、枝梢和两手接触点，再画叶与纸垂；放案阶段让枝根朝神前。",
+    "caution": "皇學館列出的是立礼代表者作法；坐礼、特殊祭仪及个别神社规定需另外核对。",
+    "find": "玉串与榊枝：纸垂、麻苧和双手奉献动作 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行玉串拝礼；附材料类型对照",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行玉串拝礼；附材料类型对照",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "现行用法见神社本庁及皇學館立礼说明；照片未给制作年，起止年留空。"
+      ],
+      "evidence": [
+        {
+          "text": "现行用法见神社本庁及皇學館立礼说明；照片未给制作年，起止年留空。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/tamagushi/",
+          "locator": "「お供えの中でも、格別の意味を有する玉串」「玉串の起源と名称の由来」"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/tamagushi/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-tamagushi.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-tamagushi.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/tamagushi/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/tamagushi/",
+        "caption": "神社本庁玉串原照：榊叶、小枝与白色纸垂；地点和拍摄年未载，照片仅展示持奉物件局部。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 2000,
+        "height": 1334,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "从小枝、附着物和手部转向认识玉串（たまぐし），区分手持供献与神前固定陈设。",
+      "common": [
+        {
+          "title": "手持供物",
+          "text": "玉串是附纸垂或麻苧的榊枝，参拜者亲手奉献并拝礼，把祈愿寄托在供物上；神社本庁也说明其与迎神依代的联系。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "握法与放置方向",
+          "text": "皇學館的立礼说明为：右手从上握枝根，左手从下托中段，持至胸前、枝梢稍高；转持之后把枝根朝向神前，放在案上再拝礼。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "纸垂附枝",
+          "feature": "枝上系折成曲折形的纸垂（しで），保留叶片、分枝与纸条的前后遮挡。神社本庁原照可见这一实物组合。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "name": "麻苧附枝",
+          "feature": "正式参拜用玉串也可附麻苧（あさお）；材质呈纤维束，轮廓和纸垂的折角不同。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同一小枝在接取、祈念、转向和放到案上时，枝根与枝梢关系改变；连续画面要让双手换位与枝向一致。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "皇學館列出的是立礼代表者作法；坐礼、特殊祭仪及个别神社规定需另外核对。",
+        "玉串语源与神话缘起有多种解释，不能把神话当成实物发明年代。"
+      ],
+      "drawing": "在草稿上先标枝根、枝梢和两手接触点，再画叶与纸垂；放案阶段让枝根朝神前。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：玉串の意味",
+          "url": "https://www.jinjahoncho.or.jp/omairi/tamagushi/",
+          "locator": "「お供えの中でも、格別の意味を有する玉串」「玉串の起源と名称の由来」"
+        },
+        {
+          "id": "s2",
+          "title": "皇學館大学：学生手帐／神社参拝の作法",
+          "url": "https://sp.kogakkan-u.ac.jp/files/upload/67e4a0c74197f7.23058824.pdf#page=62",
+          "locator": "PDF第62页，印刷59页「（4）玉串拝礼の作法（立礼）」；照片⑨—⑮及文字"
+        },
+        {
+          "id": "s3",
+          "title": "國學院大學：Basic Terms／Tamagushi",
+          "url": "https://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_t.html#tamagushi",
+          "locator": "Tamagushi条：树枝与yû、shide材料"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-haraegu-gohei",
+    "module": "objects",
+    "category": "tools",
+    "name": "大幣、祓串与御幣：纸垂祭具的材料、摆放和挥祓用途",
+    "region": "日本；神社祭祀与家庭授与品用法分述",
+    "period": "现行用法；古代材料与动作变化仅作背景",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9655",
+    "content": "按器具名称、附纸结构与仪式角色比较大幣／大麻（おおぬさ）、祓串（はらえぐし）及御幣（ごへい）。",
+    "use": "先画受祓者与神职的距离、握杆位置和纸束重心；静置在案上的纸垂与正在挥动的纸束用不同轮廓。",
+    "caution": "御幣与大幣的用法并非绝对互斥，不可仅凭纸条数量作全国通用判定。",
+    "find": "大幣、祓串与御幣：纸垂祭具的材料、摆放和挥祓用途 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行用法；古代材料与动作变化仅作背景",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行用法；古代材料与动作变化仅作背景",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "现行挥祓与材料分类据EOS；古代自持转秽只作文字历史对照，未据现场照片回推年代。"
+      ],
+      "evidence": [
+        {
+          "text": "现行挥祓与材料分类据EOS；古代自持转秽只作文字历史对照，未据现场照片回推年代。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9655",
+          "locator": "Text全文：材料、榊枝／素木杆与古今动作差异"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9655"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-onusa.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-onusa.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/gokigan/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/gokigan/",
+        "caption": "神社本庁祈愿现场原照：神职面向参列者，后方案上可见白色纸垂祭具；匾额可读「世田谷八幡宮」，拍摄年未载。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 2000,
+        "height": 1334,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-clothing-kariginu-wear.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-clothing-kariginu-wear.jpg",
+        "original": "https://assets.st-note.com/img/1754885618-hJy9XwZa6q31nEeAQNs2bSVT.jpg",
+        "source": "https://note.com/kawagoe_hikawa/n/ndaac91356218",
+        "caption": "川越氷川神社官方实景原照：神职鼓手旁，纸垂祭具立置在台架上，可观察纸束长度与杆、底座的关系；照片未标具体仪式、祭具型号及拍摄年。",
+        "provider": "川越氷川神社",
+        "credit": "川越氷川神社公开供图；摄影者未单列。",
+        "license": "未确认开放复用许可；照片版权及再利用条件请向原机构核对。",
+        "width": 4000,
+        "height": 3200,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按器具名称、附纸结构与仪式角色比较大幣／大麻（おおぬさ）、祓串（はらえぐし）及御幣（ごへい）。",
+      "common": [
+        {
+          "title": "杆与附着物",
+          "text": "大幣可以是在榊枝上附麻或纸垂，也可以用素木杆承接纸垂；木杆形在资料中又称祓串。辨认时同时看杆形、枝叶和纸束。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "神职与受祓对象",
+          "text": "后世常见用法是神职持杆在对象前挥祓，受祓者在其前方。古代还存在受祓者自持、把秽转移到祭具的方式，动作不能跨时代套用。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "榊枝形大幣",
+          "feature": "保留常绿枝叶，枝上附麻或纸垂，兼有植物枝的外轮廓。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "素木杆祓串",
+          "feature": "纸垂附于六角或八角等素木杆，手握下部杆身挥动；纸束随动作展开。大歳神社另授与小型家庭用祓串，不能据此推定祭典标准尺寸。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        },
+        {
+          "name": "御幣",
+          "feature": "在竹木幣串上附白、金、银或五色纸，源于奉献布帛；后来也用于神前陈设、依代或祓具。它与大幣有用途交叠，名称须随具体仪式核对。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "按仪式角色区分供献、陈设和挥祓，能够说明外观相近的纸垂祭具为何出现在不同位置。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "御幣与大幣的用法并非绝对互斥，不可仅凭纸条数量作全国通用判定。",
+        "所配祈愿现场原照可见案上纸垂祭具与神职站位，未表现完整的挥祓动作；地点为照片内匾额所示神社，拍摄年未知。"
+      ],
+      "drawing": "先画受祓者与神职的距离、握杆位置和纸束重心；静置在案上的纸垂与正在挥动的纸束用不同轮廓。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學EOS：Ōnusa",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9655",
+          "locator": "Text全文：材料、榊枝／素木杆与古今动作差异"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學EOS：Gohei",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9612",
+          "locator": "Text全文：纸色、幣串、供献与依代／祓具的用途扩展"
+        },
+        {
+          "id": "s3",
+          "title": "大歳神社WEB授与所：祓い串／大麻",
+          "url": "https://ootoshi.official.ec/items/70373152",
+          "locator": "「説明」「サイズ」：神职用大幣与家庭用小型授与品；正文经web工具实际读取，笔记留存"
+        },
+        {
+          "id": "s4",
+          "title": "神社本庁：神社でのご祈願",
+          "url": "https://www.jinjahoncho.or.jp/omairi/gokigan/",
+          "locator": "正文原照与「特別なご祈願をする場合」"
+        },
+        {
+          "id": "s5",
+          "title": "川越氷川神社：四季の彩りを楽しむ－装束－",
+          "url": "https://note.com/kawagoe_hikawa/n/ndaac91356218",
+          "locator": "官方note正文的「狩衣」原照；仅作旁置祭具的形态与空间观察"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-shimenawa-shide",
+    "module": "objects",
+    "category": "tools",
+    "name": "注连绳与纸垂：殿前、神木和祭场的界线标记",
+    "region": "日本；以出雲大社2018年更换实景为例",
+    "period": "现行用法；2018年出雲实景有明确记录",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9616",
+    "content": "比较注連縄（しめなわ）的悬挂、环绕和纸垂附挂方式，说明它怎样标出神圣空间。",
+    "use": "横挂先画受重下垂的主绳，再加草束和薄纸；环树形让绳被树干遮挡，巨型绳用工作人员身体校正尺度。",
+    "caution": "各社的绞向、粗端朝向和纸垂形式存在差异，出雲尺寸不得套用其他神社。",
+    "find": "注连绳与纸垂：殿前、神木和祭场的界线标记 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行用法；2018年出雲实景有明确记录",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行用法；2018年出雲实景有明确记录",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "整体研究为现行界线标记用法；实景施工日期为2018年7月17日，不能据此作为注连绳起源。"
+      ],
+      "evidence": [
+        {
+          "text": "整体研究为现行界线标记用法；实景施工日期为2018年7月17日，不能据此作为注连绳起源。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9616",
+          "locator": "Text全文：场所、材料、纸垂与标记作用"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9616"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-shimenawa.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-shimenawa.jpg",
+        "original": "https://izumooyashiro.or.jp/wp-content/uploads/2018/07/osn_20180717-21.jpg",
+        "source": "https://izumooyashiro.or.jp/archives/hounou/4033",
+        "caption": "出雲大社神乐殿，2018年7月17日更换工程：吊车取下旧大注连绳；原图日文说明明确标为旧绳。",
+        "provider": "出雲大社",
+        "credit": "出雲大社",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 1414,
+        "height": 1044,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-shimenawa-new.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-shimenawa-new.jpg",
+        "original": "https://izumooyashiro.or.jp/wp-content/uploads/2018/07/osn_20180717-11.jpg",
+        "source": "https://izumooyashiro.or.jp/archives/hounou/4033",
+        "caption": "出雲大社神乐殿，2018年7月17日同次工程中新大注连绳在地面准备安装的现场；尺寸仅适用于该次新绳。",
+        "provider": "出雲大社",
+        "credit": "出雲大社",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 1414,
+        "height": 1044,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较注連縄（しめなわ）的悬挂、环绕和纸垂附挂方式，说明它怎样标出神圣空间。",
+      "common": [
+        {
+          "title": "绳线标出范围",
+          "text": "注连绳可悬在殿前、境内入口或祭场周围，用来标明神圣或清净范围；纸垂是可附在绳上的曲折纸条。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "材料与维护动作",
+          "text": "稻草绳有编绞主干、散垂草束及纸垂几个层次。出雲大社2018年更换神乐殿大注连绳时由当地团体奉制，并以大型吊车搬运。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "入口、殿前横挂形",
+          "feature": "横向绳体跨过入口或社殿正面；应以现场判读两端悬挂点、粗细变化和垂饰间隔。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "神木环绕形",
+          "feature": "神木树干周围可以围注连绳，把被尊崇的树与一般树木区别。绳贴合树体的弧线与殿前悬垂不同。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "出雲神乐殿巨型绳",
+          "feature": "2018年新绳记录长13.6米、重5.2吨，属于特定地点与更换批次；吊装照片可核对人与绳的比例。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "先确定标记围住的是树、入口还是祭场，再安排绳与人物的关系，画面会更清楚地表现空间边界。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "各社的绞向、粗端朝向和纸垂形式存在差异，出雲尺寸不得套用其他神社。",
+        "配图一为2018年取下的旧绳，配图二为同次更换现场的新绳地面准备；图下日文原注保留，不把更换施工画成日常参拜。"
+      ],
+      "drawing": "横挂先画受重下垂的主绳，再加草束和薄纸；环树形让绳被树干遮挡，巨型绳用工作人员身体校正尺度。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學EOS：Shimenawa",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9616",
+          "locator": "Text全文：场所、材料、纸垂与标记作用"
+        },
+        {
+          "id": "s2",
+          "title": "出雲大社：神楽殿大注連縄取り替え",
+          "url": "https://izumooyashiro.or.jp/archives/hounou/4033",
+          "locator": "2018年7月17日记录；作业、尺寸及两幅原图图下注"
+        },
+        {
+          "id": "s3",
+          "title": "國學院大學：Basic Terms／Shinboku",
+          "url": "https://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_s.html#shinboku",
+          "locator": "Shinboku条：神木与环绕注连绳"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-worship-bell-saisen",
+    "module": "objects",
+    "category": "tools",
+    "name": "参拜设施：本坪铃、铃绪与赛钱箱",
+    "region": "日本；多见的拝殿前参拜布置",
+    "period": "现行参拜用法",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/suzu/",
+    "content": "按固定铃体、垂下的拉绳和供钱位置理解参拜者如何接近并操作设施。",
+    "use": "先画梁下悬挂点，再画绳与手的连接；儿童与成人可能够到不同位置，箱体边缘不要挡住脚部站立空间。",
+    "caution": "悬铃并非每座神社必备。",
+    "find": "参拜设施：本坪铃、铃绪与赛钱箱 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行参拜用法",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行参拜用法",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "以来源当前说明的参拜方式为研究范围；网页更新日期不作为设施起源。"
+      ],
+      "evidence": [
+        {
+          "text": "以来源当前说明的参拜方式为研究范围；网页更新日期不作为设施起源。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/suzu/",
+          "locator": "「鈴の音は厄を祓い、神霊の発動を願う」「神楽舞に見られる鈴も祓の一つ」"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/suzu/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-suzu.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-suzu.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/suzu/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/suzu/",
+        "caption": "神社本庁参拜铃原照：两位参拜者与下垂铃绪、社殿正面；照片未载神社名及拍摄年。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 2000,
+        "height": 1334,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-osaisen.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-osaisen.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/osaisen/img_02@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/osaisen/",
+        "caption": "神社本庁赛钱说明页原照：参拜者掌中的硬币，用于供钱动作局部参考；此图不展示赛钱箱结构，拍摄年与地点未载。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 2000,
+        "height": 1334,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按固定铃体、垂下的拉绳和供钱位置理解参拜者如何接近并操作设施。",
+      "common": [
+        {
+          "title": "高处铃、低处绳",
+          "text": "许多神社在拝殿中央、赛钱箱上方悬本坪鈴（ほんつぼすず）。参拜者摇动下垂的麻绳或红白、五色布条，使高处铃体发声。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "钱是供物",
+          "text": "赛钱箱接受参拜者奉献的金钱；神社本庁建议动作郑重，并说明赛钱金额没有统一规定。原照中的绳端高度可与成人、儿童站位对照。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "单体悬铃与铃绪",
+          "feature": "单个大型闭口铃悬在梁下，绳或布带伸向手部活动范围；操作要画出拉绳连接和铃体受力方向。",
+          "refs": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "name": "赛钱箱",
+          "feature": "箱体是收纳供钱的设施，与悬铃承担不同作用；箱的位置影响人物前倾与伸手。具体箱盖格栅、尺寸和材质以所在地实景为准。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "手持铃的对照",
+          "feature": "神乐铃由舞者持在手中摇动，与参拜者拉动绳索的固定本坪铃区分；两者同与祓清的意义相联。",
+          "refs": [
+            "s1",
+            "s4"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "把固定点、绳端和人物手的高度一起安排，可以让摇铃动作有可见的传力关系。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "悬铃并非每座神社必备。",
+        "照片中赛钱箱并未给出清晰独立近景，不能从图推定箱体结构；地点与拍摄年未载。"
+      ],
+      "drawing": "先画梁下悬挂点，再画绳与手的连接；儿童与成人可能够到不同位置，箱体边缘不要挡住脚部站立空间。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：参拝の際に鳴らす鈴について",
+          "url": "https://www.jinjahoncho.or.jp/omairi/suzu/",
+          "locator": "「鈴の音は厄を祓い、神霊の発動を願う」「神楽舞に見られる鈴も祓の一つ」"
+        },
+        {
+          "id": "s2",
+          "title": "神社本庁：お賽銭の今と昔",
+          "url": "https://www.jinjahoncho.or.jp/omairi/osaisen/",
+          "locator": "「感謝の気持ちとしてのお供えが由来」「お賽銭の額に決まりは無い」"
+        },
+        {
+          "id": "s3",
+          "title": "神社本庁：悬铃参拜原照",
+          "url": "https://www.jinjahoncho.or.jp/omairi/suzu/",
+          "locator": "正文照片：麻绳、参拜者与社殿正面"
+        },
+        {
+          "id": "s4",
+          "title": "Met：Suzu的两种仪式形态",
+          "url": "https://www.metmuseum.org/art/collection/search/500655",
+          "locator": "开头类级说明：大型悬铃与手持铃树"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-shintai-treasures",
+    "module": "objects",
+    "category": "tools",
+    "name": "神体、神座与公开神宝：铜镜、刀剑和奉纳物的角色",
+    "region": "日本；馆藏对照含大阪石切劔箭神社",
+    "period": "古代实物与现行收藏、奉祀说明对照",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9660",
+    "content": "先区分物的宗教角色和公开收藏，再比较铜镜与刀剑等神宝类别；只使用已公开的实物资料。",
+    "use": "画馆藏镜时保留实物的钮、纹饰和损蚀；画神座或内殿须另找该社公开资料，不能把展柜照片变作秘藏原位。",
+    "caution": "公开铜镜照片并非伊势八咫镜或本殿秘藏神体的照片；没有证据时不赋予馆藏铜镜神体身份。",
+    "find": "神体、神座与公开神宝：铜镜、刀剑和奉纳物的角色 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "古代实物与现行收藏、奉祀说明对照",
+      "start": null,
+      "end": null,
+      "dateLabel": "古代实物与现行收藏、奉祀说明对照",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "图示铜镜制作年代由石切神社标为3世纪；研究另涉及现行神体、神座概念，整体跨期且奉祀起止不明。"
+      ],
+      "evidence": [
+        {
+          "text": "图示铜镜制作年代由石切神社标为3世纪；研究另涉及现行神体、神座概念，整体跨期且奉祀起止不明。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9660",
+          "locator": "Text首段：奉祀对象及镜、剑、玉、自然物等类别"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9660"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-mirror.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-mirror.jpg",
+        "original": "https://www.ishikiri.or.jp/assets/img/treasure/img_mirror_jyubuntai.jpg",
+        "source": "https://www.ishikiri.or.jp/treasure/",
+        "caption": "石切劔箭神社公开神宝原照：天王日月銘獣文帯四神四獣鏡，网页标中国制、3世纪；为镜背，拍摄年未载，未标为本殿神体。",
+        "provider": "石切劔箭神社",
+        "credit": "石切劔箭神社",
+        "license": "© 石切劔箭神社或所列权利人；网站仅允许法律认可范围内利用，未取得开放再利用许可。",
+        "width": 2000,
+        "height": 2000,
+        "kind": "museum",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-mirror-second.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-mirror-second.jpg",
+        "original": "https://www.ishikiri.or.jp/assets/img/treasure/img_mirror_karakusamontai.jpg",
+        "source": "https://www.ishikiri.or.jp/treasure/",
+        "caption": "石切劔箭神社公开神宝原照：天王日月銘唐草文帯二神二獣鏡，网页标中国制、3世纪；为镜背，拍摄年未载，入社年代未推定。",
+        "provider": "石切劔箭神社",
+        "credit": "石切劔箭神社",
+        "license": "© 石切劔箭神社或所列权利人；网站仅允许法律认可范围内利用，未取得开放再利用许可。",
+        "width": 2000,
+        "height": 2000,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "先区分物的宗教角色和公开收藏，再比较铜镜与刀剑等神宝类别；只使用已公开的实物资料。",
+      "common": [
+        {
+          "title": "神体是奉祀对象",
+          "text": "神体（しんたい）是被认为神灵寄寓的奉祀对象，可见镜、剑、玉及部分自然物等类型；神座（しんざ）则是安奉御灵代的场所，其形式随社殿变化。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "公开神宝有多种来源",
+          "text": "神宝（しんぽう）收藏可包含祭祀用具、奉纳刀剑、铜镜、古文书和御札版木。石切劔箭神社将其作为可见的神社历史介绍，公开照片提供实物形状依据。",
+          "refs": [
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "铜镜类",
+          "feature": "观察圆形镜身、背面纹饰、钮与边缘厚度。石切神社公开的两面三角缘神兽镜页面标为中国制、3世纪，属于馆藏神宝资料。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "刀剑与武具类",
+          "feature": "刀剑既可作仪式器具、奉纳物，也可能有神体角色，具体须看对象说明；石切神社的大太刀另有由所役捧持、随神舆渡御的使用记录。",
+          "refs": [
+            "s3"
+          ]
+        },
+        {
+          "name": "神座的陈设类型",
+          "feature": "EOS举有带四柱顶盖的御玉贯、屏围高座式御帐台、前开门柜式御床等形式；本篇仅用于术语区别，不据此补画某社未公开内殿。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "同样是镜或剑，馆藏神宝、祭仪用具与神体是不同的角色；绘画中的摆放和人物接触必须有对应对象的依据。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "limits": [
+        "公开铜镜照片并非伊势八咫镜或本殿秘藏神体的照片；没有证据时不赋予馆藏铜镜神体身份。",
+        "3世纪为所引铜镜的制作年代，现行宝物馆照片拍摄年未载；不以馆藏制作年推定其入社或奉祀年代。",
+        "石切网页对三角缘镜与卑弥呼的对应带有特定解释，本文仅采用其公开物名与所标年代，不把该说法当成定论。"
+      ],
+      "drawing": "画馆藏镜时保留实物的钮、纹饰和损蚀；画神座或内殿须另找该社公开资料，不能把展柜照片变作秘藏原位。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學EOS：Shintai",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9660",
+          "locator": "Text首段：奉祀对象及镜、剑、玉、自然物等类别"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學EOS：Shinza",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9659",
+          "locator": "Text全文：神座定义与ontamanai、michōdai、otoku"
+        },
+        {
+          "id": "s3",
+          "title": "石切劔箭神社：宝物館",
+          "url": "https://www.ishikiri.or.jp/treasure/",
+          "locator": "宝物馆总述、刀剣总论、大太刀渡御记录、銅鏡等：两面天王日月铭镜"
+        },
+        {
+          "id": "s4",
+          "title": "热田神宫：Treasure",
+          "url": "https://www.atsutajingu.or.jp/en/tre/",
+          "locator": "Articles housed in the Treasure Hall：收藏、奉纳及轮换展示"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-mikoshi",
+    "module": "objects",
+    "category": "tools",
+    "name": "神舆：基座、舆身、屋顶、担棒与渡御",
+    "region": "日本；浅草神社为明确实例",
+    "period": "现行神舆类型；浅草1950、1953年奉纳物作实例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9632",
+    "content": "按承载神灵的用途和多人抬担的结构认识神輿（みこし／しんよ），区分实体结构与各地渡御惯例。",
+    "use": "先画担棒高度与肩部密度，基座落在担棒上；人物遮挡会隐藏棒端，屋顶饰物不要比舆身先定尺寸。",
+    "caution": "震动、摇摆和路线具有祭典差异；浅草所说魂振り不能推广为每座神社的统一操作。",
+    "find": "神舆：基座、舆身、屋顶、担棒与渡御 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行神舆类型；浅草1950、1953年奉纳物作实例",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行神舆类型；浅草1950、1953年奉纳物作实例",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "EOS提供现行类型说明；浅草现存一、二之宫为1950年、三之宫为1953年奉纳，照片不标编号，不绑定具体制作年。"
+      ],
+      "evidence": [
+        {
+          "text": "EOS提供现行类型说明；浅草现存一、二之宫为1950年、三之宫为1953年奉纳，照片不标编号，不绑定具体制作年。",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9632",
+          "locator": "Text全文：基座、舆身、屋顶、纵横担棒和形制"
+        }
+      ],
+      "source": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9632"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-mikoshi.webp",
+        "full": "绘画参考资源/例图/shrine20261017-objects-mikoshi.webp",
+        "original": "https://asakusajinja.jp/wp-content/themes/asakusajinja-theme/images/sanjamatsuri/sanjamatsuri_about_photo1_2.webp",
+        "source": "https://asakusajinja.jp/sanjamatsuri/about/",
+        "caption": "浅草神社官网三社祭原照：神舆在多人抬担中通过雷门前；拍摄年份及神舆编号未载。",
+        "provider": "浅草神社",
+        "credit": "浅草神社",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 1280,
+        "height": 853,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按承载神灵的用途和多人抬担的结构认识神輿（みこし／しんよ），区分实体结构与各地渡御惯例。",
+      "common": [
+        {
+          "title": "临时移动的奉祀场所",
+          "text": "神舆在祭典中承载神灵，从常设地点前往御旅所等临时驻跸点。氏子或其他参与者抬担，神职与仪仗可随行。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "重心与担棒",
+          "text": "常见神舆由基座、舆身和屋顶组成，基座下用两根纵向木棒承托，部分另加横棒；屋顶可饰凤凰或擬宝珠。担棒把重量分给多人肩部。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "本社、宫神舆",
+          "feature": "由神社持有，在特定祭典承奉其神灵。浅草现有三座宫神舆，一、二之宫1950年奉纳，三之宫1953年奉纳。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "町内、小型神舆",
+          "feature": "町会或儿童另有较小神舆及队伍，大小、抬担人数与装饰程度可变化；浅草另有町内神舆联合渡御。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "name": "不同舆身与顶饰",
+          "feature": "EOS列方、六角、八角等平面及素朴、华饰两类倾向；浅草一之宫顶饰凤凰，其余两座饰擬宝珠，可作具体对照。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "先把担棒、肩膀和基座的受力关系画清，再安排屋顶装饰，才能使多人抬担的重量可信。",
+          "refs": [
+            "s1"
+          ]
+        }
+      ],
+      "limits": [
+        "震动、摇摆和路线具有祭典差异；浅草所说魂振り不能推广为每座神社的统一操作。",
+        "原照显示浅草三社祭渡御场面，未标具体拍摄年与所抬神舆编号；不能仅凭照片认定为某一宫。",
+        "本篇不推测神舆内部神体形状，停放台架与收纳设施须按具体神社另核。"
+      ],
+      "drawing": "先画担棒高度与肩部密度，基座落在担棒上；人物遮挡会隐藏棒端，屋顶饰物不要比舆身先定尺寸。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "國學院大學EOS：Shin’yo",
+          "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9632",
+          "locator": "Text全文：基座、舆身、屋顶、纵横担棒和形制"
+        },
+        {
+          "id": "s2",
+          "title": "浅草神社：三社祭とは",
+          "url": "https://asakusajinja.jp/sanjamatsuri/about/",
+          "locator": "「神輿について」「宮神輿」及町内渡御；现存宫神舆的奉纳年"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-ema-ofuda-omamori",
+    "module": "objects",
+    "category": "tools",
+    "name": "授与与奉纳物：绘马、御札、御守的去向和使用",
+    "region": "日本；神社授与所、绘马挂处与家庭神棚",
+    "period": "现行用法；缘起仅作背景",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/omamori/",
+    "content": "按领受后放在哪里、由谁持有和是否奉纳回神社，对照三种常见物品。",
+    "use": "御守先画袋体、收口与绳结的连接；绘马先画挂绳受力和板片遮挡，再加图案与文字。",
+    "caution": "各神社授与品造型及归纳办法有差异，原照颜色不能当成全国统一职能代码。",
+    "find": "授与与奉纳物：绘马、御札、御守的去向和使用 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行用法；缘起仅作背景",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行用法；缘起仅作背景",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "研究现行授与与奉纳用法，关于马奉献的缘起不转为本包统一起始年。"
+      ],
+      "evidence": [
+        {
+          "text": "研究现行授与与奉纳用法，关于马奉献的缘起不转为本包统一起始年。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/omamori/",
+          "locator": "「家をお守り戴くお神札」「身に着けてご加護を戴くお守り」"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/omamori/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-omamori.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-omamori.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/omamori/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/omamori/",
+        "caption": "神社本庁御守说明页原照：多色袋状御守与系绳结饰；图示神社名、制作年和拍摄年未载。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 2000,
+        "height": 1120,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-ema.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-ema.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/ema/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/ema/",
+        "caption": "神社本庁绘马说明页原照：挂架上用绳悬挂、多片重叠的奉纳绘马；地点及拍摄年未载。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 1440,
+        "height": 962,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按领受后放在哪里、由谁持有和是否奉纳回神社，对照三种常见物品。",
+      "common": [
+        {
+          "title": "从授与处到不同地点",
+          "text": "御札（おふだ）和御守（おまもり）都由神社领受；前者供在家庭神棚，后者随身携带。绘马（えま）写上祈愿后奉纳，实景可见板片用绳系挂。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "更新与归纳",
+          "text": "神社本庁建议旧御札在年末纳回神社、新年领新札；御守也可更新，亦可一直随身至愿望实现。鹿儿岛县神社厅说明，收纳运输要保护御札免折损污损。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "御札",
+          "feature": "用于家庭奉祀，包含神宫大麻与各神社的神札；纸面神号、印记与外形以该社实物核对。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "御守",
+          "feature": "常随身携带，原照为带系绳及结饰的袋状御守；外袋颜色、刺绣和祈愿类别可不同。",
+          "refs": [
+            "s1",
+            "s4"
+          ]
+        },
+        {
+          "name": "绘马",
+          "feature": "板上可画马、干支或其他祈愿图案，写愿后奉纳；挂处形成多片重叠、绳线悬系的表面。",
+          "refs": [
+            "s2",
+            "s4"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "按物品的去向组织画面：御札进入神棚，御守贴近人的身体或随身物，绘马留在奉纳挂处；人物动作因此不同。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "各神社授与品造型及归纳办法有差异，原照颜色不能当成全国统一职能代码。",
+        "神宫大麻是御札名称，不等同于挥动的祓串；图中只展示御守及绘马，未展示神宫大麻内部构造。"
+      ],
+      "drawing": "御守先画袋体、收口与绳结的连接；绘马先画挂绳受力和板片遮挡，再加图案与文字。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：お神札、お守り",
+          "url": "https://www.jinjahoncho.or.jp/omairi/omamori/",
+          "locator": "「家をお守り戴くお神札」「身に着けてご加護を戴くお守り」"
+        },
+        {
+          "id": "s2",
+          "title": "神社本庁：絵馬",
+          "url": "https://www.jinjahoncho.or.jp/omairi/ema/",
+          "locator": "祈愿书写、奉纳及「絵馬の変遷」"
+        },
+        {
+          "id": "s3",
+          "title": "鹿児島県神社庁：伊勢神宮・神宮大麻",
+          "url": "https://www.kagojinjacho.or.jp/ise/",
+          "locator": "「神宮大麻とは」与Q&A中更换、神棚及邮送保护"
+        },
+        {
+          "id": "s4",
+          "title": "神社本庁：御守与绘马原照",
+          "url": "https://www.jinjahoncho.or.jp/omairi/omamori/",
+          "locator": "御守页正文照片；绘马照片另见s2"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-kagura-instruments",
+    "module": "objects",
+    "category": "music",
+    "name": "神乐与祭仪乐具：手持铃、笏拍子、神乐笛和鼓",
+    "region": "日本；奈良三轮历史铃与春日大社用法对照",
+    "period": "1699铭实物与现行仪式说明对照",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.metmuseum.org/art/collection/search/500655",
+    "content": "按发声方式与持用者区分舞者手持物和伴奏乐器，保留神社及曲目差异。",
+    "use": "铃先画柄轴、护手与分层金属线，再让小铃垂向重力方向；伴奏者持具姿势以公开实演图核对。",
+    "caution": "春日社传神乐是特定传承，不能代表所有里神乐、御神乐或雅乐编制。",
+    "find": "神乐与祭仪乐具：手持铃、笏拍子、神乐笛和鼓 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "1699铭实物与现行仪式说明对照",
+      "start": null,
+      "end": null,
+      "dateLabel": "1699铭实物与现行仪式说明对照",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "图示铃具馆方标17世纪，铭记1699；另比较当代仪式，跨期研究不将1699作为器类起源。"
+      ],
+      "evidence": [
+        {
+          "text": "图示铃具馆方标17世纪，铭记1699；另比较当代仪式，跨期研究不将1699作为器类起源。",
+          "url": "https://www.metmuseum.org/art/collection/search/500655",
+          "locator": "器类总论、1699铭与十二铃结构、尺寸及Public Domain；API object500655交叉核对"
+        }
+      ],
+      "source": "https://www.metmuseum.org/art/collection/search/500655"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-kagura-suzu.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-kagura-suzu.jpg",
+        "original": "https://images.metmuseum.org/CRDImages/mi/original/DP353272.jpg",
+        "source": "https://www.metmuseum.org/art/collection/search/500655",
+        "caption": "Met馆藏神乐用Suzu，奈良三轮，17世纪，铭1699年；木、金属，高34.3厘米，藏品89.4.94；图示历史实物，拍摄年未载。",
+        "provider": "The Metropolitan Museum of Art",
+        "credit": "The Crosby Brown Collection of Musical Instruments, 1889；The Metropolitan Museum of Art",
+        "license": "Public Domain；Met Open Access，API isPublicDomain=true。",
+        "width": 3929,
+        "height": 2947,
+        "kind": "museum",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "按发声方式与持用者区分舞者手持物和伴奏乐器，保留神社及曲目差异。",
+      "common": [
+        {
+          "title": "手中发声与伴奏分工",
+          "text": "神乐铃（かぐらすず）由舞者手持摇响；社传神乐还可有专门的伴奏者。春日大社的本歌役打笏拍子、笛役吹神乐笛，付歌役打铜拍子和小鼓。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        },
+        {
+          "title": "同名铃有古今差别",
+          "text": "Met所藏奈良三轮铃具铭1699年，十二枚铃围绕柄部分层布置；神社本庁则介绍当代巫女神乐铃的祓清意义。馆藏数量与装饰只归该件。",
+          "refs": [
+            "s1",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "手持铃树",
+          "feature": "短柄上多层小铃通过金属线连结，摇柄使铃发声；历史实物要画清铃、线和护手的层次。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "笏拍子及铜拍子",
+          "feature": "春日社传神乐中分别由本歌役、付歌役操作，为唱舞配合节奏；两名角色及器名按该社说明使用。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "神乐笛、琴与小鼓",
+          "feature": "春日大社的笛役奏神乐笛，上臈御巫担任琴师，付歌役兼打小鼓；演奏姿势需看对应神社的公开演出资料。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "把舞者和伴奏者分别安排，再检查哪只手持铃、谁吹奏或打击，可以避免给同一人物同时塞入不相容的乐具。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "春日社传神乐是特定传承，不能代表所有里神乐、御神乐或雅乐编制。",
+        "1699铭的十二铃馆藏不等于现代神乐铃一律十二枚；该件为历史实物，非当代授与品。",
+        "本篇不给出所有神乐、雅乐乐器的完整目录；舞者服饰另属服装专题。"
+      ],
+      "drawing": "铃先画柄轴、护手与分层金属线，再让小铃垂向重力方向；伴奏者持具姿势以公开实演图核对。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "Met：Suzu，藏品89.4.94",
+          "url": "https://www.metmuseum.org/art/collection/search/500655",
+          "locator": "器类总论、1699铭与十二铃结构、尺寸及Public Domain；API object500655交叉核对"
+        },
+        {
+          "id": "s2",
+          "title": "春日大社：春日大社社伝神楽",
+          "url": "https://www.kasugataisha.or.jp/calendar/kagura/",
+          "locator": "社传神乐全文：御巫、地方、本歌、付歌及各乐器分工"
+        },
+        {
+          "id": "s3",
+          "title": "神社本庁：参拝の際に鳴らす鈴について",
+          "url": "https://www.jinjahoncho.or.jp/omairi/suzu/",
+          "locator": "「神楽舞に見られる鈴も祓の一つ」"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-objects-approach-furnishings",
+    "module": "objects",
+    "category": "lighting",
+    "name": "神社参道陈设：狛犬、神使与奉纳灯笼",
+    "region": "日本；热田神宫及春日大社为灯笼实例",
+    "period": "现行境内陈设；1630年奉纳灯笼作历史实例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/komainu/",
+    "content": "比较参道及社殿前的守护像、神使像和灯笼，按意义、材料、位置和人物通行关系辨认。",
+    "use": "先画路面、台基和人行宽度；守护像按实景朝向，灯笼分出重石基座、火袋和笠顶，悬灯笼保留上方吊点。",
+    "caution": "狛犬并非每社皆有，狐、牛等神使也不按全国统一一对一布局出现。",
+    "find": "神社参道陈设：狛犬、神使与奉纳灯笼 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "现行境内陈设；1630年奉纳灯笼作历史实例",
+      "start": null,
+      "end": null,
+      "dateLabel": "现行境内陈设；1630年奉纳灯笼作历史实例",
+      "dateBasis": "来源正文的现行用法说明与明确标年的历史实物；整体类别起止年未确定。",
+      "notes": [
+        "研究现行境内陈设类型；热田石灯笼奉纳年为1630，其他图像未载对象年代，整体起止留空。"
+      ],
+      "evidence": [
+        {
+          "text": "研究现行境内陈设类型；热田石灯笼奉纳年为1630，其他图像未载对象年代，整体起止留空。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/komainu/",
+          "locator": "「木製や陶製、金属製の狛犬も」「狐や牛など神社により多種多様」"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/komainu/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-komainu.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-komainu.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/komainu/img_01@2x.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/komainu/",
+        "caption": "神社本庁狛犬说明页原照：参道两侧高台上的守护像及路面空间；地点、材质近鉴与拍摄年未独立载。",
+        "provider": "神社本庁",
+        "credit": "神社本庁",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 1440,
+        "height": 962,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-objects-stone-lantern.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-objects-stone-lantern.jpg",
+        "original": "https://www.atsutajingu.or.jp/en/pre/images/modalwindow/p25.jpg",
+        "source": "https://www.atsutajingu.or.jp/en/pre/25.html",
+        "caption": "热田神宫佐久间灯笼，1630年奉纳的大型石灯笼；机构原照528×308，拍摄年未载。",
+        "provider": "热田神宫",
+        "credit": "热田神宫",
+        "license": "照片由来源机构公开；未确认开放再利用许可，保留机构署名，非CC授权。",
+        "width": 528,
+        "height": 308,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "比较参道及社殿前的守护像、神使像和灯笼，按意义、材料、位置和人物通行关系辨认。",
+      "common": [
+        {
+          "title": "陈设与祭神的关系",
+          "text": "狛犬（こまいぬ）有祓邪、神前守护的意义；稻荷神社的狐、天满宫的牛则被说明为与祭神有关系的神使。观看时先核对神社及祭神。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "灯笼与奉纳",
+          "text": "灯笼（とうろう）可作石、金属、木制或悬挂式。春日大社有石灯笼与钓灯笼，来自不同时期奉纳；万灯笼时点灯祈愿。",
+          "refs": [
+            "s2",
+            "s3"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "守护狛犬",
+          "feature": "境内常见石制，另有社殿内木、陶或金属制；实际形体、表情与所在位置依地域和神社变化。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "神使像",
+          "feature": "狐与牛等类型因奉祀神不同而出现，不能互换为通用神社装饰；画面需保留相关祭神线索。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "石灯笼与悬灯笼",
+          "feature": "石灯笼以台座支地，钓灯笼悬在建筑构件下；热田佐久间灯笼有1630年奉纳记录，可观察大型石制落地形。",
+          "refs": [
+            "s3",
+            "s4"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "把守护意义、祭神联系和献灯用途分清，再安排通行尺度，才能让参道陈设具有地点特征。",
+          "refs": [
+            "s1",
+            "s3",
+            "s4"
+          ]
+        }
+      ],
+      "limits": [
+        "狛犬并非每社皆有，狐、牛等神使也不按全国统一一对一布局出现。",
+        "春日大社石灯笼、钓灯笼的数量与万灯笼习俗仅属该社；不推定全国神社每天点灯。",
+        "热田照片标示佐久间灯笼，奉纳年1630明确；照片拍摄年未载，528×308为机构公开原尺寸。"
+      ],
+      "drawing": "先画路面、台基和人行宽度；守护像按实景朝向，灯笼分出重石基座、火袋和笠顶，悬灯笼保留上方吊点。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本庁：狛犬について",
+          "url": "https://www.jinjahoncho.or.jp/omairi/komainu/",
+          "locator": "「木製や陶製、金属製の狛犬も」「狐や牛など神社により多種多様」"
+        },
+        {
+          "id": "s2",
+          "title": "國學院大學：Basic Terms／Tôrô",
+          "url": "https://www2.kokugakuin.ac.jp/ijcc/wp/bts/bts_t.html#toro",
+          "locator": "Tôrô条：材料与悬挂类型"
+        },
+        {
+          "id": "s3",
+          "title": "春日大社：2月の行事／節分万燈籠",
+          "url": "https://www.kasugataisha.or.jp/calendar/winter02/",
+          "locator": "节分万灯笼：石灯笼与钓灯笼、奉纳及明治以后的点灯变化"
+        },
+        {
+          "id": "s4",
+          "title": "热田神宫：Sakuma-Doro Stone Lantern",
+          "url": "https://www.atsutajingu.or.jp/en/pre/25.html",
+          "locator": "佐久间灯笼全文：石制、1630年奉纳与谢恩来历"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-precinct-overview",
+    "module": "architecture",
+    "category": "houses",
+    "name": "神社境内怎么读：参道、本殿与周边设施布局图",
+    "region": "日本／通用名称与东京汤岛天满宫实例",
+    "period": "当代境内导览；汤岛现社殿1995年造营",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+    "content": "“神社”是一片包括社殿、道路和附属设施的境内。用神社本厅原有示意图建立名称关系，再对照一座实际神社的官方地图找位置。",
+    "use": "先以官方图确定该神社的入口、主殿、侧屋和通路，再用实景校对建筑高低；不要把导览图上的屋顶轮廓当成室内墙线。",
+    "caution": "神社本厅图是名称关系示意，汤岛图是具体境内导览；两者都不是带统一比例的施工测绘图。",
+    "find": "神社境内怎么读：参道、本殿与周边设施布局图 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "当代境内现状；图像未载绘制年",
+      "start": null,
+      "end": null,
+      "dateLabel": "当代境内现状；图像未载绘制年",
+      "dateBasis": "按现状资料归类；原图绘制年未载，故不以网页查阅年填作建筑年代。汤岛社殿1995年只用于对应实景说明。",
+      "notes": [
+        "图像的拍摄、绘制和建筑营造年代分别记录；年代范围用于资料编排。"
+      ],
+      "evidence": [
+        {
+          "text": "境内、参道、摂社末社、本殿与拝殿的类级说明，以及原机构境内示意图。",
+          "url": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+          "locator": "境内、参道、摂社末社、本殿与拝殿的类级说明，以及原机构境内示意图。"
+        },
+        {
+          "text": "官方境内图；1本殿、5—7授与与社务、12宝物殿、14手水舎、15渡り廊下；现社殿1995年造营。",
+          "url": "https://www.yushimatenjin.or.jp/map/",
+          "locator": "官方境内图；1本殿、5—7授与与社务、12宝物殿、14手水舎、15渡り廊下；现社殿1995年造营。"
+        }
+      ],
+      "source": "https://www.jinjahoncho.or.jp/omairi/keidai/"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-architecture-precinct-official-overview.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-precinct-official-overview.jpg",
+        "original": "https://www.jinjahoncho.or.jp/assets/images/omairi/keidai/img_01.jpg",
+        "source": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+        "caption": "神社本厅原有境内示意图：鸟居、参道、手水舎、拝殿、本殿及附属设施；这是通用名称关系图，不是某座神社的测绘复原。",
+        "provider": "神社本厅",
+        "credit": "神社本厅",
+        "license": "公开资料；单图开放复用许可未确认，保留原机构署名与来源。",
+        "width": 1831,
+        "height": 1076,
+        "kind": "diagram",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-architecture-yushima-official-map.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-yushima-official-map.webp",
+        "original": "https://www.yushimatenjin.or.jp/assets/map-1920-1080-W6SgK0Ca.webp",
+        "source": "https://www.yushimatenjin.or.jp/map/",
+        "caption": "汤岛天满宫官方境内案内图原图；示实际入口、社殿、社务所与参集殿、渡廊和庭园关系，绘制年未载。",
+        "provider": "汤岛天满宫",
+        "credit": "汤岛天满宫",
+        "license": "公开资料；单图开放复用许可未确认，保留原机构署名与来源。",
+        "width": 1920,
+        "height": 1080,
+        "kind": "diagram",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-architecture-yushima-front.webp",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-yushima-front.webp",
+        "original": "https://www.yushimatenjin.or.jp/assets/main-hall-front-01-363-242-DHxHRZ6t.webp",
+        "source": "https://www.yushimatenjin.or.jp/map/",
+        "caption": "汤岛天满宫官方现状正面照片；官网说明现社殿1995年造营。拍摄年未载，地图用于位置、照片用于外观。",
+        "provider": "汤岛天满宫",
+        "credit": "汤岛天满宫",
+        "license": "公开资料；单图开放复用许可未确认，保留原机构署名与来源。",
+        "width": 363,
+        "height": 242,
+        "kind": "photo",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "“神社”是一片包括社殿、道路和附属设施的境内。用神社本厅原有示意图建立名称关系，再对照一座实际神社的官方地图找位置。",
+      "common": [
+        {
+          "title": "先找入口与参拜目标",
+          "text": "鸟居标示神域边界，参道通往社殿；拝殿供人祈愿，本殿是供奉神灵的核心，位置通常更靠内。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "再读侧边功能",
+          "text": "手水、授与、办公、展藏、附属小社等设施可分布在主参拜路线两侧；汤岛图还显示参集殿、渡廊、庭园与不同入口。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "礼拜与供奉空间",
+          "feature": "拝殿与本殿功能不同，普通参拜通常面对前方礼拜空间；神社本厅说明本殿门平时关闭。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "接待与社务空间",
+          "feature": "汤岛的授与所、祈祷受付和社务所分设服务窗口；办公和接待设施与供奉空间可在同一境内并存。",
+          "refs": [
+            "s2"
+          ]
+        },
+        {
+          "name": "奉纳、展藏与附属神社",
+          "feature": "神乐殿可供奉纳表演；宝物殿承担展藏；摂社、末社是另供相关神灵的小社，各社配置不同。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "画境内场景时，把参拜路线、祭仪空间和侧边服务设施一起安排，人物等待、走动、授与物品的位置才有依据。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "神社本厅图是名称关系示意，汤岛图是具体境内导览；两者都不是带统一比例的施工测绘图。",
+        "不同神社的入口数量、殿堂连接方式和附属设施不同。地图中的北侧、小社或神职通路不能未经依据概括为全国固定朝向或开放范围。"
+      ],
+      "drawing": "先以官方图确定该神社的入口、主殿、侧屋和通路，再用实景校对建筑高低；不要把导览图上的屋顶轮廓当成室内墙线。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "神社本厅：境内について",
+          "url": "https://www.jinjahoncho.or.jp/omairi/keidai/",
+          "locator": "境内、参道、摂社末社、本殿与拝殿的类级说明，以及原机构境内示意图。"
+        },
+        {
+          "id": "s2",
+          "title": "汤岛天满宫：境内案内图与各设施说明",
+          "url": "https://www.yushimatenjin.or.jp/map/",
+          "locator": "官方境内图；1本殿、5—7授与与社务、12宝物殿、14手水舎、15渡り廊下；现社殿1995年造营。"
+        }
+      ],
+      "examples": []
+    }
+  },
+  {
+    "id": "topic-shrine20261017-architecture-engawa",
+    "module": "architecture",
+    "category": "parts",
+    "name": "缘侧是什么：縁側、切目縁、浜縁与长廊的区别",
+    "region": "日本／住宅术语与横滨神社实例",
+    "period": "传统建筑术语；江户后期1807年本殿实例",
+    "kind": "中文专题",
+    "entryType": "专题考据",
+    "focus": "专题考据",
+    "url": "https://aisf.or.jp/~jaanus/deta/e/engawa.htm",
+    "content": "从“房间外侧的一条板地”理解縁側（engawa），再看神社殿身周围的縁、阶梯与较低的浜縁；区分沿建筑外缘的空间与连接建筑的走廊。",
+    "use": "先定屋内地板、殿身外缘、木阶、浜縁和地面的高差，再画铺板方向、支撑与栏杆；长条空间究竟贴房间还是连接建筑，要由位置判断。",
+    "caution": "住宅縁側的坐卧、赏庭场景不能直接套用到神社本殿外缘；可进入范围依具体神社规定。",
+    "find": "缘侧是什么：縁側、切目縁、浜縁与长廊的区别 日本神社专题 shrine20261017",
+    "collect": "共性与类型、位置用途、原机构图与实景照片",
+    "check": "2026年10月17日：阅读来源正文，核对图像、地区与年代边界。",
+    "organization": {
+      "region": "亚洲",
+      "country": "日本",
+      "era": "江户后期实例：1807年；传统术语比较",
+      "start": 1807,
+      "end": 1807,
+      "dateLabel": "江户后期实例：1807年；传统术语比较",
+      "dateBasis": "1807年是所配松尾神社本殿营造年，不是縁側的起源或沿用终止年。",
+      "notes": [
+        "图像的拍摄、绘制和建筑营造年代分别记录；年代范围用于资料编排。"
+      ],
+      "evidence": [
+        {
+          "text": "engawa定义与nure-en、kure-en、kirime-en分类；网页限制复制其原图，本专题不下载该站图像。",
+          "url": "https://aisf.or.jp/~jaanus/deta/e/engawa.htm",
+          "locator": "engawa定义与nure-en、kure-en、kirime-en分类；网页限制复制其原图，本专题不下载该站图像。"
+        },
+        {
+          "text": "PDF第16页营造年1807；第18页切目縁、脇障子、浜縁；第23—24页实景与原有部件标注（印刷20—21页）。",
+          "url": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=16",
+          "locator": "PDF第16页营造年1807；第18页切目縁、脇障子、浜縁；第23—24页实景与原有部件标注（印刷20—21页）。"
+        }
+      ],
+      "source": "https://aisf.or.jp/~jaanus/deta/e/engawa.htm"
+    },
+    "images": [
+      {
+        "src": "绘画参考资源/例图/shrine20261017-architecture-engawa-photo.jpg",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-engawa-photo.jpg",
+        "original": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=23",
+        "source": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=23",
+        "caption": "横滨松尾神社1807年本殿正面；可比较木阶、栏杆及低位浜縁。原PDF印刷20页嵌入照片，摄影年未载，外围是保护本殿的覆屋。",
+        "provider": "横滨市教育委员会／文化财指定调查资料",
+        "credit": "横滨市教育委员会／文化财指定调查资料",
+        "license": "公开资料；单图开放复用许可未确认，保留原机构署名与来源。",
+        "width": 1265,
+        "height": 1246,
+        "kind": "photo",
+        "related": false
+      },
+      {
+        "src": "绘画参考资源/例图/shrine20261017-architecture-engawa-official-labels.png",
+        "full": "绘画参考资源/例图/shrine20261017-architecture-engawa-official-labels.png",
+        "original": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=24",
+        "source": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=24",
+        "caption": "原机构构件标注图：松尾神社本殿正侧面，标出切目縁、浜縁、木阶与高栏。横滨市原PDF印刷21页转图，文字与箭头均为原有标注。",
+        "provider": "横滨市教育委员会／文化财指定调查资料",
+        "credit": "横滨市教育委员会／文化财指定调查资料",
+        "license": "公开资料；单图开放复用许可未确认，保留原机构署名与来源。",
+        "width": 1414,
+        "height": 2000,
+        "kind": "diagram",
+        "related": false
+      }
+    ],
+    "topic": {
+      "scope": "从“房间外侧的一条板地”理解縁側（engawa），再看神社殿身周围的縁、阶梯与较低的浜縁；区分沿建筑外缘的空间与连接建筑的走廊。",
+      "common": [
+        {
+          "title": "位置比长度重要",
+          "text": "縁側指房间侧边或外围的板地空间，可有挡雨拉门，也可敞露；它不因拉得很长就自动变成独立的回廊。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "title": "神社的縁要看高度",
+          "text": "松尾神社本殿的切目縁围绕殿身正面和侧面，正面木阶通向较低浜縁；侧缘后端以脇障子收住，背面没有同样的缘。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "name": "濡縁（nure-en）：按挡雨条件分",
+          "feature": "外侧没有雨户保护、直接受风雨的外缘板地。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "榑縁／切目縁：按铺板方向分",
+          "feature": "榑縁外缘露出木板长边，切目縁外缘能见木板端面；这是铺板分类，可与是否敞露交叉。",
+          "refs": [
+            "s1"
+          ]
+        },
+        {
+          "name": "浜縁（hama-en）：本殿下部实例",
+          "feature": "在所引神社实例中，位于木阶下、向拝柱脚一带，低于殿身外缘；图中两层板地不能画成同一水平。",
+          "refs": [
+            "s2"
+          ]
+        }
+      ],
+      "why": [
+        {
+          "text": "沿房间和建筑外侧布置的板地构成内外过渡；神社实例则还要结合殿身、阶梯和栏杆，读出不同高度与空间边界。",
+          "refs": [
+            "s1",
+            "s2"
+          ]
+        }
+      ],
+      "limits": [
+        "住宅縁側的坐卧、赏庭场景不能直接套用到神社本殿外缘；可进入范围依具体神社规定。",
+        "松尾神社的覆屋、雕刻和正侧三面縁属于具体实例。原标注图为横滨市调查资料原页转图，未另绘标线。"
+      ],
+      "drawing": "先定屋内地板、殿身外缘、木阶、浜縁和地面的高差，再画铺板方向、支撑与栏杆；长条空间究竟贴房间还是连接建筑，要由位置判断。",
+      "sources": [
+        {
+          "id": "s1",
+          "title": "JAANUS建筑术语：engawa／縁側",
+          "url": "https://aisf.or.jp/~jaanus/deta/e/engawa.htm",
+          "locator": "engawa定义与nure-en、kure-en、kirime-en分类；网页限制复制其原图，本专题不下载该站图像。"
+        },
+        {
+          "id": "s2",
+          "title": "横滨市：松尾神社本殿文化财指定调查资料",
+          "url": "https://www.city.yokohama.lg.jp/kurashi/kyodo-manabi/bunkazai/bunkazai/bunkazai.files/0081_20240829.pdf#page=16",
+          "locator": "PDF第16页营造年1807；第18页切目縁、脇障子、浜縁；第23—24页实景与原有部件标注（印刷20—21页）。"
+        }
+      ],
+      "examples": []
+    }
   }
-];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月4日";})();
+];const d=window.DRAWING_DATA;d.items.push(...topics);for(const m of d.modules){m.start=topics.filter(i=>i.module===m.id).slice(0,2).map(i=>i.id);}d.date="2026年10月17日";})();
